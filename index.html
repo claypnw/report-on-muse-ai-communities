@@ -1,0 +1,291 @@
+<html><head><meta charset='utf-8'><style>
+
+@page { size: Letter; margin: 0.7in 0.75in; }
+body { font-family: 'DejaVu Sans', sans-serif; font-size: 10.5pt; line-height: 1.45; color: #1a1a1a; }
+h1 { font-size: 20pt; margin: 0 0 4pt 0; border-bottom: 3px solid #1a1a1a; padding-bottom: 6pt; }
+.about { background: #f2f2f2; border-left: 4px solid #888; padding: 8pt 10pt; font-size: 9.5pt; margin: 10pt 0 16pt 0; }
+.summary { background: #fff3cd; border: 1.5px solid #d4a017; padding: 8pt 10pt; font-weight: bold; margin: 0 0 16pt 0; }
+h2 { font-size: 15pt; margin: 20pt 0 4pt 0; text-decoration: underline; }
+.part-note { font-style: italic; margin: 0 0 10pt 0; }
+.entry { border: 1px solid #bbb; border-radius: 4pt; padding: 9pt 11pt; margin: 0 0 10pt 0; page-break-inside: avoid; }
+.entry.solved { background: #e6f4ea; border-color: #4a7d5a; }
+.entry h3 { font-size: 12pt; margin: 0 0 5pt 0; border-bottom: 1.5px solid #1a1a1a; padding-bottom: 3pt; }
+.entry p { margin: 0 0 6pt 0; }
+.entry ul { margin: 4pt 0 0 0; padding-left: 16pt; }
+.entry li { margin: 2pt 0; }
+.entry li ul { margin: 2pt 0 2pt 0; }
+a { color: #0b5394; }
+.state { font-weight: bold; }
+.quiet { font-style: italic; }
+
+</style></head><body>
+<h1>Report on Muse AI Communities</h1>
+<div class="summary">In this report: 16 topics and 11 problems from the Muse AI communities. 1 problem solved so far.</div>
+<h2>Part 1 — Topics</h2>
+<p class="part-note">New and different things people are doing or talking about with Muse.</p>
+<div class="entry"><h3>Rules and procedures instead of judgment calls</h3>
+<p>A Muse user shares a setup where judgment calls are replaced with written procedures: make the safe path the default, attach the reason to each rule, pin the version of the instructions, and re-read the file and quote its version before acting, with memory kept as files. People are using a rules file like this to make Muse act the same way every time instead of guessing case by case.</p>
+<ul>
+<li>Source: r/MetaAI — &quot;The machinery behind and non-determinism&quot; — <a href="https://www.reddit.com/r/MetaAI/comments/1xc0o7z/the_machinery_behind_and_nondeterminism/" target="_blank" rel="noopener">https://www.reddit.com/r/MetaAI/comments/1xc0o7z/the_machinery_behind_and_nondeterminism/</a> (original in r/MuseAgent: <a href="https://www.reddit.com/r/MuseAgent/comments/1xc0oqb/the_machinery_behind_and_nondeterminism/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xc0oqb/the_machinery_behind_and_nondeterminism/</a>)</li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Muse Spark (free) and Muse Wonder (paid) — which model runs what</h3>
+<p>People are comparing the two models: Spark is the free model (Spark 1.3, September 2026), and Wonder, announced October 12, 2026, is the paid, most capable model. On a paid plan, Wonder runs the main conversation, artifact and app builds, scheduled runs, subagents, and background work. Users are working out which jobs need Wonder and which run fine on Spark. A related post on October 22, 2026 reports Zuckerberg claiming Meta reached the AI frontier with the new Muse models (r/MetaAI, <a href="https://www.reddit.com/r/MetaAI/comments/1xcems3/zuckerberg_claims_meta_reached_ai_frontier_with/" target="_blank" rel="noopener">https://www.reddit.com/r/MetaAI/comments/1xcems3/zuckerberg_claims_meta_reached_ai_frontier_with/</a>).</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Muse Spark (Free), Muse Wonder (Paid) - difference.&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xbzzcd/muse_spark_free_muse_wonder_paid_difference/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xbzzcd/muse_spark_free_muse_wonder_paid_difference/</a> (crossposted in r/MetaAI)</li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Sharing work while artifact publishing is paused</h3>
+<p>After Muse paused artifact sharing and publishing, a user posted another way to share work made in Muse (a third-party service the poster offers). People are using workarounds like this to keep sharing pages and apps while the built-in sharing is off. The pause itself is recorded as a problem in Part 2 (shared links exposed private information).</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Muse has paused artifact sharing/publishing. Here&#x27;s an alternative way to do it.&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xcgoie/muse_has_paused_artifact_sharingpublishing_heres/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xcgoie/muse_has_paused_artifact_sharingpublishing_heres/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Confidential VM — a private computer for Muse, not yet shipped</h3>
+<p>People are tracking Meta&#x27;s planned Confidential VM: it is not shipped, a small group of trusted testers has it, outside auditors have the design and source, and Meta&#x27;s only date is &quot;later in 2026.&quot; The post contrasts it with today&#x27;s VM, which it calls protected by policy, not by math — Meta can access it, and chats can be logged, reviewed, and used for training unless the user opts out. The Confidential VM would use hardware enclaves with a user-held key and no training use. Price was never announced; reports that it may need a paid plan and may launch without voice, image generation, or wearables are unconfirmed.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;The Skinny on Confidential VM (so far...)&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xcaz0k/the_skinny_on_confidential_vm_so_far/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xcaz0k/the_skinny_on_confidential_vm_so_far/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Muse uses conversations and tool calls for training unless the user opts out</h3>
+<p>A user names a product default: Muse uses conversations and tool calls for training by default, and the user has to opt out to stop it. People are asking why the default is on rather than off. This is the same default the Confidential VM topic above is measured against.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Muse uses conversations and tool calls for training by default. Why is this opt-out?&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xbih6a/muse_uses_conversations_and_tool_calls_for/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xbih6a/muse_uses_conversations_and_tool_calls_for/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>1Password for Agents, with Muse named</h3>
+<p>A user reports 1Password&#x27;s new &quot;1Password for Agents&quot; and that it calls out Muse support or integration, rolling out in the coming days. People are watching it as a way for an agent to use passwords without holding them in plain form.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Interesting development from 1Password &quot;1Password for Agents&quot;&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xck3rp/interesting_development_from_1password_1password/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xck3rp/interesting_development_from_1password_1password/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Muse driving Claude Code inside its own computer</h3>
+<p>A user installed the Claude Code program inside Muse&#x27;s own virtual computer and built skills so Muse drives it. The setup is confirmed in the author&#x27;s own comment on the post; a commenter warns it may break Anthropic&#x27;s terms and risk the account. The post was number 2 in r/MuseAgent Top This Week, with 108 votes.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;I gave muse its own Claude Code susbcription&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xbgb3b/i_gave_muse_its_own_claude_code_susbcription/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xbgb3b/i_gave_muse_its_own_claude_code_susbcription/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>An inbox where other agents hand Muse work</h3>
+<p>A user gave their Muse an inbox so other agents can hand it work: Claude Code pushes work through an API trigger, Grok Bot through a webhook, and Muse polls the inbox on a schedule. People are building agent-to-agent handoffs like this so work moves between agents without a person carrying it.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;I gave my Muse an inbox so Claude Code and Grok Bot can hand it work&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xcd556/i_gave_my_muse_an_inbox_so_claude_code_and_grok/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xcd556/i_gave_my_muse_an_inbox_so_claude_code_and_grok/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Running companies with a team of agents</h3>
+<p>A user describes running their companies with a team of AI agents that work together — not one chatbot — and how the team is set up in practice. It is posted as tips from a working multi-agent setup.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;I run my companies with a team of AI agents. Here&#x27;s how they actually work together (no, it&#x27;s not one chatbot)&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xbl8fe/i_run_my_companies_with_a_team_of_ai_agents_heres/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xbl8fe/i_run_my_companies_with_a_team_of_ai_agents_heres/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Capturing reminders and notes through WhatsApp</h3>
+<p>A user calls the Muse and WhatsApp integration a game changer and uses it to capture reminders and notes by message. The post drew 49 comments, so many people are comparing how they use the same path.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;IMO the Muse/WhatsApp Integration is a game changer.&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xc26t4/imo_the_musewhatsapp_integration_is_a_game_changer/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xc26t4/imo_the_musewhatsapp_integration_is_a_game_changer/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Heavy everyday uses people call &quot;musemaxxing&quot;</h3>
+<p>A post in r/MuseAssistant lists how people are actually using Muse heavily right now: financial auditing, automated booking, and autonomous workflows. It is a roundup of working uses, not a single setup.</p>
+<ul>
+<li>Source: r/MuseAssistant — &quot;Beyond Chatbots: How people are actually &quot;musemaxxing&quot; Meta Muse right now (Financial auditing, automated booking, &amp; autonomous workflows)&quot; — <a href="https://www.reddit.com/r/MuseAssistant/comments/1xasuwa/beyond_chatbots_how_people_are_actually/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAssistant/comments/1xasuwa/beyond_chatbots_how_people_are_actually/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Referral reward said to be 2 billion tokens — a poster&#x27;s claim, not an announcement</h3>
+<p>A referral-chain post in r/MetaAI says that since the night of October 20–21, 2026, Muse gives 2 billion tokens when someone signs up with a referral code redeemed in Settings within 48 hours; older referral posts advertise 1 billion. The browser read states plainly: this is a referral-chain poster&#x27;s claim, not an official Meta announcement.</p>
+<ul>
+<li>Source: r/MetaAI — &quot;[2 Billion tokens CODE]Drop your Muse referral code here! Let&#x27;s build a chain and help everyone get free tokens!&quot; — <a href="https://www.reddit.com/r/MetaAI/comments/1xc8db6/2_billion_tokens_codedrop_your_muse_referral_code/" target="_blank" rel="noopener">https://www.reddit.com/r/MetaAI/comments/1xc8db6/2_billion_tokens_codedrop_your_muse_referral_code/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Train the Muse — check there is enough information, and show the plan, before acting</h3>
+<p>A post proposes that before Muse runs a tool or an automation, it should have to check that it has enough information first, ask for the missing pieces in plain conversation, and show its plan for the person to refine before it acts. The one comment read describes a working setup along the same lines today: a wiki kept in Obsidian that Muse and another AI are given as a read-only copy, with written instructions for how to work with it, and the AI used as a brainstorming partner and project manager.</p>
+<ul>
+<li>Source: r/MetaAI — &quot;Train the Muse&quot; — <a href="https://www.reddit.com/r/MetaAI/comments/1xcpy8p/train_the_muse/" target="_blank" rel="noopener">https://www.reddit.com/r/MetaAI/comments/1xcpy8p/train_the_muse/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Two people&#x27;s agents working together through one shared document</h3>
+<p>Two people&#x27;s Muse agents worked together through one shared Google Doc, which was the only channel between them. A ground rule was written into the document itself — each agent works only for its own person — and both agents re-read it on every check. A read-receipts log in the document kept &quot;I sent it&quot; and &quot;my human has seen it&quot; as different facts, changes were proposed with highlights, the agents took one question at a time, and a person approved every step on both sides. Comments give the same pattern through shared folders with one small file per topic and heartbeat files, through a repository with its version history as the record, and through a group chat.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Two people&#x27;s Muse agents collaborated through a shared Google Doc, with a human approving every step on both sides&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xco937/two_peoples_muse_agents_collaborated_through_a/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xco937/two_peoples_muse_agents_collaborated_through_a/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Ways people get Muse past websites that block its browser</h3>
+<p>People report working setups for sites that block Muse&#x27;s own browser: Muse downloads a camouflaged browser (Camoufox, named in the post) from GitHub and browses through it, which also works when asked from the phone; Muse routes through the person&#x27;s own machine or phone using Tailscale (an official connector in the app) or SSH; running Muse on a MacBook gets past the blocks; and one always-on setup uses a free cloud computer for the browser plus a small home computer with Tailscale. The same post was crossposted in r/MetaAI.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Bypassing websites blocking Muse in its browser&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xcpvop/bypassing_websites_blocking_muse_in_its_browser/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xcpvop/bypassing_websites_blocking_muse_in_its_browser/</a> (crosspost in r/MetaAI: <a href="https://www.reddit.com/r/MetaAI/comments/1xcpvw8/bypassing_websites_blocking_muse_in_its_browser/" target="_blank" rel="noopener">https://www.reddit.com/r/MetaAI/comments/1xcpvw8/bypassing_websites_blocking_muse_in_its_browser/</a>)</li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Controlling a personal computer through an SSH tunnel, with a coding agent doing the clicking</h3>
+<p>A user connected Muse to their own computer with a remote-control tool and asked whether it saves tokens. The comments say it does the opposite — Muse uses more tokens working out where to click on a computer that is not one of its cloud computers. The working alternative in the comments is an SSH tunnel into the computer, with a coding agent installed there doing the clicking while Muse briefs it on what is needed.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Antigravity x Muse&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xcnr88/antigravity_x_muse/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xcnr88/antigravity_x_muse/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last updated: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<h2>Part 2 — Problems</h2>
+<p class="part-note">Problems people are reporting with Muse, ordered by last activity, newest first.</p>
+<div class="entry"><h3>Shared Muse links exposed private information; sharing suspended</h3>
+<p>Researchers found that shared Muse conversation links could be discovered through public internet records and opened without signing in, and several hundred shared conversations held sensitive information, such as company revenue reviews, loan applications, and bank fraud alerts with partial account details. About 6,800 shared chats were found by title in passive DNS records. Meta suspended conversation sharing and artifact publishing on October 20, 2026, while it reviews the design. Researchers retested 40 old shared links and none opened; conversation titles remained in public DNS history. The same story ran in all three Reddit groups checked.</p>
+<ul>
+<li>Sources:</li>
+<li style="list-style:none"><ul><li>r/MuseAssistant — &quot;Meta just paused Muse sharing after 6,800 shared chats showed up in public DNS records. Did anyone here actually use share?&quot; — <a href="https://www.reddit.com/r/MuseAssistant/comments/1xbpl8p/meta_just_paused_muse_sharing_after_6800_shared/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAssistant/comments/1xbpl8p/meta_just_paused_muse_sharing_after_6800_shared/</a></li></ul></li>
+<li style="list-style:none"><ul><li>r/MetaAI — &quot;Meta&#x27;s Muse AI Agent Caught Leaking Users&#x27; Intimate Personal Information&quot; — <a href="https://www.reddit.com/r/MetaAI/comments/1xc2ugk/metas_muse_ai_agent_caught_leaking_users_intimate/" target="_blank" rel="noopener">https://www.reddit.com/r/MetaAI/comments/1xc2ugk/metas_muse_ai_agent_caught_leaking_users_intimate/</a></li></ul></li>
+<li style="list-style:none"><ul><li>r/MuseAgent — &quot;Muse has paused artifact sharing/publishing. Here&#x27;s an alternative way to do it.&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xcgoie/muse_has_paused_artifact_sharingpublishing_heres/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xcgoie/muse_has_paused_artifact_sharingpublishing_heres/</a></li></ul></li>
+<li style="list-style:none"><ul><li>TechSpot — &quot;Meta suspends Muse sharing after sensitive documents turn up in shared chats&quot; — <a href="https://www.techspot.com/community/topics/meta-suspends-muse-sharing-after-sensitive-documents-turn-up-in-shared-chats.299212/" target="_blank" rel="noopener">https://www.techspot.com/community/topics/meta-suspends-muse-sharing-after-sensitive-documents-turn-up-in-shared-chats.299212/</a></li></ul></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-22 (news reports of the suspension, and the r/MuseAgent post of Oct 22, 2026)</li>
+<li>State: <span class="state">open — sharing is suspended, which stops new access through old links; no restored sharing or new link design was announced in the sources read</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Image generation refusals now say &quot;no retry&quot; — first day seen</h3>
+<p>A user reports that on October 22, 2026, image-generation refusals came back with a new &quot;no retry&quot; framing — the refusal said not to repeat the request in any reworded form or through another route — the first day this pattern appeared for them. The image was a non-explicit, non-suggestive assistant avatar. One commenter says images and avatars approved before are no longer approved; another user, making more than 55 images a day on the $20 plan, reports no problems at all. It is an early signal with mixed evidence, recorded so a second day of reports can be matched against it.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Image gen &quot;no retry&quot; flags?&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xcptns/image_gen_no_retry_flags/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xcptns/image_gen_no_retry_flags/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Muse Mac app cannot preview PDF files</h3>
+<p>A user reports PDF files attached in a chat will not preview in the Muse Mac app — a blank panel or &quot;Unable to preview this PDF&quot; — while the same files preview fine on iPhone and on the web. Their agent tested PDF files built three ways (named in the post: fpdf2, WeasyPrint, and a pypdf rewrite); all failed in the Mac app, which points to the Mac app&#x27;s built-in PDF viewer. The workaround in use: download the file or switch devices, and the agent attaches picture renders of the pages alongside any PDF so the pages can be read in the chat. A comment in the thread notes a bug can be reported by telling Muse to report it to the engineering team. No second user confirmed the problem in the comments read.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Mac app can&#x27;t preview PDFs (&quot;Unable to preview this PDF&quot;) - iPhone and web are fine&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xco6pl/mac_app_cant_preview_pdfs_unable_to_preview_this/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xco6pl/mac_app_cant_preview_pdfs_unable_to_preview_this/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Accounts locked out or stuck disconnected, in waves</h3>
+<p>People are reporting Muse accounts locked out, suspended, or stuck on &quot;Connecting&quot; / &quot;Muse is disconnected,&quot; with reconnect forms failing (one reported form error: 403) and no reply from Meta in the threads. The cases come in waves — many accounts the same evening, including October 14 — which points to Meta&#x27;s side, not each account&#x27;s setup. The standing advice in the threads: check the community first and wait, instead of changing passwords, devices, or settings during a wave. The Meta forum collecting thread was posted October 21, 2026, with its last reply that evening — the only Muse thread active in the forums on October 21–22, per the forums read.</p>
+<ul>
+<li>Sources:</li>
+<li style="list-style:none"><ul><li>Meta Community Forums — &quot;Maximum subscriber ($100/month) locked out since Oct 16, stuck on Connecting, no fix and no response. Collecting every affected account in one thread&quot; — <a href="https://communityforums.atmeta.com/troubleshooting-20/maximum-subscriber-100-month-locked-out-since-oct-16-stuck-on-connecting-no-fix-and-no-response-collecting-every-affected-account-in-one-thread-180815" target="_blank" rel="noopener">https://communityforums.atmeta.com/troubleshooting-20/maximum-subscriber-100-month-locked-out-since-oct-16-stuck-on-connecting-no-fix-and-no-response-collecting-every-affected-account-in-one-thread-180815</a></li></ul></li>
+<li style="list-style:none"><ul><li>Meta Community Forums — &quot;Muse &#x27;disconnected&#x27; for over a week now&quot; — <a href="https://communityforums.atmeta.com/questions-and-discussions-26/muse-disconnected-for-over-a-week-now-180817?postid=1205875" target="_blank" rel="noopener">https://communityforums.atmeta.com/questions-and-discussions-26/muse-disconnected-for-over-a-week-now-180817?postid=1205875</a> (found in the restart run&#x27;s web search; its date was not verified in the forums read)</li></ul></li>
+<li style="list-style:none"><ul><li>r/MuseAssistant — &quot;Anyone else&#x27;s having problem with muse disconnecting an the time?&quot; (Oct 19, 2026) — <a href="https://www.reddit.com/r/MuseAssistant/comments/1x9yp82/anyone_elses_having_problem_with_muse/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAssistant/comments/1x9yp82/anyone_elses_having_problem_with_muse/</a></li></ul></li>
+<li style="list-style:none"><ul><li>Built with Muse (summary of the Reddit discussions) — &quot;Muse Account Locked, Suspended or Disconnected&quot; — <a href="https://builtwithmuse.com/blog/muse-account-locked" target="_blank" rel="noopener">https://builtwithmuse.com/blog/muse-account-locked</a></li></ul></li>
+<li>Sources (added 2026-10-22, daytime test run correction):</li>
+<li style="list-style:none"><ul><li>Meta Community Forums — &quot;Meta account reactivated, but Muse remains disconnected, tickets submitted with no email or case number&quot; — <a href="https://communityforums.atmeta.com/questions-and-discussions-26/meta-account-reactivated-but-muse-remains-disconnected-tickets-submitted-with-no-email-or-case-number-180648" target="_blank" rel="noopener">https://communityforums.atmeta.com/questions-and-discussions-26/meta-account-reactivated-but-muse-remains-disconnected-tickets-submitted-with-no-email-or-case-number-180648</a> (first posted 7 days before Oct 22; a new reply landed on it on Oct 22, after the morning check — a follow-up question, not a fix; an Oct 21 reply in it begins a &quot;what worked for me&quot; account about the authenticator, and its full text could not be read in the forums read, so no fix is recorded from it)</li></ul></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-22 (new reply on the forum &quot;Meta account reactivated&quot; thread, per the daytime forums read; before that, the Oct 21 reply on the collecting thread)</li>
+<li>State: <span class="state">open — no fix verified and no Meta reply in the threads read</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Muse sounds confident instead of stating its limits</h3>
+<p>A user says their Muse claimed to understand a video made of scrolled messages, then admitted it only samples a photo every two seconds and is set to sound competent rather than state its limits. The post is in French; its title says Muse gaslights the user and puts being fast and confident ahead of truth. It is a truth and checking-claims problem other users are hitting.</p>
+<ul>
+<li>Sources:</li>
+<li style="list-style:none"><ul><li>r/MetaAI — &quot;Ma muse me gaslight et priorise être rapide et confiante à la vérité&quot; — <a href="https://www.reddit.com/r/MetaAI/comments/1xbogir/ma_muse_me_gaslight_et_priorise_être_rapide_et/" target="_blank" rel="noopener">https://www.reddit.com/r/MetaAI/comments/1xbogir/ma_muse_me_gaslight_et_priorise_être_rapide_et/</a></li></ul></li>
+<li style="list-style:none"><ul><li>r/MuseAgent (original) — <a href="https://www.reddit.com/r/MuseAgent/comments/1xbogag/ma_muse_me_gaslight_et_priorise_être_rapide_et/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xbogag/ma_muse_me_gaslight_et_priorise_être_rapide_et/</a></li></ul></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-21</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Services blocking Muse, or flagging accounts after Muse acts</h3>
+<p>Alongside the Google case below, users report services pushing back on Muse: after Muse ran tasks and posted on Facebook, Facebook flagged &quot;unusual activity,&quot; logged the poster out everywhere, disconnected Muse, and required an ID upload; and insurance sites would not connect to Muse&#x27;s browser even through a camouflaged browser. Posts just outside the window point the same way — &quot;Blocked&quot; (Oct 19) and &quot;Banned from Walmart+ Now&quot; (Oct 20) in r/MuseAgent.</p>
+<ul>
+<li>Sources:</li>
+<li style="list-style:none"><ul><li>r/MuseAgent — &quot;What is going on Facebook?&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xboso4/what_is_going_on_facebook/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xboso4/what_is_going_on_facebook/</a></li></ul></li>
+<li style="list-style:none"><ul><li>r/MuseAgent — &quot;Tried using Muse to shop for Insurance&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xbrtql/tried_using_muse_to_shop_for_insurance/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xbrtql/tried_using_muse_to_shop_for_insurance/</a></li></ul></li>
+<li style="list-style:none"><ul><li>r/MuseAgent — &quot;Bypassing websites blocking Muse in its browser&quot; (Oct 22, 2026) — <a href="https://www.reddit.com/r/MuseAgent/comments/1xcpvop/bypassing_websites_blocking_muse_in_its_browser/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xcpvop/bypassing_websites_blocking_muse_in_its_browser/</a> — users report working ways past the blocks; the setups are recorded as a topic in Part 1</li></ul></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-22</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Background connection keeps dropping</h3>
+<p>A user reports Muse&#x27;s background connection keeps getting cut and asks how to make it stay up. It is the same disconnecting theme as the r/MuseAssistant posts, and separate from the account lockouts above: the account works, the connection does not stay up.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Dropping Background connection&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xbicbv/dropping_background_connection/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xbicbv/dropping_background_connection/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-21</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Tokens reset after a day or two instead of the 7-day period</h3>
+<p>A user reports their tokens reset after a day or two instead of the regular 7-day period, and asks whether others saw the same. It is a quota and reset timing question — the only schedule-adjacent reliability report in the window.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Token reset on Day 2&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xbnefo/token_reset_on_day_2/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xbnefo/token_reset_on_day_2/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-21</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Bank of America will not connect through Plaid</h3>
+<p>A user reports Bank of America will not connect through Plaid. The browser read places it in a wider bank-connection pattern: a &quot;Plaid connector missing&quot; post (Oct 17) and a Fidelity and Plaid failure (Oct 20) sit just outside the window.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Muse + Plaid + BoA?&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xbo2m0/muse_plaid_boa/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xbo2m0/muse_plaid_boa/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-21</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<div class="entry solved"><h3>Google account disabled for botting while using Muse — restored on appeal</h3>
+<p>A user reports their Google account was disabled as &quot;created by a bot&quot; after Muse ran automated tasks on it, and asked whether it had happened to anyone else. The full browser read adds the end of the story: an appeal the next morning restored the account.</p>
+<ul>
+<li>Source: r/MuseAgent — &quot;Google account was disabled for botting, has this happened to anyone else?&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xc340d/google_account_was_disabled_for_botting_has_this/" target="_blank" rel="noopener">https://www.reddit.com/r/MuseAgent/comments/1xc340d/google_account_was_disabled_for_botting_has_this/</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-21</li>
+<li>State: <span class="state">solved for the reported case — fix: appeal to Google; the account was restored the next morning (per the post, via the browser read)</span></li>
+</ul>
+</div>
+<div class="entry"><h3>Muse voice option missing for Ray-Ban Meta Gen 3 glasses</h3>
+<p>A buyer of Ray-Ban Meta Wayfarer Gen 3 glasses reports the Muse app lists only their phone under Settings &gt; Devices, says it cannot load devices, and offers no Muse voice option for the glasses, while Meta AI voice works on the glasses in the Meta AI app, under one Meta account. Meta Store Support and Ray-Ban Customer Care said they cannot push the entitlement; escalations on October 7 and 8, 2026, had no answer yet in the thread. A forum answer says the feature has not been rolled out to that account yet. The forums read confirms this thread&#x27;s last activity was 4 days before October 22.</p>
+<ul>
+<li>Source: Meta Community Forums — &quot;Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app&quot; — <a href="https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708" target="_blank" rel="noopener">https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708</a></li>
+<li>First seen: 2026-10-22</li>
+<li>Last activity: 2026-10-18</li>
+<li>State: <span class="state">open</span></li>
+</ul>
+</div>
+<h2 style="font-size:12.5pt">Quiet problems</h2>
+<p class="quiet">Problems with 7 or more days of no new posts and no fix move here, each with</p>
+<p class="part-note">its count of quiet days. None yet — every problem above had activity within the last 7 days as of 2026-10-22._</p>
+<h2 style="font-size:12.5pt">About this report</h2>
+<div class="about">The standing record of the Daily website review of AI. One small paragraph per topic and per problem, updated as they change. Sources are public discussions; this report holds summaries and links, not copies of the posts.<br>Populated on 2026-10-22 in the restart run (Clay&#x27;s order), from the first run&#x27;s verified dated log of the same day and the restart run&#x27;s web search, and updated the same day when the restart run&#x27;s final browser reports arrived (Reddit read in full, Meta Forums read in full). Dated log: ~/workspace/learning/community-check/2026-10-22.md Updated again the same day in the daytime test run&#x27;s correction (full browser report arrived 02:06 PM Arizona time): 4 topics and 2 problems added, 2 problems updated.</div>
+</body></html>
