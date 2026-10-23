@@ -10,7 +10,8 @@ the same day when the restart run's final browser reports arrived (Reddit read
 in full, Meta Forums read in full). Dated log:
 ~/workspace/learning/community-check/2026-10-22.md
 Updated again the same day in the daytime test run's correction (full browser report arrived 02:06 PM Arizona time): 4 topics and 2 problems added, 2 problems updated.
-Updated on 2026-10-23 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-23.md): 1 topic and 3 problems added, 2 problems updated. That run's r/MuseAgent browser report did not arrive, and the newest 12 opened posts of its r/MetaAI report did not arrive, so those parts are no record for 2026-10-23 and are re-checked on the next run.
+Updated on 2026-10-23 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-23.md): 1 topic and 1 problem added, 2 problems updated. That run's r/MuseAgent browser report did not arrive, and the newest 12 opened posts of its r/MetaAI report did not arrive, so those parts are no record for 2026-10-23 and are re-checked on the next run.
+Corrected the same day (2026-10-23): the run first used a detailed r/MuseAssistant pass report listing 11 in-window posts; a later handoff for the same pass and a fresh verification read of the r/MuseAssistant New listing both showed 0 posts in the window (newest post Oct 22, 2026 9:36 AM Arizona time), so the detailed report did not stand. The 2 problems and 1 added source that rested only on it were removed the same day; the corrected counts are the ones in the first line of this note.
 
 ## Part 1 — Topics
 
@@ -252,24 +253,6 @@ run.
 - Last activity: 2026-10-22 (Meta's announcement that sharing is back on with new links, reported Oct 22–23; before that, news reports of the suspension and the r/MuseAgent post of Oct 22, 2026)
 - State: open — sharing was restored on Oct 22, 2026 with new links, and old links no longer lead to the content; the exposure itself is not undone, because the old share titles remain in public DNS history
 
-### Muse enters sandbox mode, loses its memory, and scheduled tasks dump into one chat
-
-A user asks why Muse goes into sandbox mode, loses its memory layers, and its scheduled tasks dump into one chat instead of running as their own runs. The comments split two ways: sandbox mode is normal for a task run on its own, with no memory or special tools; and the same behaviour is a bug when it shows up in an ordinary chat, where the chat then has no memory, no files, and no tools, even after the person switches it back. It is the first scheduled-task reliability problem reported in these groups, and it matches the kind of failure a scheduled run here could hit without any sign in the chat it lands in.
-
-- Source: r/MuseAssistant — "Why does Muse go into sandbox mode, lose memory layers and scheduled tasks dump into one chat." — https://www.reddit.com/r/MuseAssistant/comments/1xd55ak/why_does_muse_go_into_sandbox_mode_lose_memory/
-- First seen: 2026-10-23
-- Last activity: 2026-10-22
-- State: open
-
-### Image editing limit cut, and photo edits now carry a watermark that cannot be removed
-
-A user reports that image editing on their plan changed on October 22, 2026: the edit limit shown in Skills is now much lower — the poster says it was unlimited before — and edited photos come out with a watermark. The one comment read reports the same two changes and says no way to remove the watermark was found. It sits next to, and separate from, the image generation "no retry" refusals below: that problem is about refusals, this one is about a lower allowance and a watermark on edits that do go through.
-
-- Source: r/MuseAssistant — "Photo edit watermark" — https://www.reddit.com/r/MuseAssistant/comments/1xd3ord/photo_edit_watermark/
-- First seen: 2026-10-23
-- Last activity: 2026-10-22
-- State: open
-
 ### Video generation shortened — 15 seconds before, 5 seconds now
 
 A user reports that two weeks ago they could generate a 15-second video, and now both the Muse app and a browser give only 5 seconds. One commenter reports the same 5-second limit; another comment, not visible on the page in the read, was not counted. No setting or plan change is named in the post or the comments read.
@@ -321,8 +304,6 @@ still unable to reconnect. One account back in is not a general fix.
   - Built with Muse (summary of the Reddit discussions) — "Muse Account Locked, Suspended or Disconnected" — https://builtwithmuse.com/blog/muse-account-locked
 - Sources (added 2026-10-22, daytime test run correction):
   - Meta Community Forums — "Meta account reactivated, but Muse remains disconnected, tickets submitted with no email or case number" — https://communityforums.atmeta.com/questions-and-discussions-26/meta-account-reactivated-but-muse-remains-disconnected-tickets-submitted-with-no-email-or-case-number-180648 (first posted 7 days before Oct 22; a new reply landed on it on Oct 22, after the morning check — a follow-up question, not a fix; an Oct 21 reply in it begins a "what worked for me" account about the authenticator, and its full text could not be read in the forums read, so no fix is recorded from it)
-- Sources (added 2026-10-23):
-  - r/MuseAssistant — "I changed my passwords like support said and now I'm locked in a loop with no way back in" — https://www.reddit.com/r/MuseAssistant/comments/1xd8pef/i_changed_my_passwords_like_support_said_and_now/ (Oct 22, 2026; the poster followed support's password-change advice and is stuck in a disconnect / security-check loop, and both comments report the same loop on brand-new accounts — new accounts failing the same way points to the account-side check, not to any one account's password)
 - First seen: 2026-10-22
 - Last activity: 2026-10-22 (evening reply on the forum "Meta account reactivated" thread reporting a reconnection after an authenticator reset, per the 2026-10-23 forums read; before that, an Oct 22 reply on the same thread and the Oct 21 reply on the collecting thread)
 - State: open — one account reported reconnected on Oct 22, 2026 after an authenticator reset (fix for that account, as reported in the thread: reset the authenticator; a Bug ID is recorded there); no general fix verified and no Meta reply in the threads read
