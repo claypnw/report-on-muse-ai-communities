@@ -10,6 +10,7 @@ the same day when the restart run's final browser reports arrived (Reddit read
 in full, Meta Forums read in full). Dated log:
 ~/workspace/learning/community-check/2026-10-22.md
 Updated again the same day in the daytime test run's correction (full browser report arrived 02:06 PM Arizona time): 4 topics and 2 problems added, 2 problems updated.
+Updated on 2026-10-23 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-23.md): 1 topic and 3 problems added, 2 problems updated. That run's r/MuseAgent browser report did not arrive, and the newest 12 opened posts of its r/MetaAI report did not arrive, so those parts are no record for 2026-10-23 and are re-checked on the next run.
 
 ## Part 1 — Topics
 
@@ -49,11 +50,14 @@ After Muse paused artifact sharing and publishing, a user posted another way
 to share work made in Muse (a third-party service the poster offers). People
 are using workarounds like this to keep sharing pages and apps while the
 built-in sharing is off. The pause itself is recorded as a problem in Part 2
-(shared links exposed private information).
+(shared links exposed private information). On October 22, 2026, Meta
+switched sharing back on with new links (see the Part 2 entry), so the
+workarounds are no longer the only way to share; anything shared before the
+fix has to be sent again with its new link.
 
 - Source: r/MuseAgent — "Muse has paused artifact sharing/publishing. Here's an alternative way to do it." — https://www.reddit.com/r/MuseAgent/comments/1xcgoie/muse_has_paused_artifact_sharingpublishing_heres/
 - First seen: 2026-10-22
-- Last updated: 2026-10-22
+- Last updated: 2026-10-22 (change recorded 2026-10-23, from the news reports named in the Part 2 sharing entry)
 - State: open
 
 ### Confidential VM — a private computer for Muse, not yet shipped
@@ -202,6 +206,15 @@ A user connected Muse to their own computer with a remote-control tool and asked
 - Last updated: 2026-10-22
 - State: open
 
+### A shared family board in Muse, with a private area per person
+
+A user shares how they set up a "family board" in Muse: a shared calendar, a projects area, one running family thread for lists and reminders, and a contacts area, all shared with the family — plus a private area for each person, for things like health and bills, that the others do not see. Comments compare their own versions of the same setup, and one comment gives the privacy rule for the shared side: do not put sensitive records in it.
+
+- Source: r/MetaAI — "How I set up a 'family board' in muse?" — https://www.reddit.com/r/MetaAI/comments/1xcuo7s/how_i_set_up_a_family_board_in_muse/
+- First seen: 2026-10-23
+- Last updated: 2026-10-22
+- State: open
+
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
@@ -216,16 +229,55 @@ details. About 6,800 shared chats were found by title in passive DNS records.
 Meta suspended conversation sharing and artifact publishing on
 October 20, 2026, while it reviews the design. Researchers retested 40 old
 shared links and none opened; conversation titles remained in public DNS
-history. The same story ran in all three Reddit groups checked.
+history. The same story ran in all three Reddit groups checked. On
+October 22, 2026, Meta switched sharing back on: Meta's David Singleton
+announced on X that the underlying issue is fixed, and that every artifact
+shared before the fix now has a new URL — anyone opening an old link sees a
+note asking them to get the new link from the sharer, so old shares have to
+be sent again. Singleton says the flaw was in shared artifact links, not
+chat sharing; the researchers' account says shared conversations. That
+difference is not settled in the sources read. The titles of the old shares
+remain in public DNS history either way. This update rests on news reports
+of Singleton's announcement (named below); no Reddit post with comments and
+no forum thread about sharing coming back was verified in the 2026-10-23
+run.
 
 - Sources:
   - r/MuseAssistant — "Meta just paused Muse sharing after 6,800 shared chats showed up in public DNS records. Did anyone here actually use share?" — https://www.reddit.com/r/MuseAssistant/comments/1xbpl8p/meta_just_paused_muse_sharing_after_6800_shared/
   - r/MetaAI — "Meta's Muse AI Agent Caught Leaking Users' Intimate Personal Information" — https://www.reddit.com/r/MetaAI/comments/1xc2ugk/metas_muse_ai_agent_caught_leaking_users_intimate/
   - r/MuseAgent — "Muse has paused artifact sharing/publishing. Here's an alternative way to do it." — https://www.reddit.com/r/MuseAgent/comments/1xcgoie/muse_has_paused_artifact_sharingpublishing_heres/
   - TechSpot — "Meta suspends Muse sharing after sensitive documents turn up in shared chats" — https://www.techspot.com/community/topics/meta-suspends-muse-sharing-after-sensitive-documents-turn-up-in-shared-chats.299212/
+  - AndroidPure (news report of the Oct 22 announcement) — "Meta Switches Muse Sharing Back On, and Old Links Must Be Re-Shared" — https://www.androidpure.com/meta-muse-sharing-back-on/
 - First seen: 2026-10-22
-- Last activity: 2026-10-22 (news reports of the suspension, and the r/MuseAgent post of Oct 22, 2026)
-- State: open — sharing is suspended, which stops new access through old links; no restored sharing or new link design was announced in the sources read
+- Last activity: 2026-10-22 (Meta's announcement that sharing is back on with new links, reported Oct 22–23; before that, news reports of the suspension and the r/MuseAgent post of Oct 22, 2026)
+- State: open — sharing was restored on Oct 22, 2026 with new links, and old links no longer lead to the content; the exposure itself is not undone, because the old share titles remain in public DNS history
+
+### Muse enters sandbox mode, loses its memory, and scheduled tasks dump into one chat
+
+A user asks why Muse goes into sandbox mode, loses its memory layers, and its scheduled tasks dump into one chat instead of running as their own runs. The comments split two ways: sandbox mode is normal for a task run on its own, with no memory or special tools; and the same behaviour is a bug when it shows up in an ordinary chat, where the chat then has no memory, no files, and no tools, even after the person switches it back. It is the first scheduled-task reliability problem reported in these groups, and it matches the kind of failure a scheduled run here could hit without any sign in the chat it lands in.
+
+- Source: r/MuseAssistant — "Why does Muse go into sandbox mode, lose memory layers and scheduled tasks dump into one chat." — https://www.reddit.com/r/MuseAssistant/comments/1xd55ak/why_does_muse_go_into_sandbox_mode_lose_memory/
+- First seen: 2026-10-23
+- Last activity: 2026-10-22
+- State: open
+
+### Image editing limit cut, and photo edits now carry a watermark that cannot be removed
+
+A user reports that image editing on their plan changed on October 22, 2026: the edit limit shown in Skills is now much lower — the poster says it was unlimited before — and edited photos come out with a watermark. The one comment read reports the same two changes and says no way to remove the watermark was found. It sits next to, and separate from, the image generation "no retry" refusals below: that problem is about refusals, this one is about a lower allowance and a watermark on edits that do go through.
+
+- Source: r/MuseAssistant — "Photo edit watermark" — https://www.reddit.com/r/MuseAssistant/comments/1xd3ord/photo_edit_watermark/
+- First seen: 2026-10-23
+- Last activity: 2026-10-22
+- State: open
+
+### Video generation shortened — 15 seconds before, 5 seconds now
+
+A user reports that two weeks ago they could generate a 15-second video, and now both the Muse app and a browser give only 5 seconds. One commenter reports the same 5-second limit; another comment, not visible on the page in the read, was not counted. No setting or plan change is named in the post or the comments read.
+
+- Source: r/MetaAI — "Video generation" — https://www.reddit.com/r/MetaAI/comments/1xcz98t/video_generation/
+- First seen: 2026-10-23
+- Last activity: 2026-10-22
+- State: open
 
 ### Image generation refusals now say "no retry" — first day seen
 
@@ -255,7 +307,12 @@ points to Meta's side, not each account's setup. The standing advice in the
 threads: check the community first and wait, instead of changing passwords,
 devices, or settings during a wave. The Meta forum collecting thread was
 posted October 21, 2026, with its last reply that evening — the only Muse
-thread active in the forums on October 21–22, per the forums read.
+thread active in the forums on October 21–22, per the forums read. On the
+evening of October 22, 2026, one poster in the forum "Meta account
+reactivated" thread reported reconnecting after an authenticator reset —
+the first reconnection reported in these threads, with a Bug ID recorded in
+the thread — while another user replied the same evening that they were
+still unable to reconnect. One account back in is not a general fix.
 
 - Sources:
   - Meta Community Forums — "Maximum subscriber ($100/month) locked out since Oct 16, stuck on Connecting, no fix and no response. Collecting every affected account in one thread" — https://communityforums.atmeta.com/troubleshooting-20/maximum-subscriber-100-month-locked-out-since-oct-16-stuck-on-connecting-no-fix-and-no-response-collecting-every-affected-account-in-one-thread-180815
@@ -264,9 +321,11 @@ thread active in the forums on October 21–22, per the forums read.
   - Built with Muse (summary of the Reddit discussions) — "Muse Account Locked, Suspended or Disconnected" — https://builtwithmuse.com/blog/muse-account-locked
 - Sources (added 2026-10-22, daytime test run correction):
   - Meta Community Forums — "Meta account reactivated, but Muse remains disconnected, tickets submitted with no email or case number" — https://communityforums.atmeta.com/questions-and-discussions-26/meta-account-reactivated-but-muse-remains-disconnected-tickets-submitted-with-no-email-or-case-number-180648 (first posted 7 days before Oct 22; a new reply landed on it on Oct 22, after the morning check — a follow-up question, not a fix; an Oct 21 reply in it begins a "what worked for me" account about the authenticator, and its full text could not be read in the forums read, so no fix is recorded from it)
+- Sources (added 2026-10-23):
+  - r/MuseAssistant — "I changed my passwords like support said and now I'm locked in a loop with no way back in" — https://www.reddit.com/r/MuseAssistant/comments/1xd8pef/i_changed_my_passwords_like_support_said_and_now/ (Oct 22, 2026; the poster followed support's password-change advice and is stuck in a disconnect / security-check loop, and both comments report the same loop on brand-new accounts — new accounts failing the same way points to the account-side check, not to any one account's password)
 - First seen: 2026-10-22
-- Last activity: 2026-10-22 (new reply on the forum "Meta account reactivated" thread, per the daytime forums read; before that, the Oct 21 reply on the collecting thread)
-- State: open — no fix verified and no Meta reply in the threads read
+- Last activity: 2026-10-22 (evening reply on the forum "Meta account reactivated" thread reporting a reconnection after an authenticator reset, per the 2026-10-23 forums read; before that, an Oct 22 reply on the same thread and the Oct 21 reply on the collecting thread)
+- State: open — one account reported reconnected on Oct 22, 2026 after an authenticator reset (fix for that account, as reported in the thread: reset the authenticator; a Bug ID is recorded there); no general fix verified and no Meta reply in the threads read
 
 ### Muse sounds confident instead of stating its limits
 
