@@ -12,6 +12,7 @@ in full, Meta Forums read in full). Dated log:
 Updated again the same day in the daytime test run's correction (full browser report arrived 02:06 PM Arizona time): 4 topics and 2 problems added, 2 problems updated.
 Updated on 2026-10-23 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-23.md): 1 topic and 1 problem added, 2 problems updated. That run's r/MuseAgent browser report did not arrive, and the newest 12 opened posts of its r/MetaAI report did not arrive, so those parts are no record for 2026-10-23 and are re-checked on the next run.
 Corrected the same day (2026-10-23): the run first used a detailed r/MuseAssistant pass report listing 11 in-window posts; a later handoff for the same pass and a fresh verification read of the r/MuseAssistant New listing both showed 0 posts in the window (newest post Oct 22, 2026 9:36 AM Arizona time), so the detailed report did not stand. The 2 problems and 1 added source that rested only on it were removed the same day; the corrected counts are the ones in the first line of this note.
+Later the same day (2026-10-23), the missing r/MetaAI entries and the r/MuseAgent report arrived and were judged: 5 more topics and 1 more problem added, and 3 entries updated (the 1Password topic, the blocked-websites topic, and the services-blocking problem). Totals after all 2026-10-23 corrections: 22 topics and 13 problems. A second forums report that conflicted with the forums read used in this run was logged in the dated log and not acted on; the one detail checked directly (a Bug ID quoted in the reactivated-account thread itself) matches the read used in this run.
 
 ## Part 1 — Topics
 
@@ -97,6 +98,7 @@ watching it as a way for an agent to use passwords without holding them in
 plain form.
 
 - Source: r/MuseAgent — "Interesting development from 1Password "1Password for Agents"" — https://www.reddit.com/r/MuseAgent/comments/1xck3rp/interesting_development_from_1password_1password/
+- Source (added 2026-10-23): r/MuseAgent — "How get around the Muse not generating password and not storing passkeys" — https://www.reddit.com/r/MuseAgent/comments/1xcubtb/how_get_around_the_muse_not_generating_password/ (Oct 22, 2026; commenters report the 1Password agent offering for Muse too, and others use a secure vault or Proton Pass for passwords and API keys)
 - First seen: 2026-10-22
 - Last updated: 2026-10-22
 - State: open
@@ -194,6 +196,7 @@ Two people's Muse agents worked together through one shared Google Doc, which wa
 People report working setups for sites that block Muse's own browser: Muse downloads a camouflaged browser (Camoufox, named in the post) from GitHub and browses through it, which also works when asked from the phone; Muse routes through the person's own machine or phone using Tailscale (an official connector in the app) or SSH; running Muse on a MacBook gets past the blocks; and one always-on setup uses a free cloud computer for the browser plus a small home computer with Tailscale. The same post was crossposted in r/MetaAI.
 
 - Source: r/MuseAgent — "Bypassing websites blocking Muse in its browser" — https://www.reddit.com/r/MuseAgent/comments/1xcpvop/bypassing_websites_blocking_muse_in_its_browser/ (crosspost in r/MetaAI: https://www.reddit.com/r/MetaAI/comments/1xcpvw8/bypassing_websites_blocking_muse_in_its_browser/)
+- Source (added 2026-10-23): r/MuseAgent — "FAQ r/MuseAgent" — https://www.reddit.com/r/MuseAgent/comments/1xd2392/faq_rmuseagent/ (Oct 22, 2026; the group's FAQ collects the same roads — Tailscale, the Mac app, Camoufox — and a 3-layer approvals and standing-rules setup)
 - First seen: 2026-10-22
 - Last updated: 2026-10-22
 - State: open
@@ -212,6 +215,51 @@ A user connected Muse to their own computer with a remote-control tool and asked
 A user shares how they set up a "family board" in Muse: a shared calendar, a projects area, one running family thread for lists and reminders, and a contacts area, all shared with the family — plus a private area for each person, for things like health and bills, that the others do not see. Comments compare their own versions of the same setup, and one comment gives the privacy rule for the shared side: do not put sensitive records in it.
 
 - Source: r/MetaAI — "How I set up a 'family board' in muse?" — https://www.reddit.com/r/MetaAI/comments/1xcuo7s/how_i_set_up_a_family_board_in_muse/
+- First seen: 2026-10-23
+- Last updated: 2026-10-22
+- State: open
+
+### A memory vault that loads only the memories a task needs
+
+A user reports that their Muse memory file cost about 70,000 tokens on the first message of a chat — nearly a third of the 350,000 usable tokens — because the whole file loads every time. They built a vault that pulls in only the memories relevant to the task at hand, which cut the first-message load to about 400 tokens. It is the same trade-off as keeping memory in files at all: the record survives, and the cost is paid only when the memory is used.
+
+- Source: r/MetaAI — "Muse.ai's MEMORY.md cost me 70k tokens on first message (nearly 1/3 of the 350k usable). So I built a vault that only pulls memories when relevant." — https://www.reddit.com/r/MetaAI/comments/1xdcpfp/museais_memorymd_cost_me_70k_tokens_on_first/
+- First seen: 2026-10-23
+- Last updated: 2026-10-23
+- State: open
+
+### Muse's dedicated computer — the specs users report
+
+A user posts the specs of the dedicated virtual computer every Muse user gets: 2 vCPUs, 7.8 GB of RAM, and 100 GB of disk. The one comment read weighs what that can run: Docker is doubtful on those specs, and a native install is the more realistic road. The numbers matter for judging what work Muse's own computer can carry.
+
+- Source: r/MetaAI — "Every Muse user gets a dedicated VM. 2 vCPUs, 7.8 GB RAM and 100 GB disk" — https://www.reddit.com/r/MetaAI/comments/1xd5sts/every_muse_user_gets_a_dedicated_vm_2_vcpus_78_gb/
+- First seen: 2026-10-23
+- Last updated: 2026-10-22
+- State: open
+
+### Backing up Muse's memory and work to Google Drive on a schedule
+
+A user describes their insurance against a Muse account lockout: a weekly brain-dump of everything Muse holds, plus a daily differential dump of what changed, both written to Google Drive on a schedule. If the account locks, the record of the work sits outside the account. It is the same idea as keeping backups of production work on a second road, applied to Muse itself.
+
+- Source: r/MuseAgent — "Don't get too comfortable. It could all be gone in an instant." — https://www.reddit.com/r/MuseAgent/comments/1xd2a67/dont_get_too_comfortable_it_could_all_be_gone_in/
+- First seen: 2026-10-23
+- Last updated: 2026-10-22
+- State: open
+
+### Capturing tasks by voice through Siri and Apple Reminders
+
+A user dictates tasks to Siri, which puts them on an Apple Reminders list that Muse monitors and tracks. The working detail in the comments: keep Muse, Calendar, and Reminders open on the Mac so Muse can mark items complete. It is a spoken-word path into Muse that runs on tools the phone already has.
+
+- Source: r/MuseAgent — "Using Siri and Reminders to verbally communicate tasks to Muse on iOS" — https://www.reddit.com/r/MuseAgent/comments/1xcwsga/using_siri_and_reminders_to_verbally_communicate/
+- First seen: 2026-10-23
+- Last updated: 2026-10-22
+- State: open
+
+### Running kids' school coordination in Muse — a shared Sheet setup, with an invented-event warning
+
+A user runs their kids' school coordination through Muse: a shared Sheet with one writer per section, and a scheduled roll-up per kid. The same post is a warning: in calendar checks, Muse invented a field trip that did not exist. The setup works; anything Muse writes into a calendar still has to be checked against the source.
+
+- Source: r/MuseAgent — "Muse Dealing with So Much Kids' School Stuff" — https://www.reddit.com/r/MuseAgent/comments/1xd3lyv/muse_dealing_with_so_much_kids_school_stuff/
 - First seen: 2026-10-23
 - Last updated: 2026-10-22
 - State: open
@@ -258,6 +306,15 @@ run.
 A user reports that two weeks ago they could generate a 15-second video, and now both the Muse app and a browser give only 5 seconds. One commenter reports the same 5-second limit; another comment, not visible on the page in the read, was not counted. No setting or plan change is named in the post or the comments read.
 
 - Source: r/MetaAI — "Video generation" — https://www.reddit.com/r/MetaAI/comments/1xcz98t/video_generation/
+- First seen: 2026-10-23
+- Last activity: 2026-10-22
+- State: open
+
+### Muse answers slowed down for many users at the same time
+
+Users report Muse taking hours to answer over the two days before October 22, 2026 — free and paid users alike, in the same thread. Eleven of eleven comments were read and the reports agree: it is a shared slowdown, not one account or one device. No cause and no fix is named in the thread.
+
+- Source: r/MuseAgent — "Why is my Muse taking so long to respond?" — https://www.reddit.com/r/MuseAgent/comments/1xd0y59/why_is_my_muse_taking_so_long_to_respond/
 - First seen: 2026-10-23
 - Last activity: 2026-10-22
 - State: open
@@ -331,12 +388,15 @@ activity," logged the poster out everywhere, disconnected Muse, and required
 an ID upload; and insurance sites would not connect to Muse's browser even
 through a camouflaged browser. Posts just outside the window point the same
 way — "Blocked" (Oct 19) and "Banned from Walmart+ Now" (Oct 20) in
-r/MuseAgent.
+r/MuseAgent. On October 22, 2026, eBay was named too: its Akamai check blocks
+Muse's browser, and a commenter suggests going through an open-source eBay
+MCP server instead of the browser.
 
 - Sources:
   - r/MuseAgent — "What is going on Facebook?" — https://www.reddit.com/r/MuseAgent/comments/1xboso4/what_is_going_on_facebook/
   - r/MuseAgent — "Tried using Muse to shop for Insurance" — https://www.reddit.com/r/MuseAgent/comments/1xbrtql/tried_using_muse_to_shop_for_insurance/
   - r/MuseAgent — "Bypassing websites blocking Muse in its browser" (Oct 22, 2026) — https://www.reddit.com/r/MuseAgent/comments/1xcpvop/bypassing_websites_blocking_muse_in_its_browser/ — users report working ways past the blocks; the setups are recorded as a topic in Part 1
+  - r/MuseAgent — "Ebay blocked Muse?" (Oct 22, 2026; added 2026-10-23) — https://www.reddit.com/r/MuseAgent/comments/1xd4udu/ebay_blocked_muse/ — eBay's Akamai check blocks Muse; a commenter suggests an open-source eBay MCP server instead of the browser or a VPN (5 of 8 comments read)
 - First seen: 2026-10-22
 - Last activity: 2026-10-22
 - State: open
