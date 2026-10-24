@@ -4,7 +4,7 @@ The standing record of the Daily website review of AI. One small paragraph per
 topic and per problem, updated as they change. Sources are public discussions;
 this report holds summaries and links, not copies of the posts.
 
-Populated on 2026-10-22 in the restart run (Clay's order), from the first run's
+Populated on 2026-10-22 in the restart run (the admin's order), from the first run's
 verified dated log of the same day and the restart run's web search, and updated
 the same day when the restart run's final browser reports arrived (Reddit read
 in full, Meta Forums read in full). Dated log:
