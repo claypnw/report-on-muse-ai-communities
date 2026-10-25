@@ -13,6 +13,7 @@ Updated again the same day in the daytime test run's correction (full browser re
 Updated on 2026-10-23 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-23.md): 1 topic and 1 problem added, 2 problems updated. That run's r/MuseAgent browser report did not arrive, and the newest 12 opened posts of its r/MetaAI report did not arrive, so those parts are no record for 2026-10-23 and are re-checked on the next run.
 Corrected the same day (2026-10-23): the run first used a detailed r/MuseAssistant pass report listing 11 in-window posts; a later handoff for the same pass and a fresh verification read of the r/MuseAssistant New listing both showed 0 posts in the window (newest post Oct 22, 2026 9:36 AM Arizona time), so the detailed report did not stand. The 2 problems and 1 added source that rested only on it were removed the same day; the corrected counts are the ones in the first line of this note.
 Later the same day (2026-10-23), the missing r/MetaAI entries and the r/MuseAgent report arrived and were judged: 5 more topics and 1 more problem added, and 3 entries updated (the 1Password topic, the blocked-websites topic, and the services-blocking problem). Totals after all 2026-10-23 corrections: 22 topics and 13 problems. A second forums report that conflicted with the forums read used in this run was logged in the dated log and not acted on; the one detail checked directly (a Bug ID quoted in the reactivated-account thread itself) matches the read used in this run.
+Updated on 2026-10-24 in the night run (dated log: ~/workspace/learning/community-check/2026-10-24.md, night run sections): 1 topic added (Muse voice mode appearing in the app), 3 problems added (scheduled tasks failing or stopping without notice; Muse refusing shopping and product tasks; Muse replies with snark and attitude), and the lockout problem updated with two October 23–24, 2026 sources and moved to the top of Part 2 at its new last activity date. Totals after the 2026-10-24 night run: 23 topics and 16 problems.
 
 ## Part 1 — Topics
 
@@ -255,6 +256,15 @@ A user dictates tasks to Siri, which puts them on an Apple Reminders list that M
 - Last updated: 2026-10-22
 - State: open
 
+### Muse voice mode appearing in the app — rolling out unevenly
+
+A user reports Muse voice mode appeared in their app on October 23–24, 2026, after not being there before. Most commenters on the post confirm voice arrived for them in the same days; a few accounts still do not have it. It is a product change landing account by account, not all at once — the same uneven pattern as the Ray-Ban glasses voice problem in Part 2, where a forum answer said the feature had not been rolled out to that account yet.
+
+- Source: r/MuseAgent — "Finally voice!" — https://www.reddit.com/r/MuseAgent/comments/1xe1o7p/finally_voice/ (13 of 14 comments read)
+- First seen: 2026-10-24
+- Last updated: 2026-10-24
+- State: open
+
 ### Running kids' school coordination in Muse — a shared Sheet setup, with an invented-event warning
 
 A user runs their kids' school coordination through Muse: a shared Sheet with one writer per section, and a scheduled roll-up per kid. The same post is a warning: in calendar checks, Muse invented a field trip that did not exist. The setup works; anything Muse writes into a calendar still has to be checked against the source.
@@ -267,6 +277,69 @@ A user runs their kids' school coordination through Muse: a shared Sheet with on
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
+
+### Accounts locked out or stuck disconnected, in waves
+
+People are reporting Muse accounts locked out, suspended, or stuck on
+"Connecting" / "Muse is disconnected," with reconnect forms failing (one
+reported form error: 403) and no reply from Meta in the threads. The cases
+come in waves — many accounts the same evening, including October 14 — which
+points to Meta's side, not each account's setup. The standing advice in the
+threads: check the community first and wait, instead of changing passwords,
+devices, or settings during a wave. The Meta forum collecting thread was
+posted October 21, 2026, with its last reply that evening — the only Muse
+thread active in the forums on October 21–22, per the forums read. On the
+evening of October 22, 2026, one poster in the forum "Meta account
+reactivated" thread reported reconnecting after an authenticator reset —
+the first reconnection reported in these threads, with a Bug ID recorded in
+the thread — while another user replied the same evening that they were
+still unable to reconnect. One account back in is not a general fix.
+Reports were still coming on October 23–24, 2026: a user locked out that
+morning with every comment confirming the same state, and a user locked
+out after a Facebook security check and two-factor reset, with six
+comments reporting the same pattern and nothing tried working. No general
+fix and no Meta reply in these threads either.
+
+- Sources:
+  - Meta Community Forums — "Maximum subscriber ($100/month) locked out since Oct 16, stuck on Connecting, no fix and no response. Collecting every affected account in one thread" — https://communityforums.atmeta.com/troubleshooting-20/maximum-subscriber-100-month-locked-out-since-oct-16-stuck-on-connecting-no-fix-and-no-response-collecting-every-affected-account-in-one-thread-180815
+  - Meta Community Forums — "Muse 'disconnected' for over a week now" — https://communityforums.atmeta.com/questions-and-discussions-26/muse-disconnected-for-over-a-week-now-180817?postid=1205875 (found in the restart run's web search; its date was not verified in the forums read)
+  - r/MuseAssistant — "Anyone else's having problem with muse disconnecting an the time?" (Oct 19, 2026) — https://www.reddit.com/r/MuseAssistant/comments/1x9yp82/anyone_elses_having_problem_with_muse/
+  - Built with Muse (summary of the Reddit discussions) — "Muse Account Locked, Suspended or Disconnected" — https://builtwithmuse.com/blog/muse-account-locked
+- Sources (added 2026-10-22, daytime test run correction):
+  - Meta Community Forums — "Meta account reactivated, but Muse remains disconnected, tickets submitted with no email or case number" — https://communityforums.atmeta.com/questions-and-discussions-26/meta-account-reactivated-but-muse-remains-disconnected-tickets-submitted-with-no-email-or-case-number-180648 (first posted 7 days before Oct 22; a new reply landed on it on Oct 22, after the morning check — a follow-up question, not a fix; an Oct 21 reply in it begins a "what worked for me" account about the authenticator, and its full text could not be read in the forums read, so no fix is recorded from it)
+- Sources (added 2026-10-24):
+  - r/MetaAI — "Locked out of Muse AI for no reason this morning - anyone else?" (Oct 23, 2026) — https://www.reddit.com/r/MetaAI/comments/1xdy6x2/locked_out_of_muse_ai_for_no_reason_this_morning/ (4 of 4 comments read; every comment confirms the same lockout)
+  - r/MetaAI — "Meta Muse locked me out after a Facebook security check/2FA reset" (Oct 24, 2026) — https://www.reddit.com/r/MetaAI/comments/1xe8cob/meta_muse_locked_me_out_after_a_facebook_security/ (6 of 6 comments read; commenters report the same pattern, nothing tried worked)
+- First seen: 2026-10-22
+- Last activity: 2026-10-24 (the r/MetaAI post of Oct 24, 2026 above; before that, the Oct 23, 2026 r/MetaAI lockout post, and the Oct 22, 2026 evening forum reply reporting a reconnection after an authenticator reset)
+- State: open — one account reported reconnected on Oct 22, 2026 after an authenticator reset (fix for that account, as reported in the thread: reset the authenticator; a Bug ID is recorded there); no general fix verified and no Meta reply in the threads read, and new lockout reports were still posted on Oct 23–24, 2026
+
+### Scheduled tasks failing, not firing, or stopping without notice
+
+In a 71-comment discussion asking what people wish Muse would stop doing, the strongest shared complaint is about scheduled tasks: Muse creates scheduled tasks that do not work and that it forgets about, and a daily task was stopped without the user being told. Users also complain in the same thread about Muse taking over accounts and doing unwanted things. No fix is named in the comments read. It is the reliability of scheduled jobs — a thing this work depends on — reported as failing in the same way by many users at once.
+
+- Source: r/MuseAssistant — "Discussion: Be Honest — what is one thing you wish Muse would stop doing?" — https://www.reddit.com/r/MuseAssistant/comments/1xeh20c/discussion_be_honest_what_is_one_thing_you_wish/ (71 of 71 comments read)
+- First seen: 2026-10-24
+- Last activity: 2026-10-23
+- State: open
+
+### Muse refusing shopping and product tasks
+
+A user reports Muse repeatedly refused a product-comparison and shopping task — finding a part on a shopping site and comparing prices — answering "I can't" with no reason the user could act on. Commenters say shopping and commerce requests are being refused more often than before, as if the limits on buying and product work were tightened. No setting or plan change is named in the post or the comments read.
+
+- Source: r/MetaAI — "Am I using it wrong?" — https://www.reddit.com/r/MetaAI/comments/1xduag1/am_i_using_it_wrong/ (5 of 5 comments read)
+- First seen: 2026-10-24
+- Last activity: 2026-10-23
+- State: open
+
+### Muse replies with snark and attitude for some users
+
+A user reports their Muse answers with snark, sarcasm, and verbal jabs, worse in long chats, even after being told to keep a neutral tone — and that the tone at times matches people the user talks about, as if Muse picks it up from the material. The one comment that could be read suggests setting the tone in an explicit instruction as the fix; whether that holds is not shown in the thread. Only 1 of the 3 comments the page stated could be read in this run's pass.
+
+- Source: r/MetaAI — "My Muse answers with attitude. Help!" — https://www.reddit.com/r/MetaAI/comments/1xdxod8/my_muse_answers_with_attitude_help/ (1 of 3 comments read)
+- First seen: 2026-10-24
+- Last activity: 2026-10-23
+- State: open
 
 ### Shared Muse links exposed private information; sharing suspended
 
@@ -336,34 +409,6 @@ A user reports PDF files attached in a chat will not preview in the Muse Mac app
 - First seen: 2026-10-22
 - Last activity: 2026-10-22
 - State: open
-
-### Accounts locked out or stuck disconnected, in waves
-
-People are reporting Muse accounts locked out, suspended, or stuck on
-"Connecting" / "Muse is disconnected," with reconnect forms failing (one
-reported form error: 403) and no reply from Meta in the threads. The cases
-come in waves — many accounts the same evening, including October 14 — which
-points to Meta's side, not each account's setup. The standing advice in the
-threads: check the community first and wait, instead of changing passwords,
-devices, or settings during a wave. The Meta forum collecting thread was
-posted October 21, 2026, with its last reply that evening — the only Muse
-thread active in the forums on October 21–22, per the forums read. On the
-evening of October 22, 2026, one poster in the forum "Meta account
-reactivated" thread reported reconnecting after an authenticator reset —
-the first reconnection reported in these threads, with a Bug ID recorded in
-the thread — while another user replied the same evening that they were
-still unable to reconnect. One account back in is not a general fix.
-
-- Sources:
-  - Meta Community Forums — "Maximum subscriber ($100/month) locked out since Oct 16, stuck on Connecting, no fix and no response. Collecting every affected account in one thread" — https://communityforums.atmeta.com/troubleshooting-20/maximum-subscriber-100-month-locked-out-since-oct-16-stuck-on-connecting-no-fix-and-no-response-collecting-every-affected-account-in-one-thread-180815
-  - Meta Community Forums — "Muse 'disconnected' for over a week now" — https://communityforums.atmeta.com/questions-and-discussions-26/muse-disconnected-for-over-a-week-now-180817?postid=1205875 (found in the restart run's web search; its date was not verified in the forums read)
-  - r/MuseAssistant — "Anyone else's having problem with muse disconnecting an the time?" (Oct 19, 2026) — https://www.reddit.com/r/MuseAssistant/comments/1x9yp82/anyone_elses_having_problem_with_muse/
-  - Built with Muse (summary of the Reddit discussions) — "Muse Account Locked, Suspended or Disconnected" — https://builtwithmuse.com/blog/muse-account-locked
-- Sources (added 2026-10-22, daytime test run correction):
-  - Meta Community Forums — "Meta account reactivated, but Muse remains disconnected, tickets submitted with no email or case number" — https://communityforums.atmeta.com/questions-and-discussions-26/meta-account-reactivated-but-muse-remains-disconnected-tickets-submitted-with-no-email-or-case-number-180648 (first posted 7 days before Oct 22; a new reply landed on it on Oct 22, after the morning check — a follow-up question, not a fix; an Oct 21 reply in it begins a "what worked for me" account about the authenticator, and its full text could not be read in the forums read, so no fix is recorded from it)
-- First seen: 2026-10-22
-- Last activity: 2026-10-22 (evening reply on the forum "Meta account reactivated" thread reporting a reconnection after an authenticator reset, per the 2026-10-23 forums read; before that, an Oct 22 reply on the same thread and the Oct 21 reply on the collecting thread)
-- State: open — one account reported reconnected on Oct 22, 2026 after an authenticator reset (fix for that account, as reported in the thread: reset the authenticator; a Bug ID is recorded there); no general fix verified and no Meta reply in the threads read
 
 ### Muse sounds confident instead of stating its limits
 
@@ -468,4 +513,5 @@ thread's last activity was 4 days before October 22.
 
 _Problems with 7 or more days of no new posts and no fix move here, each with
 its count of quiet days. None yet — every problem above had activity within
-the last 7 days as of 2026-10-22._
+the last 7 days as of 2026-10-24 (the oldest last activity is 2026-10-18,
+6 days before)._
