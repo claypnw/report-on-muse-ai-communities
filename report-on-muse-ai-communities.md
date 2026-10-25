@@ -15,6 +15,7 @@ Corrected the same day (2026-10-23): the run first used a detailed r/MuseAssista
 Later the same day (2026-10-23), the missing r/MetaAI entries and the r/MuseAgent report arrived and were judged: 5 more topics and 1 more problem added, and 3 entries updated (the 1Password topic, the blocked-websites topic, and the services-blocking problem). Totals after all 2026-10-23 corrections: 22 topics and 13 problems. A second forums report that conflicted with the forums read used in this run was logged in the dated log and not acted on; the one detail checked directly (a Bug ID quoted in the reactivated-account thread itself) matches the read used in this run.
 Updated on 2026-10-24 in the night run (dated log: ~/workspace/learning/community-check/2026-10-24.md, night run sections): 1 topic added (Muse voice mode appearing in the app), 3 problems added (scheduled tasks failing or stopping without notice; Muse refusing shopping and product tasks; Muse replies with snark and attitude), and the lockout problem updated with two October 23–24, 2026 sources and moved to the top of Part 2 at its new last activity date. Totals after the 2026-10-24 night run: 23 topics and 16 problems.
 Corrected on 2026-10-25 when the browser pass's final report arrived (the night run had been judged on an interim report received at 23:47; the final report, task run 2026-10-24 22:57 to 2026-10-25 00:15 Arizona time, supersedes it — see the correction section of the 2026-10-24 dated log): the 3 problems added in the night run rested only on the interim report and are removed; the voice topic is corrected (61 of 61 comments on its main source) and gains three sources; the lockout problem's two added sources are corrected (the r/MuseAgent original added, the r/MetaAI comment count corrected to 2 of 2, one interim-only source removed, and the poster's conflicting restored / still-waiting updates recorded); the services-blocking problem gains two October 24, 2026 sources and moves up at last activity 2026-10-24; 1 topic added (automating a job search with Muse) and 1 problem added (Muse forgetting tasks and losing track on long jobs). Totals after this correction: 24 topics and 14 problems.
+Updated on 2026-10-25 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-25.md, second correction section): 1 topic added (Tailscale safety for a Muse-connected home computer — ACL tags, not your own account), from the one comment that arrived on the home-PC post after the Oct 24 passes. That run was first judged on an interim browser report and then on a no-record first pass; the browser pass's final report (runtime-measured run 2026-10-25 12:30–12:43 AM Arizona time) superseded both, the same pattern as the night before. Totals after this update: 25 topics and 14 problems.
 
 ## Part 1 — Topics
 
@@ -285,6 +286,15 @@ A soon-to-be-unemployed engineer asks how others automate job hunting with Muse,
 - Source: r/MuseAgent — "anyone using Muse to automate their job search?" — https://www.reddit.com/r/MuseAgent/comments/1xeghdx/anyone_using_muse_to_automate_their_job_search/ (42 of 58 comments read)
 - First seen: 2026-10-24
 - Last updated: 2026-10-24
+- State: open
+
+### Tailscale safety for a Muse-connected home computer — ACL tags, not your own account
+
+A user who wired Muse's cloud computer to their home PC through Tailscale got a warning in the comments: if the cloud computer is signed into Tailscale with your own account, the agent can reach across your whole tailnet and, through your normal SSH user, your files and credentials. The fix named in the comment is to give the machine its own identity with Tailscale ACL tags, so any damage is confined to one build account on one machine. It is a safety limit on the same Tailscale road other topics in this report use to reach a home computer.
+
+- Source: r/MuseAssistant — "I wired my cloud assistant to my home PC tonight, and it finally feels right" — https://www.reddit.com/r/MuseAssistant/comments/1xeqt68/i_wired_my_cloud_assistant_to_my_home_pc_tonight/ (comment by u/rippednfaded, Oct 24, 2026, 11:07 PM Arizona time; 1 of 1 comments read)
+- First seen: 2026-10-25
+- Last updated: 2026-10-25
 - State: open
 
 ## Part 2 — Problems
