@@ -14,6 +14,7 @@ Updated on 2026-10-23 in the daily run (dated log: ~/workspace/learning/communit
 Corrected the same day (2026-10-23): the run first used a detailed r/MuseAssistant pass report listing 11 in-window posts; a later handoff for the same pass and a fresh verification read of the r/MuseAssistant New listing both showed 0 posts in the window (newest post Oct 22, 2026 9:36 AM Arizona time), so the detailed report did not stand. The 2 problems and 1 added source that rested only on it were removed the same day; the corrected counts are the ones in the first line of this note.
 Later the same day (2026-10-23), the missing r/MetaAI entries and the r/MuseAgent report arrived and were judged: 5 more topics and 1 more problem added, and 3 entries updated (the 1Password topic, the blocked-websites topic, and the services-blocking problem). Totals after all 2026-10-23 corrections: 22 topics and 13 problems. A second forums report that conflicted with the forums read used in this run was logged in the dated log and not acted on; the one detail checked directly (a Bug ID quoted in the reactivated-account thread itself) matches the read used in this run.
 Updated on 2026-10-24 in the night run (dated log: ~/workspace/learning/community-check/2026-10-24.md, night run sections): 1 topic added (Muse voice mode appearing in the app), 3 problems added (scheduled tasks failing or stopping without notice; Muse refusing shopping and product tasks; Muse replies with snark and attitude), and the lockout problem updated with two October 23–24, 2026 sources and moved to the top of Part 2 at its new last activity date. Totals after the 2026-10-24 night run: 23 topics and 16 problems.
+Corrected on 2026-10-25 when the browser pass's final report arrived (the night run had been judged on an interim report received at 23:47; the final report, task run 2026-10-24 22:57 to 2026-10-25 00:15 Arizona time, supersedes it — see the correction section of the 2026-10-24 dated log): the 3 problems added in the night run rested only on the interim report and are removed; the voice topic is corrected (61 of 61 comments on its main source) and gains three sources; the lockout problem's two added sources are corrected (the r/MuseAgent original added, the r/MetaAI comment count corrected to 2 of 2, one interim-only source removed, and the poster's conflicting restored / still-waiting updates recorded); the services-blocking problem gains two October 24, 2026 sources and moves up at last activity 2026-10-24; 1 topic added (automating a job search with Muse) and 1 problem added (Muse forgetting tasks and losing track on long jobs). Totals after this correction: 24 topics and 14 problems.
 
 ## Part 1 — Topics
 
@@ -258,9 +259,12 @@ A user dictates tasks to Siri, which puts them on an Apple Reminders list that M
 
 ### Muse voice mode appearing in the app — rolling out unevenly
 
-A user reports Muse voice mode appeared in their app on October 23–24, 2026, after not being there before. Most commenters on the post confirm voice arrived for them in the same days; a few accounts still do not have it. It is a product change landing account by account, not all at once — the same uneven pattern as the Ray-Ban glasses voice problem in Part 2, where a forum answer said the feature had not been rolled out to that account yet.
+Users report Muse voice mode — live two-way voice conversation — arriving in the app on October 23–24, 2026, account by account. In the largest thread, all 61 comments are a roll call of who has it (free and paid, mostly in the US, several after an app update or an early-access request) and who is still waiting. A mapping thread's own tally of 24 reports found that paid status does not predict who has voice, and every report of having it was US-based. One early user describes the voice working through Ray-Ban Meta glasses speakers and microphone, with no direct glasses gateway yet. It is a product change landing unevenly — the same pattern as the Ray-Ban glasses voice problem in Part 2, where a forum answer said the feature had not been rolled out to that account yet.
 
-- Source: r/MuseAgent — "Finally voice!" — https://www.reddit.com/r/MuseAgent/comments/1xe1o7p/finally_voice/ (13 of 14 comments read)
+- Source: r/MuseAgent — "Finally voice!" — https://www.reddit.com/r/MuseAgent/comments/1xe1o7p/finally_voice/ (61 of 61 comments read; posted Oct 23, 2026, 11:50 PM Arizona time)
+- Source: r/MuseAgent — "Voice is rolling out in waves, let's map it" — https://www.reddit.com/r/MuseAgent/comments/1xe49er/voice_is_rolling_out_in_waves_lets_map_it/ (33 of 49 comments read)
+- Source: r/MetaAI — "Muse can talk now — real two-way voice conversation is live for some of us, and it's wonderful" — https://www.reddit.com/r/MetaAI/comments/1xel7d7/muse_can_talk_now_real_twoway_voice_conversation/ (12 of 13 comments read)
+- Source: r/MuseAgent — "Muse Voice first impression" — https://www.reddit.com/r/MuseAgent/comments/1xeqqn3/muse_voice_first_impression/ (4 of 4 comments read; the poster finds this first version plain and is still waiting on glasses integration)
 - First seen: 2026-10-24
 - Last updated: 2026-10-24
 - State: open
@@ -272,6 +276,15 @@ A user runs their kids' school coordination through Muse: a shared Sheet with on
 - Source: r/MuseAgent — "Muse Dealing with So Much Kids' School Stuff" — https://www.reddit.com/r/MuseAgent/comments/1xd3lyv/muse_dealing_with_so_much_kids_school_stuff/
 - First seen: 2026-10-23
 - Last updated: 2026-10-22
+- State: open
+
+### Automating a job search with Muse
+
+A soon-to-be-unemployed engineer asks how others automate job hunting with Muse, and dozens of commenters describe agents sweeping job boards and applying on their behalf — several reaching interviews, and at least one a landed offer. The shared friction is at the end of the run: refusals at the final submit step, approvals needed for resume uploads, and trouble getting into LinkedIn. People are working around the same last-step problem in different ways, and no settled way is named in the comments read.
+
+- Source: r/MuseAgent — "anyone using Muse to automate their job search?" — https://www.reddit.com/r/MuseAgent/comments/1xeghdx/anyone_using_muse_to_automate_their_job_search/ (42 of 58 comments read)
+- First seen: 2026-10-24
+- Last updated: 2026-10-24
 - State: open
 
 ## Part 2 — Problems
@@ -294,11 +307,14 @@ reactivated" thread reported reconnecting after an authenticator reset —
 the first reconnection reported in these threads, with a Bug ID recorded in
 the thread — while another user replied the same evening that they were
 still unable to reconnect. One account back in is not a general fix.
-Reports were still coming on October 23–24, 2026: a user locked out that
-morning with every comment confirming the same state, and a user locked
-out after a Facebook security check and two-factor reset, with six
-comments reporting the same pattern and nothing tried working. No general
-fix and no Meta reply in these threads either.
+Reports were still coming on October 23–24, 2026: a paying subscriber was
+locked out after a Facebook security alert which he believes Muse's own
+activity triggered, despite verifying his ID and sending three feedback
+tickets. On the r/MetaAI copy of his post he later commented that the
+account was restored, while his October 24, 2026 update on the
+r/MuseAgent original says support still had not responded — the poster's
+two updates do not agree, and both are recorded here as they stand. One
+commenter in the thread says his own recovery took about three days.
 
 - Sources:
   - Meta Community Forums — "Maximum subscriber ($100/month) locked out since Oct 16, stuck on Connecting, no fix and no response. Collecting every affected account in one thread" — https://communityforums.atmeta.com/troubleshooting-20/maximum-subscriber-100-month-locked-out-since-oct-16-stuck-on-connecting-no-fix-and-no-response-collecting-every-affected-account-in-one-thread-180815
@@ -308,35 +324,45 @@ fix and no Meta reply in these threads either.
 - Sources (added 2026-10-22, daytime test run correction):
   - Meta Community Forums — "Meta account reactivated, but Muse remains disconnected, tickets submitted with no email or case number" — https://communityforums.atmeta.com/questions-and-discussions-26/meta-account-reactivated-but-muse-remains-disconnected-tickets-submitted-with-no-email-or-case-number-180648 (first posted 7 days before Oct 22; a new reply landed on it on Oct 22, after the morning check — a follow-up question, not a fix; an Oct 21 reply in it begins a "what worked for me" account about the authenticator, and its full text could not be read in the forums read, so no fix is recorded from it)
 - Sources (added 2026-10-24):
-  - r/MetaAI — "Locked out of Muse AI for no reason this morning - anyone else?" (Oct 23, 2026) — https://www.reddit.com/r/MetaAI/comments/1xdy6x2/locked_out_of_muse_ai_for_no_reason_this_morning/ (4 of 4 comments read; every comment confirms the same lockout)
-  - r/MetaAI — "Meta Muse locked me out after a Facebook security check/2FA reset" (Oct 24, 2026) — https://www.reddit.com/r/MetaAI/comments/1xe8cob/meta_muse_locked_me_out_after_a_facebook_security/ (6 of 6 comments read; commenters report the same pattern, nothing tried worked)
+  - r/MuseAgent — "Meta Muse Locked Me Out After a Facebook Security Alert. Has Anyone Successfully Recovered Their Agent?" (Oct 23, 2026) — https://www.reddit.com/r/MuseAgent/comments/1xdy0aa/meta_muse_locked_me_out_after_a_facebook_security/ (14 of 14 comments read; the poster's Oct 24, 2026 update in this thread says support still had not responded)
+  - r/MetaAI — "Meta Muse Locked Me Out After a Facebook Security Alert. Has Anyone Successfully Recovered Their Agent?" (Oct 24, 2026; the same poster's post in r/MetaAI) — https://www.reddit.com/r/MetaAI/comments/1xe8cob/meta_muse_locked_me_out_after_a_facebook_security/ (2 of 2 comments read; in the comments there the poster reported the account was restored)
 - First seen: 2026-10-22
-- Last activity: 2026-10-24 (the r/MetaAI post of Oct 24, 2026 above; before that, the Oct 23, 2026 r/MetaAI lockout post, and the Oct 22, 2026 evening forum reply reporting a reconnection after an authenticator reset)
-- State: open — one account reported reconnected on Oct 22, 2026 after an authenticator reset (fix for that account, as reported in the thread: reset the authenticator; a Bug ID is recorded there); no general fix verified and no Meta reply in the threads read, and new lockout reports were still posted on Oct 23–24, 2026
+- Last activity: 2026-10-24 (the poster's Oct 24, 2026 update on the r/MuseAgent thread above; before that, the Oct 23, 2026 lockout posts, and the Oct 22, 2026 evening forum reply reporting a reconnection after an authenticator reset)
+- State: open — one account reported reconnected on Oct 22, 2026 after an authenticator reset (fix for that account, as reported in the thread: reset the authenticator; a Bug ID is recorded there); the Oct 23–24, 2026 Facebook-alert case was reported restored by the poster on one copy of his post and still unanswered by support in his update on the other copy the same evening; no general fix verified and no Meta reply in the threads read
 
-### Scheduled tasks failing, not firing, or stopping without notice
+### Services blocking Muse, or flagging accounts after Muse acts
 
-In a 71-comment discussion asking what people wish Muse would stop doing, the strongest shared complaint is about scheduled tasks: Muse creates scheduled tasks that do not work and that it forgets about, and a daily task was stopped without the user being told. Users also complain in the same thread about Muse taking over accounts and doing unwanted things. No fix is named in the comments read. It is the reliability of scheduled jobs — a thing this work depends on — reported as failing in the same way by many users at once.
+Alongside the Google case below, users report services pushing back on Muse:
+after Muse ran tasks and posted on Facebook, Facebook flagged "unusual
+activity," logged the poster out everywhere, disconnected Muse, and required
+an ID upload; and insurance sites would not connect to Muse's browser even
+through a camouflaged browser. Posts just outside the window point the same
+way — "Blocked" (Oct 19) and "Banned from Walmart+ Now" (Oct 20) in
+r/MuseAgent. On October 22, 2026, eBay was named too: its Akamai check blocks
+Muse's browser, and a commenter suggests going through an open-source eBay
+MCP server instead of the browser. On October 24, 2026, a user meal-planning
+and ordering weekly groceries from Walmart.ca hit a PerimeterX press-and-hold
+check at nearly every click; routing through a home computer did the same
+thing for that user, while a commenter said it worked fine in the US. The
+same day, in a large thread about buying through Muse, most commenters
+reported completed purchases, and several said Amazon blocks Muse.
 
-- Source: r/MuseAssistant — "Discussion: Be Honest — what is one thing you wish Muse would stop doing?" — https://www.reddit.com/r/MuseAssistant/comments/1xeh20c/discussion_be_honest_what_is_one_thing_you_wish/ (71 of 71 comments read)
-- First seen: 2026-10-24
-- Last activity: 2026-10-23
+- Sources:
+  - r/MuseAgent — "What is going on Facebook?" — https://www.reddit.com/r/MuseAgent/comments/1xboso4/what_is_going_on_facebook/
+  - r/MuseAgent — "Tried using Muse to shop for Insurance" — https://www.reddit.com/r/MuseAgent/comments/1xbrtql/tried_using_muse_to_shop_for_insurance/
+  - r/MuseAgent — "Bypassing websites blocking Muse in its browser" (Oct 22, 2026) — https://www.reddit.com/r/MuseAgent/comments/1xcpvop/bypassing_websites_blocking_muse_in_its_browser/ — users report working ways past the blocks; the setups are recorded as a topic in Part 1
+  - r/MuseAgent — "Ebay blocked Muse?" (Oct 22, 2026; added 2026-10-23) — https://www.reddit.com/r/MuseAgent/comments/1xd4udu/ebay_blocked_muse/ — eBay's Akamai check blocks Muse; a commenter suggests an open-source eBay MCP server instead of the browser or a VPN (5 of 8 comments read)
+  - r/MuseAgent — "Grocery at Walmart" (Oct 24, 2026; added 2026-10-24) — https://www.reddit.com/r/MuseAgent/comments/1xedkwt/grocery_at_walmart/ (7 of 7 comments read)
+  - r/MuseAgent — "Are you guys purchasing with Muse?" (Oct 24, 2026; added 2026-10-24) — https://www.reddit.com/r/MuseAgent/comments/1xeq35b/are_you_guys_purchasing_with_muse/ (38 of 39 comments read; most report completed purchases, several say Amazon blocks Muse)
+- First seen: 2026-10-22
+- Last activity: 2026-10-24
 - State: open
 
-### Muse refusing shopping and product tasks
+### Muse forgetting tasks and losing track on long jobs
 
-A user reports Muse repeatedly refused a product-comparison and shopping task — finding a part on a shopping site and comparing prices — answering "I can't" with no reason the user could act on. Commenters say shopping and commerce requests are being refused more often than before, as if the limits on buying and product work were tightened. No setting or plan change is named in the post or the comments read.
+A user asks whether Muse is getting worse: theirs lately forgets tasks until prodded, takes minutes to answer, and says it is working when it is not — and paying for the $20 plan did not help. Most commenters agree, naming forgotten tasks and drift on long tasks; several blame oversized single chats and advise splitting work into topic side chats, and a few report no problems. No cause and no fix from Meta is named in the comments read.
 
-- Source: r/MetaAI — "Am I using it wrong?" — https://www.reddit.com/r/MetaAI/comments/1xduag1/am_i_using_it_wrong/ (5 of 5 comments read)
-- First seen: 2026-10-24
-- Last activity: 2026-10-23
-- State: open
-
-### Muse replies with snark and attitude for some users
-
-A user reports their Muse answers with snark, sarcasm, and verbal jabs, worse in long chats, even after being told to keep a neutral tone — and that the tone at times matches people the user talks about, as if Muse picks it up from the material. The one comment that could be read suggests setting the tone in an explicit instruction as the fix; whether that holds is not shown in the thread. Only 1 of the 3 comments the page stated could be read in this run's pass.
-
-- Source: r/MetaAI — "My Muse answers with attitude. Help!" — https://www.reddit.com/r/MetaAI/comments/1xdxod8/my_muse_answers_with_attitude_help/ (1 of 3 comments read)
+- Source: r/MuseAgent — "Is Muse getting dumber?" — https://www.reddit.com/r/MuseAgent/comments/1xdiyp1/is_muse_getting_dumber/ (30 of 44 comments read)
 - First seen: 2026-10-24
 - Last activity: 2026-10-23
 - State: open
@@ -423,27 +449,6 @@ of truth. It is a truth and checking-claims problem other users are hitting.
   - r/MuseAgent (original) — https://www.reddit.com/r/MuseAgent/comments/1xbogag/ma_muse_me_gaslight_et_priorise_être_rapide_et/
 - First seen: 2026-10-22
 - Last activity: 2026-10-21
-- State: open
-
-### Services blocking Muse, or flagging accounts after Muse acts
-
-Alongside the Google case below, users report services pushing back on Muse:
-after Muse ran tasks and posted on Facebook, Facebook flagged "unusual
-activity," logged the poster out everywhere, disconnected Muse, and required
-an ID upload; and insurance sites would not connect to Muse's browser even
-through a camouflaged browser. Posts just outside the window point the same
-way — "Blocked" (Oct 19) and "Banned from Walmart+ Now" (Oct 20) in
-r/MuseAgent. On October 22, 2026, eBay was named too: its Akamai check blocks
-Muse's browser, and a commenter suggests going through an open-source eBay
-MCP server instead of the browser.
-
-- Sources:
-  - r/MuseAgent — "What is going on Facebook?" — https://www.reddit.com/r/MuseAgent/comments/1xboso4/what_is_going_on_facebook/
-  - r/MuseAgent — "Tried using Muse to shop for Insurance" — https://www.reddit.com/r/MuseAgent/comments/1xbrtql/tried_using_muse_to_shop_for_insurance/
-  - r/MuseAgent — "Bypassing websites blocking Muse in its browser" (Oct 22, 2026) — https://www.reddit.com/r/MuseAgent/comments/1xcpvop/bypassing_websites_blocking_muse_in_its_browser/ — users report working ways past the blocks; the setups are recorded as a topic in Part 1
-  - r/MuseAgent — "Ebay blocked Muse?" (Oct 22, 2026; added 2026-10-23) — https://www.reddit.com/r/MuseAgent/comments/1xd4udu/ebay_blocked_muse/ — eBay's Akamai check blocks Muse; a commenter suggests an open-source eBay MCP server instead of the browser or a VPN (5 of 8 comments read)
-- First seen: 2026-10-22
-- Last activity: 2026-10-22
 - State: open
 
 ### Background connection keeps dropping
