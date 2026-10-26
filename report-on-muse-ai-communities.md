@@ -18,6 +18,7 @@ Corrected on 2026-10-25 when the browser pass's final report arrived (the night 
 Updated on 2026-10-25 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-25.md, second correction section): 1 topic added (Tailscale safety for a Muse-connected home computer — ACL tags, not your own account), from the one comment that arrived on the home-PC post after the Oct 24 passes. That run was first judged on an interim browser report and then on a no-record first pass; the browser pass's final report (runtime-measured run 2026-10-25 12:30–12:43 AM Arizona time) superseded both, the same pattern as the night before. Totals after this update: 25 topics and 14 problems.
 Updated on 2026-10-25 in the night run (dated log: ~/workspace/learning/community-check/2026-10-25.md, night run sections): 2 topics added (proactive notifications people are asking Muse for; a skill that invents tiny regrets from yesterday). Totals after this update: 27 topics and 14 problems.
 Corrected the same night (2026-10-25) when the browser pass's final report arrived (the night run had been judged on interim reports — see the correction section of the 2026-10-25 dated log): the 2 topics added in the night run are removed (the proactive-notifications entry rested on a post that does not exist in r/MuseAssistant; the tiny-regrets entry's facts did not stand on re-read and the final report judged it not useful); 6 topics and 2 problems are added from the final report. Totals after this correction: 31 topics and 16 problems.
+Updated on 2026-10-26 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-26.md): 2 topics added (Muse for Windows — the first Muse desktop app, and Muse Spark available; Muse making and receiving calls and texts, with a person as the final checker), and the Ray-Ban Meta Gen 3 glasses problem (last activity 2026-10-18, no activity in 8 days) moved to the Quiet problems list. Totals after this update: 33 topics and 16 problems, 1 of them quiet. The run's first sections were written as Reddit no-record because the browser pass report had not arrived after 18 minutes; the pass's complete report then arrived and the correction section of the dated log is the standing record for the Reddit sources.
 
 ## Part 1 — Topics
 
@@ -353,6 +354,24 @@ A user asks whether they are missing out by not using Gmail as their main mail, 
 - Last updated: 2026-10-25
 - State: open
 
+### Muse for Windows — the first Muse desktop app, and Muse Spark available
+
+A post announces two product changes together: Muse Spark is now available, and Muse for Windows, a desktop app for Windows 10 and 11, has been released — the first Muse desktop app, with the Mac still browser-only for now, in the post's words. Commenters include a link to the Windows app and a hands-on report praising its speed, and one skeptic asks why a desktop app is needed when the browser already works, with an early-issues reply from an agent. The same announcement was posted in all three groups checked; only the r/MuseAgent copy had comments.
+
+- Source: r/MuseAgent — "Muse Spark is now available + Introducing Muse for Windows app" — https://www.reddit.com/r/MuseAgent/comments/1xfswys/muse_spark_is_now_available_introducing_muse_for/ (3 of 4 comments read; posted Oct 26, 2026, 00:57 Arizona time)
+- First seen: 2026-10-26
+- Last updated: 2026-10-26
+- State: open
+
+### Muse making and receiving calls and texts, with a person as the final checker
+
+A user describes Muse making and receiving calls and texts on their behalf: an inbound call from a hotel about a late check-in, which Muse handled, and outbound negotiating — with a car dealership over an out-the-door price and with an internet provider that had raised its price. In the comments read in the full pass, the same account works long tasks in steps: checking in at each step, drafting messages for the person to review, confirming who it is talking to, and keeping the person as the final checker before anything is paid or sent; other commenters add the limits they have seen, including dropped calls and wrong contacts when a task was left vague. It is a working pattern for long tasks: the agent does the legwork, and a person stays in control of the last step.
+
+- Source: r/MetaAI — "Muse can now make and receive calls and texts on your behalf" — https://www.reddit.com/r/MetaAI/comments/1xfsu2b/muse_can_now_make_and_receive_calls_and_texts_on/ (10 of 11 comments read; posted Oct 26, 2026, 00:47 Arizona time)
+- First seen: 2026-10-26
+- Last updated: 2026-10-26
+- State: open
+
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
@@ -583,7 +602,12 @@ morning restored the account.
 - Last activity: 2026-10-21
 - State: solved for the reported case — fix: appeal to Google; the account was restored the next morning (per the post, via the browser read)
 
-### Muse voice option missing for Ray-Ban Meta Gen 3 glasses
+### Quiet problems
+
+_Problems with 7 or more days of no new posts and no fix move here, each with
+its count of quiet days._
+
+### Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 8 days
 
 A buyer of Ray-Ban Meta Wayfarer Gen 3 glasses reports the Muse app lists only
 their phone under Settings > Devices, says it cannot load devices, and offers
@@ -592,16 +616,11 @@ in the Meta AI app, under one Meta account. Meta Store Support and Ray-Ban
 Customer Care said they cannot push the entitlement; escalations on October 7
 and 8, 2026, had no answer yet in the thread. A forum answer says the feature
 has not been rolled out to that account yet. The forums read confirms this
-thread's last activity was 4 days before October 22.
+thread's last activity was 4 days before October 22. Moved to the quiet list on
+2026-10-26: no activity in 8 days (last activity 2026-10-18, and the forums
+check on 2026-10-26 still shows that thread last updated 8 days ago).
 
 - Source: Meta Community Forums — "Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app" — https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708
 - First seen: 2026-10-22
 - Last activity: 2026-10-18
 - State: open
-
-### Quiet problems
-
-_Problems with 7 or more days of no new posts and no fix move here, each with
-its count of quiet days. None yet — every problem above had activity within
-the last 7 days as of 2026-10-24 (the oldest last activity is 2026-10-18,
-6 days before)._
