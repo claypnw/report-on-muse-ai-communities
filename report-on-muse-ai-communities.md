@@ -16,6 +16,7 @@ Later the same day (2026-10-23), the missing r/MetaAI entries and the r/MuseAgen
 Updated on 2026-10-24 in the night run (dated log: ~/workspace/learning/community-check/2026-10-24.md, night run sections): 1 topic added (Muse voice mode appearing in the app), 3 problems added (scheduled tasks failing or stopping without notice; Muse refusing shopping and product tasks; Muse replies with snark and attitude), and the lockout problem updated with two October 23–24, 2026 sources and moved to the top of Part 2 at its new last activity date. Totals after the 2026-10-24 night run: 23 topics and 16 problems.
 Corrected on 2026-10-25 when the browser pass's final report arrived (the night run had been judged on an interim report received at 23:47; the final report, task run 2026-10-24 22:57 to 2026-10-25 00:15 Arizona time, supersedes it — see the correction section of the 2026-10-24 dated log): the 3 problems added in the night run rested only on the interim report and are removed; the voice topic is corrected (61 of 61 comments on its main source) and gains three sources; the lockout problem's two added sources are corrected (the r/MuseAgent original added, the r/MetaAI comment count corrected to 2 of 2, one interim-only source removed, and the poster's conflicting restored / still-waiting updates recorded); the services-blocking problem gains two October 24, 2026 sources and moves up at last activity 2026-10-24; 1 topic added (automating a job search with Muse) and 1 problem added (Muse forgetting tasks and losing track on long jobs). Totals after this correction: 24 topics and 14 problems.
 Updated on 2026-10-25 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-25.md, second correction section): 1 topic added (Tailscale safety for a Muse-connected home computer — ACL tags, not your own account), from the one comment that arrived on the home-PC post after the Oct 24 passes. That run was first judged on an interim browser report and then on a no-record first pass; the browser pass's final report (runtime-measured run 2026-10-25 12:30–12:43 AM Arizona time) superseded both, the same pattern as the night before. Totals after this update: 25 topics and 14 problems.
+Updated on 2026-10-25 in the night run (dated log: ~/workspace/learning/community-check/2026-10-25.md, night run sections): 2 topics added (proactive notifications people are asking Muse for; a skill that invents tiny regrets from yesterday). Totals after this update: 27 topics and 14 problems.
 
 ## Part 1 — Topics
 
@@ -295,6 +296,24 @@ A user who wired Muse's cloud computer to their home PC through Tailscale got a 
 - Source: r/MuseAssistant — "I wired my cloud assistant to my home PC tonight, and it finally feels right" — https://www.reddit.com/r/MuseAssistant/comments/1xeqt68/i_wired_my_cloud_assistant_to_my_home_pc_tonight/ (comment by u/rippednfaded, Oct 24, 2026, 11:07 PM Arizona time; 1 of 1 comments read)
 - First seen: 2026-10-25
 - Last updated: 2026-10-25
+- State: open
+
+### Proactive notifications people are asking Muse for
+
+A user asks whether Muse can send proactive nudges — for health, hydration, movement, and breaks — instead of only answering when asked. The one commenter read suggests building a custom connector as the road to it. No built-in proactive nudge is named in the post or the comments read; it is a want people are working around, on the same ground as scheduled jobs here.
+
+- Source: r/MuseAssistant — "Muse assistant proactive notifications" — https://www.reddit.com/r/MuseAssistant/comments/1xf6owg/muse_assistant_proactive_notifications/ (2 of 2 comments read; posted Oct 25, 2026, 07:26 Arizona time)
+- First seen: 2026-10-25
+- Last updated: 2026-10-25
+- State: open
+
+### A skill that invents tiny regrets from yesterday
+
+A user made a Muse skill that invents one tiny regret from a simulated memory of yesterday — a small missed chance or a thing left unsaid — and builds a morning what-if list from it. The comments read are positive, with one reader saying it made them think about their real yesterday. It is a playful use of a skill and a made-up memory, recorded as a new and different thing people are doing with Muse.
+
+- Source: r/MuseAssistant — "I made a Muse skill that invents tiny regrets from yesterday" — https://www.reddit.com/r/MuseAssistant/comments/1xf03jy/i_made_a_muse_skill_that_invents_tiny_regrets_from/ (3 of 3 comments read; posted Oct 24, 2026, 20:42 Arizona time)
+- First seen: 2026-10-25
+- Last updated: 2026-10-24
 - State: open
 
 ## Part 2 — Problems
