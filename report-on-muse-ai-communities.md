@@ -17,6 +17,7 @@ Updated on 2026-10-24 in the night run (dated log: ~/workspace/learning/communit
 Corrected on 2026-10-25 when the browser pass's final report arrived (the night run had been judged on an interim report received at 23:47; the final report, task run 2026-10-24 22:57 to 2026-10-25 00:15 Arizona time, supersedes it — see the correction section of the 2026-10-24 dated log): the 3 problems added in the night run rested only on the interim report and are removed; the voice topic is corrected (61 of 61 comments on its main source) and gains three sources; the lockout problem's two added sources are corrected (the r/MuseAgent original added, the r/MetaAI comment count corrected to 2 of 2, one interim-only source removed, and the poster's conflicting restored / still-waiting updates recorded); the services-blocking problem gains two October 24, 2026 sources and moves up at last activity 2026-10-24; 1 topic added (automating a job search with Muse) and 1 problem added (Muse forgetting tasks and losing track on long jobs). Totals after this correction: 24 topics and 14 problems.
 Updated on 2026-10-25 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-25.md, second correction section): 1 topic added (Tailscale safety for a Muse-connected home computer — ACL tags, not your own account), from the one comment that arrived on the home-PC post after the Oct 24 passes. That run was first judged on an interim browser report and then on a no-record first pass; the browser pass's final report (runtime-measured run 2026-10-25 12:30–12:43 AM Arizona time) superseded both, the same pattern as the night before. Totals after this update: 25 topics and 14 problems.
 Updated on 2026-10-25 in the night run (dated log: ~/workspace/learning/community-check/2026-10-25.md, night run sections): 2 topics added (proactive notifications people are asking Muse for; a skill that invents tiny regrets from yesterday). Totals after this update: 27 topics and 14 problems.
+Corrected the same night (2026-10-25) when the browser pass's final report arrived (the night run had been judged on interim reports — see the correction section of the 2026-10-25 dated log): the 2 topics added in the night run are removed (the proactive-notifications entry rested on a post that does not exist in r/MuseAssistant; the tiny-regrets entry's facts did not stand on re-read and the final report judged it not useful); 6 topics and 2 problems are added from the final report. Totals after this correction: 31 topics and 16 problems.
 
 ## Part 1 — Topics
 
@@ -298,27 +299,82 @@ A user who wired Muse's cloud computer to their home PC through Tailscale got a 
 - Last updated: 2026-10-25
 - State: open
 
-### Proactive notifications people are asking Muse for
+### Rules for giving Muse access to bank and brokerage accounts
 
-A user asks whether Muse can send proactive nudges — for health, hydration, movement, and breaks — instead of only answering when asked. The one commenter read suggests building a custom connector as the road to it. No built-in proactive nudge is named in the post or the comments read; it is a want people are working around, on the same ground as scheduled jobs here.
+People asked whether it is safe to let Muse manage bank and brokerage accounts, and the comments share one set of rules: read-only access is fine; never give trading authority, because the agent could move money on its own read of the moment instead of the person's plan; keep a person in the loop; and if anything is automated, put it in a separate account with set limits. It is community advice, not a Meta rule, and it is recorded as the shared practice in the thread.
 
-- Source: r/MuseAssistant — "Muse assistant proactive notifications" — https://www.reddit.com/r/MuseAssistant/comments/1xf6owg/muse_assistant_proactive_notifications/ (2 of 2 comments read; posted Oct 25, 2026, 07:26 Arizona time)
+- Source: r/MetaAI — "Safe to use Muse for managing banking, brokerage acct. Anyone did it? Worried if it makes trade and being hacked" — https://www.reddit.com/r/MetaAI/comments/1xf1wwc/safe_to_use_muse_for_managing_banking_brokerage/ (7 of 9 comments read; posted Oct 25, 2026, 06:06 Arizona time)
 - First seen: 2026-10-25
 - Last updated: 2026-10-25
 - State: open
 
-### A skill that invents tiny regrets from yesterday
+### Token packs for sale inside the Muse app
 
-A user made a Muse skill that invents one tiny regret from a simulated memory of yesterday — a small missed chance or a thing left unsaid — and builds a morning what-if list from it. The comments read are positive, with one reader saying it made them think about their real yesterday. It is a playful use of a skill and a made-up memory, recorded as a new and different thing people are doing with Muse.
+Users report that Muse now sells extra token packs inside the app: a screenshot in the post shows $8 for 500 million tokens, $20 for 2 billion, $40 for 5 billion, and an $80 tier, and commenters say the prices vary by location. It is a product change that touches token budgeting here: a week near the limit can now be topped up for a price instead of only waited out.
 
-- Source: r/MuseAssistant — "I made a Muse skill that invents tiny regrets from yesterday" — https://www.reddit.com/r/MuseAssistant/comments/1xf03jy/i_made_a_muse_skill_that_invents_tiny_regrets_from/ (3 of 3 comments read; posted Oct 24, 2026, 20:42 Arizona time)
+- Source: r/MuseAgent — "You can now purchase additional tokens!" — https://www.reddit.com/r/MuseAgent/comments/1xfmget/you_can_now_purchase_additional_tokens/ (6 of 7 comments read; one comment was removed by a moderator; posted Oct 25, 2026, 20:45 Arizona time)
 - First seen: 2026-10-25
-- Last updated: 2026-10-24
+- Last updated: 2026-10-25
+- State: open
+
+### Side chats: check the shared records first, and an auditor side chat
+
+A user posts that their Muse admitted it answered a factual question from the current thread instead of checking the shared records first — the same miss as answering before verifying. The working setups in the comments: keep a standing rule, stored where Muse reads it, to check all chats and the shared source files before answering; and run one dedicated scheduler and auditor side chat that proofs the project side chats, makes sure they stay on task and fire when they should, and posts notices to the main chat.
+
+- Source: r/MuseAgent — "Side chat confusion" — https://www.reddit.com/r/MuseAgent/comments/1xfgf4l/side_chat_confusion/ (9 of 9 comments read; posted Oct 25, 2026, 15:57 Arizona time)
+- First seen: 2026-10-25
+- Last updated: 2026-10-25
+- State: open
+
+### Do not hand Amazon session cookies to a third-party skill
+
+A user asks whether a third-party skill that wants their Amazon session cookies is safe, and the commenters say no: handing over session cookies risks an account ban or a hijack. The safer roads named in the thread are a camouflaged browser of the Camoufox kind, or letting Muse drive the person's own local browser (a Mac the person controls, reached with Tailscale). It is the credential-safety side of the skills people install for Muse.
+
+- Source: r/MuseAgent — "Is this safe?" — https://www.reddit.com/r/MuseAgent/comments/1xfecrb/is_this_safe/ (7 of 7 comments read; posted Oct 25, 2026, 14:27 Arizona time)
+- First seen: 2026-10-25
+- Last updated: 2026-10-25
+- State: open
+
+### Full access to Muse's own computer is by design
+
+A user who found they could read and change the files on Muse's own virtual computer through SSH reports that Meta closed their bug report on October 25, 2026 as informative and expected behavior: each user has full access, root included, to their own single-user computer, by design. The files can also be reached in the app (Library, then System files) or by a shell. The thread notes the limit is not applied the same way every time: one commenter's Muse refused to set up inbound SSH as a separation measure while the author's Muse did it.
+
+- Source: r/MuseAgent — "SSH into Muse vm" — https://www.reddit.com/r/MuseAgent/comments/1xf4ikt/ssh_into_muse_vm/ (15 of 15 comments read; posted Oct 25, 2026, 07:58 Arizona time)
+- First seen: 2026-10-25
+- Last updated: 2026-10-25
+- State: open
+
+### iCloud Mail through IMAP — Gmail is not required for Muse
+
+A user asks whether they are missing out by not using Gmail as their main mail, and commenters answer that Muse does not need Gmail: iCloud Mail connects through IMAP with an Apple app-specific password (made on the Apple ID website), and one commenter has Muse read iCloud mail and run a Friday clean-up that way; a second user confirmed the same road worked when they handed the steps to Muse. Other roads named: forward iCloud mail to a Gmail account, add iCloud as a send-from address in Gmail, or have Muse build a connector on a spare machine running mail.
+
+- Source: r/MuseAgent — "Am I missing out by not using Gmail as my main email?" — https://www.reddit.com/r/MuseAgent/comments/1xf2pz3/am_i_missing_out_by_not_using_gmail_as_my_main/ (16 of 16 comments read; posted Oct 25, 2026, 06:43 Arizona time)
+- First seen: 2026-10-25
+- Last updated: 2026-10-25
 - State: open
 
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
+
+### Standing permissions for browser uploads removed — each upload needs an approval
+
+Users report that starting October 24, 2026, Muse removed standing (blanket) permissions for browser file uploads and for marketplace publishing, so each upload or publish now needs a manual approval — one user doing relisting work reports 50 to 60 approvals a day. The workarounds named in the thread: the Marketplace connector does not require approving every step, and one user whose scheduled tasks were hit rerouted uploads through an always-on home computer controlled by Muse, with a written memory rule to always upload from that computer in scheduled tasks. No fix or statement from Meta is named in the thread.
+
+- Source: r/MuseAgent — "Developers just killed Muse by removing standing permissions to upload files" — https://www.reddit.com/r/MuseAgent/comments/1xfbd2q/developers_just_killed_muse_by_removing_standing/ (25 of 26 comments read; one stated comment was never exposed by the page; posted Oct 25, 2026, 12:27 Arizona time)
+- First seen: 2026-10-25
+- Last activity: 2026-10-25
+- State: open
+
+### Response errors and reconnecting reported on October 25, 2026 — a signal, not a confirmed outage
+
+Two posts in r/MuseAgent on October 25, 2026 report Muse failing the same day: one describes repeated generic "ran into a problem while responding" errors (its commenter says the same happened the week before and cleared after a few hours away), and the other reports lag, sent messages disappearing or going unacknowledged, and constant reconnecting (a commenter confirms delays). Two posts are a signal only — no wider wave is confirmed in the sources read, and an isolated phone-setup failure the same day does not back it up.
+
+- Source: r/MuseAgent — "Muse stopped working for me. Anyone else encounter this?" — https://www.reddit.com/r/MuseAgent/comments/1xfo07x/muse_stopped_working_for_me_anyone_else_encounter/ (1 of 1 comments read; posted Oct 25, 2026, 22:11 Arizona time)
+- Source: r/MuseAgent — "Muse is reconnecting" — https://www.reddit.com/r/MuseAgent/comments/1xfci2l/muse_is_reconnecting/ (2 of 2 comments read; posted Oct 25, 2026, 13:12 Arizona time)
+- First seen: 2026-10-25
+- Last activity: 2026-10-25
+- State: open
 
 ### Accounts locked out or stuck disconnected, in waves
 
