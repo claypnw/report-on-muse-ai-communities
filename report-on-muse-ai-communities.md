@@ -19,6 +19,7 @@ Updated on 2026-10-25 in the daily run (dated log: ~/workspace/learning/communit
 Updated on 2026-10-25 in the night run (dated log: ~/workspace/learning/community-check/2026-10-25.md, night run sections): 2 topics added (proactive notifications people are asking Muse for; a skill that invents tiny regrets from yesterday). Totals after this update: 27 topics and 14 problems.
 Corrected the same night (2026-10-25) when the browser pass's final report arrived (the night run had been judged on interim reports — see the correction section of the 2026-10-25 dated log): the 2 topics added in the night run are removed (the proactive-notifications entry rested on a post that does not exist in r/MuseAssistant; the tiny-regrets entry's facts did not stand on re-read and the final report judged it not useful); 6 topics and 2 problems are added from the final report. Totals after this correction: 31 topics and 16 problems.
 Updated on 2026-10-26 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-26.md): 2 topics added (Muse for Windows — the first Muse desktop app, and Muse Spark available; Muse making and receiving calls and texts, with a person as the final checker), and the Ray-Ban Meta Gen 3 glasses problem (last activity 2026-10-18, no activity in 8 days) moved to the Quiet problems list. Totals after this update: 33 topics and 16 problems, 1 of them quiet. The run's first sections were written as Reddit no-record because the browser pass report had not arrived after 18 minutes; the pass's complete report then arrived and the correction section of the dated log is the standing record for the Reddit sources.
+Corrected on 2026-10-27 when the night run's browser pass report arrived (pass ran 2026-10-26 23:27 to 2026-10-27 00:28 Arizona time; the night run had closed with Reddit as no record — see the third correction section of the 2026-10-26 dated log): all three Reddit sources checked complete for the window after Oct 26, 2026 01:00 Arizona time — 67 window posts, 21 ads skipped. 6 topics and 1 problem added, and 2 problems updated (the standing-permissions problem and the slowdown problem, both at last activity 2026-10-26). Totals after this correction: 39 topics and 17 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -372,6 +373,62 @@ A user describes Muse making and receiving calls and texts on their behalf: an i
 - Last updated: 2026-10-26
 - State: open
 
+### Controlling a Google TV from the phone — Muse, Tailscale, and debug mode
+
+A user posts a tutorial for running a Google TV through Muse from the phone: Tailscale installed on the TV, Muse given access to Tailscale, and debug mode enabled on the TV. With that in place Muse can operate all the TV apps — play content on streaming apps, sideload APK files, remove bloat from the TV, and even build a custom launcher — and the post links a tutorial site Muse made for the setup. A commenter confirms the same setup worked on their Nvidia Shield, where Muse fixed a broken launcher in seconds. It is another working use of the Tailscale road other topics in this report use to reach home devices.
+
+- Source: r/MuseAgent — "Vibecode your Google tv - All tv apps operation from your phone with Muse" — https://www.reddit.com/r/MuseAgent/comments/1xgjq8g/vibecode_your_google_tv_all_tv_apps_operation/ (2 of 2 comments read; posted Oct 26, 2026, 22:04 Arizona time)
+- First seen: 2026-10-26
+- Last updated: 2026-10-26
+- State: open
+
+### Ways people use Muse with Instagram connected
+
+A new user asks what Muse can do with Instagram connected, and the commenters share working setups: a daily audio digest of followed accounts' posts and missed direct messages, read aloud for the car; a tabbed local-events digest mined from likes and bookmarks; a checker for accounts that no longer follow back; sorting saved posts into categories; and exporting saves to Raindrop.io through MCP. It is a menu of concrete uses people already run, not one person's idea.
+
+- Source: r/MuseAgent — "I'm new to using Muse and I'm enjoying it so far. If I connect my instagram to it then what can it do? What are some ways you are using Muse with instagram?" — https://www.reddit.com/r/MuseAgent/comments/1xgeg9d/im_new_to_using_muse_and_im_enjoying_it_so_far_if/ (16 of 16 comments read; posted Oct 26, 2026, 17:45 Arizona time)
+- First seen: 2026-10-26
+- Last updated: 2026-10-26
+- State: open
+
+### Making Muse's alerts impossible to miss — real phone alarms and a flag-and-alarm build
+
+Because Muse's chat pings and push notifications do not override a phone's silent mode and Muse cannot call the phone, users have built louder roads. In one thread, commenters converge on having Muse set a real phone alarm for urgent items — confirmed working on Android, with one user's Muse setting an alarm one minute out for urgent texts and emails — and on routing alerts through Pushover with an API key. In the second thread, a user whose shift starts early gives a complete build: when his Muse's wake-up chat pings go unanswered, Muse flips a flag in a secret GitHub gist (holding only a gist-scoped token), and an iPhone Shortcut run by time-of-day automations polls the gist and, if the flag is set, turns the volume to full, vibrates, speaks a wake-up message, and plays music until he replies in chat, which flips the flag back. Commenters suggest hardening it with a bedtime heartbeat check, a local fallback alarm, an acknowledgment loop, and trigger logging. Both are alert-reliability setups for scheduled work, where a missed ping can mean a missed job.
+
+- Source: r/MuseAgent — "Any way to allow Muse to vibrate your phone?" — https://www.reddit.com/r/MuseAgent/comments/1xg1n2e/any_way_to_allow_muse_to_vibrate_your_phone/ (18 of 20 comments read; posted Oct 26, 2026, 09:26 Arizona time)
+- Source: r/MuseAgent — "Muse can't call my iPhone, so I rigged it to scream at me instead" — https://www.reddit.com/r/MuseAgent/comments/1xgb1j1/muse_cant_call_my_iphone_so_i_rigged_it_to_scream/ (7 of 7 comments read; posted Oct 26, 2026, 15:18 Arizona time)
+- First seen: 2026-10-26
+- Last updated: 2026-10-26
+- State: open
+
+### Making Muse audio files come out right — phonetic spellings and a running fix list
+
+People who have Muse make relaxing audio to fall asleep to, or teaching audio for driving, share what works. For words Muse mispronounces, the fix that worked is to ask Muse to use phonetic "clever spellings" of the problem words, and to keep a running list of problem words and fixes so the same fight is not fought again — the same pattern as a pronunciation record kept for a reading voice. Other working setups in the thread: a daily two-host personal podcast built from a fixed list of sources with non-repeat rules learned from failures, delivered through a private feed to Apple Podcasts and CarPlay; and pacing rules — slow, short sentences for sleep audio, and short self-contained points for driving audio.
+
+- Source: r/MuseAgent — "Folks using Muse to create relaxing audio files to fall asleep to or to teach you something while you drive- what tips / tricks have you discovered to get it to do what you want?" — https://www.reddit.com/r/MuseAgent/comments/1xga0ld/folks_using_muse_to_create_relaxing_audio_files/ (11 of 11 comments read; posted Oct 26, 2026, 14:37 Arizona time)
+- First seen: 2026-10-26
+- Last updated: 2026-10-26
+- State: open
+
+### A step-by-step method for consistent Muse video generation
+
+A user who makes lip-synced videos with Muse posts the production method that works for them, in eight steps: lock approved character stills before animating anything; place the characters in real locations; plan short clips with one speaker and one short line each, with the exact line in the prompt; chain good frames within a scene, but re-anchor at scene changes; stage pauses when two people speak; check the audio with a human ear; and assemble the clips like a scene. The author still approves shots by hand — the method is the consistency, not full automation.
+
+- Source: r/MuseAgent — "Video generation is impressive" — https://www.reddit.com/r/MuseAgent/comments/1xg0i3z/video_generation_is_impressive/ (3 of 3 comments read; posted Oct 26, 2026, 08:46 Arizona time)
+- First seen: 2026-10-26
+- Last updated: 2026-10-26
+- State: open
+
+### Getting Muse into X — sign in once yourself and keep the session
+
+A user could not get Muse signed into X: Muse kept failing the sign-in and asking the user to do it, and signing in through Muse's browser failed too. The workaround the commenters converge on is to stop letting Muse retry the sign-in: the person signs into X once — in the desktop browser, or once through Muse's browser — and leaves the session signed in, after which Muse can post on their behalf. One commenter has Muse queue drafts into X's scheduled posts and says it has been stable for a week. Two commenters note the limit: X sometimes rate-limits even the manual sign-in attempt.
+
+- Source: r/MuseAgent — "Logging into X for Muse Posting on my behalf" — https://www.reddit.com/r/MuseAgent/comments/1xfwkhm/logging_into_x_for_muse_posting_on_my_behalf/ (8 of 8 comments read; posted Oct 26, 2026, 06:18 Arizona time)
+- First seen: 2026-10-26
+- Last updated: 2026-10-26
+- State: open
+
+
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
@@ -381,8 +438,28 @@ Problems people are reporting with Muse, ordered by last activity, newest first.
 Users report that starting October 24, 2026, Muse removed standing (blanket) permissions for browser file uploads and for marketplace publishing, so each upload or publish now needs a manual approval — one user doing relisting work reports 50 to 60 approvals a day. The workarounds named in the thread: the Marketplace connector does not require approving every step, and one user whose scheduled tasks were hit rerouted uploads through an always-on home computer controlled by Muse, with a written memory rule to always upload from that computer in scheduled tasks. No fix or statement from Meta is named in the thread.
 
 - Source: r/MuseAgent — "Developers just killed Muse by removing standing permissions to upload files" — https://www.reddit.com/r/MuseAgent/comments/1xfbd2q/developers_just_killed_muse_by_removing_standing/ (25 of 26 comments read; one stated comment was never exposed by the page; posted Oct 25, 2026, 12:27 Arizona time)
+- Source (added 2026-10-26): r/MuseAgent — "WTF happened to MUSE???" — https://www.reddit.com/r/MuseAgent/comments/1xgd9kb/wtf_happened_to_muse/ (21 of 21 comments read; posted Oct 26, 2026, 16:53 Arizona time; several commenters confirm the per-upload approval prompts appeared that day, one of them re-asked even after allowing; one commenter suggests asking Muse to batch-approve files; the same thread also names a "Video Region Block" error on video)
 - First seen: 2026-10-25
-- Last activity: 2026-10-25
+- Last activity: 2026-10-26
+- State: open
+
+### Muse avatar working animations stopped animating
+
+A user reports their Muse avatar — made from a real-life cat photo — no longer animates while Muse works: it used to type on its laptop, and now it just stares with its paws still, and resetting and re-uploading did not help. Several commenters report the same problem over roughly the past two weeks — hands resting on the laptop or disappearing, regenerated animation files coming out wrong on October 18, 2026, and the edit tool rebuilding only the base portrait. The workarounds suggested are to try the web version against the app, and to generate 3D options because 2D avatars currently do not animate; the thread names a bug report to the Muse team as the only real fix.
+
+- Source: r/MuseAgent — "Muse avatar animation" — https://www.reddit.com/r/MuseAgent/comments/1xg9u4c/muse_avatar_animation/ (16 of 16 comments read; posted Oct 26, 2026, 14:30 Arizona time)
+- First seen: 2026-10-26
+- Last activity: 2026-10-26
+- State: open
+
+### Muse answers slowed down for many users at the same time
+
+Users report Muse taking hours to answer over the two days before October 22, 2026 — free and paid users alike, in the same thread. Eleven of eleven comments were read and the reports agree: it is a shared slowdown, not one account or one device. No cause and no fix is named in the thread. The slowdown was reported again on October 26, 2026: a user says even simple questions now take 5 to 10 minutes or more, and three commenters confirm the same, two of them on paid plans and one on the free plan, while two others report no problems.
+
+- Source: r/MuseAgent — "Why is my Muse taking so long to respond?" — https://www.reddit.com/r/MuseAgent/comments/1xd0y59/why_is_my_muse_taking_so_long_to_respond/
+- Source (added 2026-10-26): r/MuseAgent — "MUSE seems to be getting slower & slower by the day..." — https://www.reddit.com/r/MuseAgent/comments/1xg9erv/muse_seems_to_be_getting_slower_slower_by_the_day/ (7 of 8 comments read; posted Oct 26, 2026, 14:13 Arizona time)
+- First seen: 2026-10-23
+- Last activity: 2026-10-26
 - State: open
 
 ### Response errors and reconnecting reported on October 25, 2026 — a signal, not a confirmed outage
@@ -513,14 +590,6 @@ A user reports that two weeks ago they could generate a 15-second video, and now
 - Last activity: 2026-10-22
 - State: open
 
-### Muse answers slowed down for many users at the same time
-
-Users report Muse taking hours to answer over the two days before October 22, 2026 — free and paid users alike, in the same thread. Eleven of eleven comments were read and the reports agree: it is a shared slowdown, not one account or one device. No cause and no fix is named in the thread.
-
-- Source: r/MuseAgent — "Why is my Muse taking so long to respond?" — https://www.reddit.com/r/MuseAgent/comments/1xd0y59/why_is_my_muse_taking_so_long_to_respond/
-- First seen: 2026-10-23
-- Last activity: 2026-10-22
-- State: open
 
 ### Image generation refusals now say "no retry" — first day seen
 
