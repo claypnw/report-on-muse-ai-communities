@@ -20,6 +20,7 @@ Updated on 2026-10-25 in the night run (dated log: ~/workspace/learning/communit
 Corrected the same night (2026-10-25) when the browser pass's final report arrived (the night run had been judged on interim reports — see the correction section of the 2026-10-25 dated log): the 2 topics added in the night run are removed (the proactive-notifications entry rested on a post that does not exist in r/MuseAssistant; the tiny-regrets entry's facts did not stand on re-read and the final report judged it not useful); 6 topics and 2 problems are added from the final report. Totals after this correction: 31 topics and 16 problems.
 Updated on 2026-10-26 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-26.md): 2 topics added (Muse for Windows — the first Muse desktop app, and Muse Spark available; Muse making and receiving calls and texts, with a person as the final checker), and the Ray-Ban Meta Gen 3 glasses problem (last activity 2026-10-18, no activity in 8 days) moved to the Quiet problems list. Totals after this update: 33 topics and 16 problems, 1 of them quiet. The run's first sections were written as Reddit no-record because the browser pass report had not arrived after 18 minutes; the pass's complete report then arrived and the correction section of the dated log is the standing record for the Reddit sources.
 Corrected on 2026-10-27 when the night run's browser pass report arrived (pass ran 2026-10-26 23:27 to 2026-10-27 00:28 Arizona time; the night run had closed with Reddit as no record — see the third correction section of the 2026-10-26 dated log): all three Reddit sources checked complete for the window after Oct 26, 2026 01:00 Arizona time — 67 window posts, 21 ads skipped. 6 topics and 1 problem added, and 2 problems updated (the standing-permissions problem and the slowdown problem, both at last activity 2026-10-26). Totals after this correction: 39 topics and 17 problems, 1 of them quiet.
+Updated on 2026-10-27 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-27.md): no entry added or removed; the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 9 days. The Reddit sources were no record in this run (no delivered browser report); the Meta Community Forums check found no activity after Oct 22, 2026. Totals stand: 39 topics and 17 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -676,7 +677,7 @@ morning restored the account.
 _Problems with 7 or more days of no new posts and no fix move here, each with
 its count of quiet days._
 
-### Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 8 days
+### Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 9 days
 
 A buyer of Ray-Ban Meta Wayfarer Gen 3 glasses reports the Muse app lists only
 their phone under Settings > Devices, says it cannot load devices, and offers
@@ -688,6 +689,8 @@ has not been rolled out to that account yet. The forums read confirms this
 thread's last activity was 4 days before October 22. Moved to the quiet list on
 2026-10-26: no activity in 8 days (last activity 2026-10-18, and the forums
 check on 2026-10-26 still shows that thread last updated 8 days ago).
+2026-10-27: no activity in 9 days (last activity 2026-10-18, and the forums
+check on 2026-10-27 still shows that thread last updated 9 days ago).
 
 - Source: Meta Community Forums — "Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app" — https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708
 - First seen: 2026-10-22
