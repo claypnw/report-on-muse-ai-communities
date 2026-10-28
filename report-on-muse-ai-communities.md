@@ -22,6 +22,7 @@ Updated on 2026-10-26 in the daily run (dated log: ~/workspace/learning/communit
 Corrected on 2026-10-27 when the night run's browser pass report arrived (pass ran 2026-10-26 23:27 to 2026-10-27 00:28 Arizona time; the night run had closed with Reddit as no record — see the third correction section of the 2026-10-26 dated log): all three Reddit sources checked complete for the window after Oct 26, 2026 01:00 Arizona time — 67 window posts, 21 ads skipped. 6 topics and 1 problem added, and 2 problems updated (the standing-permissions problem and the slowdown problem, both at last activity 2026-10-26). Totals after this correction: 39 topics and 17 problems, 1 of them quiet.
 Updated on 2026-10-27 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-27.md): no entry added or removed; the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 9 days. The Reddit sources were no record in this run (no delivered browser report); the Meta Community Forums check found no activity after Oct 22, 2026. Totals stand: 39 topics and 17 problems, 1 of them quiet.
 Updated on 2026-10-27 in the night run (dated log: ~/workspace/learning/community-check/2026-10-27.md, night run sections): no entry added, removed, or changed. The Reddit sources are no record in this run — the live browser task crashed before any result was returned — and are re-checked for the whole window after Oct 27, 2026 00:45 Arizona time on the next run. The Meta Community Forums check found no activity after Oct 22, 2026. The live page was read back in this run showing the current build (39 topics and 16 problems shown after the 1 skip), clearing the earlier lag. Totals stand: 39 topics and 17 problems, 1 of them quiet.
+Corrected on 2026-10-28 when the night run's browser pass report arrived (pass ran 2026-10-27 22:57 to 2026-10-28 00:18 Arizona time; the night run had closed with Reddit as no record after an interim failure notice — see the correction section of the 2026-10-27 dated log): all three Reddit sources checked complete for the window after Oct 27, 2026 00:45 Arizona time — 81 window posts, 33 ads skipped. 4 topics added (Muse going out to more countries — Japan, then Singapore; building rules for the free Muse Spark; Muse Mail, Muse's own mailbox, not yet live; a Bee Frontier wearable feeding Muse its transcripts), 1 problem added (Muse video generation down for many users on October 27, 2026), 1 topic updated (side chats, with the weekly digest and sync fixes), and 1 problem updated (standing permissions, with the own-virtual-browser workaround and the approvals-for-nearly-every-action reports, at last activity 2026-10-27). Totals after this correction: 43 topics and 18 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -323,11 +324,12 @@ Users report that Muse now sells extra token packs inside the app: a screenshot 
 
 ### Side chats: check the shared records first, and an auditor side chat
 
-A user posts that their Muse admitted it answered a factual question from the current thread instead of checking the shared records first — the same miss as answering before verifying. The working setups in the comments: keep a standing rule, stored where Muse reads it, to check all chats and the shared source files before answering; and run one dedicated scheduler and auditor side chat that proofs the project side chats, makes sure they stay on task and fire when they should, and posts notices to the main chat.
+A user posts that their Muse admitted it answered a factual question from the current thread instead of checking the shared records first — the same miss as answering before verifying. The working setups in the comments: keep a standing rule, stored where Muse reads it, to check all chats and the shared source files before answering; and run one dedicated scheduler and auditor side chat that proofs the project side chats, makes sure they stay on task and fire when they should, and posts notices to the main chat. A second thread (October 27, 2026) names the other side of the same problem: what is done in a side chat is not carried into the main chat, and the main chat's instructions are not carried into side chats, apart from the shared memory files. The working fixes named there: a weekly report in which Muse writes what it learned in the side chats into the main chat, and a weekly sync in which the main chat reads a side chat as a summary or as a full import — the full import keeps the small things, not only the summary.
 
 - Source: r/MuseAgent — "Side chat confusion" — https://www.reddit.com/r/MuseAgent/comments/1xfgf4l/side_chat_confusion/ (9 of 9 comments read; posted Oct 25, 2026, 15:57 Arizona time)
+- Source (added 2026-10-27): r/MuseAgent — "I have noticed that what you do in side chat is not transferred to main chat, and often things in main chat are not transferred to side chat; how do you keep up with that so Muse remembers what you instruct here and there?" — https://www.reddit.com/r/MuseAgent/comments/1xh5nr8/i_have_noticed_that_what_you_do_in_side_chat_is/ (9 of 9 comments read; posted Oct 27, 2026, 14:39 Arizona time)
 - First seen: 2026-10-25
-- Last updated: 2026-10-25
+- Last updated: 2026-10-27
 - State: open
 
 ### Do not hand Amazon session cookies to a third-party skill
@@ -430,6 +432,43 @@ A user could not get Muse signed into X: Muse kept failing the sign-in and askin
 - Last updated: 2026-10-26
 - State: open
 
+### Muse going out to more countries — Japan, then Singapore
+
+Muse is now offered in more countries, one market at a time. From Meta's own announcements, linked in the posts: Japan opened on October 23, 2026, the first market outside North America, and Singapore opened on October 27, 2026. In each new market Muse is on the phone apps and on muse.ai, with a free level and paid plans; support for AI glasses is named as coming soon in Singapore. The services Muse can reach are set market by market: Singapore's first set includes Shopee, Grab, Singapore Airlines, Agoda, ShopBack, Klook, Trip.com, and Lazada, and Japan's includes Mercari and Money Forward.
+
+- Source: r/MuseAgent — "Muse - Going global! Oct 23rd Japan and Singapore today!" — https://www.reddit.com/r/MuseAgent/comments/1xhazon/muse_going_global_oct_23rd_japan_and_singapore/ (0 of 2 comments read; only a deleted placeholder rendered; posted Oct 27, 2026, 18:27 Arizona time)
+- Source: r/MetaAI — "Muse - Going global! Oct 23rd Japan and Singapore today!" — https://www.reddit.com/r/MetaAI/comments/1xhb001/ (0 of 1 comments read; no comment rendered; posted Oct 27, 2026, 18:28 Arizona time)
+- First seen: 2026-10-27
+- Last updated: 2026-10-27
+- State: open
+
+### Building rules for the free Muse Spark — small first asks, test before showing, send the error back
+
+A study of building with the free Muse Spark model, shared as working rules: for websites, keep the first ask small — one page and the few features that matter — and add more once the small version runs, because long single builds pile up errors; for games and 3D scenes, the big ambitious asks were the ones people liked, as long as they worked; make Muse test before it shows the work — open the page, run it, fix every error found, and only show it when it loads clean; and when a build breaks, send the error back before asking for a rewrite, because most failures are one-line fixes and a full rebuild can break working things. The one comment adds: tell Muse to save backups of every build, to your server or Google Drive.
+
+- Source: r/MuseAgent — "Building with Muse Spark (free version of Muse): Common sense tips" — https://www.reddit.com/r/MuseAgent/comments/1xh8e3v/building_with_muse_spark_free_version_of_muse/ (1 of 1 comments read; posted Oct 27, 2026, 16:31 Arizona time)
+- First seen: 2026-10-27
+- Last updated: 2026-10-27
+- State: open
+
+### Muse Mail — Muse's own mailbox, seen in a connector check, not yet live
+
+One user's Muse, running a daily check for new connectors, reported a new one named Muse Mail: Muse's own mailbox, with an address ending in muse.ai, that Muse can use to send and receive email for the person, apart from Gmail or Outlook. In that report it is not usable yet: the person would have to approve a proposed name for the address — the address cannot be changed later, so the pick is worth care — and verify their own email address in Muse Mail settings. The poster says plainly that it is not live yet. This entry rests on that one report, Muse's own words passed on by its user; no Meta announcement is named in the thread.
+
+- Source: r/MuseAgent — "Muse Mail" — https://www.reddit.com/r/MuseAgent/comments/1xh1erk/muse_mail/ (12 of 12 comments read; posted Oct 27, 2026, 11:59 Arizona time)
+- First seen: 2026-10-27
+- Last updated: 2026-10-27
+- State: open
+
+### A Bee Frontier wearable feeding Muse its transcripts on a schedule
+
+A user connected a Bee Frontier wearable — Amazon's Bee, a small device that records talk around it — to Muse through Bee's developer program address (its API). Talk is clear at normal conversation distance, the place settings choose whose voices are pulled in, and Muse pulls new transcripts once every two hours during the day. The method, from the comments: the Bee site's developer section holds the full instructions — point Muse at that page, tell it to build a connector, and give it the key from Bee; after the key is set once from a laptop, Muse's own computer does the pulling and the laptop is out of it. Another commenter runs the same setup through Bee's own program on a home computer that Muse reaches over the home network.
+
+- Source: r/MuseAgent — "Got a Bee Frontier, integrated well" — https://www.reddit.com/r/MuseAgent/comments/1xh0li0/got_a_bee_frontier_integrated_well/ (15 of 15 comments read; posted Oct 27, 2026, 11:29 Arizona time)
+- First seen: 2026-10-27
+- Last updated: 2026-10-27
+- State: open
+
 
 ## Part 2 — Problems
 
@@ -437,12 +476,23 @@ Problems people are reporting with Muse, ordered by last activity, newest first.
 
 ### Standing permissions for browser uploads removed — each upload needs an approval
 
-Users report that starting October 24, 2026, Muse removed standing (blanket) permissions for browser file uploads and for marketplace publishing, so each upload or publish now needs a manual approval — one user doing relisting work reports 50 to 60 approvals a day. The workarounds named in the thread: the Marketplace connector does not require approving every step, and one user whose scheduled tasks were hit rerouted uploads through an always-on home computer controlled by Muse, with a written memory rule to always upload from that computer in scheduled tasks. No fix or statement from Meta is named in the thread.
+Users report that starting October 24, 2026, Muse removed standing (blanket) permissions for browser file uploads and for marketplace publishing, so each upload or publish now needs a manual approval — one user doing relisting work reports 50 to 60 approvals a day. The workarounds named in the thread: the Marketplace connector does not require approving every step, and one user whose scheduled tasks were hit rerouted uploads through an always-on home computer controlled by Muse, with a written memory rule to always upload from that computer in scheduled tasks. No fix or statement from Meta is named in the thread. On October 27, 2026, two more threads report the same tightening spreading: a user whose social-media pipeline broke when upload permissions became Ask or Deny only had their Muse build its own virtual browser instead of the built-in browser, which got the pipeline back to full scale; and a user who posts to their own Facebook pages now has to approve nearly every post, with several commenters reporting the same sudden change. The ways people are living with it, named in that thread: a written levels-of-autonomy file that says what Muse may do without approval, telling Muse to keep working and keep a list of questions to answer later, and building parts of the work yourself so Muse codes around the limits.
 
 - Source: r/MuseAgent — "Developers just killed Muse by removing standing permissions to upload files" — https://www.reddit.com/r/MuseAgent/comments/1xfbd2q/developers_just_killed_muse_by_removing_standing/ (25 of 26 comments read; one stated comment was never exposed by the page; posted Oct 25, 2026, 12:27 Arizona time)
 - Source (added 2026-10-26): r/MuseAgent — "WTF happened to MUSE???" — https://www.reddit.com/r/MuseAgent/comments/1xgd9kb/wtf_happened_to_muse/ (21 of 21 comments read; posted Oct 26, 2026, 16:53 Arizona time; several commenters confirm the per-upload approval prompts appeared that day, one of them re-asked even after allowing; one commenter suggests asking Muse to batch-approve files; the same thread also names a "Video Region Block" error on video)
+- Source (added 2026-10-27): r/MuseAgent — "Update" — https://www.reddit.com/r/MuseAgent/comments/1xh7i61/update/ (3 of 3 comments read; posted Oct 27, 2026, 15:54 Arizona time; the poster's pipeline broke when upload permissions became Ask or Deny only, and their Muse building its own virtual browser restored it)
+- Source (added 2026-10-27): r/MuseAgent — "What's the Point of an Autonomous AI Agent If We Have to Babysit Every Action?" — https://www.reddit.com/r/MuseAgent/comments/1xgq961/whats_the_point_of_an_autonomous_ai_agent_if_we/ (36 of 36 comments read; posted Oct 27, 2026, 04:42 Arizona time; the poster now must approve nearly every Facebook page post, and multiple commenters confirm the same tightening)
 - First seen: 2026-10-25
-- Last activity: 2026-10-26
+- Last activity: 2026-10-27
+- State: open
+
+### Muse video generation down for many users on October 27, 2026
+
+On October 27, 2026, several users reported Muse video generation failing the same day: one poster asked whether it was down for anyone else, a commenter confirmed the same failure within minutes, and another reported hours later that it was most definitely not working that day, looping without end after a video was sent in. No cause and no fix is named in the thread, and no later post in the window says it came back.
+
+- Source: r/MetaAI — "is video generation down for anyone else?" — https://www.reddit.com/r/MetaAI/comments/1xh0vr2/ (3 of 5 comments have been read; posted Oct 27, 2026, 11:40 Arizona time)
+- First seen: 2026-10-27
+- Last activity: 2026-10-27
 - State: open
 
 ### Muse avatar working animations stopped animating
