@@ -24,6 +24,7 @@ Updated on 2026-10-27 in the daily run (dated log: ~/workspace/learning/communit
 Updated on 2026-10-27 in the night run (dated log: ~/workspace/learning/community-check/2026-10-27.md, night run sections): no entry added, removed, or changed. The Reddit sources are no record in this run — the live browser task crashed before any result was returned — and are re-checked for the whole window after Oct 27, 2026 00:45 Arizona time on the next run. The Meta Community Forums check found no activity after Oct 22, 2026. The live page was read back in this run showing the current build (39 topics and 16 problems shown after the 1 skip), clearing the earlier lag. Totals stand: 39 topics and 17 problems, 1 of them quiet.
 Corrected on 2026-10-28 when the night run's browser pass report arrived (pass ran 2026-10-27 22:57 to 2026-10-28 00:18 Arizona time; the night run had closed with Reddit as no record after an interim failure notice — see the correction section of the 2026-10-27 dated log): all three Reddit sources checked complete for the window after Oct 27, 2026 00:45 Arizona time — 81 window posts, 33 ads skipped. 4 topics added (Muse going out to more countries — Japan, then Singapore; building rules for the free Muse Spark; Muse Mail, Muse's own mailbox, not yet live; a Bee Frontier wearable feeding Muse its transcripts), 1 problem added (Muse video generation down for many users on October 27, 2026), 1 topic updated (side chats, with the weekly digest and sync fixes), and 1 problem updated (standing permissions, with the own-virtual-browser workaround and the approvals-for-nearly-every-action reports, at last activity 2026-10-27). Totals after this correction: 43 topics and 18 problems, 1 of them quiet.
 Updated on 2026-10-28 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-28.md): 1 topic added (resetting Muse breaks its sign-in — use the email link, not Google sign-in, to get back in), and the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 10 days. r/MuseAgent checked complete for the window after Oct 27, 2026 22:55 Arizona time; r/MetaAI checked in part (its two newest window posts read, both zero-comment and not entered; the listing range scroll did not report, so that source's count is not advanced); r/MuseAssistant could not be read reliably (the one listing read loaded a stale listing that conflicts with the last run's verified listing) and is no record; the Meta Community Forums check found no useful update. Totals after this update: 44 topics and 18 problems, 1 of them quiet.
+Corrected the same day (2026-10-28) when the daily run's first browser pass report arrived after the run closed (pass ran 2026-10-28 00:43–00:52 Arizona time — see the correction section of the 2026-10-28 dated log): r/MuseAssistant checked complete (0 window posts; its count is 6, not the no-record 5 of the first writing) and r/MetaAI checked complete (7 window posts in the pass, 6 of them ads skipped, plus the 2 later zero-comment reads; its count is 1); the reset topic added in this run is corrected — its title and paragraph now stand on the warning both of the run's two conflicting reads support (resetting Muse can break sign-in and put the account on the waitlist), with the email-link tip recorded as one read's comment only and both source URLs named. Totals stand: 44 topics and 18 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -470,21 +471,29 @@ A user connected a Bee Frontier wearable — Amazon's Bee, a small device that r
 - Last updated: 2026-10-27
 - State: open
 
-### Resetting Muse breaks its sign-in — use the email link, not Google sign-in, to get back in
+### Resetting Muse can break sign-in and put the account on the waitlist
 
-A user warns that resetting Muse breaks its authentication and forces a full
-re-authentication, with no warning before the reset that sign-in will break.
-In the comments, one user says not to authenticate through Google after a
-reset, because Google sign-in is not working, and to request an email sign-in
-link from Meta instead, calling Google authentication after a reset broken.
-This stands on one full read in the 2026-10-28 run (2 of 2 comments read); a
-second read in the same run did not find the post, so it joins the re-check
-duty for the next run, the same pattern as the two standing re-checks in this
-report. It is kin to the lockout problem in Part 2, but it is recorded here as
-its own topic because the warning and the email-link road are the point of the
-post.
+Two reads of the same post in the 2026-10-28 run agree on the core warning
+and conflict on the details. Both reads: a user reset Muse and could not get
+back in — resetting breaks sign-in, with no warning beforehand. One read
+(found first, in the run's full pass) says the poster, whose account held
+more than 10 billion tokens, got a "You're on the waitlist / Muse isn't
+available in your country or region yet" screen on trying to log back in,
+and its one readable comment asked about country/VPN. The other read, at a
+different URL for the same title and time, says authentication broke and a
+commenter advised requesting an email sign-in link instead of signing in
+through Google, calling Google authentication after a reset broken. The
+email-link tip rests on that one read only and is not confirmed by the
+other. A pre-window post the same evening ("I tried to reset muse and now
+it says (you are in waitlist)", Oct 27, 2026, 21:54 Arizona time,
+zero comments) reports the same waitlist outcome. Both URLs join the
+re-check duty for the next run, the same pattern as the two standing
+re-checks in this report. The topic is kin to the lockout problem in
+Part 2, but it stands as its own topic because the reset warning is the
+point of the post.
 
-- Source: r/MuseAgent — "Don't Reset Muse!" — https://www.reddit.com/r/MuseAgent/comments/1xhlbh8/dont_reset_muse/ (2 of 2 comments read; posted Oct 28, 2026, 00:20 Arizona time)
+- Source: r/MuseAgent — "Don't Reset Muse!" — https://www.reddit.com/r/MuseAgent/comments/1xhheq7/dont_reset_muse/ (1 of 2 comments read; posted Oct 28, 2026, 00:20 Arizona time)
+- Source (second read, conflicting details): r/MuseAgent — "Don't Reset Muse!" — https://www.reddit.com/r/MuseAgent/comments/1xhlbh8/dont_reset_muse/ (2 of 2 comments read; posted Oct 28, 2026, 00:20 Arizona time)
 - First seen: 2026-10-28
 - Last updated: 2026-10-28
 - State: open
