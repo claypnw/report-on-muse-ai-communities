@@ -23,6 +23,7 @@ Corrected on 2026-10-27 when the night run's browser pass report arrived (pass r
 Updated on 2026-10-27 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-27.md): no entry added or removed; the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 9 days. The Reddit sources were no record in this run (no delivered browser report); the Meta Community Forums check found no activity after Oct 22, 2026. Totals stand: 39 topics and 17 problems, 1 of them quiet.
 Updated on 2026-10-27 in the night run (dated log: ~/workspace/learning/community-check/2026-10-27.md, night run sections): no entry added, removed, or changed. The Reddit sources are no record in this run — the live browser task crashed before any result was returned — and are re-checked for the whole window after Oct 27, 2026 00:45 Arizona time on the next run. The Meta Community Forums check found no activity after Oct 22, 2026. The live page was read back in this run showing the current build (39 topics and 16 problems shown after the 1 skip), clearing the earlier lag. Totals stand: 39 topics and 17 problems, 1 of them quiet.
 Corrected on 2026-10-28 when the night run's browser pass report arrived (pass ran 2026-10-27 22:57 to 2026-10-28 00:18 Arizona time; the night run had closed with Reddit as no record after an interim failure notice — see the correction section of the 2026-10-27 dated log): all three Reddit sources checked complete for the window after Oct 27, 2026 00:45 Arizona time — 81 window posts, 33 ads skipped. 4 topics added (Muse going out to more countries — Japan, then Singapore; building rules for the free Muse Spark; Muse Mail, Muse's own mailbox, not yet live; a Bee Frontier wearable feeding Muse its transcripts), 1 problem added (Muse video generation down for many users on October 27, 2026), 1 topic updated (side chats, with the weekly digest and sync fixes), and 1 problem updated (standing permissions, with the own-virtual-browser workaround and the approvals-for-nearly-every-action reports, at last activity 2026-10-27). Totals after this correction: 43 topics and 18 problems, 1 of them quiet.
+Updated on 2026-10-28 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-28.md): 1 topic added (resetting Muse breaks its sign-in — use the email link, not Google sign-in, to get back in), and the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 10 days. r/MuseAgent checked complete for the window after Oct 27, 2026 22:55 Arizona time; r/MetaAI checked in part (its two newest window posts read, both zero-comment and not entered; the listing range scroll did not report, so that source's count is not advanced); r/MuseAssistant could not be read reliably (the one listing read loaded a stale listing that conflicts with the last run's verified listing) and is no record; the Meta Community Forums check found no useful update. Totals after this update: 44 topics and 18 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -469,6 +470,25 @@ A user connected a Bee Frontier wearable — Amazon's Bee, a small device that r
 - Last updated: 2026-10-27
 - State: open
 
+### Resetting Muse breaks its sign-in — use the email link, not Google sign-in, to get back in
+
+A user warns that resetting Muse breaks its authentication and forces a full
+re-authentication, with no warning before the reset that sign-in will break.
+In the comments, one user says not to authenticate through Google after a
+reset, because Google sign-in is not working, and to request an email sign-in
+link from Meta instead, calling Google authentication after a reset broken.
+This stands on one full read in the 2026-10-28 run (2 of 2 comments read); a
+second read in the same run did not find the post, so it joins the re-check
+duty for the next run, the same pattern as the two standing re-checks in this
+report. It is kin to the lockout problem in Part 2, but it is recorded here as
+its own topic because the warning and the email-link road are the point of the
+post.
+
+- Source: r/MuseAgent — "Don't Reset Muse!" — https://www.reddit.com/r/MuseAgent/comments/1xhlbh8/dont_reset_muse/ (2 of 2 comments read; posted Oct 28, 2026, 00:20 Arizona time)
+- First seen: 2026-10-28
+- Last updated: 2026-10-28
+- State: open
+
 
 ## Part 2 — Problems
 
@@ -728,7 +748,7 @@ morning restored the account.
 _Problems with 7 or more days of no new posts and no fix move here, each with
 its count of quiet days._
 
-### Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 9 days
+### Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 10 days
 
 A buyer of Ray-Ban Meta Wayfarer Gen 3 glasses reports the Muse app lists only
 their phone under Settings > Devices, says it cannot load devices, and offers
@@ -742,6 +762,8 @@ thread's last activity was 4 days before October 22. Moved to the quiet list on
 check on 2026-10-26 still shows that thread last updated 8 days ago).
 2026-10-27: no activity in 9 days (last activity 2026-10-18, and the forums
 check on 2026-10-27 still shows that thread last updated 9 days ago).
+2026-10-28: no activity in 10 days (last activity 2026-10-18, and the forums
+check on 2026-10-28 shows no new activity on that thread).
 
 - Source: Meta Community Forums — "Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app" — https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708
 - First seen: 2026-10-22
