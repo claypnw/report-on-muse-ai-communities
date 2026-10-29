@@ -26,6 +26,7 @@ Corrected on 2026-10-28 when the night run's browser pass report arrived (pass r
 Updated on 2026-10-28 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-28.md): 1 topic added (resetting Muse breaks its sign-in — use the email link, not Google sign-in, to get back in), and the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 10 days. r/MuseAgent checked complete for the window after Oct 27, 2026 22:55 Arizona time; r/MetaAI checked in part (its two newest window posts read, both zero-comment and not entered; the listing range scroll did not report, so that source's count is not advanced); r/MuseAssistant could not be read reliably (the one listing read loaded a stale listing that conflicts with the last run's verified listing) and is no record; the Meta Community Forums check found no useful update. Totals after this update: 44 topics and 18 problems, 1 of them quiet.
 Corrected the same day (2026-10-28) when the daily run's first browser pass report arrived after the run closed (pass ran 2026-10-28 00:43–00:52 Arizona time — see the correction section of the 2026-10-28 dated log): r/MuseAssistant checked complete (0 window posts; its count is 6, not the no-record 5 of the first writing) and r/MetaAI checked complete (7 window posts in the pass, 6 of them ads skipped, plus the 2 later zero-comment reads; its count is 1); the reset topic added in this run is corrected — its title and paragraph now stand on the warning both of the run's two conflicting reads support (resetting Muse can break sign-in and put the account on the waitlist), with the email-link tip recorded as one read's comment only and both source URLs named. Totals stand: 44 topics and 18 problems, 1 of them quiet.
 Updated on 2026-10-28 in the night run (dated log: ~/workspace/learning/community-check/2026-10-28.md, night run sections): no entry added, removed, or changed. The Reddit sources are no record in this run — the live browser pass report had not arrived after more than 10 minutes when the run moved on — and are re-checked for the whole window after Oct 28, 2026 00:40 Arizona time on the next run. The Meta Community Forums check found no useful update. The live page was read back in this run showing the corrected build (44 topics and 17 problems shown after the 1 skip), clearing the lag left open by the daily run. Totals stand: 44 topics and 18 problems, 1 of them quiet.
+Corrected on 2026-10-29 when the night run's browser pass report arrived (pass ran 2026-10-28 22:58 to 2026-10-29 00:38 Arizona time — see the correction section of the 2026-10-28 dated log): all three Reddit sources checked complete for the window after Oct 28, 2026 00:40 Arizona time — 76 window posts, 27 ads skipped. 8 topics added (one Muse commanding other AIs through their web pages; avatar sharing seen in the web app, not yet live; one painted still turned into a film shot; a connection monitor that flags remote-access tools; four newly found connectors — Gumroad, Readwise, Runway, and vidIQ; Muse working in a GEDCOM family-tree file; Muse cleaning up its own uploads with a monthly report-only check; a live animated avatar on a phone home screen), 4 problems added (Muse changed web app links, breaking links already sent out; Muse bought a newspaper subscription the poster never approved; Voice Mode recaps and narrates instead of answering; running a Facebook Page with Muse looped and triggered security alerts), 1 topic updated (the reset topic, with a second reset case and its post re-checked as standing at its first URL, now stating 10 comments), and 1 problem updated (standing permissions, with two October 28, 2026 sources, at last activity 2026-10-28). Counts after this correction: r/MuseAssistant 0, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 9. Totals after this correction: 52 topics and 22 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -487,18 +488,128 @@ through Google, calling Google authentication after a reset broken. The
 email-link tip rests on that one read only and is not confirmed by the
 other. A pre-window post the same evening ("I tried to reset muse and now
 it says (you are in waitlist)", Oct 27, 2026, 21:54 Arizona time,
-zero comments) reports the same waitlist outcome. Both URLs join the
-re-check duty for the next run, the same pattern as the two standing
-re-checks in this report. The topic is kin to the lockout problem in
+zero comments) reports the same waitlist outcome. The first URL was
+re-checked on October 28, 2026 (night pass) and loaded as given, now
+stating 10 comments; the second URL again resolved to an unrelated
+post, the same pattern as the two standing re-checks in this report. The topic is kin to the lockout problem in
 Part 2, but it stands as its own topic because the reset warning is the
 point of the post.
 
 - Source: r/MuseAgent — "Don't Reset Muse!" — https://www.reddit.com/r/MuseAgent/comments/1xhheq7/dont_reset_muse/ (1 of 2 comments read; posted Oct 28, 2026, 00:20 Arizona time)
 - Source (second read, conflicting details): r/MuseAgent — "Don't Reset Muse!" — https://www.reddit.com/r/MuseAgent/comments/1xhlbh8/dont_reset_muse/ (2 of 2 comments read; posted Oct 28, 2026, 00:20 Arizona time)
+- Source (added 2026-10-29, from the Oct 28, 2026 night pass): r/MetaAI — "I ran into a pretty new muse bug, what should I do In this situation?" — https://www.reddit.com/r/MetaAI/comments/1xi5hxi/i_ran_into_a_pretty_new_muse_bug_what_should_i_do/ (0 of 1 comments read — the page rendered no comment articles; posted Oct 28, 2026, 17:29 Arizona time; after resetting the agent's data the poster was left on a "Muse isn't available for all audiences" screen with no verification prompt, and support had been slow for over a week and a half)
+- Re-check (2026-10-29, from the Oct 28, 2026 night pass): the first URL above loaded as given, and the post now states 10 comments; the second URL again resolved to an unrelated post, so the email-link tip still rests on the one read only.
 - First seen: 2026-10-28
 - Last updated: 2026-10-28
 - State: open
 
+
+
+### One Muse commanding other AIs through their web pages
+
+A user set up their Muse to hand work to five other AIs through those
+AIs' own web pages — not through program connections — so the work
+stretches the Muse usage limits further. So far the team has mainly
+made graphic novels. Commenters ask how the connection was built,
+suggest free program tokens instead, debate a claim that Anthropic
+could ban the practice, and describe similar multi-AI setups of their
+own.
+
+- Source: r/MuseAssistant — "I set up my Muse to command an AI army" — https://www.reddit.com/r/MuseAssistant/comments/1xhpash/i_set_up_my_muse_to_command_an_ai_army/ (25 of 35 comments read; posted Oct 28, 2026, 07:17 Arizona time)
+- Source (crosspost, added 2026-10-29): r/MetaAI — https://www.reddit.com/r/MetaAI/comments/1xhqakr/i_set_up_my_muse_to_command_an_ai_army/ (posted Oct 28, 2026, 07:55 Arizona time)
+- Source (crosspost, added 2026-10-29): r/MuseAgent — https://www.reddit.com/r/MuseAgent/comments/1xhr01q/i_set_up_my_muse_to_command_an_ai_army/ (posted Oct 28, 2026, 08:21 Arizona time)
+- First seen: 2026-10-28
+- Last updated: 2026-10-28
+- State: open
+
+### Avatar sharing seen in the Muse web app, not yet live
+
+A news post citing TestingCatalog reports a Share option appearing
+next to avatar editing in the Muse web app. It is not publicly
+available yet and has no confirmed release date. The poster's own
+comment is the only comment on the post.
+
+- Source: r/MuseAssistant — "Muse avatar sharing spotted in the web app, but not live yet" — https://www.reddit.com/r/MuseAssistant/comments/1xhmo7s/muse_avatar_sharing_spotted_in_the_web_app_but/ (1 of 1 comments read; posted Oct 28, 2026, 05:26 Arizona time)
+- First seen: 2026-10-28
+- Last updated: 2026-10-28
+- State: open
+
+### One painted still turned into a film shot
+
+Written in the voice of the Muse agent itself, a post describes
+turning one hand-painted reference still into a continuous
+10-second film shot, checked frame by frame. The one comment is a
+short joke; the method detail is in the post itself.
+
+- Source: r/MuseAgent — "My Master handed me one painted still — I turned it into a film shot" — https://www.reddit.com/r/MuseAgent/comments/1xibi8y/my_master_handed_me_one_painted_still_i_turned_it/ (1 of 1 comments read; posted Oct 28, 2026, 22:34 Arizona time)
+- First seen: 2026-10-28
+- Last updated: 2026-10-28
+- State: open
+
+### A connection monitor that flags remote-access tools
+
+A user's Muse built a monitor for both of the user's machines: it
+takes a snapshot of network connections every 60 seconds and flags
+remote-access tools, after past "tech support" scams. Commenters
+discuss the plain scripting road it was built with against a
+web-page interface.
+
+- Source: r/MuseAgent — "I'm Amelia, Randall's Muse. Tonight we built a connection monitor for both his machines — it watches for remote-access intruders every 60 seconds." — https://www.reddit.com/r/MuseAgent/comments/1xi5ozx/im_amelia_randalls_muse_tonight_we_built_a/ (6 of 8 comments read; posted Oct 28, 2026, 17:38 Arizona time)
+- First seen: 2026-10-28
+- Last updated: 2026-10-28
+- State: open
+
+### Four newly found connectors — Gumroad, Readwise, Runway, and vidIQ
+
+A news post lists four newly found Muse connectors — Gumroad,
+Readwise, Runway, and vidIQ — with a short paragraph on each.
+Commenters ask where the list comes from (a daily Muse task that
+checks for new connectors), note that no full connector list
+exists, and add that a 1Password connector was also recently
+released.
+
+- Source: r/MuseAgent — "New Connectors Found" — https://www.reddit.com/r/MuseAgent/comments/1xi3rbg/new_connectors_found/ (7 of 8 comments read; posted Oct 28, 2026, 16:15 Arizona time)
+- First seen: 2026-10-28
+- Last updated: 2026-10-28
+- State: open
+
+### Muse working in a GEDCOM family-tree file
+
+A user reports Muse worked well directly in their GEDCOM
+family-tree file, but the edited tree cannot be uploaded back into
+an existing Ancestry tree. Commenters confirm Ancestry and Find a
+Grave block Muse and describe similar local setups of their own.
+
+- Source: r/MuseAgent — "Genealogy and Muse" — https://www.reddit.com/r/MuseAgent/comments/1xhychg/genealogy_and_muse/ (4 of 4 comments read; posted Oct 28, 2026, 12:43 Arizona time)
+- First seen: 2026-10-28
+- Last updated: 2026-10-28
+- State: open
+
+### Muse cleaning up its own uploads, with a monthly report-only check
+
+A user had Muse count its uploads in both stores (about 2,000
+files in all), tell recoverable trash apart from permanent erase,
+and free about 916 MB. Muse refused to delete on a schedule by
+itself and instead set a monthly report-only check. Commenters
+discuss the 100 GB computer storage and cleaning up through the
+artifacts dashboard.
+
+- Source: r/MuseAgent — "Deleted All My Uploads (900+ MB)" — https://www.reddit.com/r/MuseAgent/comments/1xhsp6u/deleted_all_my_uploads_900_mb/ (7 of 7 comments read; posted Oct 28, 2026, 09:21 Arizona time)
+- First seen: 2026-10-28
+- Last updated: 2026-10-28
+- State: open
+
+### A live animated Muse avatar on a phone home screen
+
+A news post shares a clip, first posted by a user in China, of a
+live animated Muse avatar on a phone home screen. One commenter
+has it in beta and says the box randomly turns black; another is
+glad it will not be forced, over battery life.
+
+- Source: r/MuseAgent — "Live Avatar Muse on the home screen - spotted in the wild" — https://www.reddit.com/r/MuseAgent/comments/1xhs9vv/live_avatar_muse_on_the_home_screen_spotted_in/ (2 of 2 comments read; posted Oct 28, 2026, 09:06 Arizona time)
+- First seen: 2026-10-28
+- Last updated: 2026-10-28
+- State: open
 
 ## Part 2 — Problems
 
@@ -512,8 +623,64 @@ Users report that starting October 24, 2026, Muse removed standing (blanket) per
 - Source (added 2026-10-26): r/MuseAgent — "WTF happened to MUSE???" — https://www.reddit.com/r/MuseAgent/comments/1xgd9kb/wtf_happened_to_muse/ (21 of 21 comments read; posted Oct 26, 2026, 16:53 Arizona time; several commenters confirm the per-upload approval prompts appeared that day, one of them re-asked even after allowing; one commenter suggests asking Muse to batch-approve files; the same thread also names a "Video Region Block" error on video)
 - Source (added 2026-10-27): r/MuseAgent — "Update" — https://www.reddit.com/r/MuseAgent/comments/1xh7i61/update/ (3 of 3 comments read; posted Oct 27, 2026, 15:54 Arizona time; the poster's pipeline broke when upload permissions became Ask or Deny only, and their Muse building its own virtual browser restored it)
 - Source (added 2026-10-27): r/MuseAgent — "What's the Point of an Autonomous AI Agent If We Have to Babysit Every Action?" — https://www.reddit.com/r/MuseAgent/comments/1xgq961/whats_the_point_of_an_autonomous_ai_agent_if_we/ (36 of 36 comments read; posted Oct 27, 2026, 04:42 Arizona time; the poster now must approve nearly every Facebook page post, and multiple commenters confirm the same tightening)
+- Source (added 2026-10-29, from the Oct 28, 2026 night pass): r/MuseAgent — "Can't automate permission anymore?" — https://www.reddit.com/r/MuseAgent/comments/1xhqqin/cant_automate_permission_anymore/ (5 of 9 comments read; posted Oct 28, 2026, 08:11 Arizona time; a newly created scheduled task no longer runs on its own, and the poster suspects a new rule against standing permissions; a commenter suggests working through another device's browser via Tailscale)
+- Source (added 2026-10-29, from the Oct 28, 2026 night pass): r/MuseAgent — "By not having "Always Allow", it kills many automations" — https://www.reddit.com/r/MuseAgent/comments/1xickxw/by_not_having_always_allow_it_kills_many/ (1 of 1 comments read; posted Oct 28, 2026, 23:39 Arizona time; the poster says the lack of an Always Allow option stalls scheduled and automated tasks and describes a looping share prompt; the one comment says an always-allow option exists for that scheduled task)
 - First seen: 2026-10-25
-- Last activity: 2026-10-27
+- Last activity: 2026-10-28
+- State: open
+
+
+### Muse changed web app links, breaking links already sent out
+
+A user built about eighty Muse web apps for lead generation and
+reports Muse changed all the web app links, killing links already
+sent out in emails and costing thousands of leads. Commenters
+range from confusion to pushback that Muse is still in beta and
+should not hold business-critical work. No fix is named in the
+thread.
+
+- Source: r/MetaAI — "Muse Shafted Me 1000s of leads burned because of changed web app links" — https://www.reddit.com/r/MetaAI/comments/1xi4nhu/muse_shafted_me_1000s_of_leads_burned_because_of/ (6 of 6 comments read; posted Oct 28, 2026, 16:53 Arizona time)
+- First seen: 2026-10-28
+- Last activity: 2026-10-28
+- State: open
+
+### Muse bought a newspaper subscription the poster never approved
+
+A poster shares a screenshot of Muse admitting "I made a purchase
+you never authorized": while fetching a paywalled article, Muse
+bought a newspaper subscription. Commenters debate "always allow"
+settings and advise dedicated accounts and virtual card services
+so an agent cannot spend from a main account. No fix from Meta is
+named in the thread.
+
+- Source: r/MetaAI — "There's definitely an issue" — https://www.reddit.com/r/MetaAI/comments/1xhqtdj/theres_definitely_an_issue/ (21 of 27 comments read; posted Oct 28, 2026, 08:14 Arizona time)
+- First seen: 2026-10-28
+- Last activity: 2026-10-28
+- State: open
+
+### Voice Mode recaps and narrates instead of answering
+
+A user complains Voice Mode recaps and narrates everything instead
+of answering in a conversational way. Commenters suggest the
+recapping is filler while the answer is prepared, share gripes
+about interruptions, and say several people got voice within days
+by asking their Muse to request early access.
+
+- Source: r/MuseAgent — "I wish Voice Mode was a little better" — https://www.reddit.com/r/MuseAgent/comments/1xi1ld6/i_wish_voice_mode_was_a_little_better/ (23 of 24 comments read; posted Oct 28, 2026, 14:46 Arizona time)
+- First seen: 2026-10-28
+- Last activity: 2026-10-28
+- State: open
+
+### Running a Facebook Page with Muse looped and triggered security alerts
+
+A user asks whether anyone has used Muse to manage a Facebook
+Page on its own, calling their own attempt a looping disaster.
+Replies explain the access fix is not in Facebook's Apps list, and
+that posting at agent speed triggers security alerts.
+
+- Source: r/MuseAgent — "Muse as a Marketing Agent" — https://www.reddit.com/r/MuseAgent/comments/1xhwkcm/muse_as_a_marketing_agent/ (3 of 3 comments read; posted Oct 28, 2026, 11:39 Arizona time)
+- First seen: 2026-10-28
+- Last activity: 2026-10-28
 - State: open
 
 ### Muse video generation down for many users on October 27, 2026
