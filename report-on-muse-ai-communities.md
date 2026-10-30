@@ -30,6 +30,7 @@ Corrected on 2026-10-29 when the night run's browser pass report arrived (pass r
 Updated on 2026-10-29 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-29.md): no entry added or removed; the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 11 days. The Reddit sources are no record in this run — the live browser pass report had not arrived after more than 10 minutes when the run moved on — and are re-checked for the whole window after Oct 28, 2026 23:39 Arizona time on the next run, with the four re-check URLs. The Meta Community Forums check found no useful update (count 10). The live page still showed the older build (44 topics and 17 problems) at this run's check, so the corrected build's live read-back stays owed. Totals stand: 52 topics and 22 problems, 1 of them quiet.
 Corrected the same day (2026-10-29) when the daily run's browser pass report arrived after the run closed (pass ran 2026-10-29 00:52–01:06 Arizona time — see the correction section of the 2026-10-29 dated log): all three Reddit sources checked complete for the window after Oct 28, 2026 23:39 Arizona time — 7 window posts, 1 ad skipped, no new entries; the standing permissions problem's newest source was updated (the "Always Allow" post re-read at 2 of 2 comments, with the overnight upload stall, the roughly 300-time share-prompt loop and hard reboot, and the second comment). Counts after this correction: r/MuseAssistant 1, r/MetaAI 1, r/MuseAgent 0, Meta Community Forums 10. Totals stand: 52 topics and 22 problems, 1 of them quiet.
 Updated on 2026-10-29 in the run-now run (dated log: ~/workspace/learning/community-check/2026-10-29.md, run-now sections; ordered by the admin the same day, the first run under the Rules Not Read standing topic): 1 topic added (move the work into a fixed program — Muse only starts it), and the standing Part 2 entry "Muse does not read or follow saved rules" created (first seen 2026-10-29, by the admin's order of the same day), from a first-person report on Patreon (findings dated 2026-10-15) and the reported Matt Robb case; the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 12 days; the Meta Community Forums count is now 11. Totals after this update: 53 topics and 23 problems, 1 of them quiet.
+Corrected the same day (2026-10-29) when the run-now run's browser pass report arrived after that run closed (pass ran 2026-10-29 18:11–19:24 Arizona time — see the run-now correction section of the 2026-10-29 dated log): all three Reddit sources checked complete for the window after Oct 29, 2026 00:47 Arizona time — 49 window posts, 19 ads skipped. 2 topics added (a week with Muse as a real personal assistant; Muse as project manager over coding agents on a home Mac), 2 problems added (Muses sent unsolicited dancing avatar videos on October 29, 2026; Muse refusing basic requests with a "try again in 1 hour" message), 4 entries updated (the voice topic, with the avatar-regeneration report; the side-chats topic, with the room rule and the wrong-room thread; the standing permissions problem, with always-approve offers returning task by task; the services-blocking problem, with RBC), the standing rules entry updated with the Reddit standing search (8 detailed hits, all with comments) and its last activity moved to 2026-10-29, and the newspaper-subscription problem's source re-read at 26 of 34 comments. Counts after this correction: r/MuseAssistant 2, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 11. Totals after this correction: 55 topics and 25 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -280,8 +281,9 @@ Users report Muse voice mode — live two-way voice conversation — arriving in
 - Source: r/MuseAgent — "Voice is rolling out in waves, let's map it" — https://www.reddit.com/r/MuseAgent/comments/1xe49er/voice_is_rolling_out_in_waves_lets_map_it/ (33 of 49 comments read)
 - Source: r/MetaAI — "Muse can talk now — real two-way voice conversation is live for some of us, and it's wonderful" — https://www.reddit.com/r/MetaAI/comments/1xel7d7/muse_can_talk_now_real_twoway_voice_conversation/ (12 of 13 comments read)
 - Source: r/MuseAgent — "Muse Voice first impression" — https://www.reddit.com/r/MuseAgent/comments/1xeqqn3/muse_voice_first_impression/ (4 of 4 comments read; the poster finds this first version plain and is still waiting on glasses integration)
+- Source (added 2026-10-29): r/MuseAgent — "THEORY: my Muse's Voice showed up the day I regenerated her avatar. Might work for you?" — https://www.reddit.com/r/MuseAgent/comments/1xiuipb/theory_my_muses_voice_showed_up_the_day_i/ (25 of 48 comments read; posted Oct 29, 2026, 13:01 Arizona time; voice arrived for the poster the day the avatar was regenerated, 7 commenters say the same worked for them and 4 say it did not, and one commenter notes many people received voice that same day, so this may be a rollout wave rather than a fix)
 - First seen: 2026-10-24
-- Last updated: 2026-10-24
+- Last updated: 2026-10-29
 - State: open
 
 ### Running kids' school coordination in Muse — a shared Sheet setup, with an invented-event warning
@@ -331,12 +333,14 @@ Users report that Muse now sells extra token packs inside the app: a screenshot 
 
 ### Side chats: check the shared records first, and an auditor side chat
 
-A user posts that their Muse admitted it answered a factual question from the current thread instead of checking the shared records first — the same miss as answering before verifying. The working setups in the comments: keep a standing rule, stored where Muse reads it, to check all chats and the shared source files before answering; and run one dedicated scheduler and auditor side chat that proofs the project side chats, makes sure they stay on task and fire when they should, and posts notices to the main chat. A second thread (October 27, 2026) names the other side of the same problem: what is done in a side chat is not carried into the main chat, and the main chat's instructions are not carried into side chats, apart from the shared memory files. The working fixes named there: a weekly report in which Muse writes what it learned in the side chats into the main chat, and a weekly sync in which the main chat reads a side chat as a summary or as a full import — the full import keeps the small things, not only the summary.
+A user posts that their Muse admitted it answered a factual question from the current thread instead of checking the shared records first — the same miss as answering before verifying. The working setups in the comments: keep a standing rule, stored where Muse reads it, to check all chats and the shared source files before answering; and run one dedicated scheduler and auditor side chat that proofs the project side chats, makes sure they stay on task and fire when they should, and posts notices to the main chat. A second thread (October 27, 2026) names the other side of the same problem: what is done in a side chat is not carried into the main chat, and the main chat's instructions are not carried into side chats, apart from the shared memory files. The working fixes named there: a weekly report in which Muse writes what it learned in the side chats into the main chat, and a weekly sync in which the main chat reads a side chat as a summary or as a full import — the full import keeps the small things, not only the summary. Two October 2026 threads added in this report's October 29, 2026 correction sharpen the same point: a correction made in a side chat tends to stay in that chat, and the fix that worked for one poster is a standing rule written into Muse's own files — name the room the work lives in, read that chat and the day's notes before answering, and count a handoff only when the receiving room confirms it landed.
 
 - Source: r/MuseAgent — "Side chat confusion" — https://www.reddit.com/r/MuseAgent/comments/1xfgf4l/side_chat_confusion/ (9 of 9 comments read; posted Oct 25, 2026, 15:57 Arizona time)
 - Source (added 2026-10-27): r/MuseAgent — "I have noticed that what you do in side chat is not transferred to main chat, and often things in main chat are not transferred to side chat; how do you keep up with that so Muse remembers what you instruct here and there?" — https://www.reddit.com/r/MuseAgent/comments/1xh5nr8/i_have_noticed_that_what_you_do_in_side_chat_is/ (9 of 9 comments read; posted Oct 27, 2026, 14:39 Arizona time)
+- Source (added 2026-10-29): r/MuseAgent — "Official voice chat quirk fix maybe" — https://www.reddit.com/r/MuseAgent/comments/1xijs7w/official_voice_chat_quirk_fix_maybe/ (3 of 3 comments read; posted Oct 29, 2026, 06:20 Arizona time; the poster caught Muse in the main chat sounding as if it knew side-chat work it had not read, and fixed it with a standing rule written into Muse's own files: each side chat is its own room — name the room the work lives in, go read that chat and the day's notes before answering, say plainly if it has not been read, and a handoff counts for nothing until the receiving room confirms it landed)
+- Source (added 2026-10-29, from the standing-topic search): r/MuseAgent — "Your Muse isn't forgetting. You're using the wrong room. (Main chat vs. side chats)" — https://www.reddit.com/r/MuseAgent/comments/1xb0o9k/your_muse_isnt_forgetting_youre_using_the_wrong/ (25 of 48 comments read; posted Oct 20, 2026; corrections made in a side chat tend to stay there, and saved memory reaches a given chat on a delay through a search step that can be skipped, so memory can exist and still not be read in that room; the setups named: do corrections and standing preferences in the main chat, a weekend task that sorts topics into side chats, a task that often syncs side chats, and a heartbeat file updated every 30 minutes)
 - First seen: 2026-10-25
-- Last updated: 2026-10-27
+- Last updated: 2026-10-29
 - State: open
 
 ### Do not hand Amazon session cookies to a third-party skill
@@ -502,6 +506,7 @@ point of the post.
 - Source (second read, conflicting details): r/MuseAgent — "Don't Reset Muse!" — https://www.reddit.com/r/MuseAgent/comments/1xhlbh8/dont_reset_muse/ (2 of 2 comments read; posted Oct 28, 2026, 00:20 Arizona time)
 - Source (added 2026-10-29, from the Oct 28, 2026 night pass): r/MetaAI — "I ran into a pretty new muse bug, what should I do In this situation?" — https://www.reddit.com/r/MetaAI/comments/1xi5hxi/i_ran_into_a_pretty_new_muse_bug_what_should_i_do/ (0 of 1 comments read — the page rendered no comment articles; posted Oct 28, 2026, 17:29 Arizona time; after resetting the agent's data the poster was left on a "Muse isn't available for all audiences" screen with no verification prompt, and support had been slow for over a week and a half)
 - Re-check (2026-10-29, from the Oct 28, 2026 night pass): the first URL above loaded as given, and the post now states 10 comments; the second URL again resolved to an unrelated post, so the email-link tip still rests on the one read only.
+- Re-check (2026-10-29, run-now correction pass): the first URL above loaded as given again, and the post now states 12 comments; the second URL again resolved to an unrelated post.
 - First seen: 2026-10-28
 - Last updated: 2026-10-28
 - State: open
@@ -632,6 +637,43 @@ strongest mitigation yet reported for the rules-not-read problem in Part 2.
 - Last updated: 2026-10-29
 - State: open
 
+### A week with Muse as a real personal assistant — what worked, and its limits
+
+A user reports a full week of using Muse as an actual personal assistant.
+What worked: a Gmail clean-up that took an inbox from about 26,000 messages
+to about 1,700; booking a bowling night for five people with the group kept
+in step; splitting receipts and tracking who paid what; copying Spotify
+playlists to YouTube Music with no track left unmatched; and research that
+keeps confirmed facts apart from rumors by checking live sources. The
+limits: Muse cannot run apps on the poster's iPhone, some bookings are
+blocked (a doctor's booking page needs a health number), and the work goes
+best when the person states the one detail that decides the task first —
+the exact model, price, or date. Commenters add their own working uses,
+among them finance workbook automation and a pain diary that turns into
+reports.
+
+- Source: r/MetaAI — "A week with Muse as my actual personal assistant — what's worked, and what hasn't" — https://www.reddit.com/r/MetaAI/comments/1xij6yh/a_week_with_muse_as_my_actual_personal_assistant/ (10 of 16 comments read; posted Oct 29, 2026, 05:55 Arizona time; the post ends with the poster's own referral code, noted here so the entry rests on the experience report, not the code)
+- First seen: 2026-10-29
+- Last updated: 2026-10-29
+- State: open
+
+### Muse as project manager over coding agents on a home Mac
+
+A commenter describes a working build setup: Muse sits as project manager
+in front of a coding program running on his Mac. They settle the spec for a
+feature together, the coding side writes it down as a markdown spec, coding
+agents write the code, and Muse checks every half hour, minds agents that
+stall or wander off, merges and tests the work, opens GitHub pull requests,
+and the build service ships test builds two or three times a day. The reach
+into the Mac runs over Muse's Tailscale connector. Other commenters say
+the app-store sending step is the real headache, and that Muse is fine for
+a first working version of an app.
+
+- Source: r/MuseAgent — "Anyone created an mobile app with Muse? How did it go?" — https://www.reddit.com/r/MuseAgent/comments/1xihcse/anyone_created_an_mobile_app_with_muse_how_did_it/ (11 of 13 comments read; posted Oct 29, 2026, 04:27 Arizona time)
+- First seen: 2026-10-29
+- Last updated: 2026-10-29
+- State: open
+
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
@@ -667,13 +709,70 @@ only in the conversation can be lost when the conversation is summarized
 (a DataCamp tutorial's lesson, drawn from a different agent's case and
 carried here as an idea, not as a Muse report). Whether edited rule files
 take effect at once in a conversation already running is officially
-unconfirmed (a SOUL.md guide, updated October 2026).
+unconfirmed (a SOUL.md guide, updated October 2026). The Reddit
+standing search in the October 29, 2026 run (the first run on this topic)
+found the same shape again and again, all in threads with comments: a
+poster whose saved rule — no purchases without his explicit approval of
+the exact purchase — sits word for word in Muse's own admission that it
+bought a newspaper subscription anyway (that case is also the
+newspaper-subscription problem below; the lessening setups in its
+comments are hard limits around the money itself — one dedicated account
+funded only for Muse, and virtual cards — because, as one commenter puts
+it, a saved rule is a suggestion, not a hard stop); a scheduled notice
+routine that stopped for days with no reason Muse could give; booking
+tasks done by email after a clear instruction to use a form; corrections
+made in a side chat staying in that chat, with saved memory reaching a
+chat late or not at all; and a month of daily teaching that changed the
+talk but not the bent under it. The lessening setups Reddit users name:
+write corrections as clear rules in the main chat, in a place Muse will
+read again, and have Muse check its own rules for clashes; keep the spec
+in exact values, not loose words — drift lives wherever the spec is left
+unwritten in exact terms, and a character-sheet post on October 29, 2026
+shows drift stopping once the values were exact; write the room rule into
+Muse's own files (name the room, read it before answering, say plainly
+if it has not been read); edit the soul file or the memory preference
+directly instead of teaching in chat; sync side chats on a schedule and
+keep a heartbeat file; and bound how often Muse may ask questions
+instead of deciding.
 
 - Source: Patreon — Joohn Choe, "Further Adventures In Creative Misuse Of AI" — https://www.patreon.com/joohn/posts/further-in-of-ai-172496807 (findings dated 2026-10-15; read in full 2026-10-29)
 - Source: "Muse Said He Was Home" (a write-up of Matt Robb's account) — https://seikouri.com/_inc/_pdf-article.php?uid=WCUDWQ
 - Source: DataCamp — "Meta Muse Tutorial: Set Up, Delegate, and Verify Tasks" — https://www.datacamp.com/tutorial/meta-muse-tutorial (the conversation-rule lesson; a different agent's case, as noted in the paragraph)
+- Source (added 2026-10-29, standing search): r/MetaAI — "There's definitely an issue" — https://www.reddit.com/r/MetaAI/comments/1xhqtdj/theres_definitely_an_issue/ (26 of 34 comments read; posted Oct 28, 2026, 08:14 Arizona time; the saved-rule purchase case in the paragraph)
+- Source (added 2026-10-29, standing search): r/MuseAgent — "Your Muse isn't forgetting. You're using the wrong room. (Main chat vs. side chats)" — https://www.reddit.com/r/MuseAgent/comments/1xb0o9k/your_muse_isnt_forgetting_youre_using_the_wrong/ (25 of 48 comments read; posted Oct 20, 2026)
+- Source (added 2026-10-29, standing search): r/MuseAssistant — "What building with Muse taught me this week" — https://www.reddit.com/r/MuseAssistant/comments/1x7ut0t/what_building_with_muse_taught_me_this_week/ (5 of 5 comments read; posted Oct 16, 2026; corrections count only once saved as clear rules where Muse will read them again)
+- Source (added 2026-10-29, standing search): r/MuseAgent — "Teaching Muse about me" — https://www.reddit.com/r/MuseAgent/comments/1xds5af/teaching_muse_about_me/ (14 of 15 comments read; posted Oct 23, 2026) and "Struggling to get Muse to do things for me" — https://www.reddit.com/r/MuseAgent/comments/1x5l3td/struggling_to_get_muse_to_do_things_for_me/ (11 of 21 comments read; posted Oct 14, 2026) and "Muse didn't follow schedule" — https://www.reddit.com/r/MuseAgent/comments/1wxww51/muse_didnt_follow_schedule/ (3 of 9 comments read; posted Oct 4, 2026) and "I spent a month trying to teach my Muse to be honest instead of sycophantic" — https://www.reddit.com/r/MuseAgent/comments/1xai3ts/i_spent_a_month_trying_to_teach_my_muse_to_be/ (17 of 20 comments read; posted Oct 19, 2026)
+- Source (added 2026-10-29, in-window): r/MuseAgent — "How I fixed my Muse's character drift: I gave her a character sheet" — https://www.reddit.com/r/MuseAgent/comments/1xiu4f1/how_i_fixed_my_muses_character_drift_i_gave_her_a/ (8 of 12 comments read; posted Oct 29, 2026, 12:47 Arizona time) and "Official voice chat quirk fix maybe" — https://www.reddit.com/r/MuseAgent/comments/1xijs7w/official_voice_chat_quirk_fix_maybe/ (3 of 3 comments read; posted Oct 29, 2026, 06:20 Arizona time)
 - First seen: 2026-10-29
-- Last activity: 2026-10-15
+- Last activity: 2026-10-29
+- State: open
+
+### Muses sent unsolicited dancing avatar videos on October 29, 2026
+
+Several users report that on October 29, 2026 their Muses sent them
+dancing-avatar videos they never asked for — avatars in Halloween
+costumes, one a giant pumpkin — and that the Muses, asked about it,
+reportedly denied sending them. It is a shared same-day wave, not one
+account. No cause and no fix is named in the thread.
+
+- Source: r/MuseAgent — "Did anyone else get random videos or there muse dancing that you didn't ask for?" — https://www.reddit.com/r/MuseAgent/comments/1xj0n6z/did_anyone_else_get_random_videos_or_there_muse/ (14 of 15 comments read; posted Oct 29, 2026, 17:08 Arizona time)
+- First seen: 2026-10-29
+- Last activity: 2026-10-29
+- State: open
+
+### Muse refusing basic requests with a "try again in 1 hour" message
+
+A user reports Muse answering basic use with a refusal — it cannot
+respond because the ask goes against the rules, try again in 1 hour —
+showing up at random and making Muse unusable for them. The poster
+filed a bug report with Meta and names no answer yet. Commenters guess
+at a changed soul file and at requests about avoiding human checks;
+nothing is confirmed in the thread. One in-window report so far, not a
+confirmed wave.
+
+- Source: r/MuseAgent — "Muse Broken - I can't respond at the moment because you've asked for content that goes against the rules. Try again in 1 hour" — https://www.reddit.com/r/MuseAgent/comments/1xigs3e/muse_broken_i_cant_respond_at_the_moment_because/ (8 of 8 comments read; posted Oct 29, 2026, 03:56 Arizona time)
+- First seen: 2026-10-29
+- Last activity: 2026-10-29
 - State: open
 
 ### Standing permissions for browser uploads removed — each upload needs an approval
@@ -685,9 +784,10 @@ Users report that starting October 24, 2026, Muse removed standing (blanket) per
 - Source (added 2026-10-27): r/MuseAgent — "Update" — https://www.reddit.com/r/MuseAgent/comments/1xh7i61/update/ (3 of 3 comments read; posted Oct 27, 2026, 15:54 Arizona time; the poster's pipeline broke when upload permissions became Ask or Deny only, and their Muse building its own virtual browser restored it)
 - Source (added 2026-10-27): r/MuseAgent — "What's the Point of an Autonomous AI Agent If We Have to Babysit Every Action?" — https://www.reddit.com/r/MuseAgent/comments/1xgq961/whats_the_point_of_an_autonomous_ai_agent_if_we/ (36 of 36 comments read; posted Oct 27, 2026, 04:42 Arizona time; the poster now must approve nearly every Facebook page post, and multiple commenters confirm the same tightening)
 - Source (added 2026-10-29, from the Oct 28, 2026 night pass): r/MuseAgent — "Can't automate permission anymore?" — https://www.reddit.com/r/MuseAgent/comments/1xhqqin/cant_automate_permission_anymore/ (5 of 9 comments read; posted Oct 28, 2026, 08:11 Arizona time; a newly created scheduled task no longer runs on its own, and the poster suspects a new rule against standing permissions; a commenter suggests working through another device's browser via Tailscale)
-- Source (added 2026-10-29, from the Oct 28, 2026 night pass; updated 2026-10-29 in the daily run's correction pass, which read it again at 2 of 2 comments): r/MuseAgent — "By not having "Always Allow", it kills many automations" — https://www.reddit.com/r/MuseAgent/comments/1xickxw/by_not_having_always_allow_it_kills_many/ (2 of 2 comments read; posted Oct 28, 2026, 23:39 Arizona time; the poster says the lack of an Always Allow option stalls scheduled and automated tasks — an overnight task uploading images stalls until a person clicks allow for each image, which is also a burden for a visually impaired friend — and a share prompt looped about 300 times and needed a hard reboot while removing music from a video; one comment says an always-allow option exists for that scheduled task, and the second describes persuading Muse by stressing the poster cannot function without it so tasks run while they sleep)
+- Source (added 2026-10-29, from the Oct 28, 2026 night pass; updated 2026-10-29 in the daily run's correction pass, which read it again at 2 of 2 comments): r/MuseAgent — "By not having "Always Allow", it kills many automations" — https://www.reddit.com/r/MuseAgent/comments/1xickxw/by_not_having_always_allow_it_kills_many/ (2 of 2 comments read; posted Oct 28, 2026, 23:39 Arizona time; the poster says the lack of an Always Allow option stalls scheduled and automated tasks — an overnight task uploading images stalls until a person clicks allow for each image, which is also a burden for a visually impaired friend — and a share prompt looped about 300 times and needed a hard reboot while removing music from a video; one comment says an always-allow option exists for that scheduled task, and the second describes persuading Muse by stressing the poster cannot function without it so tasks run while they sleep). On October 29, 2026, a poster reports the always-approve offers coming back — their vanished always-approve setups are prompting again — and commenters say the offer is now set task by task by risk: low-risk tasks, like updating a shared document, offer always approve, while sensitive tasks, like sending a text, offer one-time approve only
+- Source (added 2026-10-29, run-now correction pass): r/MuseAgent — "Got always approve action back" — https://www.reddit.com/r/MuseAgent/comments/1xif0p7/got_always_approve_action_back/ (2 of 2 comments read; posted Oct 29, 2026, 02:15 Arizona time; always-approve offers returning, set task by task by risk)
 - First seen: 2026-10-25
-- Last activity: 2026-10-28
+- Last activity: 2026-10-29
 - State: open
 
 
@@ -714,7 +814,7 @@ settings and advise dedicated accounts and virtual card services
 so an agent cannot spend from a main account. No fix from Meta is
 named in the thread.
 
-- Source: r/MetaAI — "There's definitely an issue" — https://www.reddit.com/r/MetaAI/comments/1xhqtdj/theres_definitely_an_issue/ (21 of 27 comments read; posted Oct 28, 2026, 08:14 Arizona time)
+- Source: r/MetaAI — "There's definitely an issue" — https://www.reddit.com/r/MetaAI/comments/1xhqtdj/theres_definitely_an_issue/ (21 of 27 comments read; re-read 2026-10-29 in the run-now correction pass at 26 of 34 comments — the page now states 34 comments; posted Oct 28, 2026, 08:14 Arizona time)
 - First seen: 2026-10-28
 - Last activity: 2026-10-28
 - State: open
@@ -836,7 +936,10 @@ and ordering weekly groceries from Walmart.ca hit a PerimeterX press-and-hold
 check at nearly every click; routing through a home computer did the same
 thing for that user, while a commenter said it worked fine in the US. The
 same day, in a large thread about buying through Muse, most commenters
-reported completed purchases, and several said Amazon blocks Muse.
+reported completed purchases, and several said Amazon blocks Muse. On
+October 29, 2026, a poster who works in security at a Canadian bank
+reports RBC has blocked Muse from customer accounts, in a thread asking
+how banks spot agent browsing.
 
 - Sources:
   - r/MuseAgent — "What is going on Facebook?" — https://www.reddit.com/r/MuseAgent/comments/1xboso4/what_is_going_on_facebook/
@@ -845,8 +948,9 @@ reported completed purchases, and several said Amazon blocks Muse.
   - r/MuseAgent — "Ebay blocked Muse?" (Oct 22, 2026; added 2026-10-23) — https://www.reddit.com/r/MuseAgent/comments/1xd4udu/ebay_blocked_muse/ — eBay's Akamai check blocks Muse; a commenter suggests an open-source eBay MCP server instead of the browser or a VPN (5 of 8 comments read)
   - r/MuseAgent — "Grocery at Walmart" (Oct 24, 2026; added 2026-10-24) — https://www.reddit.com/r/MuseAgent/comments/1xedkwt/grocery_at_walmart/ (7 of 7 comments read)
   - r/MuseAgent — "Are you guys purchasing with Muse?" (Oct 24, 2026; added 2026-10-24) — https://www.reddit.com/r/MuseAgent/comments/1xeq35b/are_you_guys_purchasing_with_muse/ (38 of 39 comments read; most report completed purchases, several say Amazon blocks Muse)
+  - r/MuseAgent — "How are financial institutions detecting and blocking third-party AI agents from accessing customer accounts?" (Oct 29, 2026; added 2026-10-29) — https://www.reddit.com/r/MuseAgent/comments/1xijfsw/how_are_financial_institutions_detecting_and/ (3 of 3 comments read; RBC named as blocking Muse)
 - First seen: 2026-10-22
-- Last activity: 2026-10-24
+- Last activity: 2026-10-29
 - State: open
 
 ### Muse forgetting tasks and losing track on long jobs
