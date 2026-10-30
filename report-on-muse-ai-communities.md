@@ -38,6 +38,8 @@ Corrected the same night (2026-10-29) when the night run's browser pass report a
 
 Updated on 2026-10-30 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-30.md): no entry added or removed in the main run; the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 13 days. The Reddit sources are no record in the main run — the live browser pass report had not arrived when the run moved on — and are re-checked for the whole window after Oct 29, 2026 22:31 Arizona time on the next run, with the Reddit part of the standing Rules Not Read search still owed. The Meta Community Forums check found no useful update (count 13). The live page was read back in this run showing the night correction build (57 topics and 24 problems shown after the 1 skip), clearing the lag left open by that correction. Totals stand: 57 topics and 25 problems, 1 of them quiet.
 
+Corrected the same day (2026-10-30) when the daily run's browser pass report arrived after that run closed (pass ran 2026-10-30 00:44–00:59 Arizona time — see the correction section of the 2026-10-30 dated log): all three Reddit sources checked complete for the window after Oct 29, 2026 22:31 Arizona time — 5 window posts, 1 ad skipped, no new entries; the Muse Space command-center topic was re-read at the window edge and its entry stands as written; the standing Rules Not Read search found no new hit. Counts after this correction: r/MuseAssistant 4, r/MetaAI 1, r/MuseAgent 1, Meta Community Forums 13. Totals stand: 57 topics and 25 problems, 1 of them quiet.
+
 ## Part 1 — Topics
 
 New and different things people are doing or talking about with Muse.
