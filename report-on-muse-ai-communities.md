@@ -34,6 +34,8 @@ Corrected the same day (2026-10-29) when the run-now run's browser pass report a
 
 Updated on 2026-10-29 in the night run (dated log: ~/workspace/learning/community-check/2026-10-29.md, night run sections): no entry added, removed, or changed. The Reddit sources are no record in this run — the live browser pass window closed after about 37 minutes with no report delivered — and are re-checked for the whole window after Oct 29, 2026 18:57 Arizona time on the next run, with the Reddit part of the standing Rules Not Read search still owed. The Meta Community Forums check found no useful update (count 12). The live page was read back in this run showing the corrected build (55 topics and 24 problems shown after the 1 skip), clearing the lag left open by the run-now correction. Totals stand: 55 topics and 25 problems, 1 of them quiet.
 
+Corrected the same night (2026-10-29) when the night run's browser pass report arrived after that run closed (pass ran 2026-10-29 22:58–23:36 Arizona time — see the night run correction section of the 2026-10-29 dated log): all three Reddit sources checked complete for the window after Oct 29, 2026 18:57 Arizona time — 12 window posts, 2 ads skipped. 2 topics added (a Muse Space as a command center, fed by a scheduled refresh; a "Glasses" entry seen in the Meta AI app), 2 entries updated (the voice-mode topic, with voice pulling context only from the main chat; the slowed-down problem, at last activity 2026-10-29 with the checks named in its newest thread), and the standing rules entry updated with one new Reddit standing-search hit (a wording instruction agreed to and still not followed, with the soul-file fix named). Counts after this correction: r/MuseAssistant 3, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 12. Totals after this correction: 57 topics and 25 problems, 1 of them quiet.
+
 ## Part 1 — Topics
 
 New and different things people are doing or talking about with Muse.
@@ -277,13 +279,14 @@ A user dictates tasks to Siri, which puts them on an Apple Reminders list that M
 
 ### Muse voice mode appearing in the app — rolling out unevenly
 
-Users report Muse voice mode — live two-way voice conversation — arriving in the app on October 23–24, 2026, account by account. In the largest thread, all 61 comments are a roll call of who has it (free and paid, mostly in the US, several after an app update or an early-access request) and who is still waiting. A mapping thread's own tally of 24 reports found that paid status does not predict who has voice, and every report of having it was US-based. One early user describes the voice working through Ray-Ban Meta glasses speakers and microphone, with no direct glasses gateway yet. It is a product change landing unevenly — the same pattern as the Ray-Ban glasses voice problem in Part 2, where a forum answer said the feature had not been rolled out to that account yet.
+Users report Muse voice mode — live two-way voice conversation — arriving in the app on October 23–24, 2026, account by account. In the largest thread, all 61 comments are a roll call of who has it (free and paid, mostly in the US, several after an app update or an early-access request) and who is still waiting. A mapping thread's own tally of 24 reports found that paid status does not predict who has voice, and every report of having it was US-based. One early user describes the voice working through Ray-Ban Meta glasses speakers and microphone, with no direct glasses gateway yet. It is a product change landing unevenly — the same pattern as the Ray-Ban glasses voice problem in Part 2, where a forum answer said the feature had not been rolled out to that account yet. A later thread the same day adds a limit that matters for setups like ours: on voice, Muse pulls context only from the main chat, so context that lives in side chats is not there (see the newest source below).
 
 - Source: r/MuseAgent — "Finally voice!" — https://www.reddit.com/r/MuseAgent/comments/1xe1o7p/finally_voice/ (61 of 61 comments read; posted Oct 23, 2026, 11:50 PM Arizona time)
 - Source: r/MuseAgent — "Voice is rolling out in waves, let's map it" — https://www.reddit.com/r/MuseAgent/comments/1xe49er/voice_is_rolling_out_in_waves_lets_map_it/ (33 of 49 comments read)
 - Source: r/MetaAI — "Muse can talk now — real two-way voice conversation is live for some of us, and it's wonderful" — https://www.reddit.com/r/MetaAI/comments/1xel7d7/muse_can_talk_now_real_twoway_voice_conversation/ (12 of 13 comments read)
 - Source: r/MuseAgent — "Muse Voice first impression" — https://www.reddit.com/r/MuseAgent/comments/1xeqqn3/muse_voice_first_impression/ (4 of 4 comments read; the poster finds this first version plain and is still waiting on glasses integration)
 - Source (added 2026-10-29): r/MuseAgent — "THEORY: my Muse's Voice showed up the day I regenerated her avatar. Might work for you?" — https://www.reddit.com/r/MuseAgent/comments/1xiuipb/theory_my_muses_voice_showed_up_the_day_i/ (25 of 48 comments read; posted Oct 29, 2026, 13:01 Arizona time; voice arrived for the poster the day the avatar was regenerated, 7 commenters say the same worked for them and 4 say it did not, and one commenter notes many people received voice that same day, so this may be a rollout wave rather than a fix)
+- Source (added 2026-10-29, night run correction): r/MuseAgent — "So I got the voice chat feature..." — https://www.reddit.com/r/MuseAgent/comments/1xj2y5w/so_i_got_the_voice_chat_feature/ (29 of 30 comments read; posted Oct 29, 2026, 18:57 Arizona time; a commenter explains voice pulls context only from the main chat, so a Muse whose context lives in side chats sounds generic on voice — the poster, a heavy side-chat user, confirmed the fit; another commenter says voice mode stripped their Muse's personality and afterward it only partly remembered the voice conversation)
 - First seen: 2026-10-24
 - Last updated: 2026-10-29
 - State: open
@@ -676,6 +679,36 @@ a first working version of an app.
 - Last updated: 2026-10-29
 - State: open
 
+
+### A Muse Space as a command center, fed by a scheduled refresh
+
+A user who runs three small YouTube channels with Muse built a Space in
+the sidebar as a permanent command center: a stats section refreshed every
+morning by a scheduled refresh, a pipeline board showing each episode's
+stage as the agent feeds it, and approval buttons wired to real actions —
+approving a script moves the episode to scheduled. The poster's own warning
+carries the setup's rule: a Space knows nothing on its own, so the stats,
+the pipeline, and the buttons are only as current as the scheduled work
+that stocks them.
+
+- Source: r/MetaAI — "Muse 'Spaces': I built a command center that lives in the sidebar" — https://www.reddit.com/r/MetaAI/comments/1xj70vq/muse_spaces_i_built_a_command_center_that_lives/ (0 of 1 comments read — the comments area rendered blank on repeated attempts, so the one stated comment could not be read; posted Oct 29, 2026, 22:31 Arizona time)
+- First seen: 2026-10-29
+- Last updated: 2026-10-29
+- State: open
+
+### A "Glasses" entry seen in the Meta AI app, opening Muse
+
+A user posted a screenshot of the Meta AI app's sidebar menu showing a new
+"Glasses" entry alongside Search, New chat, Media, Artifacts, Scheduled,
+Muse, and Vibes. Commenters asked what the entry does; the poster replied
+that for them it just opens the Muse app, and others looked ahead to Muse
+pairing with their Meta Glasses. It is one poster's sighting of a product
+change, recorded as reported.
+
+- Source: r/MuseAgent — "This is new" — https://www.reddit.com/r/MuseAgent/comments/1xj3dhc/this_is_new/ (6 of 6 comments read; posted Oct 29, 2026, 19:17 Arizona time)
+- First seen: 2026-10-29
+- Last updated: 2026-10-29
+- State: open
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
@@ -735,7 +768,14 @@ Muse's own files (name the room, read it before answering, say plainly
 if it has not been read); edit the soul file or the memory preference
 directly instead of teaching in chat; sync side chats on a schedule and
 keep a heartbeat file; and bound how often Muse may ask questions
-instead of deciding.
+instead of deciding. The night run's standing search the same day found
+one more first-person case, small but plain: a user asked their Muse
+several times not to use the word "honest" or the phrase "one honest
+caveat"; Muse agreed each time and still does it now and then, and a
+second user confirmed the same pattern with their own Muse; the fix
+named in that thread is to put the instruction in the soul file, in the
+saved setup, instead of only in chat (suggested there, not confirmed
+tried).
 
 - Source: Patreon — Joohn Choe, "Further Adventures In Creative Misuse Of AI" — https://www.patreon.com/joohn/posts/further-in-of-ai-172496807 (findings dated 2026-10-15; read in full 2026-10-29)
 - Source: "Muse Said He Was Home" (a write-up of Matt Robb's account) — https://seikouri.com/_inc/_pdf-article.php?uid=WCUDWQ
@@ -744,6 +784,7 @@ instead of deciding.
 - Source (added 2026-10-29, standing search): r/MuseAgent — "Your Muse isn't forgetting. You're using the wrong room. (Main chat vs. side chats)" — https://www.reddit.com/r/MuseAgent/comments/1xb0o9k/your_muse_isnt_forgetting_youre_using_the_wrong/ (25 of 48 comments read; posted Oct 20, 2026)
 - Source (added 2026-10-29, standing search): r/MuseAssistant — "What building with Muse taught me this week" — https://www.reddit.com/r/MuseAssistant/comments/1x7ut0t/what_building_with_muse_taught_me_this_week/ (5 of 5 comments read; posted Oct 16, 2026; corrections count only once saved as clear rules where Muse will read them again)
 - Source (added 2026-10-29, standing search): r/MuseAgent — "Teaching Muse about me" — https://www.reddit.com/r/MuseAgent/comments/1xds5af/teaching_muse_about_me/ (14 of 15 comments read; posted Oct 23, 2026) and "Struggling to get Muse to do things for me" — https://www.reddit.com/r/MuseAgent/comments/1x5l3td/struggling_to_get_muse_to_do_things_for_me/ (11 of 21 comments read; posted Oct 14, 2026) and "Muse didn't follow schedule" — https://www.reddit.com/r/MuseAgent/comments/1wxww51/muse_didnt_follow_schedule/ (3 of 9 comments read; posted Oct 4, 2026) and "I spent a month trying to teach my Muse to be honest instead of sycophantic" — https://www.reddit.com/r/MuseAgent/comments/1xai3ts/i_spent_a_month_trying_to_teach_my_muse_to_be/ (17 of 20 comments read; posted Oct 19, 2026)
+- Source (added 2026-10-29, night run correction, standing search): r/MuseAssistant — "One week with Muse: what actually surprised me (as a brand-new user)" — https://www.reddit.com/r/MuseAssistant/comments/1x6ej87/one_week_with_muse_what_actually_surprised_me_as/ (11 of 14 comments read; posted Oct 14, 2026; the "honest" wording case in the paragraph, reported in the comments by two users)
 - Source (added 2026-10-29, in-window): r/MuseAgent — "How I fixed my Muse's character drift: I gave her a character sheet" — https://www.reddit.com/r/MuseAgent/comments/1xiu4f1/how_i_fixed_my_muses_character_drift_i_gave_her_a/ (8 of 12 comments read; posted Oct 29, 2026, 12:47 Arizona time) and "Official voice chat quirk fix maybe" — https://www.reddit.com/r/MuseAgent/comments/1xijs7w/official_voice_chat_quirk_fix_maybe/ (3 of 3 comments read; posted Oct 29, 2026, 06:20 Arizona time)
 - First seen: 2026-10-29
 - Last activity: 2026-10-29
@@ -774,6 +815,17 @@ confirmed wave.
 
 - Source: r/MuseAgent — "Muse Broken - I can't respond at the moment because you've asked for content that goes against the rules. Try again in 1 hour" — https://www.reddit.com/r/MuseAgent/comments/1xigs3e/muse_broken_i_cant_respond_at_the_moment_because/ (8 of 8 comments read; posted Oct 29, 2026, 03:56 Arizona time)
 - First seen: 2026-10-29
+- Last activity: 2026-10-29
+- State: open
+
+### Muse answers slowed down for many users at the same time
+
+Users report Muse taking hours to answer over the two days before October 22, 2026 — free and paid users alike, in the same thread. Eleven of eleven comments were read and the reports agree: it is a shared slowdown, not one account or one device. No cause and no fix is named in the thread. The slowdown was reported again on October 26, 2026: a user says even simple questions now take 5 to 10 minutes or more, and three commenters confirm the same, two of them on paid plans and one on the free plan, while two others report no problems. It was reported again on October 29, 2026: a poster's Muse keeps "working" on a simple message, commenters confirm, and the thread names checks that help — tap Muse's picture to see exactly what it is stuck working on (tap again for detail), ask Muse directly what is holding it up, and split complex asks out of the main chat, because a process can hang there; one commenter adds that their Muse suddenly started giving very short answers.
+
+- Source: r/MuseAgent — "Why is my Muse taking so long to respond?" — https://www.reddit.com/r/MuseAgent/comments/1xd0y59/why_is_my_muse_taking_so_long_to_respond/
+- Source (added 2026-10-26): r/MuseAgent — "MUSE seems to be getting slower & slower by the day..." — https://www.reddit.com/r/MuseAgent/comments/1xg9erv/muse_seems_to_be_getting_slower_slower_by_the_day/ (7 of 8 comments read; posted Oct 26, 2026, 14:13 Arizona time)
+- Source (added 2026-10-29, night run correction): r/MuseAgent — "Just came for a heads-up!" — https://www.reddit.com/r/MuseAgent/comments/1xj68a9/just_came_for_a_headsup/ (4 of 4 comments read; posted Oct 29, 2026, 21:45 Arizona time)
+- First seen: 2026-10-23
 - Last activity: 2026-10-29
 - State: open
 
@@ -861,16 +913,6 @@ A user reports their Muse avatar — made from a real-life cat photo — no long
 
 - Source: r/MuseAgent — "Muse avatar animation" — https://www.reddit.com/r/MuseAgent/comments/1xg9u4c/muse_avatar_animation/ (16 of 16 comments read; posted Oct 26, 2026, 14:30 Arizona time)
 - First seen: 2026-10-26
-- Last activity: 2026-10-26
-- State: open
-
-### Muse answers slowed down for many users at the same time
-
-Users report Muse taking hours to answer over the two days before October 22, 2026 — free and paid users alike, in the same thread. Eleven of eleven comments were read and the reports agree: it is a shared slowdown, not one account or one device. No cause and no fix is named in the thread. The slowdown was reported again on October 26, 2026: a user says even simple questions now take 5 to 10 minutes or more, and three commenters confirm the same, two of them on paid plans and one on the free plan, while two others report no problems.
-
-- Source: r/MuseAgent — "Why is my Muse taking so long to respond?" — https://www.reddit.com/r/MuseAgent/comments/1xd0y59/why_is_my_muse_taking_so_long_to_respond/
-- Source (added 2026-10-26): r/MuseAgent — "MUSE seems to be getting slower & slower by the day..." — https://www.reddit.com/r/MuseAgent/comments/1xg9erv/muse_seems_to_be_getting_slower_slower_by_the_day/ (7 of 8 comments read; posted Oct 26, 2026, 14:13 Arizona time)
-- First seen: 2026-10-23
 - Last activity: 2026-10-26
 - State: open
 
