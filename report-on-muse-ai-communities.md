@@ -36,6 +36,8 @@ Updated on 2026-10-29 in the night run (dated log: ~/workspace/learning/communit
 
 Corrected the same night (2026-10-29) when the night run's browser pass report arrived after that run closed (pass ran 2026-10-29 22:58–23:36 Arizona time — see the night run correction section of the 2026-10-29 dated log): all three Reddit sources checked complete for the window after Oct 29, 2026 18:57 Arizona time — 12 window posts, 2 ads skipped. 2 topics added (a Muse Space as a command center, fed by a scheduled refresh; a "Glasses" entry seen in the Meta AI app), 2 entries updated (the voice-mode topic, with voice pulling context only from the main chat; the slowed-down problem, at last activity 2026-10-29 with the checks named in its newest thread), and the standing rules entry updated with one new Reddit standing-search hit (a wording instruction agreed to and still not followed, with the soul-file fix named). Counts after this correction: r/MuseAssistant 3, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 12. Totals after this correction: 57 topics and 25 problems, 1 of them quiet.
 
+Updated on 2026-10-30 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-30.md): no entry added or removed in the main run; the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 13 days. The Reddit sources are no record in the main run — the live browser pass report had not arrived when the run moved on — and are re-checked for the whole window after Oct 29, 2026 22:31 Arizona time on the next run, with the Reddit part of the standing Rules Not Read search still owed. The Meta Community Forums check found no useful update (count 13). The live page was read back in this run showing the night correction build (57 topics and 24 problems shown after the 1 skip), clearing the lag left open by that correction. Totals stand: 57 topics and 25 problems, 1 of them quiet.
+
 ## Part 1 — Topics
 
 New and different things people are doing or talking about with Muse.
@@ -1134,7 +1136,7 @@ morning restored the account.
 _Problems with 7 or more days of no new posts and no fix move here, each with
 its count of quiet days._
 
-### Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 12 days
+### Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 13 days
 
 A buyer of Ray-Ban Meta Wayfarer Gen 3 glasses reports the Muse app lists only
 their phone under Settings > Devices, says it cannot load devices, and offers
@@ -1157,6 +1159,9 @@ the forums search in this run shows that thread last updated 12 days ago).
 2026-10-29 (night run): no activity in 12 days (last activity 2026-10-18;
 tonight's forums check found no new activity on that thread, so the count
 the run-now run set stands).
+2026-10-30: no activity in 13 days (last activity 2026-10-18; the forums
+search in this run shows that thread last updated 12 days ago by its index
+age and no new activity, counted as 13 days from the last activity date).
 
 - Source: Meta Community Forums — "Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app" — https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708
 - First seen: 2026-10-22
