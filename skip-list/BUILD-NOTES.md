@@ -130,3 +130,9 @@ is the road not taken — kept here as the record of the design that cleared
 review. Nothing was deployed to Google; the 12 steps were sent and paused,
 and the paste copy and the read key were deleted the same day (the key was
 never used anywhere).
+
+## 2026-10-30 — the road Clay chose: the button in the report's own repository
+- The Google deploy is STOPPED for good. It would run a copy of production in Google, against Clay's rule (2026-10-15): one source of production, GitHub. Raised by Clay 2026-10-30; the assistant had presented the Google road as fine without naming the clash — recorded here as the miss it was.
+- The master program file and these notes were published into claypnw/report-on-muse-ai-communities (skip-list/) on 2026-10-30, commits 00cf1833 and e5f09d05, VERDICT: PASS. The Google program stays in the repository as the design record; it is not deployed.
+- CHOSEN ROAD (Clay's tap, 2026-10-30 06:48): each story on the report page carries a button; the button opens a ready-filled note (a GitHub issue) in claypnw/report-on-muse-ai-communities in Clay's Chrome, where he is signed in; he taps Submit; the nightly job reads the notes there — only notes written by the repository owner count — and leaves those stories out from the next run on.
+- First step is a test-stand proof: the job's read of the notes (the GitHub token's Issues read is the unproven piece), and the button on the TEST page only. The live page is touched only after the proof passes and Clay approves the tested page.
