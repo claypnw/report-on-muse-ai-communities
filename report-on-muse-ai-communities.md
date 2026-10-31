@@ -44,6 +44,8 @@ Updated on 2026-10-30 in the night run (dated log: ~/workspace/learning/communit
 
 Corrected the same night (2026-10-30) when the night run's browser pass report arrived after that run closed (pass ran 2026-10-30 22:58 to 2026-10-31 00:00 Arizona time — see the correction section of the 2026-10-30 dated log): all three Reddit sources checked complete for the window after Oct 30, 2026 00:26 Arizona time — 68 window posts, 25 ads skipped. 8 topics added (Muse Town, disputed in the comments; YouTube connected directly to Muse; sign in with Muse; Muse working on the owner's own computers; asking Muse to search for unclaimed money; Muse on a timetable with one batched approval check; steering Muse's voice and wording; Muse playing video games), 1 problem added (Muse's inner working notes leaked into the chat), and 6 entries updated (the voice-mode topic; the voice-capture topic; the Glasses topic; the services-blocking problem; the standing-permissions problem; the dancing-avatar-videos problem — the three problems at last activity 2026-10-30). The standing Rules Not Read search found no new hit. Counts after this correction: r/MuseAssistant 0, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 14. Totals after this correction: 65 topics and 26 problems, 1 of them quiet.
 
+Updated on 2026-10-31 in the daily run (dated log: ~/workspace/learning/community-check/2026-10-31.md): no entry added, removed, or changed; the Ray-Ban Meta Gen 3 glasses quiet problem line for 2026-10-31 is added (count stands at no activity in 13 days, from the forums index and the date difference). The Reddit sources are no record in this run — the live browser pass report had not arrived when the run moved on — and are re-checked for the whole window after Oct 30, 2026 22:55 Arizona time on the next run, with the Reddit part of the standing Rules Not Read search still owed. The Meta Community Forums check found no useful update (count 15 — that source reaches the 15-day review mark in this run, and a proposal that it drop to a less-often check is carried in this run's result; no cadence is changed without the admin's word). The live page was read back at the start of this run showing the corrected build (65 topics and 25 problems shown after the 1 skip), clearing the read-back owed from the night run's correction. Totals stand: 65 topics and 26 problems, 1 of them quiet.
+
 ## Part 1 — Topics
 
 New and different things people are doing or talking about with Muse.
@@ -1263,6 +1265,9 @@ the run-now run set stands).
 2026-10-30: no activity in 13 days (last activity 2026-10-18; the forums
 search in this run shows that thread last updated 12 days ago by its index
 age and no new activity, counted as 13 days from the last activity date).
+2026-10-31: no activity in 13 days (last activity 2026-10-18; the forums
+search in this run shows that thread last updated 13 days ago, and the
+date difference Oct 31 minus Oct 18 is 13 days, so the count stands).
 
 - Source: Meta Community Forums — "Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app" — https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708
 - First seen: 2026-10-22
