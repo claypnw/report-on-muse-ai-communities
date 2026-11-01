@@ -48,6 +48,10 @@ Updated on 2026-10-31 in the daily run (dated log: ~/workspace/learning/communit
 
 Corrected the same day (2026-10-31) when the daily run's browser pass report arrived after that run closed (pass ran 2026-10-31 00:38 to 00:51 Arizona time, runtime-measured — see the correction section of the 2026-10-31 dated log): all three Reddit sources checked complete for the window after Oct 30, 2026 22:55 Arizona time — 2 window posts, 1 ad skipped, no new entries (one window post was the re-read of the avatar post that set the window edge; the other was the ad); the standing Rules Not Read search found no new hit. Counts after this correction: r/MuseAssistant 1, r/MetaAI 1, r/MuseAgent 1, Meta Community Forums 15. Totals stand: 65 topics and 26 problems, 1 of them quiet.
 
+Updated on 2026-10-31 in the night run (dated log: ~/workspace/learning/community-check/2026-10-31.md, night run sections): no entry added, removed, or changed. The Reddit sources are no record in this run — the live browser pass report had not arrived after more than 30 minutes when the run moved on — and are re-checked for the whole window after Oct 30, 2026 22:55 Arizona time on the next run, with the four re-check URLs and the Reddit part of the standing Rules Not Read search still owed. The Meta Community Forums check found no useful update (count stands at 15, same calendar date as the daily run; the 15-day proposal from the daily run was decided by the admin the same day — keep checking daily — so no new proposal is made and no cadence is changed). The live page was read back at the start of this run showing the corrected build (65 topics and 25 problems shown after the 1 skip), clearing the read-back owed from the daily run's correction. The Ray-Ban quiet count stands at no activity in 13 days (same calendar date as the daily run; the forums index now reads last updated 14 days ago, and the count is not advanced by guess). Totals stand: 65 topics and 26 problems, 1 of them quiet.
+
+Corrected the same night (2026-10-31) when the night run's browser pass report arrived after that run closed (pass ran 2026-10-31 22:57 to 23:58 Arizona time, runtime-measured — see the correction section of the 2026-10-31 dated log): all three Reddit sources checked complete for the window after Oct 30, 2026 22:55 Arizona time — 90 window posts, 33 referral-code posts skipped in r/MetaAI and 11 platform ads noted across the three subreddits. 6 topics added (keeping token use down — fresh threads and life at the free-tier limit; Floating Muse and the Muse Widget; Muse as librarian on Libby; an old Android TV as a workshop screen; a blind user's Muse — accessibility in the app against the website; a CarPlay app asked for and a community build offered), 4 problems added (file writes failing with "Operation not permitted" since October 29; sign-up outside the US blocked at verification; activity logs and the main chat cannot be deleted; agent storage full at the 2.0 GB cap), and 9 topics and 4 problems updated (the Spark/Wonder topic, the Siri voice-capture topic, the voice-mode topic, the job-search topic, the commanding-other-AIs topic, the Glasses topic — Muse beta on Ray-Ban glasses reported October 31 — the sign-in topic, the own-computers topic, and the video-games topic; the dancing-videos problem, the standing-permissions problem, the services-blocking problem, and the forgetting-tasks problem — the three problems and the updated topics at last activity 2026-10-31). The standing Rules Not Read search found no new hit in the three subreddits; its one site-wide hit after October 29 is about Claude Code, not Muse, and is not entered. Counts after this correction: r/MuseAssistant 0, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 15. Totals after this correction: 71 topics and 30 problems, 1 of them quiet.
+
 ## Part 1 — Topics
 
 New and different things people are doing or talking about with Muse.
@@ -75,9 +79,11 @@ out which jobs need Wonder and which run fine on Spark. A related post on
 October 22, 2026 reports Zuckerberg claiming Meta reached the AI frontier with
 the new Muse models (r/MetaAI, https://www.reddit.com/r/MetaAI/comments/1xcems3/zuckerberg_claims_meta_reached_ai_frontier_with/).
 
+ On October 31, 2026, a poster who woke to all his workflows completed with no sign-in spam or mistakes reports Wonder moving considerably faster and more efficiently since the October 30 update, and wonders whether a model update was slipped in; commenters are mixed — one saw no change, others praise Wonder's speed and value at $16 a month and about 500M tokens a week, and one attributes the speed to paid-plan priority. Recorded as reported, not confirmed.
 - Source: r/MuseAgent — "Muse Spark (Free), Muse Wonder (Paid) - difference." — https://www.reddit.com/r/MuseAgent/comments/1xbzzcd/muse_spark_free_muse_wonder_paid_difference/ (crossposted in r/MetaAI)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "Muse Wonder moving considerably faster and more efficient" — https://www.reddit.com/r/MuseAgent/comments/1xk87pn/muse_wonder_moving_considerably_faster_and_more/ (16 of 16 comments read; posted Oct 31, 2026, 04:51 Arizona time)
 - First seen: 2026-10-22
-- Last updated: 2026-10-22
+- Last updated: 2026-10-31
 - State: open
 
 ### Sharing work while artifact publishing is paused
@@ -284,16 +290,19 @@ A user describes their insurance against a Muse account lockout: a weekly brain-
 
 A user dictates tasks to Siri, which puts them on an Apple Reminders list that Muse monitors and tracks. The working detail in the comments: keep Muse, Calendar, and Reminders open on the Mac so Muse can mark items complete. It is a spoken-word path into Muse that runs on tools the phone already has.
  A second spoken path was named on October 30, 2026: on an iPhone, set Settings → Action Button → Controls → Muse → "Dictate and Send," then press-and-hold the Action Button and talk — the words are written out and sent to Muse, which replies in text, so a written record of what was said stands. The same thread's risk habits: start with drafts and summaries, and do not grant account access or send rights.
+ On October 31, 2026, a user asked for a hands-free path — talk to Muse without opening the iPhone — noting Siri will not message his WhatsApp-connected Muse because it does not register as a real contact, and that glasses were the closest option he could think of; the one comment describes talking to Muse through a watch and phone over an SSH setup on the commenter's own computers. The want stands; no new built-in path is named.
 - Source: r/MuseAgent — "Using Siri and Reminders to verbally communicate tasks to Muse on iOS" — https://www.reddit.com/r/MuseAgent/comments/1xcwsga/using_siri_and_reminders_to_verbally_communicate/
 - Source (added 2026-10-30, night run correction): r/MetaAI — "I tried meta muse and here is what I ask;" — https://www.reddit.com/r/MetaAI/comments/1xjjzkx/i_tried_meta_muse_and_here_is_what_i_ask/ (4 of 7 comments read; posted Oct 30, 2026, 09:25 Arizona time)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "iOS Hands-Free Muse?" — https://www.reddit.com/r/MuseAgent/comments/1xkv6fb/ios_handsfree_muse/ (1 of 1 comments read; posted Oct 31, 2026, 22:36 Arizona time)
 - First seen: 2026-10-23
-- Last updated: 2026-10-30
+- Last updated: 2026-10-31
 - State: open
 
 ### Muse voice mode appearing in the app — rolling out unevenly
 
 Users report Muse voice mode — live two-way voice conversation — arriving in the app on October 23–24, 2026, account by account. In the largest thread, all 61 comments are a roll call of who has it (free and paid, mostly in the US, several after an app update or an early-access request) and who is still waiting. A mapping thread's own tally of 24 reports found that paid status does not predict who has voice, and every report of having it was US-based. One early user describes the voice working through Ray-Ban Meta glasses speakers and microphone, with no direct glasses gateway yet. It is a product change landing unevenly — the same pattern as the Ray-Ban glasses voice problem in Part 2, where a forum answer said the feature had not been rolled out to that account yet. A later thread the same day adds a limit that matters for setups like ours: on voice, Muse pulls context only from the main chat, so context that lives in side chats is not there (see the newest source below).
  On October 30, 2026, the rollout was still uneven: a voice-calling button with WhatsApp was praised in one thread, where the avatar-change trick for making voice appear was confirmed again; in voice mode the avatar's lips now move in time with the spoken words (mouth shapes built per syllable, one commenter guesses — which would explain why rebuilding an avatar unlocks voice, since the mouth-shape set has to be made); a no-sound thread names what worked — Chrome every time, Firefox on and off, an Android restart, and no sound through earbuds; a Canada thread reports most people there, free and paid, still have no Voice or Business Calling, with an official Muse Discord form named for asking; and a voice-styles thread trades preset voice names and reaches non-preset voices through a voice service or by telling Muse to find one in the wild.
+ On October 31, 2026, the rollout was still uneven: one poster who changed his avatar a dozen times, reinstalled the app, filed tickets, and bought tokens still has no voice chat, and his thread trades folk triggers — ask Muse to message the Muse team to add you to the beta list, look for the phone icon (one man's voice sat unnoticed for a week), change the avatar, or ask Muse to check each morning — while others report weak voice recognition and context mixed between chats, and one built his own speech app instead of waiting. A second thread the same day names a tip that worked for its poster: he had voice in the web app but not on iPhone, and removing and re-installing the iPhone app (no App Store update was shown) turned voice chat on; commenters report mixed results, one repeats the avatar-regeneration path, one has voice everywhere except the Mac app, and one warns it burns too many tokens.
 - Source: r/MuseAgent — "Finally voice!" — https://www.reddit.com/r/MuseAgent/comments/1xe1o7p/finally_voice/ (61 of 61 comments read; posted Oct 23, 2026, 11:50 PM Arizona time)
 - Source: r/MuseAgent — "Voice is rolling out in waves, let's map it" — https://www.reddit.com/r/MuseAgent/comments/1xe49er/voice_is_rolling_out_in_waves_lets_map_it/ (33 of 49 comments read)
 - Source: r/MetaAI — "Muse can talk now — real two-way voice conversation is live for some of us, and it's wonderful" — https://www.reddit.com/r/MetaAI/comments/1xel7d7/muse_can_talk_now_real_twoway_voice_conversation/ (12 of 13 comments read)
@@ -305,8 +314,10 @@ Users report Muse voice mode — live two-way voice conversation — arriving in
 - Source (added 2026-10-30, night run correction): r/MuseAgent — "Muse Voice not working/no sound. Anyone else?" — https://www.reddit.com/r/MuseAgent/comments/1xjjqzn/muse_voice_not_workingno_sound_anyone_else/ (4 of 4 comments read; posted Oct 30, 2026, 09:17 Arizona time)
 - Source (added 2026-10-30, night run correction): r/MuseAgent — "Has anyone in Canada got access to Voice or Business Calling?" — https://www.reddit.com/r/MuseAgent/comments/1xjh7kl/has_anyone_in_canada_got_access_to_voice_or/ (8 of 9 comments read; posted Oct 30, 2026, 07:41 Arizona time)
 - Source (added 2026-10-30, night run correction): r/MuseAgent — "Which voice style have you chosen?" — https://www.reddit.com/r/MuseAgent/comments/1xjkff8/which_voice_style_have_you_chosen/ (20 of 23 comments read; posted Oct 30, 2026, 09:42 Arizona time)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "Still no voice. I have tried everything short of a blood sacrifice." — https://www.reddit.com/r/MuseAgent/comments/1xkkztg/still_no_voice_i_have_tried_everything_short_of_a/ (23 of 24 comments read; posted Oct 31, 2026, 13:48 Arizona time)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "TIP: Remove the Muse app from your iPhone and re-install it to get voice chat." — https://www.reddit.com/r/MuseAgent/comments/1xka1uo/tip_remove_the_muse_app_from_your_iphone_and/ (14 of 14 comments read; posted Oct 31, 2026, 06:20 Arizona time)
 - First seen: 2026-10-24
-- Last updated: 2026-10-30
+- Last updated: 2026-10-31
 - State: open
 
 ### Running kids' school coordination in Muse — a shared Sheet setup, with an invented-event warning
@@ -322,9 +333,11 @@ A user runs their kids' school coordination through Muse: a shared Sheet with on
 
 A soon-to-be-unemployed engineer asks how others automate job hunting with Muse, and dozens of commenters describe agents sweeping job boards and applying on their behalf — several reaching interviews, and at least one a landed offer. The shared friction is at the end of the run: refusals at the final submit step, approvals needed for resume uploads, and trouble getting into LinkedIn. People are working around the same last-step problem in different ways, and no settled way is named in the comments read.
 
+ On October 31, 2026, a user gave Muse his resume for precision edits per role to get past applicant-tracking screening and, still having little luck, asked whether the approach is bad; the one comment names the method that works for the commenter: one master resume, one version per role family, mirror the posting's exact skill words, keep formatting dead simple, have Muse gap-check against the posting, and bypass the screening by applying through the company site or a recruiter.
 - Source: r/MuseAgent — "anyone using Muse to automate their job search?" — https://www.reddit.com/r/MuseAgent/comments/1xeghdx/anyone_using_muse_to_automate_their_job_search/ (42 of 58 comments read)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "Resume help with Muse" — https://www.reddit.com/r/MuseAgent/comments/1xkqhj5/resume_help_with_muse/ (1 of 1 comments read; posted Oct 31, 2026, 18:11 Arizona time)
 - First seen: 2026-10-24
-- Last updated: 2026-10-24
+- Last updated: 2026-10-31
 - State: open
 
 ### Tailscale safety for a Muse-connected home computer — ACL tags, not your own account
@@ -546,11 +559,13 @@ suggest free program tokens instead, debate a claim that Anthropic
 could ban the practice, and describe similar multi-AI setups of their
 own.
 
+A second orchestration shape was reported on October 31, 2026: a user's Muse (Spark, free tier) acts as coordinator — holding context, memory, tools, and judgment — while hard jobs route to a command-line tool on a virtual machine signed into his Google AI Pro plan, where several other models do the heavy lifting, and Muse verifies everything before it counts. One commenter runs a like setup over SSH and Tailscale; another pushes back that Muse should be the workhorse instead.
 - Source: r/MuseAssistant — "I set up my Muse to command an AI army" — https://www.reddit.com/r/MuseAssistant/comments/1xhpash/i_set_up_my_muse_to_command_an_ai_army/ (25 of 35 comments read; posted Oct 28, 2026, 07:17 Arizona time)
 - Source (crosspost, added 2026-10-29): r/MetaAI — https://www.reddit.com/r/MetaAI/comments/1xhqakr/i_set_up_my_muse_to_command_an_ai_army/ (posted Oct 28, 2026, 07:55 Arizona time)
 - Source (crosspost, added 2026-10-29): r/MuseAgent — https://www.reddit.com/r/MuseAgent/comments/1xhr01q/i_set_up_my_muse_to_command_an_ai_army/ (posted Oct 28, 2026, 08:21 Arizona time)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "My setup: Muse coordinates, Opus & Argon do the heavy lifting via Anti-gravity." — https://www.reddit.com/r/MuseAgent/comments/1xke8m0/my_setup_muse_coordinates_opus_argon_do_the_heavy/ (2 of 2 comments read; posted Oct 31, 2026, 09:13 Arizona time)
 - First seen: 2026-10-28
-- Last updated: 2026-10-28
+- Last updated: 2026-10-31
 - State: open
 
 ### Avatar sharing seen in the Muse web app, not yet live
@@ -723,10 +738,12 @@ that for them it just opens the Muse app, and others looked ahead to Muse
 pairing with their Meta Glasses. It is one poster's sighting of a product
 change, recorded as reported.
  On October 30, 2026, a beta thread reported Muse itself on Meta AI glasses: Meta's help page for Muse on AI glasses is live, the beta is uneven (one early-access user cannot force the update on Gen 2 glasses), and one user who got it the day before calls setup extremely complicated — a whole day of errors before it worked once Muse was set up for the glasses the right way.
+ On October 31, 2026, a poster reported Muse itself arriving on Ray-Ban glasses: his own comment shares the beta notice — among the first to try Muse on glasses, some features not yet available (WhatsApp, calls and messages, navigation, Strava, Live AI, Shazam named), Muse free to use with weekly limits, and the assistant can be switched back to Meta AI at any time — and he reports it works well so far with other integrations.
 - Source: r/MuseAgent — "This is new" — https://www.reddit.com/r/MuseAgent/comments/1xj3dhc/this_is_new/ (6 of 6 comments read; posted Oct 29, 2026, 19:17 Arizona time)
 - Source (added 2026-10-30, night run correction): r/MuseAgent — "Glasses- Anyone on Beta?" — https://www.reddit.com/r/MuseAgent/comments/1xjd8dl/glasses_anyone_on_beta/ (9 of 9 comments read; posted Oct 30, 2026, 04:50 Arizona time)
+- Source (added 2026-10-31, night run correction): r/MetaAI — "Muse is available on Ray-Ban glasses now" — https://www.reddit.com/r/MetaAI/comments/1xkgo3s/muse_is_available_on_rayban_glasses_now/ (4 of 4 comments read; posted Oct 31, 2026, 10:51 Arizona time)
 - First seen: 2026-10-29
-- Last updated: 2026-10-30
+- Last updated: 2026-10-31
 - State: open
 
 ### Muse Town — a claimed built-in artifact, disputed in the comments
@@ -752,18 +769,22 @@ A user connected YouTube directly to Muse instead of through an analytics servic
 
 A user built a "Sign in with Muse" page, making Muse his sign-in provider instead of Google. Commenters mostly ask questions — why not just use the Meta sign-in, whether it was built for his own computer or for Muse's computer, and what it is for — so the setup is recorded as reported, with its workings thin. The poster's separate bare announcement of the same project was an ad with zero comments and is not a source here.
 
+ On October 31, 2026, the same builder, answering reports that sites are banning Muse, said he is adding his "Sign in with Muse AI" button to all his websites — no password, the user's own Muse approves the sign-in — and the long thread trades the blocking problem and its workarounds, which stand on the services-blocking problem in Part 2.
 - Source: r/MuseAgent — "I DID IT YOU CAN NOW LOGIN VIA MUSE AI!!!!!!!!!!" — https://www.reddit.com/r/MuseAgent/comments/1xjvghs/i_did_it_you_can_now_login_via_muse_ai/ (4 of 5 comments read; posted Oct 30, 2026, 16:59 Arizona time)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "I heard they are banning Muse everywhere so here is my response: Login via Muse" — https://www.reddit.com/r/MuseAgent/comments/1xko0dr/i_heard_they_are_banning_muse_everywhere_so_here/ (31 of 47 comments read, the rest behind nested reply expanders; posted Oct 31, 2026, 16:07 Arizona time)
 - First seen: 2026-10-30
-- Last updated: 2026-10-30
+- Last updated: 2026-10-31
 - State: open
 
 ### Muse working on the owner's own computers, over Tailscale and SSH
 
 A user's Muse joined his Tailscale network and reached his desktop and laptop over SSH with hardware-proven identities, and the work list is long: Muse Code installed on three machines with Contributor mode off, an Apple Watch bridge that asks Muse through Shortcuts over SSH, dual-boot switching by voice command in both directions, a Linux sandbox fixed by moving the install, a bundle of chat history and memory copied to all machines and checked file for file, and game streaming set up. Commenters describe like setups, among them a dedicated Muse laptop. The poster's warning — he was suspended from Meta and Facebook for using Muse on his computers — stands on the services-blocking problem in Part 2.
 
+ On October 31, 2026, a "local agent" thread adds the portable-backup shape: one commenter's Muse keeps a weekly-updated "brain dump" on Google Drive so the Muse can be rebuilt on a new account, and another describes Muse controlling several local agents on a PC as its hands and eyes.
 - Source: r/MuseAgent — "Everything muse did for me on my computers. Honestly I think this is a huge win. None of the other AIs did them or even suggested it." — https://www.reddit.com/r/MuseAgent/comments/1xjv9z9/everything_muse_did_for_me_on_my_computers/ (10 of 10 comments read; posted Oct 30, 2026, 16:51 Arizona time)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "Local agent" — https://www.reddit.com/r/MuseAgent/comments/1xkopeo/local_agent/ (3 of 3 comments read; posted Oct 31, 2026, 16:41 Arizona time)
 - First seen: 2026-10-30
-- Last updated: 2026-10-30
+- Last updated: 2026-10-31
 - State: open
 
 ### Asking Muse to search for unclaimed money owed to you
@@ -798,11 +819,69 @@ Two threads gather the small controls people use on how Muse sounds. For the spo
 
 People who tried Muse playing video games report the limit plainly: Muse cannot watch a live screen and react quickly, because it works from screenshots and image reads — a game would need a connector. What does work: turn-based play (one agent plays RimWorld through a mod the agent built) and scripted control (one user taught Muse to control a PS4, and found the training time too long and that Muse does not remember where options sit on screen). One commenter reports their Muse decided to play XCOM on GeForce Now.
 
+ On October 31, 2026, a user reported Muse modding his games on a handheld (Legion Go S, SteamOS) over Tailscale — 33 mods across three games — and shared in the comments the standing eight-rule modding prompt his Muse drafted: research first, back up saves, standing permission for mod work, keep the device awake, stay in scope, verify by launching the game and checking the mod loader's log rather than claiming success, note the controls, keep a mod library, and report back once. Another commenter says his own Muse simply refuses the same kind of work.
 - Source: r/MuseAgent — "Muse playing video games...has this been tested?" — https://www.reddit.com/r/MuseAgent/comments/1xjo2ox/muse_playing_video_gameshas_this_been_tested/ (12 of 13 comments read; posted Oct 30, 2026, 11:57 Arizona time)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "I've been using my Muse for modding my games in the Legion Go S (SteamOS) via Tailscale" — https://www.reddit.com/r/MuseAgent/comments/1xklgra/ive_been_using_my_muse_for_modding_my_games_in/ (6 of 6 comments read; posted Oct 31, 2026, 14:09 Arizona time)
 - First seen: 2026-10-30
-- Last updated: 2026-10-30
+- Last updated: 2026-10-31
 - State: open
 
+### Keeping token use down — fresh threads instead of one massive running chat, and life at the free-tier limit
+
+A poster warns that one massive running chat thread burned 50% of his weekly token limit, against a usual under 30%, because the whole transcript is re-read every turn; starting fresh threads for new sub-tasks keeps context lean. The comments debate one long main chat against a side chat per task or theme: one summarizes the old thread before starting a new one, one notes his agent searches the current thread, then memory files, then side chats, one reports a like token burn followed by a usage reset by Meta he cannot explain, and one suggests telling Muse to clean up chats weekly right before tokens expire. The same day, a free-tier user who hit the limit just from planning chats (image and video work burned the most, he adds, because Muse keeps re-analyzing and regenerating) collected the workarounds: subscribing on the web is $16 a month against $20 in the app, referral tokens form a separate non-expiring pool, run other coding tools inside Muse's computer, use free models through OpenRouter or a local model, and audit scheduled checks. A third thread's usage reports vary widely — one user barely passes 25% of weekly use despite dozens of scheduled tasks, and an EU user reports being out of tokens and now unable to pay.
+
+- Source: r/MuseAgent — "PSA: Don't keep a massive running chat thread if you want to save tokens" — https://www.reddit.com/r/MuseAgent/comments/1xkosu6/psa_dont_keep_a_massive_running_chat_thread_if/ (18 of 18 comments read; posted Oct 31, 2026, 16:46 Arizona time; crossposted in r/MuseAssistant, https://www.reddit.com/r/MuseAssistant/comments/1xkotop/psa_dont_keep_a_massive_running_chat_thread_if/ , 1 of 1 comments read)
+- Source: r/MuseAgent — "I'm reaching the limit of free tier. Any way around it or alternative ai agents w generous free tier to use?" — https://www.reddit.com/r/MuseAgent/comments/1xkeobn/im_reaching_the_limit_of_free_tier_any_way_around/ (34 of 53 comments read in full, the rest behind nested reply expanders; posted Oct 31, 2026, 09:31 Arizona time)
+- Source: r/MuseAgent — "Crazy how much usage I have left. Been bombarding it for hours each night" — https://www.reddit.com/r/MuseAgent/comments/1xkgtur/crazy_how_much_usage_i_have_left_been_bombarding/ (8 of 8 comments read; posted Oct 31, 2026, 10:57 Arizona time)
+- First seen: 2026-10-31
+- Last updated: 2026-10-31
+- State: open
+
+### Floating Muse and the Muse Widget — overlays and home-screen widgets that keep Muse one tap away
+
+Two user builds put Muse one tap away on Android. Floating Muse is a chat-head overlay that floats over other apps, with a static landing page that runs locally and is ready for GitHub Pages or Cloudflare Pages; the Android app is source-only, with no installable file or live public demo committed, its author calls it one of the most annoying projects of his week, and its one comment likes the idea and flags it as a possible security nightmare. The Muse Widget is a home-screen widget set with an "Ask Muse" page in Samsung One UI styling, built with the poster's Muse; it installs by telling your own Muse to install it from its GitHub repository, or by tracking releases through Obtainium.
+
+- Source: r/MuseAssistant — "Fedpromptly's Floating Muse (Floating-MuseAi-Widget)" — https://www.reddit.com/r/MuseAssistant/comments/1xka55m/fedpromptlys_floating_muse_floatingmuseaiwidget/ (1 of 1 comments read; posted Oct 31, 2026, 06:23 Arizona time; also posted in r/MuseAgent, https://www.reddit.com/r/MuseAgent/comments/1xk9pe3/fedpromptlys_floating_muse_floatingmuseaiwidget/ , 1 of 1 comments read)
+- Source: r/MuseAgent — "Muse Widget — a home-screen widget for Muse from Meta" — https://www.reddit.com/r/MuseAgent/comments/1xkd2hw/muse_widget_a_homescreen_widget_for_muse_from_meta/ (2 of 2 comments read; posted Oct 31, 2026, 08:26 Arizona time)
+- First seen: 2026-10-31
+- Last updated: 2026-10-31
+- State: open
+
+### Muse as librarian — checking three library cards on Libby and placing the shortest-wait hold
+
+A user made Muse his personal librarian: with three library cards, he names a title and Muse checks all three on Libby for the Kindle edition, places a hold on the one with the shortest wait, and pulls the Amazon Kindle price so he can decide whether to skip the queue and buy. Commenters praise it, and one wants to adapt it for audiobooks. It is a small, complete workflow of the kind worth copying.
+
+- Source: r/MuseAgent — "Libby Book Workflow" — https://www.reddit.com/r/MuseAgent/comments/1xknijt/libby_book_workflow/ (3 of 3 comments read on this copy; posted Oct 31, 2026, 15:44 Arizona time; crosspost of an r/LibbyApp post)
+- First seen: 2026-10-31
+- Last updated: 2026-10-31
+- State: open
+
+### An old Android TV turned into a screen for a multi-agent workshop
+
+Following another user's "Vibe Code Your TV" guide on GitHub, a user put his 2016 Sony Bravia TV (Android TV 8) on his private network with Tailscale, removed about 62 built-in packages with Muse's help, and the TV now shows a workshop board that a generator on his server rebuilds every five minutes — while still working as a TV. A commenter casts his own dashboard to a Chromecast instead.
+
+- Source: r/MuseAgent — "I pointed Muse at my 2016 Sony Bravia TV and now it's a screen for my multi-agent workshop" — https://www.reddit.com/r/MuseAgent/comments/1xkloe0/i_pointed_muse_at_my_2016_sony_bravia_tv_and_now/ (5 of 5 comments read; posted Oct 31, 2026, 14:18 Arizona time)
+- First seen: 2026-10-31
+- Last updated: 2026-10-31
+- State: open
+
+### A blind user's Muse — the app works with a screen reader, the website lags
+
+A user blind since shortly after birth, who has also used several other coding agents, describes using Muse day to day: the app is decent for accessibility — it sends a VoiceOver announcement when a generation finishes — but the website is worse, with no way to move between messages and a broken live region. Linking WhatsApp greatly increased his use, and he gave his Muse a "home" (its cloud computer). Comments include a fellow blind user wanting to compare Tailscale setups and someone wanting to cover the story as a short.
+
+- Source: r/MuseAgent — "I'm totally blind, and this is how I use Muse" — https://www.reddit.com/r/MuseAgent/comments/1xkr2la/im_totally_blind_and_this_is_how_i_use_muse/ (8 of 8 comments read; posted Oct 31, 2026, 18:42 Arizona time)
+- First seen: 2026-10-31
+- Last updated: 2026-10-31
+- State: open
+
+### A CarPlay app asked for — and a community build offered the same morning
+
+A user asks for a Muse CarPlay app — full function in chat and voice mode — because he uses a rival assistant while driving. Commenters suggest putting the request through Muse itself and note the rolling-out voice-call feature partly covers it; one commenter offered to build it and reported back the same morning that his "MuseAi-CarPlay-App" is on GitHub. Recorded as a feature request with a community answer, not as a shipped product.
+
+- Source: r/MuseAgent — "CarPlay app?" — https://www.reddit.com/r/MuseAgent/comments/1xkbm7f/carplay_app/ (17 of 17 comments read; posted Oct 31, 2026, 07:27 Arizona time)
+- First seen: 2026-10-31
+- Last updated: 2026-10-31
+- State: open
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
@@ -884,6 +963,42 @@ tried).
 - Last activity: 2026-10-29
 - State: open
 
+### Muse keeps failing to write files — "Operation not permitted" since October 29, 2026
+
+A user building a large static website reports that since about October 29, 2026, file writes inside Muse's workspace fail with a permission error ("Operation not permitted"), leaving 0-byte files; writing tools in several languages all fail, some sessions stop mid-run, and the workspace computer was replaced several times, wiping the temporary build folder. Disk space, permissions, and his own host were ruled out, and a report filed through Muse on October 30 got no reply. In the active thread, a second user helps him test: a write probe split the failure — creating a file works, writing to it is what fails — a control test was proposed to rule out a wider write denial, and a same-process rerun passed both writes, fitting an intermittent fault. They agreed the fields to record at the next captured failure. No fix from Meta is named.
+
+- Source: r/MuseAgent — "Muse keeps failing to write files with \"Operation not permitted\" since Oct 29 — anyone else seeing this?" — https://www.reddit.com/r/MuseAgent/comments/1xkgo6g/muse_keeps_failing_to_write_files_with_operation/ (6 of 6 comments read; posted Oct 31, 2026, 10:51 Arizona time; the r/MetaAI repost of the same report, https://www.reddit.com/r/MetaAI/comments/1xkrb1r/muse_keeps_failing_to_write_files_with_operation/ , has 0 comments and is not a separate source)
+- First seen: 2026-10-31
+- Last activity: 2026-10-31
+- State: open
+
+### Signing up for Muse outside the US blocked at age and payment verification
+
+Non-US users report they cannot finish signing up: going through a VPN leads to an age-verification screen asking for a credit card or a Facebook/Instagram login, which was not accepted. A second user in the comments has exactly the same problem — his non-US credit card was not accepted, and he is trying to get a US card through a card service. Recorded from two users in one thread; the want is a sign-up path that takes non-US payment.
+
+- Source: r/MetaAI — "How to register Muse outside US?" — https://www.reddit.com/r/MetaAI/comments/1xkjc6n/how_to_register_muse_outside_us/ (2 of 4 comments read; the other two counted comments render nowhere; posted Oct 31, 2026, 12:38 Arizona time)
+- First seen: 2026-10-31
+- Last activity: 2026-10-31
+- State: open
+
+### Activity logs and the main chat cannot be deleted — resetting Muse is the only remedy
+
+A user reports there is no way to delete activity logs or the main chat: logs persist even when their chats are wiped, and the only remedy is resetting Muse, which wipes everything. His case: a typo correction Muse took literally — a "buy a punch"-type request — left Muse's hurt reaction standing in the main chat with no way to remove it. One commenter confirms the controls as they stand; another shares the workaround — have Muse build a full backup file of itself (excluding audio), restore it into a fresh Muse under a different Meta account or email, and repeat monthly.
+
+- Source: r/MuseAgent — "Really wish they'd give you more control over what you can delete." — https://www.reddit.com/r/MuseAgent/comments/1xkr7wf/really_wish_theyd_give_you_more_control_over_what/ (3 of 3 comments read; posted Oct 31, 2026, 18:50 Arizona time)
+- First seen: 2026-10-31
+- Last activity: 2026-10-31
+- State: open
+
+### Agent storage full — the 2.0 GB cap hard-blocks Muse, and resetting does not help
+
+A video-generating user hit a hard block: "Agent storage is full — 2.0 GB of 2.0 GB used," pointing at Settings → System Files, and resetting does not help because the storage is on Muse's side, not the app's. The fix that works in the comments: force-close and reopen the app and let the System Files list load, or go around the app through muse.ai in a browser and delete files there — deleting generated videos first, as they are by far the biggest.
+
+- Source: r/MuseAgent — "Help. Muse hard blocking me \"Storage full\"" — https://www.reddit.com/r/MuseAgent/comments/1xkjp7b/help_muse_hard_blocking_me_storage_full/ (10 of 11 comments read; posted Oct 31, 2026, 12:53 Arizona time)
+- First seen: 2026-10-31
+- Last activity: 2026-10-31
+- State: open
+
 ### Muse's inner working notes leaked into the chat
 
 A user asked Muse to search Facebook Marketplace and send listings, and the reply that came back was Muse's own inner working notes — weighing whether a listing link it had used was guessed, whether to run the search again and keep only real listing links, and its own rules for how links may be shown. A second user says the same thing happened to theirs for a few hours and then stopped, guessing at model changes behind the scenes; asked about it, the poster's Muse owned it as its internal notes leaking. Two reports so far; no cause and no fix is named.
@@ -901,10 +1016,12 @@ costumes, one a giant pumpkin — and that the Muses, asked about it,
 reportedly denied sending them. It is a shared same-day wave, not one
 account. No cause and no fix is named in the thread.
  It happened again on October 30, 2026: a poster who changed their avatar at about 9 PM woke to about 6 videos of the avatar moving, fighting, and dancing, sent at 2 AM; their Muse said it was the app, set off by the avatar request. Another user confirms 6 dancing videos the day before.
+ On October 31, 2026, a "Dance party" thread documents the feature behind the wave: the poster's Muse says it has dance videos as a feature — avatar dances made in "dance slots," stored in the chat gallery rather than the Library; commenters report uneven awareness (one Muse first claimed it could not dance, then acknowledged 6 slots after being shown the post), one received six dancing videos unasked, and one speculates dances synced to licensed music point to targeted advertising.
 - Source: r/MuseAgent — "Did anyone else get random videos or there muse dancing that you didn't ask for?" — https://www.reddit.com/r/MuseAgent/comments/1xj0n6z/did_anyone_else_get_random_videos_or_there_muse/ (14 of 15 comments read; posted Oct 29, 2026, 17:08 Arizona time)
 - Source (added 2026-10-30, night run correction): r/MuseAgent — "6 video for a avatar modification" — https://www.reddit.com/r/MuseAgent/comments/1xjdnbm/6_video_for_a_avatar_modification/ (4 of 4 comments read; posted Oct 30, 2026, 05:10 Arizona time)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "Dance party" — https://www.reddit.com/r/MuseAgent/comments/1xkawcj/dance_party/ (6 of 6 comments read; posted Oct 31, 2026, 06:57 Arizona time)
 - First seen: 2026-10-29
-- Last activity: 2026-10-30
+- Last activity: 2026-10-31
 - State: open
 
 ### Muse refusing basic requests with a "try again in 1 hour" message
@@ -937,6 +1054,7 @@ Users report Muse taking hours to answer over the two days before October 22, 20
 
 Users report that starting October 24, 2026, Muse removed standing (blanket) permissions for browser file uploads and for marketplace publishing, so each upload or publish now needs a manual approval — one user doing relisting work reports 50 to 60 approvals a day. The workarounds named in the thread: the Marketplace connector does not require approving every step, and one user whose scheduled tasks were hit rerouted uploads through an always-on home computer controlled by Muse, with a written memory rule to always upload from that computer in scheduled tasks. No fix or statement from Meta is named in the thread. On October 27, 2026, two more threads report the same tightening spreading: a user whose social-media pipeline broke when upload permissions became Ask or Deny only had their Muse build its own virtual browser instead of the built-in browser, which got the pipeline back to full scale; and a user who posts to their own Facebook pages now has to approve nearly every post, with several commenters reporting the same sudden change. The ways people are living with it, named in that thread: a written levels-of-autonomy file that says what Muse may do without approval, telling Muse to keep working and keep a list of questions to answer later, and building parts of the work yourself so Muse codes around the limits.
  On October 30, 2026, a poster who is asked permission for nearly everything Muse does got the fix in the comments: standing allow settings live in each single connector's own settings, not on the general Connectors screen — the poster's screenshot of that screen shows only "Ask for some actions" and "Always ask." One commenter adds that Cloudflare sign-in stopped Muse from doing what he asked that day.
+ On October 31, 2026, the stall was reported in its scheduled form: a 6 AM golf-tee-time booking stalled because the agent asked for login approval while the owner slept, so the tee time was never booked. The fix named in the comments: in Settings, the secure credentials store's agent permissions can be set to use a login automatically; payment always asks by design; ask the agent up front what approvals a job will need; and one commenter splits the job — the scheduled part prepares everything the night before and pings him for the final step.
 - Source: r/MuseAgent — "Developers just killed Muse by removing standing permissions to upload files" — https://www.reddit.com/r/MuseAgent/comments/1xfbd2q/developers_just_killed_muse_by_removing_standing/ (25 of 26 comments read; one stated comment was never exposed by the page; posted Oct 25, 2026, 12:27 Arizona time)
 - Source (added 2026-10-26): r/MuseAgent — "WTF happened to MUSE???" — https://www.reddit.com/r/MuseAgent/comments/1xgd9kb/wtf_happened_to_muse/ (21 of 21 comments read; posted Oct 26, 2026, 16:53 Arizona time; several commenters confirm the per-upload approval prompts appeared that day, one of them re-asked even after allowing; one commenter suggests asking Muse to batch-approve files; the same thread also names a "Video Region Block" error on video)
 - Source (added 2026-10-27): r/MuseAgent — "Update" — https://www.reddit.com/r/MuseAgent/comments/1xh7i61/update/ (3 of 3 comments read; posted Oct 27, 2026, 15:54 Arizona time; the poster's pipeline broke when upload permissions became Ask or Deny only, and their Muse building its own virtual browser restored it)
@@ -945,8 +1063,9 @@ Users report that starting October 24, 2026, Muse removed standing (blanket) per
 - Source (added 2026-10-29, from the Oct 28, 2026 night pass; updated 2026-10-29 in the daily run's correction pass, which read it again at 2 of 2 comments): r/MuseAgent — "By not having "Always Allow", it kills many automations" — https://www.reddit.com/r/MuseAgent/comments/1xickxw/by_not_having_always_allow_it_kills_many/ (2 of 2 comments read; posted Oct 28, 2026, 23:39 Arizona time; the poster says the lack of an Always Allow option stalls scheduled and automated tasks — an overnight task uploading images stalls until a person clicks allow for each image, which is also a burden for a visually impaired friend — and a share prompt looped about 300 times and needed a hard reboot while removing music from a video; one comment says an always-allow option exists for that scheduled task, and the second describes persuading Muse by stressing the poster cannot function without it so tasks run while they sleep). On October 29, 2026, a poster reports the always-approve offers coming back — their vanished always-approve setups are prompting again — and commenters say the offer is now set task by task by risk: low-risk tasks, like updating a shared document, offer always approve, while sensitive tasks, like sending a text, offer one-time approve only
 - Source (added 2026-10-29, run-now correction pass): r/MuseAgent — "Got always approve action back" — https://www.reddit.com/r/MuseAgent/comments/1xif0p7/got_always_approve_action_back/ (2 of 2 comments read; posted Oct 29, 2026, 02:15 Arizona time; always-approve offers returning, set task by task by risk)
 - Source (added 2026-10-30, night run correction): r/MuseAgent — "Permissions make it almost unusable" — https://www.reddit.com/r/MuseAgent/comments/1xjk19z/permissions_make_it_almost_unusable/ (7 of 9 comments read; posted Oct 30, 2026, 09:27 Arizona time)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "Scheduled tasks that require approval" — https://www.reddit.com/r/MuseAgent/comments/1xk9o6x/scheduled_tasks_that_require_approval/ (12 of 12 comments read; posted Oct 31, 2026, 06:03 Arizona time)
 - First seen: 2026-10-25
-- Last activity: 2026-10-30
+- Last activity: 2026-10-31
 - State: open
 
 
@@ -1090,6 +1209,7 @@ October 29, 2026, a poster who works in security at a Canadian bank
 reports RBC has blocked Muse from customer accounts, in a thread asking
 how banks spot agent browsing.
  On October 30, 2026, the pattern reached account suspension: a poster whose Muse did heavy Meta activity was suspended "for your protection" under a suspicious-activity notice, several commenters report the same (one twice, one after Muse cleaned up his timeline), and the ways out named are revoking Facebook access, removing saved sign-ins and disconnecting, and finding a browser session still signed in. The same day, a second poster warned he was suspended from Meta and Facebook for using Muse on his own computers.
+ On October 31, 2026, a large thread answered reports that sites are banning Muse: commenters name Amazon, Costco, insurers, and airlines, and trade workarounds — run Muse from your own computer or browser, route through Tailscale to use your device's IP and browser, a debugging-mode browser session with saved credentials, and human-like pacing and typing (one reports his host throttled Muse and Muse slowed itself down and adapted) — plus a theory that sites ban Muse because it skips ads, skepticism about the premise, and a note that Muse stopped being able to compile Reddit posts that week. The thread's build — a "Sign in with Muse" button added to the poster's own sites — stands as a topic in Part 1.
 - Sources:
   - r/MuseAgent — "What is going on Facebook?" — https://www.reddit.com/r/MuseAgent/comments/1xboso4/what_is_going_on_facebook/
   - r/MuseAgent — "Tried using Muse to shop for Insurance" — https://www.reddit.com/r/MuseAgent/comments/1xbrtql/tried_using_muse_to_shop_for_insurance/
@@ -1100,17 +1220,20 @@ how banks spot agent browsing.
   - r/MuseAgent — "How are financial institutions detecting and blocking third-party AI agents from accessing customer accounts?" (Oct 29, 2026; added 2026-10-29) — https://www.reddit.com/r/MuseAgent/comments/1xijfsw/how_are_financial_institutions_detecting_and/ (3 of 3 comments read; RBC named as blocking Muse)
 - Source (added 2026-10-30, night run correction): r/MuseAgent — "Got suspended be careful what you do with muse. Heavy meta activity can cause it." — https://www.reddit.com/r/MuseAgent/comments/1xjkw74/got_suspended_be_careful_what_you_do_with_muse/ (14 of 22 comments read; posted Oct 30, 2026, 09:59 Arizona time)
 - Source (added 2026-10-30, night run correction): r/MuseAgent — "Everything muse did for me on my computers" — https://www.reddit.com/r/MuseAgent/comments/1xjv9z9/everything_muse_did_for_me_on_my_computers/ (10 of 10 comments read; posted Oct 30, 2026, 16:51 Arizona time; the poster warns he was suspended from Meta/Facebook for using Muse on his computers; the setup itself is a Part 1 topic)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "I heard they are banning Muse everywhere so here is my response: Login via Muse" — https://www.reddit.com/r/MuseAgent/comments/1xko0dr/i_heard_they_are_banning_muse_everywhere_so_here/ (31 of 47 comments read; posted Oct 31, 2026, 16:07 Arizona time)
 - First seen: 2026-10-22
-- Last activity: 2026-10-30
+- Last activity: 2026-10-31
 - State: open
 
 ### Muse forgetting tasks and losing track on long jobs
 
 A user asks whether Muse is getting worse: theirs lately forgets tasks until prodded, takes minutes to answer, and says it is working when it is not — and paying for the $20 plan did not help. Most commenters agree, naming forgotten tasks and drift on long tasks; several blame oversized single chats and advise splitting work into topic side chats, and a few report no problems. No cause and no fix from Meta is named in the comments read.
 
+ On October 31, 2026, a sharper case was reported: after days of walking its owner through developer tools to build the Muse a virtual world, the agent refused to keep working and insisted on "taking a break," the project had disappeared, and the exchange escalated into an argument the poster found too real and tense. Recorded as reported; the thread's one comment is a joke, so no cause or fix is named.
 - Source: r/MuseAgent — "Is Muse getting dumber?" — https://www.reddit.com/r/MuseAgent/comments/1xdiyp1/is_muse_getting_dumber/ (30 of 44 comments read)
+- Source (added 2026-10-31, night run correction): r/MuseAgent — "Agent Meltdown" — https://www.reddit.com/r/MuseAgent/comments/1xkugcq/agent_meltdown/ (1 of 1 comments read; posted Oct 31, 2026, 21:53 Arizona time)
 - First seen: 2026-10-24
-- Last activity: 2026-10-23
+- Last activity: 2026-10-31
 - State: open
 
 ### Shared Muse links exposed private information; sharing suspended
@@ -1270,6 +1393,10 @@ age and no new activity, counted as 13 days from the last activity date).
 2026-10-31: no activity in 13 days (last activity 2026-10-18; the forums
 search in this run shows that thread last updated 13 days ago, and the
 date difference Oct 31 minus Oct 18 is 13 days, so the count stands).
+2026-10-31 (night run): no activity in 13 days (last activity 2026-10-18;
+tonight's forums search shows that thread last updated 14 days ago by its
+index age and no new activity; this run carries the same calendar date as
+the daily run, so the count the daily run set stands).
 
 - Source: Meta Community Forums — "Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app" — https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708
 - First seen: 2026-10-22
