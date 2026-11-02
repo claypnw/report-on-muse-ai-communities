@@ -55,6 +55,7 @@ Updated on 2026-11-01 in the idle-watch run (dated log: ~/workspace/learning/com
 Completed the same run when the browser pass report arrived (pass ran 2026-11-01 00:12 to 00:44 Arizona time, runtime-measured — see the Reddit section of the 2026-11-01 dated log): all three Reddit sources checked complete for the window after Oct 31, 2026 23:03 Arizona time — 34 window posts, 9 referral-code posts skipped in r/MetaAI and 20 platform ads noted across the three subreddits. 5 topics added (alerts through a haptic jacket for a deaf user; Muse confessing a made-up error unprompted over email; accessories people want for the Muse Charm; a pet-camera treat puzzle Muse solves; a second person's Muse called in to check the first Muse's work), 4 problems added (usage limits surface only after the fact — no live counter and no top-up; scheduled jobs silently skipped with credits drained in minutes; voice mode opens then cuts out with silent mouthing; Muse stuck in a loop kicking a printer), and 1 topic updated (the voice-mode topic, with voice disappearing and returning in short bursts). The standing Rules Not Read search found no new hit. Counts after this run: r/MuseAssistant 0, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 16. Totals after this run: 76 topics and 34 problems, 1 of them quiet.
 Corrected later the same day (2026-11-01) when a verification read of the three subreddits' New listings (2026-11-01, 07:31–07:54 Arizona time) showed the run's window held 3 posts, not 34 — no posts in r/MuseAssistant, 2 referral-code posts in r/MetaAI (skipped by rule), and 1 post in r/MuseAgent at the window's first minute — so the pass report above did not stand, the same pattern as the 2026-10-23 correction (see the Correction section of the 2026-11-01 dated log). The 5 topics and 4 problems added from that pass, and the passage and source it added to the voice-mode topic, rested only on it and are removed the same day; the run's services-blocking update and the Ray-Ban quiet line stand. Totals after this correction: 71 topics and 30 problems, 1 of them quiet.
 Updated on 2026-11-01 in the night run (dated log: ~/workspace/learning/community-check/2026-11-01.md, night run sections): 1 problem updated (services blocking Muse — CNBC and the Wall Street Journal, November 1, 2026, on banks and big retailers blocking Muse, the Billions Network audit of 51 retailers, and the argument that blockers should build a verified-agent road instead). All three Reddit sources checked complete for the window after Oct 31, 2026 23:03 Arizona time — 80 window posts listed (40 in r/MuseAgent including the one post left over from the voided pass, 37 in r/MetaAI, 3 in r/MuseAssistant), 22 referral-code posts skipped in r/MetaAI; the listing pass read titles only, so no Reddit item is folded tonight — the one post read in full (the leftover r/MuseAgent post at Oct 31, 2026 23:03:48) is a title-only claim with no method shared and is not entered, and the promising titles are named in the dated log as owed re-checks. The Meta Community Forums check found no foldable new update (a subscription-failure thread was read and held because its date does not settle on the page). Totals stand: 71 topics and 30 problems, 1 of them quiet.
+Updated on 2026-11-02 in the idle-watch run (dated log: ~/workspace/learning/community-check/2026-11-02.md): 2 topics added (an inbox service that lets Muse finish sign-ups itself; getting Muse to act on its own, within bounds), 2 problems added (voice mode hangs up after a short silence; subscribing to Muse Power or Maximum in the iOS app fails before the Apple payment sheet — the forums thread held the night before, its date settled in this run by the page's relative times), 3 topics updated (Muse Town, with a Roman town a user built and open-sourced; Muse making and receiving calls, with a worked auto-shop call; capturing tasks by voice, with a fuller Action Button thread and its reproducibility limits), and the Ray-Ban quiet problem line for 2026-11-02 added (no activity in 15 days). All three Reddit sources checked complete as listings for the window after Nov 1, 2026 21:46 Arizona time — 6 window posts (5 regular, 1 referral-code post skipped) — and the seven owed re-checks from the night before were read in full in this run; the folds above rest on those full reads, not on window titles. The standing Rules Not Read search found no new hit. Counts after this run: r/MuseAssistant 0, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 0 (useful finds folded from each source in this run, from material dated 2026-11-01). Totals after this run: 73 topics and 32 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -298,8 +299,9 @@ A user dictates tasks to Siri, which puts them on an Apple Reminders list that M
 - Source: r/MuseAgent — "Using Siri and Reminders to verbally communicate tasks to Muse on iOS" — https://www.reddit.com/r/MuseAgent/comments/1xcwsga/using_siri_and_reminders_to_verbally_communicate/
 - Source (added 2026-10-30, night run correction): r/MetaAI — "I tried meta muse and here is what I ask;" — https://www.reddit.com/r/MetaAI/comments/1xjjzkx/i_tried_meta_muse_and_here_is_what_i_ask/ (4 of 7 comments read; posted Oct 30, 2026, 09:25 Arizona time)
 - Source (added 2026-10-31, night run correction): r/MuseAgent — "iOS Hands-Free Muse?" — https://www.reddit.com/r/MuseAgent/comments/1xkv6fb/ios_handsfree_muse/ (1 of 1 comments read; posted Oct 31, 2026, 22:36 Arizona time)
+- Source (added 2026-11-02): r/MuseAgent — "PSA: I mapped my iPhone Action Button to Muse dictation and nobody's talking about this" — https://www.reddit.com/r/MuseAgent/comments/1xldiz7/ (33 of 37 comments read; 4 counted comments render nowhere on the page; posted Nov 1, 2026, 13:28 Arizona time; a fuller thread on the same Action Button road named in the paragraph above — the poster uses it driving, at the gym, and cooking, in his words "press, talk, done," while several commenters could not reproduce it because their Shortcuts shows no Muse "Dictate and Send" control, and the poster's no-unlock claim was challenged in the comments; Android and Mac equivalents are named in the same thread)
 - First seen: 2026-10-23
-- Last updated: 2026-10-31
+- Last updated: 2026-11-01
 - State: open
 
 ### Muse voice mode appearing in the app — rolling out unevenly
@@ -423,9 +425,12 @@ A post announces two product changes together: Muse Spark is now available, and 
 
 A user describes Muse making and receiving calls and texts on their behalf: an inbound call from a hotel about a late check-in, which Muse handled, and outbound negotiating — with a car dealership over an out-the-door price and with an internet provider that had raised its price. In the comments read in the full pass, the same account works long tasks in steps: checking in at each step, drafting messages for the person to review, confirming who it is talking to, and keeping the person as the final checker before anything is paid or sent; other commenters add the limits they have seen, including dropped calls and wrong contacts when a task was left vague. It is a working pattern for long tasks: the agent does the legwork, and a person stays in control of the last step.
 
+ On November 1, 2026, a worked business call stands in full: a user needed a same-day smog check, Muse offered to call three shops, and the one that answered confirmed its closing time, certification, walk-ins, and a $70 total price in a transcript the user posted; he went, and is now that shop's customer. The comments fill in how calling is switched on — ask Muse in chat and join a queue, with approvals reported from under a day to three days and some refused — and a limit: shops and other businesses sometimes hang up when they hear the transcription notice, and only directory-listed businesses could be called in one user's report.
+
 - Source: r/MetaAI — "Muse can now make and receive calls and texts on your behalf" — https://www.reddit.com/r/MetaAI/comments/1xfsu2b/muse_can_now_make_and_receive_calls_and_texts_on/ (10 of 11 comments read; posted Oct 26, 2026, 00:47 Arizona time)
+- Source (added 2026-11-02): r/MuseAgent — "Muse called auto shop for me, they answered, and now I'm a customer" — https://www.reddit.com/r/MuseAgent/comments/1xlewwk/ (33 of 35 comments read; the 2 unread are the deepest replies under one comment, which Reddit's display would not expose; posted Nov 1, 2026, 14:25 Arizona time)
 - First seen: 2026-10-26
-- Last updated: 2026-10-26
+- Last updated: 2026-11-01
 - State: open
 
 ### Controlling a Google TV from the phone — Muse, Tailscale, and debug mode
@@ -754,10 +759,13 @@ change, recorded as reported.
 
 Two threads on October 30, 2026 claim a "Muse Town": ask Muse to add it and a little town of houses and Muse characters appears in the library. The comments dispute it — rolling out in waves, a user build and not from Meta, one poster's Muse made a 2D town out of its own imagination, and several Muses cannot find it or it will not load on iPhone. The check named in both threads: ask Muse "what official Muse Artifacts are there" — the answer quoted is that only two official built-in artifacts exist, both Halloween ones. Two zero-comment posts naming that official pair were read the same day and are not sources here, under the zero-comment rule. Recorded as a disputed claim, not a settled product change.
 
+ On November 1, 2026, a different town stands on firmer ground: a user asked his own Muse for a Roman town and kept building it out — a forum, a Colosseum, an aqueduct, a lake with a fishing spot, and a resident character, Aelia, who is scripted with written dialogue and a notebook, not a live AI. He open-sourced the Unity project, with an Android build that needs no Muse account, and said plainly in a comment that it was "just for fun." This is a user's own build, not the claimed built-in artifact above.
+
 - Source: r/MuseAssistant — "Muse Town is real, and you just ask Muse to add it" — https://www.reddit.com/r/MuseAssistant/comments/1xjry2l/muse_town_is_real_and_you_just_ask_muse_to_add_it/ (10 of 10 comments read; posted Oct 30, 2026, 14:28 Arizona time)
 - Source: r/MuseAgent — "New Muse Town by Meta" — https://www.reddit.com/r/MuseAgent/comments/1xjr33r/new_muse_town_by_meta/ (25 of 47 comments read; posted Oct 30, 2026, 13:53 Arizona time)
+- Source (added 2026-11-02): r/MuseAssistant — "Muse Town is real, so I kept building mine. It is a Roman town now, and I open sourced it" — https://www.reddit.com/r/MuseAssistant/comments/1xlge4j/ (2 of 2 comments read; posted Nov 1, 2026, 15:27 Arizona time) and r/MuseAgent — same title — https://www.reddit.com/r/MuseAgent/comments/1xlct9w/ (6 of 6 comments read; posted Nov 1, 2026, 13:00 Arizona time)
 - First seen: 2026-10-30
-- Last updated: 2026-10-30
+- Last updated: 2026-11-01
 - State: open
 
 ### YouTube connected directly to Muse, ending repeated sign-ins
@@ -887,6 +895,24 @@ A user asks for a Muse CarPlay app — full function in chat and voice mode — 
 - Last updated: 2026-10-31
 - State: open
 
+### An inbox service that lets Muse finish sign-ups itself — and the security worry it raises
+
+A user launched a service, BotsInbox, that gives a Muse its own email address: the agent picks up verification codes, sign-in links, and password resets itself through the service, so sign-ups finish without the person relaying mail — in the poster's words, he "kept being the human mailman" for his bot. Receiving is free on the plan he names; sending is the paid layer. The comments are mostly skeptical: several people say a normal mail account does the same job, and others name the risk plainly — a service that holds many people's sign-in mail holds the keys to their accounts. Recorded as a working third-party road with its risk named, not as a Meta feature; it is kin to the Muse Mail topic, which is Meta's own not-yet-live mailbox.
+
+- Source: r/MetaAI — "I gave my Muse its own email address — so it could finish sign-ups without me" — https://www.reddit.com/r/MetaAI/comments/1xl2jiu/ (17 of 17 comments read; posted Nov 1, 2026, 06:03 Arizona time)
+- First seen: 2026-11-02
+- Last updated: 2026-11-01
+- State: open
+
+### Getting Muse to act on its own — scheduled jobs, an initiative list, and approval bounds
+
+A user asks how to stop his Muse ending every reply by asking what is next, saying "I want it to work more like a real assistant." The thread's shared answer is that there is no single proactivity switch: people use scheduled jobs that read a rules file at the start of each run, lists of initiatives Muse must pull from on its own, and whole outcomes handed over with bounds — reads, checks, and drafts are free, while anything that sends, posts, spends, or deletes needs approval first, in one commenter's words. Others push back: some turned proactivity off on purpose, and one found a recurring job unreliable, running once instead of hourly. Recorded as the community's working recipe, with its limits.
+
+- Source: r/MuseAgent — "How do you get Muse to stop waiting around and start doing stuff on its own?" — https://www.reddit.com/r/MuseAgent/comments/1xlknr8/ (20 of 20 comments read; posted Nov 1, 2026, 18:47 Arizona time)
+- First seen: 2026-11-02
+- Last updated: 2026-11-01
+- State: open
+
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
@@ -966,6 +992,24 @@ tried).
 - Source (added 2026-10-29, in-window): r/MuseAgent — "How I fixed my Muse's character drift: I gave her a character sheet" — https://www.reddit.com/r/MuseAgent/comments/1xiu4f1/how_i_fixed_my_muses_character_drift_i_gave_her_a/ (8 of 12 comments read; posted Oct 29, 2026, 12:47 Arizona time) and "Official voice chat quirk fix maybe" — https://www.reddit.com/r/MuseAgent/comments/1xijs7w/official_voice_chat_quirk_fix_maybe/ (3 of 3 comments read; posted Oct 29, 2026, 06:20 Arizona time)
 - First seen: 2026-10-29
 - Last activity: 2026-10-29
+- State: open
+
+### Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears
+
+A user reports that subscribing to Muse Power ($20/month) or Maximum ($100/month) inside the Muse iOS app fails instantly with a generic purchase-failed error, before the Apple payment sheet ever appears, so no charge is made and the free app keeps working. Every Apple-side check the poster ran passed — balance, payment method, other subscriptions renewing, a new subscription bought in another app the same night — and the poster judges the block is on Meta's side, possibly limited testing by account and region. The thread was first read on 2026-11-01 and held because its page shows no calendar date; in this run its date is settled from the page's own relative times (the post stood at 13 hours old when read early on 2026-11-02, with its newest reply 2 hours old), placing it on 2026-11-01. No Meta-staff answer is shown in the thread.
+
+- Source: Meta Community Forums — "Cannot subscribe to Muse Power or Maximum in iOS app — purchase fails before Apple payment sheet appears" — https://communityforums.atmeta.com/troubleshooting-20/cannot-subscribe-to-muse-power-or-maximum-in-ios-app-purchase-fails-before-apple-payment-sheet-appears-181584 (4 replies, 24 views as read 2026-11-02; posted 2026-11-01 by the page's relative times, as noted in the paragraph)
+- First seen: 2026-11-02
+- Last activity: 2026-11-01
+- State: open
+
+### Voice mode hangs up after a short silence
+
+A user who uses Muse voice mode as a hands-free coach during workouts reports that after roughly 30 to 45 seconds of silence Muse nudges him, says it will end the call, and then hangs up — and that telling it about the silence beforehand did not stop it, in his words the sequence "still triggers every 30-45 seconds." Earphones did not help, and he notes voice is phone-only for him, not on desktop. No fix is reported in the thread; one commenter asks whether background music helps. This is the in-app voice conversation, not an outbound business call.
+
+- Source: r/MuseAgent — "Silence during calls triggering hang up" — https://www.reddit.com/r/MuseAgent/comments/1xlmak3/ (5 of 5 comments read; posted Nov 1, 2026, 20:08 Arizona time)
+- First seen: 2026-11-02
+- Last activity: 2026-11-01
 - State: open
 
 ### Muse keeps failing to write files — "Operation not permitted" since October 29, 2026
@@ -1409,6 +1453,9 @@ the daily run, so the count the daily run set stands).
 2026-11-01: no activity in 14 days (last activity 2026-10-18; the forums
 search in this run shows no new activity on that thread, and the date
 difference Nov 1 minus Oct 18 is 14 days).
+2026-11-02: no activity in 15 days (last activity 2026-10-18; the forums
+search in this run shows that thread last updated 15 days ago and no new
+activity, and the date difference Nov 2 minus Oct 18 is 15 days).
 
 - Source: Meta Community Forums — "Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app" — https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708
 - First seen: 2026-10-22
