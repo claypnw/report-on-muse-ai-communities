@@ -290,9 +290,9 @@
     },
     "four-newly-found-connectors-gumroad-readwise-runway-and-vidiq": {
       "title": "Four newly found connectors — Gumroad, Readwise, Runway, and vidIQ",
-      "narration_hash": "8848b71f7ff4d38242b7c46547b47b224eb1eedcddf261a5eea5b44b14e99b76",
+      "narration_hash": "49d7d11aed4faf7b85e43168a5542b0877004859b26673a9122b35767a207980",
       "filename": "story-audio/four-newly-found-connectors-gumroad-readwise-runway-and-vidiq.mp3",
-      "size_bytes": 206053
+      "size_bytes": 450853
     },
     "muse-working-in-a-gedcom-family-tree-file": {
       "title": "Muse working in a GEDCOM family-tree file",
@@ -386,9 +386,9 @@
     },
     "muse-playing-video-games-screenshot-limits-and-turn-based-workarounds": {
       "title": "Muse playing video games — screenshot limits and turn-based workarounds",
-      "narration_hash": "a89ac7fa2a3b5e664f1b81224be3740f8309e7481a36c46103d8f9dd60beb328",
+      "narration_hash": "ae13915251ab50c8c420127f762062ab8bf19d3e2cab1f2bb8fbd55f30952c19",
       "filename": "story-audio/muse-playing-video-games-screenshot-limits-and-turn-based-workarounds.mp3",
-      "size_bytes": 558373
+      "size_bytes": 1567909
     },
     "keeping-token-use-down-fresh-threads-instead-of-one-massive-running-chat-and-lif": {
       "title": "Keeping token use down — fresh threads instead of one massive running chat, and life at the free-tier limit",
@@ -638,15 +638,21 @@
     },
     "muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days": {
       "title": "Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 13 days",
-      "narration_hash": "78636827b30f4ef24c1fd55ff541c853a59e8b9a8d9ba1578bfbd8b053da5e66",
+      "narration_hash": "b555a7e7803baf04a590139238d9505c02611f8d7e89a6f126ec24850e8824a3",
       "filename": "story-audio/muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days.mp3",
-      "size_bytes": 1847077
+      "size_bytes": 1978405
     },
     "bug-bounties-paid-for-muse-flaws-1-2-million-so-far-says-a-november-2-report": {
       "title": "Bug bounties paid for Muse flaws — $1.2 million so far, says a November 2 report",
       "narration_hash": "619f5308e2a5d819a200887b8528c7960f49fb408883c97e67ade9929181bf5f",
       "filename": "story-audio/bug-bounties-paid-for-muse-flaws-1-2-million-so-far-says-a-november-2-report.mp3",
       "size_bytes": 384997
+    },
+    "a-muse-in-a-custom-form-a-3d-ramen-character-built-from-a-packet-photo": {
+      "title": "A Muse in a custom form — a 3D ramen character built from a packet photo",
+      "narration_hash": "0c79896a451d6666238092bd2bafe1593cb8386a0522397ebdd5bc90de9e58e7",
+      "filename": "story-audio/a-muse-in-a-custom-form-a-3d-ramen-character-built-from-a-packet-photo.mp3",
+      "size_bytes": 376933
     }
   },
   "version": 1
