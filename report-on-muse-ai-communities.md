@@ -58,6 +58,7 @@ Updated on 2026-11-01 in the night run (dated log: ~/workspace/learning/communit
 Updated on 2026-11-02 in the idle-watch run (dated log: ~/workspace/learning/community-check/2026-11-02.md): 2 topics added (an inbox service that lets Muse finish sign-ups itself; getting Muse to act on its own, within bounds), 2 problems added (voice mode hangs up after a short silence; subscribing to Muse Power or Maximum in the iOS app fails before the Apple payment sheet — the forums thread held the night before, its date settled in this run by the page's relative times), 3 topics updated (Muse Town, with a Roman town a user built and open-sourced; Muse making and receiving calls, with a worked auto-shop call; capturing tasks by voice, with a fuller Action Button thread and its reproducibility limits), and the Ray-Ban quiet problem line for 2026-11-02 added (no activity in 15 days). All three Reddit sources checked complete as listings for the window after Nov 1, 2026 21:46 Arizona time — 6 window posts (5 regular, 1 referral-code post skipped) — and the seven owed re-checks from the night before were read in full in this run; the folds above rest on those full reads, not on window titles. The standing Rules Not Read search found no new hit. Counts after this run: r/MuseAssistant 0, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 0 (useful finds folded from each source in this run, from material dated 2026-11-01). Totals after this run: 73 topics and 32 problems, 1 of them quiet.
 
 Updated on 2026-11-02 in the redo run (dated log: ~/workspace/learning/community-check/2026-11-02.md, redo run sections; a full redo of the 2026-11-01 night run, ordered by the admin the same day): 1 topic and 1 problem added (Muse for small business — no business plan a user can find; Muse receives commands the user never sent), 6 topics and 6 problems updated (Train the Muse; voice mode; the GEDCOM topic; a week as a personal assistant; Muse on the owner's own computers; getting Muse to act on its own; the iOS subscription problem; sign-up blocked outside the US, with a false region detection case; Muse answers slowed down, with a November 2 outage thread; standing permissions; accounts locked out; Muse forgetting tasks, with a memory-as-skill fix). Totals after this run: 74 topics and 33 problems, 1 of them quiet.
+Updated on 2026-11-02 in the night run (dated log: ~/workspace/learning/community-check/2026-11-02.md, night run sections): 1 topic added (bug bounties paid for Muse flaws — $1.2 million so far, from a November 2, 2026 RuntimeWire report). All standing sources were checked for the window after Nov 2, 2026 10:07 Arizona time: no new Reddit or forums find in the window; the CNBC and Wall Street Journal blocking stories of November 1 already stand in the services-blocking problem; the Medium daily-life post carries the author's referral code and was read, not entered, as in prior runs. This run also made the first per-story recordings for the newspaper page: all 108 standing stories now carry their own recording (story-audio-manifest.json). Totals after this run: 75 topics and 33 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -148,6 +149,22 @@ plain form.
 - Source (added 2026-10-23): r/MuseAgent — "How get around the Muse not generating password and not storing passkeys" — https://www.reddit.com/r/MuseAgent/comments/1xcubtb/how_get_around_the_muse_not_generating_password/ (Oct 22, 2026; commenters report the 1Password agent offering for Muse too, and others use a secure vault or Proton Pass for passwords and API keys)
 - First seen: 2026-10-22
 - Last updated: 2026-10-22
+- State: open
+
+### Bug bounties paid for Muse flaws — $1.2 million so far, says a November 2 report
+
+A November 2, 2026 report says Meta has paid $1.2 million in bug bounties for
+Muse, from more than 630 submissions of which 64 were valid, including
+$300,000 for one pre-launch authentication flaw. The report ties the scrutiny
+to what Muse holds: "Muse asks users to hand an agent access to email,
+accounts and purchases, so its security failures can become account failures."
+It also reports a "securing Muse" post by David Singleton on muse.ai.
+Security researchers are treating Muse as account-level infrastructure, and
+Meta is paying for flaws found before attackers use them.
+
+- Source: RuntimeWire — "Meta's Muse has paid $1.2M in bug bounties after a $300K pre-launch flaw" — https://runtimewire.com/article/meta-muse-1-2m-bug-bounties-300k-pre-launch-flaw (Ryan Merket, Nov 2, 2026)
+- First seen: 2026-11-02
+- Last updated: 2026-11-02
 - State: open
 
 ### Muse driving Claude Code inside its own computer
