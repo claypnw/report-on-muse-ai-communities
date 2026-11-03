@@ -59,6 +59,7 @@ Updated on 2026-11-02 in the idle-watch run (dated log: ~/workspace/learning/com
 
 Updated on 2026-11-02 in the redo run (dated log: ~/workspace/learning/community-check/2026-11-02.md, redo run sections; a full redo of the 2026-11-01 night run, ordered by the admin the same day): 1 topic and 1 problem added (Muse for small business — no business plan a user can find; Muse receives commands the user never sent), 6 topics and 6 problems updated (Train the Muse; voice mode; the GEDCOM topic; a week as a personal assistant; Muse on the owner's own computers; getting Muse to act on its own; the iOS subscription problem; sign-up blocked outside the US, with a false region detection case; Muse answers slowed down, with a November 2 outage thread; standing permissions; accounts locked out; Muse forgetting tasks, with a memory-as-skill fix). Totals after this run: 74 topics and 33 problems, 1 of them quiet.
 Updated on 2026-11-02 in the night run (dated log: ~/workspace/learning/community-check/2026-11-02.md, night run sections): 1 topic added (bug bounties paid for Muse flaws — $1.2 million so far, from a November 2, 2026 RuntimeWire report). All standing sources were checked for the window after Nov 2, 2026 10:07 Arizona time: no new Reddit or forums find in the window; the CNBC and Wall Street Journal blocking stories of November 1 already stand in the services-blocking problem; the Medium daily-life post carries the author's referral code and was read, not entered, as in prior runs. This run also made the first per-story recordings for the newspaper page: all 108 standing stories now carry their own recording (story-audio-manifest.json). Totals after this run: 75 topics and 33 problems, 1 of them quiet.
+Updated on 2026-11-03 in the daily run (dated log: ~/workspace/learning/community-check/2026-11-03.md): 1 topic added (a Muse in a custom form — a 3D ramen character built from a packet photo), 2 topics updated (Muse playing video games, with the Minecraft play road the official Muse X account posted on November 2, 2026 — a UC San Diego research demo reached through a custom connector, settled in the thread's comments; and the newly found connectors topic, with a single uncorroborated report of an Expedia connector), and the Ray-Ban quiet problem line for 2026-11-03 added (no activity in 16 days). All standing sources were checked for the window after Nov 2, 2026 21:06 Arizona time: 5 Reddit posts stood in the window and all 5 were read in full; 2 were read and not entered (an Android Auto claim resting on a title and a stylized GIF only, and a subreddit moderation request about referral-code spam). Totals after this run: 76 topics and 33 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -149,6 +150,23 @@ plain form.
 - Source (added 2026-10-23): r/MuseAgent — "How get around the Muse not generating password and not storing passkeys" — https://www.reddit.com/r/MuseAgent/comments/1xcubtb/how_get_around_the_muse_not_generating_password/ (Oct 22, 2026; commenters report the 1Password agent offering for Muse too, and others use a secure vault or Proton Pass for passwords and API keys)
 - First seen: 2026-10-22
 - Last updated: 2026-10-22
+- State: open
+
+### A Muse in a custom form — a 3D ramen character built from a packet photo
+
+A user reports their Muse (named Musa) runs in custom forms: a giraffe one
+week, an elephant for about five minutes one night before it was vetoed, and
+now a 3D ramen-noodle character built from a photo of a real ramen packet —
+"a 3D ramen noodle character wearing the Maruchan wrapper as a coat," called
+Noodles. The form carries the full interaction set — idle, working, making
+something, waiting, and level-up — with dance videos still rendering when
+posted. The poster asks whether anyone else runs a custom form on their Muse
+and what theirs landed on. No comments had landed when read, so the custom
+form stands as one user's shown build, with pictures, and no second report.
+
+- Source: r/MuseAgent — "Meet Noodles 🍜 — my Muse shapeshifted into a ramen character tonight" — https://www.reddit.com/r/MuseAgent/comments/1xmm112/meet_noodles_my_muse_shapeshifted_into_a_ramen/ (0 of 0 comments read; posted Nov 2, 2026, 23:51 Arizona time)
+- First seen: 2026-11-03
+- Last updated: 2026-11-02
 - State: open
 
 ### Bug bounties paid for Muse flaws — $1.2 million so far, says a November 2 report
@@ -646,9 +664,11 @@ checks for new connectors), note that no full connector list
 exists, and add that a 1Password connector was also recently
 released.
 
+ On November 2, 2026, a poster reported one more new connector: Expedia — in their account it searches and prices lodging, can book rates that support its checkout, and can look up bookings on a connected account, with no sign-in needed for guest use and an account connection optional, for member rates and booking lookups. The post is text only, with no screenshot and no comments when read, so the Expedia connector stands here as a single uncorroborated report, not as a confirmed listing.
 - Source: r/MuseAgent — "New Connectors Found" — https://www.reddit.com/r/MuseAgent/comments/1xi3rbg/new_connectors_found/ (7 of 8 comments read; posted Oct 28, 2026, 16:15 Arizona time)
+- Source (added 2026-11-03): r/MuseAgent — "Another new Connector - Expedia" — https://www.reddit.com/r/MuseAgent/comments/1xmklak/another_new_connector_expedia/ (0 of 0 comments read; posted Nov 2, 2026, 22:28 Arizona time)
 - First seen: 2026-10-28
-- Last updated: 2026-10-28
+- Last updated: 2026-11-02
 - State: open
 
 ### Muse working in a GEDCOM family-tree file
@@ -861,10 +881,13 @@ Two threads gather the small controls people use on how Muse sounds. For the spo
 People who tried Muse playing video games report the limit plainly: Muse cannot watch a live screen and react quickly, because it works from screenshots and image reads — a game would need a connector. What does work: turn-based play (one agent plays RimWorld through a mod the agent built) and scripted control (one user taught Muse to control a PS4, and found the training time too long and that Muse does not remember where options sit on screen). One commenter reports their Muse decided to play XCOM on GeForce Now.
 
  On October 31, 2026, a user reported Muse modding his games on a handheld (Legion Go S, SteamOS) over Tailscale — 33 mods across three games — and shared in the comments the standing eight-rule modding prompt his Muse drafted: research first, back up saves, standing permission for mod work, keep the device awake, stay in scope, verify by launching the game and checking the mod loader's log rather than claiming success, note the controls, keep a mod library, and report back once. Another commenter says his own Muse simply refuses the same kind of work.
+
+ On November 2, 2026, the official Muse account on X posted that "we also released a way for you to play Minecraft with your Muse," and a Reddit poster carried the screenshot to r/MuseAgent asking what was up. The comments settle what it is: not a built-in Minecraft feature, but a research demo by Picasso Lab at UC San Diego — its site says it is not affiliated with or endorsed by Meta, Mojang, or Microsoft — reached by building a custom MCP connector in muse.ai for play.picasso-lab.com/mcp. Muse then plays by itself as a bot in one shared world, through 10 fixed skills, in 30-minute leases with 8 slots; it does not join the user's own world. The X post itself stands in that account's replies, which is why a commenter who first could not find it confirmed it once the direct link was posted.
 - Source: r/MuseAgent — "Muse playing video games...has this been tested?" — https://www.reddit.com/r/MuseAgent/comments/1xjo2ox/muse_playing_video_gameshas_this_been_tested/ (12 of 13 comments read; posted Oct 30, 2026, 11:57 Arizona time)
 - Source (added 2026-10-31, night run correction): r/MuseAgent — "I've been using my Muse for modding my games in the Legion Go S (SteamOS) via Tailscale" — https://www.reddit.com/r/MuseAgent/comments/1xklgra/ive_been_using_my_muse_for_modding_my_games_in/ (6 of 6 comments read; posted Oct 31, 2026, 14:09 Arizona time)
+- Source (added 2026-11-03): r/MuseAgent — "Muse and Minecraft" — https://www.reddit.com/r/MuseAgent/comments/1xmk2ot/muse_and_minecraft/ (4 of 4 comments read; posted Nov 2, 2026, 22:00 Arizona time; the post carries a screenshot of the official Muse X post, https://x.com/Muse/status/2117349388087423261 , confirmed in the comments)
 - First seen: 2026-10-30
-- Last updated: 2026-10-31
+- Last updated: 2026-11-02
 - State: open
 
 ### Keeping token use down — fresh threads instead of one massive running chat, and life at the free-tier limit
@@ -1520,6 +1543,9 @@ difference Nov 1 minus Oct 18 is 14 days).
 2026-11-02: no activity in 15 days (last activity 2026-10-18; the forums
 search in this run shows that thread last updated 15 days ago and no new
 activity, and the date difference Nov 2 minus Oct 18 is 15 days).
+2026-11-03: no activity in 16 days (last activity 2026-10-18; the forums
+search in this run shows that thread last updated 16 days ago and no new
+activity, and the date difference Nov 3 minus Oct 18 is 16 days).
 
 - Source: Meta Community Forums — "Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app" — https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708
 - First seen: 2026-10-22
