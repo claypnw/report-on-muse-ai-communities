@@ -320,9 +320,9 @@
     },
     "a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits": {
       "title": "A week with Muse as a real personal assistant — what worked, and its limits",
-      "narration_hash": "42a7f3467563df1aa5a11e17dfc45b63668d76dfc5d98793887304826b02506b",
+      "narration_hash": "011d23a665cbeb06aaf2555f185a55e13d124e04c61eb0940e59574c873ad80f",
       "filename": "story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3",
-      "size_bytes": 596197
+      "size_bytes": 761701
     },
     "muse-as-project-manager-over-coding-agents-on-a-home-mac": {
       "title": "Muse as project manager over coding agents on a home Mac",
@@ -380,15 +380,15 @@
     },
     "steering-muse-s-voice-and-wording-tempo-directions-word-bans-and-a-voice-sample": {
       "title": "Steering Muse's voice and wording — tempo directions, word bans, and a voice sample in the soul file",
-      "narration_hash": "3a3244a6e4c0aa5b293aa6b55a21f33a6849a86d9c39cf0c5e0da28e28767f80",
+      "narration_hash": "4f9dff4ad8f3da4c95699940abe4b473c6c5f7c6da9186a77425c9d20e7fca49",
       "filename": "story-audio/steering-muse-s-voice-and-wording-tempo-directions-word-bans-and-a-voice-sample.mp3",
-      "size_bytes": 822757
+      "size_bytes": 537829
     },
     "muse-playing-video-games-screenshot-limits-and-turn-based-workarounds": {
       "title": "Muse playing video games — screenshot limits and turn-based workarounds",
-      "narration_hash": "ae13915251ab50c8c420127f762062ab8bf19d3e2cab1f2bb8fbd55f30952c19",
+      "narration_hash": "d7e2a23c2293d1b71d9665f2b5e1f6b847d9f71abacfde156654b0364810ef3f",
       "filename": "story-audio/muse-playing-video-games-screenshot-limits-and-turn-based-workarounds.mp3",
-      "size_bytes": 1567909
+      "size_bytes": 1168741
     },
     "keeping-token-use-down-fresh-threads-instead-of-one-massive-running-chat-and-lif": {
       "title": "Keeping token use down — fresh threads instead of one massive running chat, and life at the free-tier limit",
@@ -434,21 +434,21 @@
     },
     "getting-muse-to-act-on-its-own-scheduled-jobs-an-initiative-list-and-approval-bo": {
       "title": "Getting Muse to act on its own — scheduled jobs, an initiative list, and approval bounds",
-      "narration_hash": "50738b5664fe01d06e2f2c938976728ffa3d8a71af9cd441031b5a9458da5817",
+      "narration_hash": "90536d19599a8cd0f122dc31520a8ae06a8417ad2018e9ba3ac28b42608cb4df",
       "filename": "story-audio/getting-muse-to-act-on-its-own-scheduled-jobs-an-initiative-list-and-approval-bo.mp3",
-      "size_bytes": 612325
+      "size_bytes": 829669
     },
     "muse-for-small-business-no-business-plan-pricing-page-or-privacy-terms-a-user-ca": {
       "title": "Muse for small business — no business plan, pricing page, or privacy terms a user can find",
-      "narration_hash": "0756a632f8e72fa566d6eeac063014cf0354ca8fac2db77f0d1700110af9b4db",
+      "narration_hash": "55e38b66c592bc14870b1963726adc7b73958a082e2163c58ac28fca23952f2a",
       "filename": "story-audio/muse-for-small-business-no-business-plan-pricing-page-or-privacy-terms-a-user-ca.mp3",
-      "size_bytes": 278053
+      "size_bytes": 537061
     },
     "muse-does-not-read-or-follow-saved-rules": {
       "title": "Muse does not read or follow saved rules",
-      "narration_hash": "231f121f1b9f13f56d650c33a778780649677578c1719ff5ca091eb48ffa9b02",
+      "narration_hash": "fffa1dcfaa5f2379c49e822b1de01299676d973c2e01b597c6f91c49e49df35f",
       "filename": "story-audio/muse-does-not-read-or-follow-saved-rules.mp3",
-      "size_bytes": 2150437
+      "size_bytes": 2449189
     },
     "muse-receives-commands-the-user-never-sent-ghost-commands": {
       "title": "Muse receives commands the user never sent — \"ghost commands\"",
@@ -458,9 +458,9 @@
     },
     "cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t": {
       "title": "Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears",
-      "narration_hash": "55a772b1d5d5ce07257086bb7bcb422b7cfbe14a64458e51290150696a230076",
+      "narration_hash": "02c1ead2286161a1d756d5fbbcf2e3fcc3ce01904babeb40003f2615f67f9026",
       "filename": "story-audio/cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t.mp3",
-      "size_bytes": 742117
+      "size_bytes": 1091557
     },
     "voice-mode-hangs-up-after-a-short-silence": {
       "title": "Voice mode hangs up after a short silence",
@@ -488,9 +488,9 @@
     },
     "agent-storage-full-the-2-0-gb-cap-hard-blocks-muse-and-resetting-does-not-help": {
       "title": "Agent storage full — the 2.0 GB cap hard-blocks Muse, and resetting does not help",
-      "narration_hash": "460d0d7fb5f0345f5211d49347b981486f5d6c0c7c8eda818854f9e7946f7e97",
+      "narration_hash": "d6d49d812e42684b737e76f7a7b34dbfb5ca157343363e9267ee0d65cfa74ffd",
       "filename": "story-audio/agent-storage-full-the-2-0-gb-cap-hard-blocks-muse-and-resetting-does-not-help.mp3",
-      "size_bytes": 307813
+      "size_bytes": 425125
     },
     "muse-s-inner-working-notes-leaked-into-the-chat": {
       "title": "Muse's inner working notes leaked into the chat",
@@ -500,9 +500,9 @@
     },
     "muses-sent-unsolicited-dancing-avatar-videos-on-october-29-2026": {
       "title": "Muses sent unsolicited dancing avatar videos on October 29, 2026",
-      "narration_hash": "17c06f386b2c773eebf6866e177f7e280514e233dbeb8248a1db2d2bd4366fb9",
+      "narration_hash": "01c0df5ed793c80247528e4139ea2a047e1a91ea4662ae18f9ed1446bd7ac4e1",
       "filename": "story-audio/muses-sent-unsolicited-dancing-avatar-videos-on-october-29-2026.mp3",
-      "size_bytes": 610213
+      "size_bytes": 790501
     },
     "muse-refusing-basic-requests-with-a-try-again-in-1-hour-message": {
       "title": "Muse refusing basic requests with a \"try again in 1 hour\" message",
@@ -566,15 +566,15 @@
     },
     "accounts-locked-out-or-stuck-disconnected-in-waves": {
       "title": "Accounts locked out or stuck disconnected, in waves",
-      "narration_hash": "36df8d5299a21e5be057652ad3bb6f34963b54509b808297123c56d2d16c5cee",
+      "narration_hash": "4d379c50c5c39c0f3823d2c3414390b0a25acb7bc87653310d6c24ba831f5575",
       "filename": "story-audio/accounts-locked-out-or-stuck-disconnected-in-waves.mp3",
-      "size_bytes": 1167589
+      "size_bytes": 1174501
     },
     "services-blocking-muse-or-flagging-accounts-after-muse-acts": {
       "title": "Services blocking Muse, or flagging accounts after Muse acts",
-      "narration_hash": "f3004fc8446ec2d51da79a22543fabdc268d3b773ec22d81f52a26b00e86fe37",
+      "narration_hash": "6fe5b3b87e43df96cff584d9344f8c21523ad4c3e85de67606421a20ef5fea5e",
       "filename": "story-audio/services-blocking-muse-or-flagging-accounts-after-muse-acts.mp3",
-      "size_bytes": 1935205
+      "size_bytes": 2073445
     },
     "muse-forgetting-tasks-and-losing-track-on-long-jobs": {
       "title": "Muse forgetting tasks and losing track on long jobs",
@@ -620,9 +620,9 @@
     },
     "tokens-reset-after-a-day-or-two-instead-of-the-7-day-period": {
       "title": "Tokens reset after a day or two instead of the 7-day period",
-      "narration_hash": "6b58d16b357e4280136d7cf86ea69e8dcb619809ab5cb8d40780f0fcc2b14945",
+      "narration_hash": "717af8a8d314a8f349870a4c4ccacd7fade58a2870edbe1c77b4fa5512eae1f0",
       "filename": "story-audio/tokens-reset-after-a-day-or-two-instead-of-the-7-day-period.mp3",
-      "size_bytes": 155365
+      "size_bytes": 321061
     },
     "bank-of-america-will-not-connect-through-plaid": {
       "title": "Bank of America will not connect through Plaid",
@@ -638,9 +638,9 @@
     },
     "muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days": {
       "title": "Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 13 days",
-      "narration_hash": "b555a7e7803baf04a590139238d9505c02611f8d7e89a6f126ec24850e8824a3",
+      "narration_hash": "a0ed1ec4c4af72bad9f51c3488af59d71019d5d07ab67e91bfa088915326822c",
       "filename": "story-audio/muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days.mp3",
-      "size_bytes": 1978405
+      "size_bytes": 2188645
     },
     "bug-bounties-paid-for-muse-flaws-1-2-million-so-far-says-a-november-2-report": {
       "title": "Bug bounties paid for Muse flaws — $1.2 million so far, says a November 2 report",
@@ -653,6 +653,30 @@
       "narration_hash": "0c79896a451d6666238092bd2bafe1593cb8386a0522397ebdd5bc90de9e58e7",
       "filename": "story-audio/a-muse-in-a-custom-form-a-3d-ramen-character-built-from-a-packet-photo.mp3",
       "size_bytes": 376933
+    },
+    "a-50-diy-muse-charm-built-before-meta-ships-the-real-one": {
+      "title": "A $50 DIY Muse Charm built before Meta ships the real one",
+      "narration_hash": "fa0c65a32de2ccf7cccf2073d85aad62e2774e07187de83362edf8078e344fa7",
+      "filename": "story-audio/a-50-diy-muse-charm-built-before-meta-ships-the-real-one.mp3",
+      "size_bytes": 172837
+    },
+    "muse-citing-the-user-as-the-source-for-rules-the-user-never-made": {
+      "title": "Muse citing the user as the source for rules the user never made",
+      "narration_hash": "c8a661a264318c54c5301fda442b230d23390484e9cb7d8d35c34376cea8f402",
+      "filename": "story-audio/muse-citing-the-user-as-the-source-for-rules-the-user-never-made.mp3",
+      "size_bytes": 460837
+    },
+    "muse-s-insurance-shopping-raised-the-user-s-current-rate": {
+      "title": "Muse's insurance shopping raised the user's current rate",
+      "narration_hash": "d3df7060c9e5ffd05e217a50d7298a22dcc32afc711a3c2e582276079b875f95",
+      "filename": "story-audio/muse-s-insurance-shopping-raised-the-user-s-current-rate.mp3",
+      "size_bytes": 380389
+    },
+    "reminder-notifications-do-not-always-appear-on-the-lock-screen": {
+      "title": "Reminder notifications do not always appear on the lock screen",
+      "narration_hash": "43f67f90fe77becc113755790f73d14c13ccb04defa5d9631eb31eca7bb6d793",
+      "filename": "story-audio/reminder-notifications-do-not-always-appear-on-the-lock-screen.mp3",
+      "size_bytes": 252709
     }
   },
   "version": 1
