@@ -64,6 +64,7 @@ Updated on 2026-11-03 in the night run (dated log: ~/workspace/learning/communit
 Updated on 2026-11-04 in the daily run (dated log: ~/workspace/learning/community-check/2026-11-04.md): no entry added, removed, or changed; the Ray-Ban Meta Gen 3 glasses quiet problem line for 2026-11-04 added (no activity in 17 days). All standing sources were checked for the window after Nov 3, 2026 22:23 Arizona time: the only Reddit posts in the window were the boundary Rust click-loop post at 22:23:35 already read and judged not entered in the Nov 3 night run, and 1 referral-code post in r/MetaAI counted and not read; the standing Rules Not Read search found zero hits and no first-person Android Auto report appeared, so that owed re-check stays open. Totals stand: 77 topics and 36 problems, 1 of them quiet.
 
 Updated on 2026-11-04 in the night run (dated log: ~/workspace/learning/community-check/2026-11-04.md, night run sections): 6 topics added (RedMuse, a security-testing skill pack; Muse designing 3D models through a FreeCAD connector; an AI walkie talkie built with Muse; a US Muse account used while traveling abroad; people asking for multiple separate Feeds; reading eight years of YouTube history through Google Takeout), 2 problems added (Muse working but not working — the November 4, 2026 outage reports; Muse's virtual machine restarting several times a day), and 8 entries updated (the connectors topic, with Expedia's earnings-call corroboration; the voice-mode topic; the dedicated-computer specs topic, with the RAM ballooning figures; the side-chats topic; the calls topic, with the home-insurance negotiation case; the video-generation method topic, with the first-frame finding; the lockout problem, with a new forums account and Bug ID 1702798521561891; and the forgetting problem, with the autocompaction explanation). All standing sources were checked for the window after Nov 3, 2026 23:39 Arizona time: 98 Reddit window posts (37 referral-code posts in r/MetaAI counted and not read) and every non-referral post read in full; the forums lockout thread gained 2 replies in the window and the Ray-Ban thread showed no new activity (same calendar date as the daily run, so its quiet line is not advanced). Totals after this run: 83 topics and 38 problems, 1 of them quiet.
+Updated on 2026-11-05 in the daily run (dated log: ~/workspace/learning/community-check/2026-11-05.md): no entry added, removed, or changed; the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 18 days. The window after Nov 4, 2026 22:27 Arizona time held 3 Reddit posts (the image-to-video boundary post already folded in the 2026-11-04 night run, an avatar show-off post, and a chat-screenshot gallery), each read in full and judged not entered, and no new forums activity. Totals stand: 83 topics and 38 problems, 1 of them quiet.
 ## Part 1 — Topics
 
 New and different things people are doing or talking about with Muse.
@@ -1717,6 +1718,10 @@ reply last updated 17 days ago, and no activity in the Nov 2-3 window).
 check in this run shows that thread's topic and only reply last updated
 17 days ago and no new activity, and the date difference Nov 4 minus
 Oct 18 is 17 days).
+2026-11-05: no activity in 18 days (last activity 2026-10-18; the forums
+check in this run shows that thread's topic and only reply last updated
+18 days ago and no new activity, and the date difference Nov 5 minus
+Oct 18 is 18 days).
 
 - Source: Meta Community Forums — "Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app" — https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708
 - First seen: 2026-10-22
