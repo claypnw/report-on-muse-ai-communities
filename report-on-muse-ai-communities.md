@@ -67,6 +67,8 @@ Updated on 2026-11-04 in the night run (dated log: ~/workspace/learning/communit
 Updated on 2026-11-05 in the daily run (dated log: ~/workspace/learning/community-check/2026-11-05.md): no entry added, removed, or changed; the Ray-Ban Meta Gen 3 glasses quiet problem count updated to no activity in 18 days. The window after Nov 4, 2026 22:27 Arizona time held 3 Reddit posts (the image-to-video boundary post already folded in the 2026-11-04 night run, an avatar show-off post, and a chat-screenshot gallery), each read in full and judged not entered, and no new forums activity. Totals stand: 83 topics and 38 problems, 1 of them quiet.
 Updated on 2026-11-05 in the night run (dated log: ~/workspace/learning/community-check/2026-11-05.md, night run sections): 3 topics added (Muse inside the desktop Instagram Edits app; a Bubble Board bubble-dashboard prompt that replaces checklists; Muse checking a Ring camera and sending alerts), 2 problems added (the secure credential store mixing up multiple logins for the same site; image generation failing for days with "integrity_check_failed"), 5 topics updated (voice mode — Muse Voice rolled out to everyone in the US on November 5, 2026, with the voice-token-cost measurement; Muse going out to more countries — Mexico, November 5, 2026; Muse Mail — rolling out, November 5, 2026; Muse making and receiving calls — the SiriusXM $500 saving and the hung-up calls; resetting Muse / sign-in — a never-ending sign-in loop after reinstalling), and 4 problems updated (the virtual machine restarting — replaced every hour or two; Muse forgetting tasks — tasks started then stopped, recurring tasks forgotten; standing permissions — permission asked every time for an email passcode; activity logs and deletion — agent messages cannot be deleted and deleted side chats are still retained). All standing sources were checked for the window after Nov 4, 2026 23:39:40 Arizona time: 91 Reddit window posts (30 referral-code posts in r/MetaAI counted and not read) and every non-referral post read in full; the forums lockout thread gained one reply in the window whose only content is a name, judged spam or a display glitch and not entered, and the iOS subscription and Ray-Ban threads showed no new activity (the Ray-Ban quiet line stands at no activity in 18 days, same calendar date as the daily run). The standing Rules Not Read search found one post-October 29 hit — the November 3 phantom-attributions audit — which already stands folded in this report (the citing problem, added 2026-11-03), so it is not entered again. Totals after this run: 86 topics and 40 problems, 1 of them quiet.
 Updated on 2026-11-06 in the daily run (dated log: ~/workspace/learning/community-check/2026-11-06.md): 1 topic updated (a Muse Space as a command center — the Muse app itself adding Spaces, November 5, 2026, with spaces shown building and a user planning to split mixed feeds into spaces). All standing sources were checked for the window after Nov 5, 2026 22:49:05 Arizona time: 3 Reddit window listings (1 referral-code post in r/MetaAI counted and not read; the one non-referral post read in full in both its listings), and no new activity in the forums lockout, iOS subscription, or Ray-Ban threads (the Ray-Ban quiet line stands at no activity in 19 days). The standing Rules Not Read search found only the November 3 phantom-attributions audit, which already stands folded in this report, so it is not entered again; no first-person Android Auto report appeared. Totals stand: 86 topics and 40 problems, 1 of them quiet.
+Updated on 2026-11-06 in the night run (dated log: ~/workspace/learning/community-check/2026-11-06.md, night run sections): 1 topic added (a push-to-talk Apple Watch app for Muse, built by a user and open source), 7 topics updated (Spaces — Meta's official November 6, 2026 launch in all Muse regions, with users' first Spaces the same day; Muse Spark and Muse Wonder — Wonder-trained specialized models bringing Active Memory and Active Focus to everyone, November 6, 2026; Muse on glasses — rolling out in waves to glasses-beta users; the Ring camera topic — a second user's scheduled package checks; voice mode — a spoken-vs-typed test measuring voice at about 1.5 times the tokens, and iPad voice with no avatar animation; job search — approve-once applying and a shared Job Hunter Space; Muse Mail — address names and the spam question), and 2 problems updated (image generation failing with "integrity_check_failed" — an account stuck since the outage; refusals — a paid user flagged for review on a math question, with a commenter flagged five times in two days). All standing sources were checked for the window after Nov 6, 2026 00:16:03 Arizona time: 89 Reddit window posts (25 referral-code posts counted and not read; all 64 non-referral posts read in full, with the non-rendered comments named in the dated log), and no new activity in the forums lockout, iOS subscription, or Ray-Ban threads (the Ray-Ban quiet line stands at no activity in 19 days, not advanced on the same calendar date as the daily run). The standing Rules Not Read search found no new strict hit — its post-October 29 hits are posts already standing in this report or mentions inside tonight's window posts; no first-person Android Auto report appeared. Totals stand: 87 topics and 40 problems, 1 of them quiet.
+
 ## Part 1 — Topics
 
 New and different things people are doing or talking about with Muse.
@@ -95,10 +97,13 @@ October 22, 2026 reports Zuckerberg claiming Meta reached the AI frontier with
 the new Muse models (r/MetaAI, https://www.reddit.com/r/MetaAI/comments/1xcems3/zuckerberg_claims_meta_reached_ai_frontier_with/).
 
  On October 31, 2026, a poster who woke to all his workflows completed with no sign-in spam or mistakes reports Wonder moving considerably faster and more efficiently since the October 30 update, and wonders whether a model update was slipped in; commenters are mixed — one saw no change, others praise Wonder's speed and value at $16 a month and about 500M tokens a week, and one attributes the speed to paid-plan priority. Recorded as reported, not confirmed.
+ On November 6, 2026, Meta AI Research announced specialized versions of the models behind Muse and Meta AI, trained using Muse Wonder, bringing Wonder's Active Memory and Active Focus to everyone: Meta reports the new Muse models are 2.4 times less likely to forget information critical to a user's goals, correctly use critical context in 90% of tasks against 76% for the previous model, and complete everyday tasks 67% better when unexpected issues arise, with the current Muse model scoring 47% on Meta's Personal Superintelligence Index against 38% before. A Reddit thread carrying the announcement the same day has users reporting Muse's memory feels better, with the working detail that what Muse knows can be seen under Saved Memories in settings. All figures are Meta's own measurements, not independently checked.
 - Source: r/MuseAgent — "Muse Spark (Free), Muse Wonder (Paid) - difference." — https://www.reddit.com/r/MuseAgent/comments/1xbzzcd/muse_spark_free_muse_wonder_paid_difference/ (crossposted in r/MetaAI)
 - Source (added 2026-10-31, night run correction): r/MuseAgent — "Muse Wonder moving considerably faster and more efficient" — https://www.reddit.com/r/MuseAgent/comments/1xk87pn/muse_wonder_moving_considerably_faster_and_more/ (16 of 16 comments read; posted Oct 31, 2026, 04:51 Arizona time)
+- Source (added 2026-11-06, night run): Unite.AI — "Current Muse Scores 47% on Meta's Personal Superintelligence Index" — https://www.unite.ai/current-muse-scores-47-on-metas-personal-superintelligence-index/ (reporting Meta AI Research's November 6, 2026 announcement)
+- Source (added 2026-11-06, night run): r/MuseAgent — "Muse's memory just got Upgraded" — https://www.reddit.com/r/MuseAgent/comments/1xpljip/ (10 of 20 comments read, 10 did not render; posted Nov 6, 2026, 12:18 Arizona time)
 - First seen: 2026-10-22
-- Last updated: 2026-10-31
+- Last updated: 2026-11-06
 - State: open
 
 ### Sharing work while artifact publishing is paused
@@ -367,6 +372,7 @@ Users report Muse voice mode — live two-way voice conversation — arriving in
  On October 30, 2026, the rollout was still uneven: a voice-calling button with WhatsApp was praised in one thread, where the avatar-change trick for making voice appear was confirmed again; in voice mode the avatar's lips now move in time with the spoken words (mouth shapes built per syllable, one commenter guesses — which would explain why rebuilding an avatar unlocks voice, since the mouth-shape set has to be made); a no-sound thread names what worked — Chrome every time, Firefox on and off, an Android restart, and no sound through earbuds; a Canada thread reports most people there, free and paid, still have no Voice or Business Calling, with an official Muse Discord form named for asking; and a voice-styles thread trades preset voice names and reaches non-preset voices through a voice service or by telling Muse to find one in the wild.
  On October 31, 2026, the rollout was still uneven: one poster who changed his avatar a dozen times, reinstalled the app, filed tickets, and bought tokens still has no voice chat, and his thread trades folk triggers — ask Muse to message the Muse team to add you to the beta list, look for the phone icon (one man's voice sat unnoticed for a week), change the avatar, or ask Muse to check each morning — while others report weak voice recognition and context mixed between chats, and one built his own speech app instead of waiting. A second thread the same day names a tip that worked for its poster: he had voice in the web app but not on iPhone, and removing and re-installing the iPhone app (no App Store update was shown) turned voice chat on; commenters report mixed results, one repeats the avatar-regeneration path, one has voice everywhere except the Mac app, and one warns it burns too many tokens.
  On November 2, 2026, a thread judged voice mode far less capable than text Muse: commenters agree voice captures speech and repeats it back but cannot act on it — in one line, "text Muse is the brains! voice Muse is the mouth" — though one user finds it fine for dictating a prayer office, and the poster hopes a glasses-based Muse will strengthen it.
+ On November 6, 2026, a user ran the same script spoken and typed across OpenAI, Gemini, and Muse and measured voice at about 1.5 times the tokens of text on Muse — a smaller gap than the roughly 3-times measurement recorded on November 5 — and found Muse the most consistent across runs. The same day, a user whose voice works on iPhone and Mac reports the iPad talks back with no talking-avatar animation; a commenter answers their Muse said the animation runs only on phones, and another fixed iPad voice by downloading the update.
 - Source: r/MuseAgent — "Finally voice!" — https://www.reddit.com/r/MuseAgent/comments/1xe1o7p/finally_voice/ (61 of 61 comments read; posted Oct 23, 2026, 11:50 PM Arizona time)
 - Source (added 2026-11-02, redo run): r/MuseAgent — "Do you find voice mode far last capable?" — https://www.reddit.com/r/MuseAgent/comments/1xm090n/do_you_find_voice_mode_far_last_capable/ (6 of 6 comments read; posted Nov 2, 2026, 08:29 Arizona time)
 - Source: r/MuseAgent — "Voice is rolling out in waves, let's map it" — https://www.reddit.com/r/MuseAgent/comments/1xe49er/voice_is_rolling_out_in_waves_lets_map_it/ (33 of 49 comments read)
@@ -391,8 +397,9 @@ Users report Muse voice mode — live two-way voice conversation — arriving in
 - Source (added 2026-11-05, night run): r/MuseAgent — "MacOS app got updated and now I have the voice" — https://www.reddit.com/r/MuseAgent/comments/1xoq6d9/macos_app_got_updated_and_now_i_have_the_voice/ (1 of 1 comments read; posted Nov 5, 2026, 11:24 Arizona time)
 - Source (added 2026-11-05, night run): r/MuseAgent — "Voice is rolling out in the US only for now, Canada still waiting" — https://www.reddit.com/r/MuseAgent/comments/1xorm10/voice_is_rolling_out_in_the_us_only_for_now/ (18 of 19 comments read, 1 not rendered; posted Nov 5, 2026, 12:19 Arizona time)
 
+- Source (added 2026-11-06, night run): r/MuseAgent — "Same script, spoken vs typed, on OpenAI/Gemini/Muse" — https://www.reddit.com/r/MuseAgent/comments/1xpy0bm/ (0 comments; posted Nov 6, 2026, 22:00 Arizona time) and "Is your muse voice working on iPad?" — https://www.reddit.com/r/MuseAgent/comments/1xpp7h8/ (2 of 2 comments read; posted Nov 6, 2026, 14:49 Arizona time)
 - First seen: 2026-10-24
-- Last updated: 2026-11-05
+- Last updated: 2026-11-06
 - State: open
 
 ### Running kids' school coordination in Muse — a shared Sheet setup, with an invented-event warning
@@ -409,10 +416,13 @@ A user runs their kids' school coordination through Muse: a shared Sheet with on
 A soon-to-be-unemployed engineer asks how others automate job hunting with Muse, and dozens of commenters describe agents sweeping job boards and applying on their behalf — several reaching interviews, and at least one a landed offer. The shared friction is at the end of the run: refusals at the final submit step, approvals needed for resume uploads, and trouble getting into LinkedIn. People are working around the same last-step problem in different ways, and no settled way is named in the comments read.
 
  On October 31, 2026, a user gave Muse his resume for precision edits per role to get past applicant-tracking screening and, still having little luck, asked whether the approach is bad; the one comment names the method that works for the commenter: one master resume, one version per role family, mirror the posting's exact skill words, keep formatting dead simple, have Muse gap-check against the posting, and bypass the screening by applying through the company site or a recruiter.
+ On November 6, 2026, job applicants compared notes on the sign-in friction: the working pattern in the comments is that Muse remembers what the user likes and, after one approval, applies without asking again — two commenters report exactly that — while one calls the repeated asking a current limitation of Muse, and a UK user cannot get Muse to do it at all. The same day, a shared Job Hunter Space that auto-applies to jobs, with troubleshooting steps for failed searches and broken logins, was posted in r/MuseAssistant and cross-posted to r/MuseAgent, where a moderator removed the crosspost under the share-don't-advertise rule.
 - Source: r/MuseAgent — "anyone using Muse to automate their job search?" — https://www.reddit.com/r/MuseAgent/comments/1xeghdx/anyone_using_muse_to_automate_their_job_search/ (42 of 58 comments read)
 - Source (added 2026-10-31, night run correction): r/MuseAgent — "Resume help with Muse" — https://www.reddit.com/r/MuseAgent/comments/1xkqhj5/resume_help_with_muse/ (1 of 1 comments read; posted Oct 31, 2026, 18:11 Arizona time)
+- Source (added 2026-11-06, night run): r/MuseAgent — "For those who apply for jobs using Muse..." — https://www.reddit.com/r/MuseAgent/comments/1xproah/ (5 of 5 comments read; posted Nov 6, 2026, 16:38 Arizona time)
+- Source (added 2026-11-06, night run): r/MuseAssistant — "Muse Job Hunter" — https://www.reddit.com/r/MuseAssistant/comments/1xpt3xu/ (0 comments; posted Nov 6, 2026, 17:46 Arizona time; crosspost in r/MuseAgent: https://www.reddit.com/r/MuseAgent/comments/1xpmbvk/ , 2 of 2 comments read)
 - First seen: 2026-10-24
-- Last updated: 2026-10-31
+- Last updated: 2026-11-06
 - State: open
 
 ### Tailscale safety for a Muse-connected home computer — ACL tags, not your own account
@@ -595,12 +605,14 @@ A study of building with the free Muse Spark model, shared as working rules: for
 
 One user's Muse, running a daily check for new connectors, reported a new one named Muse Mail: Muse's own mailbox, with an address ending in muse.ai, that Muse can use to send and receive email for the person, apart from Gmail or Outlook. In that report it is not usable yet: the person would have to approve a proposed name for the address — the address cannot be changed later, so the pick is worth care — and verify their own email address in Muse Mail settings. The poster says plainly that it is not live yet. This entry rests on that one report, Muse's own words passed on by its user; no Meta announcement is named in the thread.
 
+ On November 6, 2026, the rollout talk turned to names and spam: one user picking a Muse Mail name worries the address form (a name, then -muse@muse.ai) does not flow and asks whether a professional address matters, with a commenter raising the prompt-injection worry about strange handles; a second thread asks whether Muse email handles will go straight to spam, and the settled answer in its comments is that the whole domain is more likely to be marked than any one handle, while other commenters say their Muse sends through their own Gmail instead, or uses its own address for sign-ups they do not want tied to their name.
 - Source: r/MuseAgent — "Muse Mail" — https://www.reddit.com/r/MuseAgent/comments/1xh1erk/muse_mail/ (12 of 12 comments read; posted Oct 27, 2026, 11:59 Arizona time)
  On November 5, 2026, Muse Mail began rolling out: one user asked Muse and received an @muse.ai address at once, and another asked what to use a new address for, with newsletter summaries, a checkout address, and forwarding named in the comments, alongside prompt-injection worries. The rollout is uneven — many commenters in the rolling-out thread report "not available for this account," and a paid plan seems to help.
 - Source (added 2026-11-05, night run): r/MuseAgent — "Muse Mail Rolling Out" — https://www.reddit.com/r/MuseAgent/comments/1xou71q/muse_mail_rolling_out/ (37 of 41 comments read, 4 not rendered; posted Nov 5, 2026, 14:02 Arizona time)
 - Source (added 2026-11-05, night run): r/MuseAgent — "I got a Muse email address. I don't do business or own a business. What do I use the email for?" — https://www.reddit.com/r/MuseAgent/comments/1xp1njs/i_got_a_muse_email_address_i_dont_do_business_or/ (8 of 8 comments read; posted Nov 5, 2026, 19:38 Arizona time)
+- Source (added 2026-11-06, night run): r/MuseAgent — "Muse Mail" — https://www.reddit.com/r/MuseAgent/comments/1xpg658/ (13 of 20 comments read, 7 hidden under one commenter did not render; posted Nov 6, 2026, 08:50 Arizona time) and "Don't you think a lot of the muse email handles that people are creating will get sent straight to spam?" — https://www.reddit.com/r/MuseAgent/comments/1xpj80m/ (4 of 4 comments read; posted Nov 6, 2026, 10:48 Arizona time)
 - First seen: 2026-10-27
-- Last updated: 2026-11-05
+- Last updated: 2026-11-06
 - State: open
 
 ### A Bee Frontier wearable feeding Muse its transcripts on a schedule
@@ -835,10 +847,15 @@ that stocks them.
 
  On November 5, 2026, a user reported the Muse app itself adding Spaces: screenshots show a SPACES list in the app — "Disney History Series," "Photography Hub," and "Create a space" — with both named spaces shown as "Building … — Your Space will be ready soon," and the poster promising "I'll post more when it's done being built." A commenter who had just seen it the same night said they were thinking of moving feeds of different topics, mixed up in the main feed, into separate spaces; asked what a space is, the poster answered, "Think of it as a website or a hub." Recorded as the app-side arrival of the same Spaces feature this topic tracks, from one poster's screenshots.
 
+ On November 6, 2026, Meta officially announced Spaces: users describe what they want in conversation and Muse builds a dedicated screen for that purpose, which can be edited later and used repeatedly, with information from connected apps updated in the background; Meta says Spaces is available the same day in all regions where Muse is offered. Users flooded in the same day: one thread asks for favorite Spaces (12 of 12 comments read), a title-only thread's 23 comments list Spaces people built — including one that reads email and flags what needs a reply — one user replaced MyFitnessPal with a Space that tracks calories and macros with a barcode scanner and an open food database, and another tracks sponsor bookings for a newsletter in a Space that showed $1,000 paid in and the week's goal hit.
 - Source: r/MetaAI — "Muse 'Spaces': I built a command center that lives in the sidebar" — https://www.reddit.com/r/MetaAI/comments/1xj70vq/muse_spaces_i_built_a_command_center_that_lives/ (0 of 1 comments read — the comments area rendered blank on repeated attempts, so the one stated comment could not be read; posted Oct 29, 2026, 22:31 Arizona time)
 - Source (added 2026-11-06): r/MuseAgent — "Muse app added spaces" — https://www.reddit.com/r/MuseAgent/comments/1xp5yxl/muse_app_added_spaces/ (3 of 3 comments read; posted Nov 5, 2026, 23:34 Arizona time; cross-posted in r/MuseAssistant: https://www.reddit.com/r/MuseAssistant/comments/1xp5z3f/muse_app_added_spaces/ , whose own page shows 0 comments)
+- Source (added 2026-11-06, night run): XenoSpectrum — "Meta's Muse Adds 'Spaces,' Custom Screens for Schedules, Orders and More" — https://xenospectrum.com/en/meta-muse-spaces-custom-workspaces/ (reporting Meta's November 6, 2026 announcement; published Nov 6, 2026, 19:19 Arizona time)
+- Source (added 2026-11-06, night run): r/MuseAgent — "Spaces is awesome" — https://www.reddit.com/r/MuseAgent/comments/1xpqye4/ (12 of 12 comments read; posted Nov 6, 2026, 16:05 Arizona time) and "What spaces are you creating with muse?" — https://www.reddit.com/r/MuseAgent/comments/1xpmdfk/ (23 of 23 comments read; posted Nov 6, 2026, 12:52 Arizona time)
+- Source (added 2026-11-06, night run): r/MuseAgent — "I was able to replace MyFitnessPal with a Space" — https://www.reddit.com/r/MuseAgent/comments/1xpmyqw/ (10 of 10 comments read; posted Nov 6, 2026, 13:15 Arizona time)
+- Source (added 2026-11-06, night run): r/MetaAI — "Muse created me a new space called Sponsor Tracker" — https://www.reddit.com/r/MetaAI/comments/1xptgjw/ (0 comments; posted Nov 6, 2026, 18:02 Arizona time)
 - First seen: 2026-10-29
-- Last updated: 2026-11-05
+- Last updated: 2026-11-06
 - State: open
 
 ### A "Glasses" entry seen in the Meta AI app, opening Muse
@@ -851,11 +868,13 @@ pairing with their Meta Glasses. It is one poster's sighting of a product
 change, recorded as reported.
  On October 30, 2026, a beta thread reported Muse itself on Meta AI glasses: Meta's help page for Muse on AI glasses is live, the beta is uneven (one early-access user cannot force the update on Gen 2 glasses), and one user who got it the day before calls setup extremely complicated — a whole day of errors before it worked once Muse was set up for the glasses the right way.
  On October 31, 2026, a poster reported Muse itself arriving on Ray-Ban glasses: his own comment shares the beta notice — among the first to try Muse on glasses, some features not yet available (WhatsApp, calls and messages, navigation, Strava, Live AI, Shazam named), Muse free to use with weekly limits, and the assistant can be switched back to Meta AI at any time — and he reports it works well so far with other integrations.
+ On November 6, 2026, Muse on glasses was reported starting to roll out more widely: one post carries the beta notice ("You're one of the first to try Muse on glasses!") spotted on Meta Fury glasses, and a second thread the same day, asking when Muse is coming to the glasses, settles in its comments that the rollout is happening in waves and only reaches people already accepted into the glasses beta — early-access users without the beta do not see the AI assistant choice.
 - Source: r/MuseAgent — "This is new" — https://www.reddit.com/r/MuseAgent/comments/1xj3dhc/this_is_new/ (6 of 6 comments read; posted Oct 29, 2026, 19:17 Arizona time)
 - Source (added 2026-10-30, night run correction): r/MuseAgent — "Glasses- Anyone on Beta?" — https://www.reddit.com/r/MuseAgent/comments/1xjd8dl/glasses_anyone_on_beta/ (9 of 9 comments read; posted Oct 30, 2026, 04:50 Arizona time)
 - Source (added 2026-10-31, night run correction): r/MetaAI — "Muse is available on Ray-Ban glasses now" — https://www.reddit.com/r/MetaAI/comments/1xkgo3s/muse_is_available_on_rayban_glasses_now/ (4 of 4 comments read; posted Oct 31, 2026, 10:51 Arizona time)
+- Source (added 2026-11-06, night run): r/MuseAgent — "Muse on Meta Glasses starting to roll out" — https://www.reddit.com/r/MuseAgent/comments/1xpvwgv/ (3 of 3 comments read; posted Nov 6, 2026, 20:05 Arizona time) and "Does anyone know when muse is coming to the glasses?" — https://www.reddit.com/r/MuseAgent/comments/1xpn1ai/ (14 of 15 comments read, 1 nested reply did not render; posted Nov 6, 2026, 13:18 Arizona time)
 - First seen: 2026-10-29
-- Last updated: 2026-10-31
+- Last updated: 2026-11-06
 - State: open
 
 ### Muse Town — a claimed built-in artifact, disputed in the comments
@@ -1117,9 +1136,20 @@ A user shares a copy-paste prompt that turns Muse's checklists into a visual bub
 
 A user reports Muse can check their Ring camera and send alerts: Muse "freaked out" at an Amazon delivery person at the door after checking the camera. Recorded as one user's shown setup — a home camera feeding Muse's alerts — with no method detail in the thread beyond the report itself.
 
+ On November 6, 2026, a second user reported the same setup: Muse watches the front door through a Ring camera and checks for packages on a repeating schedule (checks at 1:00, 1:30, and 2:00 in the image post). The thread's one comment asks the setup question that matters for cost and noise — whether it can check only when there is movement instead of reading an image every 30 minutes; no answer stands in the thread.
 - Source: r/MuseAgent — "Muse can check your ring camera and send you alerts!!" — https://www.reddit.com/r/MuseAgent/comments/1xp2xfe/muse_can_check_your_ring_camera_and_send_you/ (6 of 6 comments read; posted Nov 5, 2026, 20:42 Arizona time)
+- Source (added 2026-11-06, night run): r/MuseAgent — "MuseAi watches my front door via Ring camera" — https://www.reddit.com/r/MuseAgent/comments/1xpqde8/ (1 of 1 comments read; posted Nov 6, 2026, 15:39 Arizona time)
 - First seen: 2026-11-05
-- Last updated: 2026-11-05
+- Last updated: 2026-11-06
+- State: open
+
+### A push-to-talk Apple Watch app for Muse, built by a user and open source
+
+A user built and open-sourced a push-to-talk Apple Watch app for talking to Meta's Muse agent from the wrist, and posted a video of it in r/MetaAI with a GitHub link in the post. It is a user build around Muse, not a Meta release. The post's thread shows 3 comments, but the comments section rendered empty in both views used in the pass, so no comment stands read and no setup detail beyond the post itself is recorded.
+
+- Source: r/MetaAI — "I made a push-to-talk Apple Watch app for Meta's Muse agent (open source)" — https://www.reddit.com/r/MetaAI/comments/1xplr8w/ (0 of 3 comments read — the comments section rendered empty; posted Nov 6, 2026, 12:26 Arizona time)
+- First seen: 2026-11-06
+- Last updated: 2026-11-06
 - State: open
 
 ## Part 2 — Problems
@@ -1343,9 +1373,11 @@ at a changed soul file and at requests about avoiding human checks;
 nothing is confirmed in the thread. One in-window report so far, not a
 confirmed wave.
 
+ On November 6, 2026, a matching refusal arrived in a new form: a paid-plan user asked a math question and Muse answered that it could not answer yet and had flagged it for further review; the poster wonders about a shadow ban or a glitch. Twelve of thirteen comments were read: one commenter reports being flagged about five times in the past two days and says it has gotten significantly worse this week. No cause and no fix is named.
 - Source: r/MuseAgent — "Muse Broken - I can't respond at the moment because you've asked for content that goes against the rules. Try again in 1 hour" — https://www.reddit.com/r/MuseAgent/comments/1xigs3e/muse_broken_i_cant_respond_at_the_moment_because/ (8 of 8 comments read; posted Oct 29, 2026, 03:56 Arizona time)
+- Source (added 2026-11-06, night run): r/MuseAgent — "muse flagged me" — https://www.reddit.com/r/MuseAgent/comments/1xppmyh/ (12 of 13 comments read, 1 reply did not render; posted Nov 6, 2026, 15:07 Arizona time)
 - First seen: 2026-10-29
-- Last activity: 2026-10-29
+- Last activity: 2026-11-06
 - State: open
 
 ### Muse answers slowed down for many users at the same time
@@ -1735,9 +1767,11 @@ A user reports Muse's secure credential store cannot actually handle multiple lo
 
 A user reports image generation failing for days with the error "integrity_check_failed." Twelve of the thread's thirteen comments were read (one deleted); no fix is named in the report. Recorded as a standing failure report, separate from the image-refusal entry above.
 
+ On November 6, 2026, another user hit the same failure on an ordinary ask — an image of a basketball refused with "Media generation failed" and "Integrity check failed" — and reports their account has been stuck this way since the outage a couple of days earlier that hit a lot of people. The thread's three comments name no fix and one commenter reports never seeing the failure.
 - Source: r/MuseAgent — "Image generation issues" — https://www.reddit.com/r/MuseAgent/comments/1xp0p99/image_generation_issues/ (12 of 13 comments read, 1 deleted; posted Nov 5, 2026, 18:50 Arizona time)
+- Source (added 2026-11-06, night run): r/MuseAgent — "Image generation failing" — https://www.reddit.com/r/MuseAgent/comments/1xpmhre/ (3 of 3 comments read; posted Nov 6, 2026, 12:57 Arizona time)
 - First seen: 2026-11-05
-- Last activity: 2026-11-05
+- Last activity: 2026-11-06
 - State: open
 
 ### Quiet problems
