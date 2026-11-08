@@ -86,9 +86,9 @@
     },
     "ways-people-get-muse-past-websites-that-block-its-browser": {
       "title": "Ways people get Muse past websites that block its browser",
-      "narration_hash": "de92e4b80ee0624a6802d4370c75023187ccd17ce3cb5d32dc897aca97d399e6",
+      "narration_hash": "a6d1ac3ba12629459e8a90f68bef3adbac28cf5cf0c1e213c75a1ac402e94aef",
       "filename": "story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3",
-      "size_bytes": 284197
+      "size_bytes": 605605
     },
     "controlling-a-personal-computer-through-an-ssh-tunnel-with-a-coding-agent-doing": {
       "title": "Controlling a personal computer through an SSH tunnel, with a coding agent doing the clicking",
@@ -128,9 +128,9 @@
     },
     "muse-voice-mode-appearing-in-the-app-rolling-out-unevenly": {
       "title": "Muse voice mode appearing in the app — rolling out unevenly",
-      "narration_hash": "5b062f549f38a4a9a5541cd4734f422a678032ecfc5b2f7a6bfacda653dcfb0a",
+      "narration_hash": "401273670b07badb83a5ff5bc6f937e079d09ae94ad47650d393f8684ae318cf",
       "filename": "story-audio/muse-voice-mode-appearing-in-the-app-rolling-out-unevenly.mp3",
-      "size_bytes": 2621797
+      "size_bytes": 2741605
     },
     "running-kids-school-coordination-in-muse-a-shared-sheet-setup-with-an-invented-e": {
       "title": "Running kids' school coordination in Muse — a shared Sheet setup, with an invented-event warning",
@@ -194,9 +194,9 @@
     },
     "muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker": {
       "title": "Muse making and receiving calls and texts, with a person as the final checker",
-      "narration_hash": "d5db5c28d816471dd4da1b1ac4e726a3bd9b8c6ad6bdc7b91a212b7b5430416e",
+      "narration_hash": "bc1cbf0162c9525c6a8e0b2ea26448bca8d956ae95094cd2ab78ccdbd5ecb06d",
       "filename": "story-audio/muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker.mp3",
-      "size_bytes": 1246501
+      "size_bytes": 1481893
     },
     "controlling-a-google-tv-from-the-phone-muse-tailscale-and-debug-mode": {
       "title": "Controlling a Google TV from the phone — Muse, Tailscale, and debug mode",
@@ -320,9 +320,9 @@
     },
     "a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits": {
       "title": "A week with Muse as a real personal assistant — what worked, and its limits",
-      "narration_hash": "0473c2518c725cea419ad1af3b39fc61a159cd7e17969d38553d0a5d2f7f182b",
+      "narration_hash": "34fe8d0dc6b4776a3f8b5ccb035b69a61e2a4587c3834e3126ea2328a7a49aa1",
       "filename": "story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3",
-      "size_bytes": 1123237
+      "size_bytes": 1239397
     },
     "muse-as-project-manager-over-coding-agents-on-a-home-mac": {
       "title": "Muse as project manager over coding agents on a home Mac",
@@ -332,9 +332,9 @@
     },
     "a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh": {
       "title": "A Muse Space as a command center, fed by a scheduled refresh",
-      "narration_hash": "7bbbd09a722223ce573a026ea5e9cc5eb65cc25cde3419800d6960f5a5722e8a",
+      "narration_hash": "c767420da2bef74324c768663a1d428bfdc58764ab689b195653506c05c125cf",
       "filename": "story-audio/a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh.mp3",
-      "size_bytes": 1018981
+      "size_bytes": 1377445
     },
     "a-glasses-entry-seen-in-the-meta-ai-app-opening-muse": {
       "title": "A \"Glasses\" entry seen in the Meta AI app, opening Muse",
@@ -344,9 +344,9 @@
     },
     "muse-town-a-claimed-built-in-artifact-disputed-in-the-comments": {
       "title": "Muse Town — a claimed built-in artifact, disputed in the comments",
-      "narration_hash": "79e76accd01ed8b75e756114d50bdb66be75046d124b5531651dc725676bf149",
+      "narration_hash": "c04c2310d8d9376fad0d2479bb2808ac31da69f04a4289c53fbfc57de16c3d70",
       "filename": "story-audio/muse-town-a-claimed-built-in-artifact-disputed-in-the-comments.mp3",
-      "size_bytes": 642661
+      "size_bytes": 815269
     },
     "youtube-connected-directly-to-muse-ending-repeated-sign-ins": {
       "title": "YouTube connected directly to Muse, ending repeated sign-ins",
@@ -458,9 +458,9 @@
     },
     "cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t": {
       "title": "Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears",
-      "narration_hash": "02c1ead2286161a1d756d5fbbcf2e3fcc3ce01904babeb40003f2615f67f9026",
+      "narration_hash": "68cba6ff93c3b87793faa0d2cec1cd66e04e695e519c9359b86d952dd09c0f17",
       "filename": "story-audio/cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t.mp3",
-      "size_bytes": 1091557
+      "size_bytes": 1294117
     },
     "voice-mode-hangs-up-after-a-short-silence": {
       "title": "Voice mode hangs up after a short silence",
@@ -470,9 +470,9 @@
     },
     "muse-keeps-failing-to-write-files-operation-not-permitted-since-october-29-2026": {
       "title": "Muse keeps failing to write files — \"Operation not permitted\" since October 29, 2026",
-      "narration_hash": "c353dd1803dd3cc6bb77481f5ac14e1ee0061a7519eab551b70487064ee2c603",
+      "narration_hash": "52232f645e63c1242780bd889873923d8aede11bf8b6119313f252c024c68f50",
       "filename": "story-audio/muse-keeps-failing-to-write-files-operation-not-permitted-since-october-29-2026.mp3",
-      "size_bytes": 494437
+      "size_bytes": 731749
     },
     "signing-up-for-muse-outside-the-us-blocked-at-age-and-payment-verification": {
       "title": "Signing up for Muse outside the US blocked at age and payment verification",
@@ -512,9 +512,9 @@
     },
     "muse-answers-slowed-down-for-many-users-at-the-same-time": {
       "title": "Muse answers slowed down for many users at the same time",
-      "narration_hash": "4cddcd5690b94f80def9b1da4fa423b82a776acb71658d8d6f25a6b9d589293d",
+      "narration_hash": "ce22fd8ef48120b6af56a01a98226922fad39144a9a2aaadc220c3184db3a3f5",
       "filename": "story-audio/muse-answers-slowed-down-for-many-users-at-the-same-time.mp3",
-      "size_bytes": 914725
+      "size_bytes": 1035685
     },
     "standing-permissions-for-browser-uploads-removed-each-upload-needs-an-approval": {
       "title": "Standing permissions for browser uploads removed — each upload needs an approval",
@@ -761,6 +761,12 @@
       "narration_hash": "b97c06c307f3345784d967d23654fb26bdb166ab8bf49472b8c6fbc648e88b9b",
       "filename": "story-audio/a-push-to-talk-apple-watch-app-for-muse-built-by-a-user-and-open-source.mp3",
       "size_bytes": 239461
+    },
+    "the-list-that-follows-you-a-location-aware-shopping-list": {
+      "title": "The list that follows you — a location-aware shopping list",
+      "narration_hash": "09e848b3e9f31bd0a3c4313d5bee5bab10d5697bc2639153ff3adb2095a4a52f",
+      "filename": "story-audio/the-list-that-follows-you-a-location-aware-shopping-list.mp3",
+      "size_bytes": 193381
     }
   },
   "version": 1
