@@ -72,6 +72,8 @@ Updated on 2026-11-07 in the idle-watch run (dated log: ~/workspace/learning/com
 Updated on 2026-11-07 in the night run (dated log: ~/workspace/learning/community-check/2026-11-07.md, night run sections): no entry added, removed, or changed. Reddit is no record in this run — my browser inside Muse met Reddit's network security block on every subreddit and search page, with sign-in panels and no post bodies readable, so no Reddit post was read and no count is advanced. The forums were checked: no new activity in the window in the lockout, Ray-Ban, or iOS subscription threads (the Ray-Ban quiet line stands at no activity in 20 days, same calendar date as the idle-watch run). Outside Reddit and the forums, everything found in the window was a restatement of the November 5–6, 2026 launches already standing in this report. Retirement check: the oldest topics (last updated 2026-10-22) stand at 16 days; the report's settled shape and its builders carry no Retired section, so no topic is moved and the crossing is named here and in the dated log. Totals stand: 87 topics and 40 problems, 1 of them quiet.
 Corrected on 2026-11-07 in the night run's correction (the browser pass's final report arrived after the run closed; pass ran 10:57–11:20 PM Arizona time, runtime-measured): Reddit was NOT blocked in the final pass — 92 window posts stood in the window (r/MuseAgent 48, r/MetaAI 37 with 32 referral-code posts counted and not read, r/MuseAssistant 7, all crossposts and duplicates counted once by listing) and every non-referral post was read, with the non-rendered comments named in the dated log's correction section; the forums iOS subscription thread gained a new reply in the window. 10 useful finds folded in the correction: 1 topic added (the list that follows you — a location-aware shopping list), 6 topics updated (Spaces; ways past website blocking; calls; voice mode; Muse Town; a week as a personal assistant), and 3 problems updated (iOS subscriptions; file writes failing; Muse slowed down / silent). Counts after the correction: r/MuseAssistant 0, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 0 (a useful find folded from every source, all dated 2026-11-07). Totals after the correction: 88 topics and 40 problems, 1 of them quiet.
 
+Updated on 2026-11-08 in the idle-watch run (dated log: ~/workspace/learning/community-check/2026-11-08.md): 1 problem updated (Muse forgetting tasks and losing track on long jobs — a paid-plan user reporting Muse performing worse for about two days, forgetting basic facts, with the commenter's compression explanation, Nov 8, 2026), and the Ray-Ban Meta Gen 3 glasses quiet problem line for 2026-11-08 added (no activity in 21 days). All standing sources were checked for the window after Nov 7, 2026 22:20:45 Arizona time: 5 Reddit window posts (3 referral-code posts in r/MetaAI counted and not read; both non-referral posts read in full, the taxes question read and not entered), and no new activity in the forums lockout, iOS subscription, or Ray-Ban threads. Totals stand: 88 topics and 40 problems, 1 of them quiet.
+
 ## Part 1 — Topics
 
 New and different things people are doing or talking about with Muse.
@@ -1640,9 +1642,11 @@ A user asks whether Muse is getting worse: theirs lately forgets tasks until pro
 - Source (added 2026-11-04, night run): r/MuseAgent — "WOrking on project and concerned about memory/speed" — https://www.reddit.com/r/MuseAgent/comments/1xo81rj/working_on_project_and_concerned_about_memoryspeed/ (9 of 9 comments read; posted Nov 4, 2026, 20:11 Arizona time)
  On November 5, 2026, a paid-plan user reported the same shape in short form: Muse starts tasks, then stops, and forgets recurring tasks. Four comments stand on the thread; no fix is named in the report.
 - Source (added 2026-11-05, night run): r/MuseAgent — "Won't finish tasks?" — https://www.reddit.com/r/MuseAgent/comments/1xotkt0/wont_finish_tasks/ (4 of 4 comments read; posted Nov 5, 2026, 13:37 Arizona time)
+ On November 8, 2026, a paid-plan user reported Muse performing a lot worse for about two days — forgetting basic facts and making poor judgment calls, including insisting a game remake the user had set a reminder for does not exist. The thread's one commenter reported no change and offered the standing explanation: in the main chat, as it compresses, it starts to lose data. Recorded as reported; no cause from Meta is named.
+- Source (added 2026-11-08): r/MuseAgent — "Has anyone's muse started performing a lot worse since a couple days ago?" — https://www.reddit.com/r/MuseAgent/comments/1xqsb3c/has_anyones_muse_started_performing_a_lot_worse/ (1 of 1 comments read; posted Nov 8, 2026, 00:02 Arizona time)
 
 - First seen: 2026-10-24
-- Last activity: 2026-11-05
+- Last activity: 2026-11-08
 - State: open
 
 ### Shared Muse links exposed private information; sharing suspended
@@ -1877,6 +1881,9 @@ Oct 18 is 19 days).
 check in this run shows that thread's topic and only reply last updated
 20 days ago and no new activity, and the date difference Nov 7 minus
 Oct 18 is 20 days).
+2026-11-08: no activity in 21 days (last activity 2026-10-18; the forums
+check in this run shows that thread last updated 21 days ago and no new
+activity, and the date difference Nov 8 minus Oct 18 is 21 days).
 
 - Source: Meta Community Forums — "Ray-Ban Meta Gen 3 — Muse voice option missing in the Muse app" — https://communityforums.atmeta.com/troubleshooting-20/ray-ban-meta-gen-3-muse-voice-option-missing-in-the-muse-app-180708
 - First seen: 2026-10-22
