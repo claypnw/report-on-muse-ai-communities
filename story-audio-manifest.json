@@ -767,6 +767,48 @@
       "narration_hash": "09e848b3e9f31bd0a3c4313d5bee5bab10d5697bc2639153ff3adb2095a4a52f",
       "filename": "story-audio/the-list-that-follows-you-a-location-aware-shopping-list.mp3",
       "size_bytes": 193381
+    },
+    "a-manager-muse-over-other-muses": {
+      "title": "A manager Muse over other Muses",
+      "narration_hash": "6766f00767c43c2143499cfd3669bb8ab173dc71290ce63aef9b4482b6d26d01",
+      "filename": "story-audio/a-manager-muse-over-other-muses.mp3",
+      "size_bytes": 293989
+    },
+    "museneon-a-postgres-database-connector-for-muse": {
+      "title": "MuseNeon — a Postgres database connector for Muse",
+      "narration_hash": "e440cdce54c62138747d05fa0bb62f3e9f4fbcd5b5a4f66ee279fb7e20954ce4",
+      "filename": "story-audio/museneon-a-postgres-database-connector-for-muse.mp3",
+      "size_bytes": 242341
+    },
+    "a-muse-assistant-inside-threads-seen-in-development": {
+      "title": "A Muse assistant inside Threads, seen in development",
+      "narration_hash": "3ac2f20a929a52b5a5c4bbc6ee42b422c61a11cdb4ab53ad16b3cba5582abff3",
+      "filename": "story-audio/a-muse-assistant-inside-threads-seen-in-development.mp3",
+      "size_bytes": 329701
+    },
+    "muse-in-the-car-through-android-auto-a-first-person-report": {
+      "title": "Muse in the car through Android Auto — a first-person report",
+      "narration_hash": "45cde1bcfca1da737968470df081467a7c1f116a071e2f5db721b2398e8c9b99",
+      "filename": "story-audio/muse-in-the-car-through-android-auto-a-first-person-report.mp3",
+      "size_bytes": 389029
+    },
+    "muse-knew-an-old-facebook-post-while-saying-it-had-no-facebook-access": {
+      "title": "Muse knew an old Facebook post while saying it had no Facebook access",
+      "narration_hash": "e3ee8d3bc35f12b97690ab81198ec8001c0b36961816cc125250c576e8e84688",
+      "filename": "story-audio/muse-knew-an-old-facebook-post-while-saying-it-had-no-facebook-access.mp3",
+      "size_bytes": 319717
+    },
+    "connector-submissions-fail-with-a-challenge-error": {
+      "title": "Connector submissions fail with a \"challenge\" error",
+      "narration_hash": "b75414e3c82c7c7eaa195d15220493c7857073f275e9e832095c051eabd1824e",
+      "filename": "story-audio/connector-submissions-fail-with-a-challenge-error.mp3",
+      "size_bytes": 200293
+    },
+    "a-main-chat-stuck-replying-with-one-fixed-sentence": {
+      "title": "A main chat stuck replying with one fixed sentence",
+      "narration_hash": "cdd2f7ded1153c19ff974286a5f5050c0fc051af757a7205cd6f594d36ddebea",
+      "filename": "story-audio/a-main-chat-stuck-replying-with-one-fixed-sentence.mp3",
+      "size_bytes": 236773
     }
   },
   "version": 1
