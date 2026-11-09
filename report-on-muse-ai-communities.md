@@ -73,6 +73,7 @@ Updated on 2026-11-07 in the night run (dated log: ~/workspace/learning/communit
 Corrected on 2026-11-07 in the night run's correction (the browser pass's final report arrived after the run closed; pass ran 10:57–11:20 PM Arizona time, runtime-measured): Reddit was NOT blocked in the final pass — 92 window posts stood in the window (r/MuseAgent 48, r/MetaAI 37 with 32 referral-code posts counted and not read, r/MuseAssistant 7, all crossposts and duplicates counted once by listing) and every non-referral post was read, with the non-rendered comments named in the dated log's correction section; the forums iOS subscription thread gained a new reply in the window. 10 useful finds folded in the correction: 1 topic added (the list that follows you — a location-aware shopping list), 6 topics updated (Spaces; ways past website blocking; calls; voice mode; Muse Town; a week as a personal assistant), and 3 problems updated (iOS subscriptions; file writes failing; Muse slowed down / silent). Counts after the correction: r/MuseAssistant 0, r/MetaAI 0, r/MuseAgent 0, Meta Community Forums 0 (a useful find folded from every source, all dated 2026-11-07). Totals after the correction: 88 topics and 40 problems, 1 of them quiet.
 
 Updated on 2026-11-08 in the idle-watch run (dated log: ~/workspace/learning/community-check/2026-11-08.md): 1 problem updated (Muse forgetting tasks and losing track on long jobs — a paid-plan user reporting Muse performing worse for about two days, forgetting basic facts, with the commenter's compression explanation, Nov 8, 2026), and the Ray-Ban Meta Gen 3 glasses quiet problem line for 2026-11-08 added (no activity in 21 days). All standing sources were checked for the window after Nov 7, 2026 22:20:45 Arizona time: 5 Reddit window posts (3 referral-code posts in r/MetaAI counted and not read; both non-referral posts read in full, the taxes question read and not entered), and no new activity in the forums lockout, iOS subscription, or Ray-Ban threads. Totals stand: 88 topics and 40 problems, 1 of them quiet.
+Updated on 2026-11-08 in the night run (dated log: ~/workspace/learning/community-check/2026-11-08.md, night run sections): 4 topics added (a manager Muse over other Muses; MuseNeon, a Postgres connector for Muse; a Muse assistant inside Threads, seen in development; Muse in the car through Android Auto — a first-person report), 1 topic updated (Muse voice mode appearing in the app — a roll call of users still without voice calling, Nov 8, 2026), and 3 problems added (connector submissions failing with a "challenge" error; Muse knowing an old Facebook post while saying it had no Facebook access; a main chat stuck replying with one fixed sentence). The owed Android Auto re-check is closed by the first-person report in the new car topic. All standing sources were checked for the window after Nov 8, 2026 00:08:39 Arizona time: about 348 Reddit window listings by the union of the passes (39 referral-code posts in r/MetaAI counted and not read; the distinct non-referral posts read in full, with the r/MetaAI single-author FAQ flood of about 240 posts listed as a group from list excerpts and not opened individually, and the feed instability named in the dated log), and no new activity in the forums lockout, iOS subscription, or Ray-Ban threads (the Ray-Ban quiet line stands at no activity in 21 days, not advanced again on the same calendar date). The standing Rules Not Read search found no new in-window strict hit; its one hit new to the assignment's known list (the Oct 28, 2026 newspaper-purchase post in r/MetaAI) already stands in this report as the newspaper-subscription problem, so it is not entered again. Totals after this run: 92 topics and 43 problems, 1 of them quiet.
 
 ## Part 1 — Topics
 
@@ -409,8 +410,9 @@ On November 7, 2026, the uneven rollout stood still for at least one account: a 
 
 - Source (added 2026-11-06, night run): r/MuseAgent — "Same script, spoken vs typed, on OpenAI/Gemini/Muse" — https://www.reddit.com/r/MuseAgent/comments/1xpy0bm/ (0 comments; posted Nov 6, 2026, 22:00 Arizona time) and "Is your muse voice working on iPad?" — https://www.reddit.com/r/MuseAgent/comments/1xpp7h8/ (2 of 2 comments read; posted Nov 6, 2026, 14:49 Arizona time)
 - Source (added 2026-11-07, night run correction): r/MuseAgent — "Anyone else never get Voice Mode on their Muse account?" — https://www.reddit.com/r/MuseAgent/comments/1xqae24/anyone_else_never_get_voice_mode_on_their_muse/ (3 comments shown, 2 read, 1 did not render; posted Nov 7, 2026, 09:26 Arizona time)
+- Source (added 2026-11-08, night run): r/MuseAgent — "Who still doesn't have voice calling?" — https://www.reddit.com/r/MuseAgent/comments/1xqu7nv/who_still_doesnt_have_voice_calling/ (9 of 9 comments read; posted Nov 8, 2026, 02:08 Arizona time). Every commenter in the thread says they still do not have voice calling, and one says they requested it a month ago and still have nothing — the uneven rollout is still the standing picture on November 8, 2026, after the November 5, 2026 announcement that voice was rolling out to all US users.
 - First seen: 2026-10-24
-- Last updated: 2026-11-07
+- Last updated: 2026-11-08
 - State: open
 
 ### Running kids' school coordination in Muse — a shared Sheet setup, with an invented-event warning
@@ -1185,6 +1187,45 @@ A user shares a shopping list that follows the person: a geofence stands around 
 - Last updated: 2026-11-07
 - State: open
 
+
+### A manager Muse over other Muses
+
+A user running 20 to 30 projects, each with its own chat and Muse, asks whether a Muse can be the general manager for the others — in their words, "I'm spending more time directing than doing at this point." The working answers in the thread: make a separate Space for a "general manager" Muse and share the relevant conversations with it so it tracks each project Muse; keep a "brain dump" Muse that manages a few others (reported as a mixed bag so far); or set up a master Muse that coordinates the rest. Recorded as a pattern people are building for themselves, not a shipped feature.
+
+- Source: r/MuseAgent — "Need a general manager muse, feel like I'm managing 20 different employees" — https://www.reddit.com/r/MuseAgent/comments/1xrdhhn/need_a_general_manager_muse_feel_like_im_managing/ (16 of 16 comments read; posted Nov 8, 2026, 17:22 Arizona time)
+- First seen: 2026-11-08
+- Last updated: 2026-11-08
+- State: open
+
+### MuseNeon — a Postgres database connector for Muse
+
+A user announces MuseNeon, a free, open-source (MIT) connector that gives a Muse agent direct access to a Neon serverless Postgres database, so work built in a Space can keep its data in a real database instead of dying when the Space ends. In the poster's words: "your agent can read, write, and query real data — not just the stuff in its own memory." Recorded as one user's announced connector, with no comments on the post when read.
+
+- Source: r/MuseAgent — "MuseNeon - Neon serverless Postgres, inside Muse.ai" — https://www.reddit.com/r/MuseAgent/comments/1xqxrx2/museneon_neon_serverless_postgres_inside_museai/ (0 of 0 comments; posted Nov 8, 2026, 05:54 Arizona time)
+- First seen: 2026-11-08
+- Last updated: 2026-11-08
+- State: open
+
+### A Muse assistant inside Threads, seen in development
+
+App researcher Jane Manchun Wong reported on X on November 8, 2026 that Threads is working on an in-app Muse assistant, sharing a screenshot of the Threads interface with the feature in place, alongside a scrolling Trending Topics row and profile cover images. Meta has not announced a Muse assistant for Threads and no release date is given; the finding comes from unreleased features visible in the app, which can change or never ship. Recorded as a seen-in-development sighting, in the same standing pattern as the Muse web app's avatar sharing and the Meta AI app's "Glasses" entry — a new place Muse may appear, not a live feature.
+
+- Source: RuntimeWire — "Meta is putting Muse inside Threads and giving trending topics a stock ticker" — https://runtimewire.com/article/threads-muse-assistant-trending-ticker-profile-cover (published Nov 8, 2026, 12:57 CT; reporting Jane Manchun Wong's post on X the same day)
+- Source: All Things Muse — "Threads Is Working on an In-App Muse Assistant, Researcher Reports" — https://www.allthingsmuse.com/articles/threads-muse-assistant-in-development/ (published Nov 9, 2026, 00:25 UTC)
+- First seen: 2026-11-08
+- Last updated: 2026-11-08
+- State: open
+
+### Muse in the car through Android Auto — a first-person report
+
+A user reports a week of using Muse as the default digital assistant on a Pixel 10 Pro, including "Text with your voice" through Android Auto: in their words, "I'd say it's a win in terms of being a little easier to use over Gemini through Android Auto." The one catch they name is messaging: "Sending a text always falls back to SMS, and receiving an RCS message always goes to Google Messages." A second post the same day carries a community tool update, Muse for Android Auto v2.5.3, with Muse voice mode in the car. This is the first sourced first-person Android Auto report found by this check; the November 2, 2026 Android Auto claim that rested on a title and a stylized GIF only is superseded by it, and the owed re-check standing since then is closed.
+
+- Source: r/MuseAgent — "Muse as a Gemini replacement (Texting)" — https://www.reddit.com/r/MuseAgent/comments/1xrdvmc/muse_as_a_gemini_replacement_texting/ (4 distinct comments read of 5 shown; posted Nov 8, 2026, 17:41 Arizona time)
+- Source: r/MuseAgent — "Muse tools — updates" — https://www.reddit.com/r/MuseAgent/comments/1xr2r3v/muse_tools_updates/ (3 of 4 comments read, 1 collapsed; posted Nov 8, 2026, 09:43 Arizona time)
+- First seen: 2026-11-08
+- Last updated: 2026-11-08
+- State: open
+
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
@@ -1266,6 +1307,34 @@ On November 3, 2026, a commenter in a rules-audit thread (the phantom-attributio
 - Source (added 2026-11-03, night run): r/MuseAgent — comment by u/GrumpyGlasses on "My Muse was citing me as the source for rules I never made. So we audited all of them" — https://www.reddit.com/r/MuseAgent/comments/1xmoanw/ (comment posted Nov 3, 2026, 06:33 Arizona time; the host post is entered as its own problem below)
 - First seen: 2026-10-29
 - Last activity: 2026-11-03
+- State: open
+
+
+### Muse knew an old Facebook post while saying it had no Facebook access
+
+A user says they asked Muse about a Facebook post from 2012 and Muse knew details of it, then said it did not have access to Facebook before admitting it had "seen" the post. The user says nothing was connected — a fresh start from within Facebook, with the Muse app not even downloaded yet. Commenters name the connected Meta apps setting (its default allows cross-talk between Meta apps) and say the denial itself is the creepy part: in one commenter's words, "The lying is creepy?" Recorded as the user's report with the thread's explanations; no Meta answer stands in the thread.
+
+- Source: r/MuseAssistant — "Muse is creepy and won't admit it digs into your Facebook history." — https://www.reddit.com/r/MuseAssistant/comments/1xrc9ce/muse_is_creepy_and_wont_admit_it_digs_into_your/ (5 of 6 comments read, 1 deleted and collapsed; posted Nov 8, 2026, 16:24 Arizona time)
+- First seen: 2026-11-08
+- Last activity: 2026-11-08
+- State: open
+
+### Connector submissions fail with a "challenge" error
+
+A user tried to submit a Muse connector and got a "challenge" error, and asked whether anyone else had seen it. Four of the five comments read on the original post say the commenter got the same error. Recorded as a small but confirmed-across-users failure standing in the way of people adding connectors to Muse; no cause or fix is named in the thread.
+
+- Source: r/MetaAI — "Meta Muse connector submission “challenge” errors? Anyone else?" — https://www.reddit.com/r/MetaAI/comments/1xr62rz/meta_muse_connector_submission_challenge_errors/ (5 of 6 comments read, 1 did not render; posted Nov 8, 2026, 11:59 Arizona time; crossposted in r/MuseAgent: https://www.reddit.com/r/MuseAgent/comments/1xr63te/meta_muse_connector_submission_challenge_errors/ , 0 comments there)
+- First seen: 2026-11-08
+- Last activity: 2026-11-08
+- State: open
+
+### A main chat stuck replying with one fixed sentence
+
+A user's main chat, running on an Echo Show 5 gadget and chatting in Japanese, collapsed to replying with the same fixed sentence to everything, starting November 7, 2026 (Japan time). One commenter reports the same issue. The poster later updated the thread: "/clear fixed it." Recorded as a single-household failure with its working fix named in the thread itself.
+
+- Source: r/MuseAgent — "My main chat is stuck replying with one fixed sentence to everything — anyone else?" — https://www.reddit.com/r/MuseAgent/comments/1xqw0q8/my_main_chat_is_stuck_replying_with_one_fixed/ (5 of 5 comments read; posted Nov 8, 2026, 04:08 Arizona time)
+- First seen: 2026-11-08
+- Last activity: 2026-11-08
 - State: open
 
 ### Muse citing the user as the source for rules the user never made
