@@ -37,6 +37,11 @@
   .story-listen:active { background: #5c1515; }
   .listen a.whole-listen { display: inline-block; font-size: clamp(1.2rem, 4vw, 1.6rem); font-weight: bold; padding: 0.7rem 1.6rem; background: #7a1f1f; color: #fff8ea; border: 2px solid #5c1515; border-radius: 0.4rem; text-decoration: none; line-height: 1.5; }
   .listen a.whole-listen:active { background: #5c1515; }
+  .whole-player .wp-btn { font-size: clamp(1.05rem, 3.5vw, 1.3rem); font-weight: bold; padding: 0.6rem 1.2rem; margin: 0.25rem 0.4rem 0.25rem 0; background: #7a1f1f; color: #fff8ea; border: 2px solid #5c1515; border-radius: 0.4rem; cursor: pointer; line-height: 1.4; }
+  .whole-player .wp-btn:active { background: #5c1515; }
+  .whole-player .wp-skip { background: #1f4d7a; border-color: #15355c; }
+  .whole-player .wp-skip:active { background: #15355c; }
+  .whole-player #now-playing { font-weight: bold; margin: 0.6rem 0 0; }
 </style>
 </head>
 <body>
@@ -47,8 +52,102 @@
   </header>
   <p class="summary">In this report: 92 topics and 43 problems from the Muse AI communities. 1 problem solved so far.</p>
   <p class="record-line">The full standing record &mdash; every topic and problem in full, 250 pages (PDF) &mdash; stands here for digging: <a href="report-on-muse-ai-communities-2026-11-09-night.pdf">the full record</a>. This page is the reading edition.</p>
-  <div class="listen">
-    <a class="whole-listen" href="podcast/ai-stories-2026-11-07.mp3">&#9654; Listen to the whole report</a>
+  <div class="listen whole-player">
+    <button class="wp-btn" id="play-btn" type="button">&#9654; Play the whole report</button>
+    <button class="wp-btn wp-skip" id="skip-btn" type="button">&#9197; Skip to next story</button>
+    <button class="wp-btn" id="stop-btn" type="button">&#9209; Stop</button>
+    <p id="now-playing">Nothing playing yet.</p>
+    <audio id="edition-audio" preload="none"></audio>
+    <p class="wp-alt">Or hear this edition as one file: <a href="podcast/ai-stories-2026-11-08.mp3">the whole report in one recording</a></p>
+<script>
+const TRACKS = [
+  {
+    "title": "Muse voice mode appearing in the app \u2014 rolling out unevenly",
+    "slug": "muse-voice-mode-appearing-in-the-app-rolling-out-unevenly",
+    "href": "story-audio/muse-voice-mode-appearing-in-the-app-rolling-out-unevenly.mp3"
+  },
+  {
+    "title": "A manager Muse over other Muses",
+    "slug": "a-manager-muse-over-other-muses",
+    "href": "story-audio/a-manager-muse-over-other-muses.mp3"
+  },
+  {
+    "title": "MuseNeon \u2014 a Postgres database connector for Muse",
+    "slug": "museneon-a-postgres-database-connector-for-muse",
+    "href": "story-audio/museneon-a-postgres-database-connector-for-muse.mp3"
+  },
+  {
+    "title": "A Muse assistant inside Threads, seen in development",
+    "slug": "a-muse-assistant-inside-threads-seen-in-development",
+    "href": "story-audio/a-muse-assistant-inside-threads-seen-in-development.mp3"
+  },
+  {
+    "title": "Muse in the car through Android Auto \u2014 a first-person report",
+    "slug": "muse-in-the-car-through-android-auto-a-first-person-report",
+    "href": "story-audio/muse-in-the-car-through-android-auto-a-first-person-report.mp3"
+  },
+  {
+    "title": "Muse knew an old Facebook post while saying it had no Facebook access",
+    "slug": "muse-knew-an-old-facebook-post-while-saying-it-had-no-facebook-access",
+    "href": "story-audio/muse-knew-an-old-facebook-post-while-saying-it-had-no-facebook-access.mp3"
+  },
+  {
+    "title": "Connector submissions fail with a \"challenge\" error",
+    "slug": "connector-submissions-fail-with-a-challenge-error",
+    "href": "story-audio/connector-submissions-fail-with-a-challenge-error.mp3"
+  },
+  {
+    "title": "A main chat stuck replying with one fixed sentence",
+    "slug": "a-main-chat-stuck-replying-with-one-fixed-sentence",
+    "href": "story-audio/a-main-chat-stuck-replying-with-one-fixed-sentence.mp3"
+  }
+];
+const audio = document.getElementById('edition-audio');
+const playBtn = document.getElementById('play-btn');
+const skipBtn = document.getElementById('skip-btn');
+const stopBtn = document.getElementById('stop-btn');
+const nowLine = document.getElementById('now-playing');
+let idx = -1;          // story now loaded, -1 = none
+let playingAll = false;
+function loadStory(i) {
+  idx = i;
+  audio.src = TRACKS[i].href;
+  nowLine.textContent = 'Story ' + (i + 1) + ' of ' + TRACKS.length + ': ' + TRACKS[i].title;
+}
+function playStory(i) {
+  loadStory(i);
+  playingAll = true;
+  audio.play();
+  playBtn.textContent = '\u23F8 Pause';
+}
+function nextStory() {
+  if (idx < 0) { playStory(0); return; }
+  if (idx + 1 < TRACKS.length) { playStory(idx + 1); }
+  else { stopAll(); nowLine.textContent = 'That was the last story.'; }
+}
+function stopAll() {
+  playingAll = false;
+  audio.pause();
+  audio.currentTime = 0;
+  playBtn.textContent = '\u25B6 Play the whole report';
+}
+playBtn.addEventListener('click', () => {
+  if (idx < 0) { playStory(0); return; }
+  if (audio.paused) { audio.play(); playingAll = true; playBtn.textContent = '\u23F8 Pause'; }
+  else { audio.pause(); playingAll = false; playBtn.textContent = '\u25B6 Play'; }
+});
+skipBtn.addEventListener('click', nextStory);
+stopBtn.addEventListener('click', () => { stopAll(); });
+audio.addEventListener('ended', () => { if (playingAll) nextStory(); });
+if ('mediaSession' in navigator) {
+  try {
+    navigator.mediaSession.setActionHandler('nexttrack', nextStory);
+    navigator.mediaSession.setActionHandler('previoustrack', () => {
+      if (idx > 0) playStory(idx - 1);
+    });
+  } catch (e) { /* older browser: buttons still work */ }
+}
+</script>
   </div>
   <h2 class="headline">Signing up for Muse outside the US blocked at age and payment verification</h2>
   <p class="standfirst">New in this edition (the November 9, 2026 check): 0 topics and 0 problems added, 1 problem updated.</p>
