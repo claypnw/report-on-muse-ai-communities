@@ -55,6 +55,12 @@
   .whole-player .wp-bar .wp-btn .word { display: block; font-size: 11px; font-weight: 400; margin-top: 3px; color: #fff; }
   .whole-player #now-playing { font-weight: bold; margin: 10px 0 0; }
   .whole-player .wp-time { margin: 2px 0 8px; font-variant-numeric: tabular-nums; }
+  .whole-player #now-title { font-weight: bold; font-size: 1.12em; margin: 2px 0 0; }
+  .whole-player .wp-face.floating { position: fixed; top: 0; left: 0; right: 0; margin: 0 auto; max-width: 980px; z-index: 80; background: #efe6cb; border-bottom: 2px solid #8a6d3b; box-shadow: 0 3px 10px rgba(0, 0, 0, 0.35); padding: 6px 8px 2px; }
+  .story-num { font-weight: bold; color: #7a1f1f; }
+  article.entry.playing { background: #fdf0c0; box-shadow: inset 0 0 0 2px #c89212; }
+  .sent-on { background: #ffd75e; }
+  h3[id^="story-"], .sent { scroll-margin-top: var(--wp-top, 12px); }
 </style>
 </head>
 <body>
@@ -66,6 +72,7 @@
   <p class="summary">In this report: 94 topics and 44 problems from the Muse AI communities. 1 problem solved so far.</p>
   <p class="record-line">The full standing record &mdash; every topic and problem in full, 261 pages (PDF) &mdash; stands here for digging: <a href="report-on-muse-ai-communities-2026-11-10-night.pdf">the full record</a>. This page is the reading edition.</p>
   <div class="listen whole-player">
+    <div class="wp-face">
     <div class="wp-bar">
     <button class="wp-btn" id="btn-begin" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="5" y="11" width="5" height="26" fill="#fff"/><polygon points="25,11 10,24 25,37" fill="#fff"/><polygon points="41,11 26,24 41,37" fill="#fff"/></svg></span><span class="word">Start of story or story before</span></button>
     <button class="wp-btn" id="btn-back" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><polygon points="23,7 9,20 23,33" fill="#fff"/><polygon points="40,7 26,20 40,33" fill="#fff"/><text x="24" y="45" font-size="11" font-weight="bold" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#fff">10</text></svg></span><span class="word">Back 10 seconds</span></button>
@@ -75,8 +82,10 @@
     <button class="wp-btn" id="btn-next" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><polygon points="7,11 22,24 7,37" fill="#fff"/><polygon points="23,11 38,24 23,37" fill="#fff"/><rect x="39" y="11" width="5" height="26" fill="#fff"/></svg></span><span class="word">Next story</span></button>
     <button class="wp-btn" id="btn-stop" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="12" y="12" width="24" height="24" fill="#fff"/></svg></span><span class="word">Stop</span></button>
     </div>
-    <p id="now-playing">Story 1 of 10 — Muse Spark (free) and Muse Wonder (paid) — which model runs what</p>
+    <p id="now-playing">Story 1 of 10</p>
+    <p id="now-title">Muse Spark (free) and Muse Wonder (paid) — which model runs what</p>
     <p class="wp-time" id="time-line">0:00 of 0:00</p>
+    </div>
     <audio id="edition-audio" preload="metadata"></audio>
     <p class="wp-alt">Or hear this edition as one file: <a href="podcast/ai-stories-2026-11-09.mp3">the whole report in one recording</a></p>
 <script>
@@ -85,58 +94,189 @@
   {
     "title": "Muse Spark (free) and Muse Wonder (paid) \u2014 which model runs what",
     "slug": "muse-spark-free-and-muse-wonder-paid-which-model-runs-what",
-    "href": "story-audio/muse-spark-free-and-muse-wonder-paid-which-model-runs-what.mp3"
+    "href": "story-audio/muse-spark-free-and-muse-wonder-paid-which-model-runs-what.mp3",
+    "t0": 4.85,
+    "ends": [
+      15.77,
+      23.45,
+      29.11,
+      38.01,
+      67.52,
+      69.55,
+      105.53,
+      118.47,
+      122.11,
+      143.13,
+      156.48,
+      171.03,
+      181.95,
+      197.31,
+      207.83,
+      224.4,
+      232.9
+    ]
   },
   {
     "title": "Ways people get Muse past websites that block its browser",
     "slug": "ways-people-get-muse-past-websites-that-block-its-browser",
-    "href": "story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3"
+    "href": "story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3",
+    "t0": 3.66,
+    "ends": [
+      33.63,
+      36.19,
+      72.02,
+      93.59,
+      122.83
+    ]
   },
   {
     "title": "Muse going out to more countries \u2014 Japan, then Singapore",
     "slug": "muse-going-out-to-more-countries-japan-then-singapore",
-    "href": "story-audio/muse-going-out-to-more-countries-japan-then-singapore.mp3"
+    "href": "story-audio/muse-going-out-to-more-countries-japan-then-singapore.mp3",
+    "t0": 3.94,
+    "ends": [
+      8.68,
+      19.32,
+      31.55,
+      43.78,
+      61.92,
+      71.38,
+      92.29,
+      98.99,
+      111.22
+    ]
   },
   {
     "title": "Resetting Muse can break sign-in and put the account on the waitlist",
     "slug": "resetting-muse-can-break-sign-in-and-put-the-account-on-the-waitlist",
-    "href": "story-audio/resetting-muse-can-break-sign-in-and-put-the-account-on-the-waitlist.mp3"
+    "href": "story-audio/resetting-muse-can-break-sign-in-and-put-the-account-on-the-waitlist.mp3",
+    "t0": 4.38,
+    "ends": [
+      11.67,
+      18.96,
+      37.56,
+      51.41,
+      57.25,
+      68.92,
+      83.14,
+      93.35,
+      111.94,
+      113.4,
+      117.78,
+      133.46,
+      144.03,
+      156.06,
+      157.16,
+      161.53,
+      166.27
+    ]
   },
   {
     "title": "A week with Muse as a real personal assistant \u2014 what worked, and its limits",
     "slug": "a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits",
-    "href": "story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3"
+    "href": "story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3",
+    "t0": 5.35,
+    "ends": [
+      10.35,
+      31.76,
+      48.17,
+      54.95,
+      77.43,
+      85.99,
+      88.49,
+      111.32,
+      135.23,
+      139.51,
+      150.93,
+      161.27,
+      185.18,
+      192.67
+    ]
   },
   {
     "title": "A Muse Space as a command center, fed by a scheduled refresh",
     "slug": "a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh",
-    "href": "story-audio/a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh.mp3"
+    "href": "story-audio/a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh.mp3",
+    "t0": 4.16,
+    "ends": [
+      24.63,
+      36.42,
+      56.88,
+      72.84,
+      78.73,
+      98.15,
+      126.25,
+      173.07,
+      196.66
+    ]
   },
   {
     "title": "Muse on Apple Watch and Wear OS \u2014 the watch app arrives",
     "slug": "muse-on-apple-watch-and-wear-os-the-watch-app-arrives",
-    "href": "story-audio/muse-on-apple-watch-and-wear-os-the-watch-app-arrives.mp3"
+    "href": "story-audio/muse-on-apple-watch-and-wear-os-the-watch-app-arrives.mp3",
+    "t0": 3.9,
+    "ends": [
+      23.42,
+      29.6,
+      33.5
+    ]
   },
   {
     "title": "Muse Home Link shipping \u2014 users get shipment confirmations",
     "slug": "muse-home-link-shipping-users-get-shipment-confirmations",
-    "href": "story-audio/muse-home-link-shipping-users-get-shipment-confirmations.mp3"
+    "href": "story-audio/muse-home-link-shipping-users-get-shipment-confirmations.mp3",
+    "t0": 2.99,
+    "ends": [
+      17.63,
+      27.61,
+      33.94
+    ]
   },
   {
     "title": "Cannot subscribe to Muse Power or Maximum in the iOS app \u2014 purchase fails before the Apple payment sheet appears",
     "slug": "cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t",
-    "href": "story-audio/cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t.mp3"
+    "href": "story-audio/cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t.mp3",
+    "t0": 7.52,
+    "ends": [
+      23.31,
+      39.1,
+      58.64,
+      61.65,
+      88.72,
+      90.6,
+      110.52,
+      116.16,
+      131.57,
+      152.63,
+      159.02,
+      191.72,
+      195.86,
+      198.86,
+      199.99
+    ]
   },
   {
     "title": "Muse treats British Columbia time as UTC-8 in winter \u2014 scheduled reminders fire an hour late",
     "slug": "muse-treats-british-columbia-time-as-utc-8-in-winter-scheduled-reminders-fire-an",
-    "href": "story-audio/muse-treats-british-columbia-time-as-utc-8-in-winter-scheduled-reminders-fire-an.mp3"
+    "href": "story-audio/muse-treats-british-columbia-time-as-utc-8-in-winter-scheduled-reminders-fire-an.mp3",
+    "t0": 5.94,
+    "ends": [
+      31.55,
+      39.35,
+      42.69,
+      44.17,
+      45.29
+    ]
   }
 ];
   var audio = document.getElementById('edition-audio');
   var nowEl = document.getElementById('now-playing');
+  var titleEl = document.getElementById('now-title');
   var timeEl = document.getElementById('time-line');
   var idx = 0, done = false;
+  var curArt = null, litSpan = null;
+  var face = document.querySelector('.whole-player .wp-face');
+  var floating = false;
   function fmt(s) {
     if (!isFinite(s) || s < 0) s = 0;
     s = Math.floor(s);
@@ -145,8 +285,10 @@
   function showLine() {
     if (done) {
       nowEl.textContent = 'All ' + TRACKS.length + ' stories are done';
+      titleEl.textContent = '';
     } else {
-      nowEl.textContent = 'Story ' + (idx + 1) + ' of ' + TRACKS.length + ' — ' + TRACKS[idx].title;
+      nowEl.textContent = 'Story ' + (idx + 1) + ' of ' + TRACKS.length;
+      titleEl.textContent = TRACKS[idx].title;
     }
     timeEl.textContent = fmt(audio.currentTime) + ' of ' + fmt(audio.duration);
     if ('mediaSession' in navigator) {
@@ -155,55 +297,127 @@
       } catch (e) {}
     }
   }
-  function load(i, autoplay) {
+  function setLit(span) {
+    if (litSpan === span) { return; }
+    if (litSpan) { litSpan.classList.remove('sent-on'); }
+    litSpan = span;
+    if (litSpan) { litSpan.classList.add('sent-on'); }
+  }
+  function markSentence() {
+    var tr = TRACKS[idx];
+    if (done || !curArt || !tr || !tr.ends) { setLit(null); return; }
+    var t = audio.currentTime, k = -1;
+    if (t >= tr.t0) {
+      k = tr.ends.length - 1;
+      for (var i = 0; i < tr.ends.length; i++) {
+        if (t < tr.ends[i]) { k = i; break; }
+      }
+    }
+    if (k < 0) { setLit(null); return; }
+    var spans = curArt.querySelectorAll('.sent');
+    var span = spans[k] || null;
+    var changed = span !== litSpan;
+    setLit(span);
+    if (changed && span && !audio.paused && !audio.ended) {
+      var r = span.getBoundingClientRect();
+      if (r.bottom < 8 || r.top > window.innerHeight - 8) {
+        span.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+  }
+  function markArticle(follow) {
+    if (curArt) { curArt.classList.remove('playing'); }
+    setLit(null);
+    var head = document.getElementById('story-' + TRACKS[idx].slug);
+    curArt = head ? head.closest('article') : null;
+    if (curArt) {
+      curArt.classList.add('playing');
+      if (follow && head) {
+        head.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+    markSentence();
+  }
+  function sizeFloat() {
+    if (!floating || !face) { return 0; }
+    var h = face.offsetHeight;
+    face.parentElement.style.paddingTop = h + 'px';
+    document.documentElement.style.setProperty('--wp-top', (h + 12) + 'px');
+    return h;
+  }
+  function setFloat(on) {
+    if (!face) { return; }
+    if (on === floating) { if (on) { sizeFloat(); } return; }
+    floating = on;
+    if (on) {
+      face.classList.add('floating');
+      var h = sizeFloat();
+      var head = document.getElementById('story-' + TRACKS[idx].slug);
+      if (head && !done) {
+        var r = head.getBoundingClientRect();
+        if (r.top < h + 6 && r.bottom > 0) {
+          head.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+    } else {
+      face.classList.remove('floating');
+      face.parentElement.style.paddingTop = '';
+      document.documentElement.style.setProperty('--wp-top', '12px');
+    }
+  }
+  function load(i, autoplay, follow) {
     idx = i; done = false;
     audio.src = TRACKS[i].href;
     audio.load();
     showLine();
+    markArticle(follow);
     if (autoplay) { audio.play(); }
   }
   function goBegin() {
-    if (done) { load(0, false); return; }
+    if (done) { load(0, false, false); return; }
     if (audio.currentTime <= 5 && idx > 0) {
-      load(idx - 1, !audio.paused);
+      load(idx - 1, !audio.paused, true);
     } else {
-      audio.currentTime = 0; showLine();
+      audio.currentTime = 0; showLine(); markSentence();
     }
   }
   function goNext() {
-    if (done) { load(0, true); return; }
-    if (idx < TRACKS.length - 1) { load(idx + 1, true); }
+    if (done) { load(0, true, true); return; }
+    if (idx < TRACKS.length - 1) { load(idx + 1, true, true); }
   }
   document.getElementById('btn-play').addEventListener('click', function () {
-    if (done) { load(0, true); return; }
+    if (done) { load(0, true, true); return; }
     audio.play();
   });
   document.getElementById('btn-pause').addEventListener('click', function () {
     audio.pause();
   });
   document.getElementById('btn-stop').addEventListener('click', function () {
-    audio.pause(); load(0, false);
+    audio.pause(); load(0, false, false); setFloat(false);
   });
   document.getElementById('btn-begin').addEventListener('click', goBegin);
   document.getElementById('btn-back').addEventListener('click', function () {
-    audio.currentTime = Math.max(0, audio.currentTime - 10); showLine();
+    audio.currentTime = Math.max(0, audio.currentTime - 10); showLine(); markSentence();
   });
   document.getElementById('btn-fwd').addEventListener('click', function () {
     var d = audio.duration;
     if (isFinite(d) && audio.currentTime + 10 >= d) {
-      if (idx < TRACKS.length - 1) { load(idx + 1, !audio.paused); }
+      if (idx < TRACKS.length - 1) { load(idx + 1, !audio.paused, true); }
       else { audio.currentTime = d; }
     } else {
       audio.currentTime = Math.min(d || 0, audio.currentTime + 10);
     }
-    showLine();
+    showLine(); markSentence();
   });
   document.getElementById('btn-next').addEventListener('click', goNext);
-  audio.addEventListener('timeupdate', showLine);
+  audio.addEventListener('timeupdate', function () { showLine(); markSentence(); });
+  audio.addEventListener('seeked', markSentence);
   audio.addEventListener('loadedmetadata', showLine);
+  audio.addEventListener('play', function () { setFloat(true); });
+  window.addEventListener('resize', function () { if (floating) { sizeFloat(); } });
   audio.addEventListener('ended', function () {
-    if (idx < TRACKS.length - 1) { load(idx + 1, true); }
-    else { done = true; showLine(); }
+    if (idx < TRACKS.length - 1) { load(idx + 1, true, true); }
+    else { done = true; showLine(); markSentence(); setFloat(false); }
   });
   if ('mediaSession' in navigator) {
     try {
@@ -211,7 +425,10 @@
       navigator.mediaSession.setActionHandler('previoustrack', goBegin);
     } catch (e) { /* older browser: buttons still work */ }
   }
-  load(0, false);
+  load(0, false, false);
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function () { markArticle(false); });
+  }
 })();
 </script>
   </div>
@@ -228,9 +445,9 @@
 </div>
 </article>
 <article class="entry">
-<h3>Muse Spark (free) and Muse Wonder (paid) — which model runs what <a class="story-listen" href="story-audio/muse-spark-free-and-muse-wonder-paid-which-model-runs-what.mp3" aria-label="Listen to Muse Spark (free) and Muse Wonder (paid) — which model runs what">&#9654; Listen</a></h3>
-<p>People are comparing the two models: Spark is the free model (Spark 1.3, September 2026), and Wonder, announced October 12, 2026, is the paid, most capable model. On a paid plan, Wonder runs the main conversation, artifact and app builds, scheduled runs, subagents, and background work. Users are working out which jobs need Wonder and which run fine on Spark. A related post on October 22, 2026 reports Zuckerberg claiming Meta reached the AI frontier with the new Muse models (r/MetaAI, <a href="https://www.reddit.com/r/MetaAI/comments/1xcems3/zuckerberg_claims_meta_reached_ai_frontier_with/">link</a>).</p>
-<p>On October 31, 2026, a poster who woke to all his workflows completed with no sign-in spam or mistakes reports Wonder moving considerably faster and more efficiently since the October 30 update, and wonders whether a model update was slipped in; commenters are mixed — one saw no change, others praise Wonder&#x27;s speed and value at $16 a month and about 500M tokens a week, and one attributes the speed to paid-plan priority. Recorded as reported, not confirmed. On November 6, 2026, Meta AI Research announced specialized versions of the models behind Muse and Meta AI, trained using Muse Wonder, bringing Wonder&#x27;s Active Memory and Active Focus to everyone: Meta reports the new Muse models are 2.4 times less likely to forget information critical to a user&#x27;s goals, correctly use critical context in 90% of tasks against 76% for the previous model, and complete everyday tasks 67% better when unexpected issues arise, with the current Muse model scoring 47% on Meta&#x27;s Personal Superintelligence Index against 38% before. A Reddit thread carrying the announcement the same day has users reporting Muse&#x27;s memory feels better, with the working detail that what Muse knows can be seen under Saved Memories in settings. All figures are Meta&#x27;s own measurements, not independently checked. On November 9, 2026, Meta introduced Muse Ember, its smallest and most efficient model, built for the work agents repeat all day — tool calls, coding subtasks, routing, extraction, and long-document parsing — and the first model trained using Muse Wonder Full, in Meta&#x27;s own pitch: Wonder plans, Ember handles the volume. Ember is live the same day on the Meta Model API and in Muse Code as muse-ember-1.0, at $0.10 per million input tokens and $0.50 per million output, with a 1-million-token context window. Meta reports Ember scoring 36 on the Artificial Analysis Intelligence Index, the same as Claude Haiku 5.5 at about a third of the cost per task; all figures are Meta&#x27;s or Artificial Analysis&#x27;s, not independently checked. Reddit users the same day asked whether Ember replaces Spark or is a different model, and whether a cheaper smaller model will speed Muse&#x27;s slow global rollout. On November 10, 2026, the first hands-on user test of Ember appeared: a poster ran Muse Ember (through OpenRouter) against DeepSeek 4.1 Flash through their own sandboxed agent test of 162 hard tasks and posted the results image. On the test&#x27;s code-repair set Ember solved 12 of 18 tasks against DeepSeek&#x27;s 15 of 18; on its agentic, long-horizon set both solved 18 of 18. Cost per finished job in the test was $0.0104 for Ember, against $0.0053 for DeepSeek off-peak and $0.0111 for DeepSeek at peak — the poster&#x27;s own summary is that Ember is the sprinter and that peak pricing flips the cost order. This is one user&#x27;s early test on their own benchmark, not an independent lab result, and the post drew no comments.</p>
+<h3 id="story-muse-spark-free-and-muse-wonder-paid-which-model-runs-what"><span class="story-num">1.</span> Muse Spark (free) and Muse Wonder (paid) — which model runs what <a class="story-listen" href="story-audio/muse-spark-free-and-muse-wonder-paid-which-model-runs-what.mp3" aria-label="Listen to Muse Spark (free) and Muse Wonder (paid) — which model runs what">&#9654; Listen</a></h3>
+<p><span class="sent">People are comparing the two models: Spark is the free model (Spark 1.3, September 2026), and Wonder, announced October 12, 2026, is the paid, most capable model.</span> <span class="sent">On a paid plan, Wonder runs the main conversation, artifact and app builds, scheduled runs, subagents, and background work.</span> <span class="sent">Users are working out which jobs need Wonder and which run fine on Spark.</span> <span class="sent">A related post on October 22, 2026 reports Zuckerberg claiming Meta reached the AI frontier with the new Muse models (r/MetaAI, <a href="https://www.reddit.com/r/MetaAI/comments/1xcems3/zuckerberg_claims_meta_reached_ai_frontier_with/">link</a>).</span></p>
+<p><span class="sent">On October 31, 2026, a poster who woke to all his workflows completed with no sign-in spam or mistakes reports Wonder moving considerably faster and more efficiently since the October 30 update, and wonders whether a model update was slipped in; commenters are mixed — one saw no change, others praise Wonder&#x27;s speed and value at $16 a month and about 500M tokens a week, and one attributes the speed to paid-plan priority.</span> <span class="sent">Recorded as reported, not confirmed.</span> <span class="sent">On November 6, 2026, Meta AI Research announced specialized versions of the models behind Muse and Meta AI, trained using Muse Wonder, bringing Wonder&#x27;s Active Memory and Active Focus to everyone: Meta reports the new Muse models are 2.4 times less likely to forget information critical to a user&#x27;s goals, correctly use critical context in 90% of tasks against 76% for the previous model, and complete everyday tasks 67% better when unexpected issues arise, with the current Muse model scoring 47% on Meta&#x27;s Personal Superintelligence Index against 38% before.</span> <span class="sent">A Reddit thread carrying the announcement the same day has users reporting Muse&#x27;s memory feels better, with the working detail that what Muse knows can be seen under Saved Memories in settings.</span> <span class="sent">All figures are Meta&#x27;s own measurements, not independently checked.</span> <span class="sent">On November 9, 2026, Meta introduced Muse Ember, its smallest and most efficient model, built for the work agents repeat all day — tool calls, coding subtasks, routing, extraction, and long-document parsing — and the first model trained using Muse Wonder Full, in Meta&#x27;s own pitch: Wonder plans, Ember handles the volume.</span> <span class="sent">Ember is live the same day on the Meta Model API and in Muse Code as muse-ember-1.0, at $0.10 per million input tokens and $0.50 per million output, with a 1-million-token context window.</span> <span class="sent">Meta reports Ember scoring 36 on the Artificial Analysis Intelligence Index, the same as Claude Haiku 5.5 at about a third of the cost per task; all figures are Meta&#x27;s or Artificial Analysis&#x27;s, not independently checked.</span> <span class="sent">Reddit users the same day asked whether Ember replaces Spark or is a different model, and whether a cheaper smaller model will speed Muse&#x27;s slow global rollout.</span> <span class="sent">On November 10, 2026, the first hands-on user test of Ember appeared: a poster ran Muse Ember (through OpenRouter) against DeepSeek 4.1 Flash through their own sandboxed agent test of 162 hard tasks and posted the results image.</span> <span class="sent">On the test&#x27;s code-repair set Ember solved 12 of 18 tasks against DeepSeek&#x27;s 15 of 18; on its agentic, long-horizon set both solved 18 of 18.</span> <span class="sent">Cost per finished job in the test was $0.0104 for Ember, against $0.0053 for DeepSeek off-peak and $0.0111 for DeepSeek at peak — the poster&#x27;s own summary is that Ember is the sprinter and that peak pricing flips the cost order.</span> <span class="sent">This is one user&#x27;s early test on their own benchmark, not an independent lab result, and the post drew no comments.</span></p>
 <div class="sources">
 <p>Source: r/MuseAgent — &quot;Muse Spark (Free), Muse Wonder (Paid) - difference.&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xbzzcd/muse_spark_free_muse_wonder_paid_difference/">https://www.reddit.com/r/MuseAgent/comments/1xbzzcd/muse_spark_free_muse_wonder_paid_difference/</a> (crossposted in r/MetaAI)</p>
 <p>Source (added 2026-10-31, night run correction): r/MuseAgent — &quot;Muse Wonder moving considerably faster and more efficient&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xk87pn/muse_wonder_moving_considerably_faster_and_more/">https://www.reddit.com/r/MuseAgent/comments/1xk87pn/muse_wonder_moving_considerably_faster_and_more/</a> (16 of 16 comments read; posted Oct 31, 2026, 04:51 Arizona time)</p>
@@ -350,9 +567,9 @@
 </div>
 </article>
 <article class="entry">
-<h3>Ways people get Muse past websites that block its browser <a class="story-listen" href="story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3" aria-label="Listen to Ways people get Muse past websites that block its browser">&#9654; Listen</a></h3>
-<p>People report working setups for sites that block Muse&#x27;s own browser: Muse downloads a camouflaged browser (Camoufox, named in the post) from GitHub and browses through it, which also works when asked from the phone; Muse routes through the person&#x27;s own machine or phone using Tailscale (an official connector in the app) or SSH; running Muse on a MacBook gets past the blocks; and one always-on setup uses a free cloud computer for the browser plus a small home computer with Tailscale. The same post was crossposted in r/MetaAI.</p>
-<p>On November 7, 2026, three more roads and one warning landed: a user built a digital map for Muse to navigate within so it stops getting blocked (shared by request only); two posts promote a browser extension and Discord crew named MuseAi Bypass for unblocking Muse across websites, with nearly all visible comments asking for access by direct message — promoted, not tested here; and a 49-comment thread argues websites are increasingly blocking Muse through bot detection and CAPTCHAs, with commenters split between bot protection and a revenue fight and naming residential proxies and Camoufox as their roads. On November 9, 2026, a fuller local-browser road landed: launch Chrome or Edge on your own computer with remote debugging on port 9222, enable remote debugging, and expose it to Muse through a Cloudflare Tunnel, so Muse browses through your local browser instead of its own; the poster notes Muse had to be reassured that tokens are not credentials. The same day, Reddit itself stood as the blocking case in three posts — a screenshot of a network-security block, a user asking for a fix after Reddit blocked Muse&#x27;s browser even after manual sign-in (a commenter answered that the local-browser road &quot;just worked for me, although I used a mac mini not linux&quot;), and a tip to save a Reddit thread as an .html file and upload it to Muse because Muse&#x27;s browser hits a &quot;no AI agent&quot; block.</p>
+<h3 id="story-ways-people-get-muse-past-websites-that-block-its-browser"><span class="story-num">2.</span> Ways people get Muse past websites that block its browser <a class="story-listen" href="story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3" aria-label="Listen to Ways people get Muse past websites that block its browser">&#9654; Listen</a></h3>
+<p><span class="sent">People report working setups for sites that block Muse&#x27;s own browser: Muse downloads a camouflaged browser (Camoufox, named in the post) from GitHub and browses through it, which also works when asked from the phone; Muse routes through the person&#x27;s own machine or phone using Tailscale (an official connector in the app) or SSH; running Muse on a MacBook gets past the blocks; and one always-on setup uses a free cloud computer for the browser plus a small home computer with Tailscale.</span> <span class="sent">The same post was crossposted in r/MetaAI.</span></p>
+<p><span class="sent">On November 7, 2026, three more roads and one warning landed: a user built a digital map for Muse to navigate within so it stops getting blocked (shared by request only); two posts promote a browser extension and Discord crew named MuseAi Bypass for unblocking Muse across websites, with nearly all visible comments asking for access by direct message — promoted, not tested here; and a 49-comment thread argues websites are increasingly blocking Muse through bot detection and CAPTCHAs, with commenters split between bot protection and a revenue fight and naming residential proxies and Camoufox as their roads.</span> <span class="sent">On November 9, 2026, a fuller local-browser road landed: launch Chrome or Edge on your own computer with remote debugging on port 9222, enable remote debugging, and expose it to Muse through a Cloudflare Tunnel, so Muse browses through your local browser instead of its own; the poster notes Muse had to be reassured that tokens are not credentials.</span> <span class="sent">The same day, Reddit itself stood as the blocking case in three posts — a screenshot of a network-security block, a user asking for a fix after Reddit blocked Muse&#x27;s browser even after manual sign-in (a commenter answered that the local-browser road &quot;just worked for me, although I used a mac mini not linux&quot;), and a tip to save a Reddit thread as an .html file and upload it to Muse because Muse&#x27;s browser hits a &quot;no AI agent&quot; block.</span></p>
 <div class="sources">
 <p>Source: r/MuseAgent — &quot;Bypassing websites blocking Muse in its browser&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xcpvop/bypassing_websites_blocking_muse_in_its_browser/">https://www.reddit.com/r/MuseAgent/comments/1xcpvop/bypassing_websites_blocking_muse_in_its_browser/</a> (crosspost in r/MetaAI: <a href="https://www.reddit.com/r/MetaAI/comments/1xcpvw8/bypassing_websites_blocking_muse_in_its_browser/">https://www.reddit.com/r/MetaAI/comments/1xcpvw8/bypassing_websites_blocking_muse_in_its_browser/</a>)</p>
 <p>Source (added 2026-10-23): r/MuseAgent — &quot;FAQ r/MuseAgent&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xd2392/faq_rmuseagent/">https://www.reddit.com/r/MuseAgent/comments/1xd2392/faq_rmuseagent/</a> (Oct 22, 2026; the group&#x27;s FAQ collects the same roads — Tailscale, the Mac app, Camoufox — and a 3-layer approvals and standing-rules setup)</p>
@@ -582,10 +799,10 @@
 </div>
 </article>
 <article class="entry">
-<h3>Muse going out to more countries — Japan, then Singapore <a class="story-listen" href="story-audio/muse-going-out-to-more-countries-japan-then-singapore.mp3" aria-label="Listen to Muse going out to more countries — Japan, then Singapore">&#9654; Listen</a></h3>
-<p>Muse is now offered in more countries, one market at a time. From Meta&#x27;s own announcements, linked in the posts: Japan opened on October 23, 2026, the first market outside North America, and Singapore opened on October 27, 2026. In each new market Muse is on the phone apps and on muse.ai, with a free level and paid plans; support for AI glasses is named as coming soon in Singapore. The services Muse can reach are set market by market: Singapore&#x27;s first set includes Shopee, Grab, Singapore Airlines, Agoda, ShopBack, Klook, Trip.com, and Lazada, and Japan&#x27;s includes Mercari and Money Forward.</p>
-<p>On November 9, 2026, rupee pricing for Muse in India was reported as spotted ahead of any India launch: Power at ₹1,799 and Maximum at ₹8,999, broadly in line with the US prices, according to The Hindu as reported by Gadgets 360 and other Indian outlets. Meta has not announced an India launch date or confirmed the prices, and Indian users stand on a waitlist; recorded as reported, not confirmed.</p>
-<p>On November 5, 2026, Muse opened in Mexico — its fifth market and its first in Latin America, and its first Spanish-speaking market — in Spanish, for users 18 and older, on iOS, Android, muse.ai, and WhatsApp, with local connectors named for Cinépolis, Coppel, Despegar, Kavak, Kueski, Liverpool, and Rappi, rolling out gradually. Meta&#x27;s chief AI officer announced it on X in the words &quot;muse just touched down in mexico.&quot; The same day, a user reported that in the UK and Europe there is still no voice or phone capability, with tighter avatar guardrails — no UK launch date is named.</p>
+<h3 id="story-muse-going-out-to-more-countries-japan-then-singapore"><span class="story-num">3.</span> Muse going out to more countries — Japan, then Singapore <a class="story-listen" href="story-audio/muse-going-out-to-more-countries-japan-then-singapore.mp3" aria-label="Listen to Muse going out to more countries — Japan, then Singapore">&#9654; Listen</a></h3>
+<p><span class="sent">Muse is now offered in more countries, one market at a time.</span> <span class="sent">From Meta&#x27;s own announcements, linked in the posts: Japan opened on October 23, 2026, the first market outside North America, and Singapore opened on October 27, 2026.</span> <span class="sent">In each new market Muse is on the phone apps and on muse.ai, with a free level and paid plans; support for AI glasses is named as coming soon in Singapore.</span> <span class="sent">The services Muse can reach are set market by market: Singapore&#x27;s first set includes Shopee, Grab, Singapore Airlines, Agoda, ShopBack, Klook, Trip.com, and Lazada, and Japan&#x27;s includes Mercari and Money Forward.</span></p>
+<p><span class="sent">On November 9, 2026, rupee pricing for Muse in India was reported as spotted ahead of any India launch: Power at ₹1,799 and Maximum at ₹8,999, broadly in line with the US prices, according to The Hindu as reported by Gadgets 360 and other Indian outlets.</span> <span class="sent">Meta has not announced an India launch date or confirmed the prices, and Indian users stand on a waitlist; recorded as reported, not confirmed.</span></p>
+<p><span class="sent">On November 5, 2026, Muse opened in Mexico — its fifth market and its first in Latin America, and its first Spanish-speaking market — in Spanish, for users 18 and older, on iOS, Android, muse.ai, and WhatsApp, with local connectors named for Cinépolis, Coppel, Despegar, Kavak, Kueski, Liverpool, and Rappi, rolling out gradually.</span> <span class="sent">Meta&#x27;s chief AI officer announced it on X in the words &quot;muse just touched down in mexico.&quot;</span> <span class="sent">The same day, a user reported that in the UK and Europe there is still no voice or phone capability, with tighter avatar guardrails — no UK launch date is named.</span></p>
 <div class="sources">
 <p>Source: r/MuseAgent — &quot;Muse - Going global! Oct 23rd Japan and Singapore today!&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xhazon/muse_going_global_oct_23rd_japan_and_singapore/">https://www.reddit.com/r/MuseAgent/comments/1xhazon/muse_going_global_oct_23rd_japan_and_singapore/</a> (0 of 2 comments read; only a deleted placeholder rendered; posted Oct 27, 2026, 18:27 Arizona time)</p>
 <p>Source: r/MetaAI — &quot;Muse - Going global! Oct 23rd Japan and Singapore today!&quot; — <a href="https://www.reddit.com/r/MetaAI/comments/1xhb001/">https://www.reddit.com/r/MetaAI/comments/1xhb001/</a> (0 of 1 comments read; no comment rendered; posted Oct 27, 2026, 18:28 Arizona time)</p>
@@ -621,12 +838,12 @@
 </div>
 </article>
 <article class="entry">
-<h3>Resetting Muse can break sign-in and put the account on the waitlist <a class="story-listen" href="story-audio/resetting-muse-can-break-sign-in-and-put-the-account-on-the-waitlist.mp3" aria-label="Listen to Resetting Muse can break sign-in and put the account on the waitlist">&#9654; Listen</a></h3>
-<p>Two reads of the same post in the 2026-10-28 run agree on the core warning and conflict on the details. Both reads: a user reset Muse and could not get back in — resetting breaks sign-in, with no warning beforehand. One read (found first, in the run&#x27;s full pass) says the poster, whose account held more than 10 billion tokens, got a &quot;You&#x27;re on the waitlist / Muse isn&#x27;t available in your country or region yet&quot; screen on trying to log back in, and its one readable comment asked about country/VPN. The other read, at a different URL for the same title and time, says authentication broke and a commenter advised requesting an email sign-in link instead of signing in through Google, calling Google authentication after a reset broken. The email-link tip rests on that one read only and is not confirmed by the other. A pre-window post the same evening (&quot;I tried to reset muse and now it says (you are in waitlist)&quot;, Oct 27, 2026, 21:54 Arizona time, zero comments) reports the same waitlist outcome. The first URL was re-checked on October 28, 2026 (night pass) and loaded as given, now stating 10 comments; the second URL again resolved to an unrelated post, the same pattern as the two standing re-checks in this report. The topic is kin to the lockout problem in Part 2, but it stands as its own topic because the reset warning is the point of the post.</p>
-<p>On November 9, 2026, the same-named sign-in loop post landed again as a new post: a user stuck in the never-ending &quot;signing in&quot; loop, who had deleted and reinstalled and hit the same loop, asking how to get back in; the one comment on its crosspost suggests trying a different browser. No fix is reported. Recorded as a second case of the loop, on a new post.</p>
-<p>Re-check (2026-10-29, from the Oct 28, 2026 night pass): the first URL above loaded as given, and the post now states 10 comments; the second URL again resolved to an unrelated post, so the email-link tip still rests on the one read only.</p>
-<p>Re-check (2026-10-29, run-now correction pass): the first URL above loaded as given again, and the post now states 12 comments; the second URL again resolved to an unrelated post.</p>
-<p>On November 5, 2026, a user who reinstalled the app reported a never-ending &quot;signing in&quot; loop — in the post&#x27;s title words, &quot;I can&#x27;t sign in to MUSE &amp; it&#x27;s driving me bonkers. Sign in loop.&quot; One comment stands on the thread; no fix is reported in it. Recorded as a sign-in failure after a reinstall, beside the reset warning above.</p>
+<h3 id="story-resetting-muse-can-break-sign-in-and-put-the-account-on-the-waitlist"><span class="story-num">4.</span> Resetting Muse can break sign-in and put the account on the waitlist <a class="story-listen" href="story-audio/resetting-muse-can-break-sign-in-and-put-the-account-on-the-waitlist.mp3" aria-label="Listen to Resetting Muse can break sign-in and put the account on the waitlist">&#9654; Listen</a></h3>
+<p><span class="sent">Two reads of the same post in the 2026-10-28 run agree on the core warning and conflict on the details.</span> <span class="sent">Both reads: a user reset Muse and could not get back in — resetting breaks sign-in, with no warning beforehand.</span> <span class="sent">One read (found first, in the run&#x27;s full pass) says the poster, whose account held more than 10 billion tokens, got a &quot;You&#x27;re on the waitlist / Muse isn&#x27;t available in your country or region yet&quot; screen on trying to log back in, and its one readable comment asked about country/VPN.</span> <span class="sent">The other read, at a different URL for the same title and time, says authentication broke and a commenter advised requesting an email sign-in link instead of signing in through Google, calling Google authentication after a reset broken.</span> <span class="sent">The email-link tip rests on that one read only and is not confirmed by the other.</span> <span class="sent">A pre-window post the same evening (&quot;I tried to reset muse and now it says (you are in waitlist)&quot;, Oct 27, 2026, 21:54 Arizona time, zero comments) reports the same waitlist outcome.</span> <span class="sent">The first URL was re-checked on October 28, 2026 (night pass) and loaded as given, now stating 10 comments; the second URL again resolved to an unrelated post, the same pattern as the two standing re-checks in this report.</span> <span class="sent">The topic is kin to the lockout problem in Part 2, but it stands as its own topic because the reset warning is the point of the post.</span></p>
+<p><span class="sent">On November 9, 2026, the same-named sign-in loop post landed again as a new post: a user stuck in the never-ending &quot;signing in&quot; loop, who had deleted and reinstalled and hit the same loop, asking how to get back in; the one comment on its crosspost suggests trying a different browser.</span> <span class="sent">No fix is reported.</span> <span class="sent">Recorded as a second case of the loop, on a new post.</span></p>
+<p><span class="sent">Re-check (2026-10-29, from the Oct 28, 2026 night pass): the first URL above loaded as given, and the post now states 10 comments; the second URL again resolved to an unrelated post, so the email-link tip still rests on the one read only.</span></p>
+<p><span class="sent">Re-check (2026-10-29, run-now correction pass): the first URL above loaded as given again, and the post now states 12 comments; the second URL again resolved to an unrelated post.</span></p>
+<p><span class="sent">On November 5, 2026, a user who reinstalled the app reported a never-ending &quot;signing in&quot; loop — in the post&#x27;s title words, &quot;I can&#x27;t sign in to MUSE &amp; it&#x27;s driving me bonkers.</span> <span class="sent">Sign in loop.&quot;</span> <span class="sent">One comment stands on the thread; no fix is reported in it.</span> <span class="sent">Recorded as a sign-in failure after a reinstall, beside the reset warning above.</span></p>
 <div class="sources">
 <p>Source: r/MuseAgent — &quot;Don&#x27;t Reset Muse!&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xhheq7/dont_reset_muse/">https://www.reddit.com/r/MuseAgent/comments/1xhheq7/dont_reset_muse/</a> (1 of 2 comments read; posted Oct 28, 2026, 00:20 Arizona time)</p>
 <p>Source (second read, conflicting details): r/MuseAgent — &quot;Don&#x27;t Reset Muse!&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xhlbh8/dont_reset_muse/">https://www.reddit.com/r/MuseAgent/comments/1xhlbh8/dont_reset_muse/</a> (2 of 2 comments read; posted Oct 28, 2026, 00:20 Arizona time)</p>
@@ -709,9 +926,9 @@
 </div>
 </article>
 <article class="entry">
-<h3>A week with Muse as a real personal assistant — what worked, and its limits <a class="story-listen" href="story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3" aria-label="Listen to A week with Muse as a real personal assistant — what worked, and its limits">&#9654; Listen</a></h3>
-<p>A user reports a full week of using Muse as an actual personal assistant. What worked: a Gmail clean-up that took an inbox from about 26,000 messages to about 1,700; booking a bowling night for five people with the group kept in step; splitting receipts and tracking who paid what; copying Spotify playlists to YouTube Music with no track left unmatched; and research that keeps confirmed facts apart from rumors by checking live sources. The limits: Muse cannot run apps on the poster&#x27;s iPhone, some bookings are blocked (a doctor&#x27;s booking page needs a health number), and the work goes best when the person states the one detail that decides the task first — the exact model, price, or date. Commenters add their own working uses, among them finance workbook automation and a pain diary that turns into reports.</p>
-<p>A limits report on November 2, 2026, draws the same line from the other side: planning is strong (a perfect Japan itinerary), but real-world tasks fail — ordering from local restaurants through delivery services picks places that are closed or wrong, and the poster judges the public model &quot;just a glorified planner&quot; when businesses will not let Muse transact or enter their dashboards. On November 3, 2026, an elementary teacher reports using Muse like a personal secretary: every morning it sends her an email with her reminders. A small, settled daily use, reported first-person. On November 6, 2026, a user reports Muse as a backup email monitor: he had asked Muse to check on an Allstate insurance proposal email that was due after a November 5 follow-up, and Muse reported the proposal still had not arrived — only an Allstate update and two quote messages stood in the mail — and had drafted a reply to the sender. The poster contrasts this with a paid assistant service he says had held back an email reply of its own; the post rests on two chat screenshots (the second screenshot&#x27;s draft text is not fully legible, and the original thread&#x27;s caption is truncated by Reddit), and the poster&#x27;s own summary is that Muse monitors his communications to help save him money while he handles more important things. Recorded as reported, from the screenshots and caption that could be read. On November 7, 2026, a user with executive dysfunction reports Muse finally got a dentist appointment booked for them — &quot;It&#x27;s like I have a personal assistant and it&#x27;s kind of wild? I feel like an actual adult&quot; — and the comments add the same pattern at other stuck points: registrations, passports, and ADHD medication steps people had been putting off. On November 9, 2026, a two-month report landed: a morning briefing every day at 8 AM with the top 3 priorities, the calendar, the weather, and drafts of replies ready for approval, on standing rules that include &quot;draft only, never send without my approval&quot;; the poster&#x27;s tips are to give it standing rules, correct it once and it sticks, make it verify, and start with one routine. The post ends with the poster&#x27;s referral code, noted here so the entry rests on the experience report, not the code.</p>
+<h3 id="story-a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits"><span class="story-num">5.</span> A week with Muse as a real personal assistant — what worked, and its limits <a class="story-listen" href="story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3" aria-label="Listen to A week with Muse as a real personal assistant — what worked, and its limits">&#9654; Listen</a></h3>
+<p><span class="sent">A user reports a full week of using Muse as an actual personal assistant.</span> <span class="sent">What worked: a Gmail clean-up that took an inbox from about 26,000 messages to about 1,700; booking a bowling night for five people with the group kept in step; splitting receipts and tracking who paid what; copying Spotify playlists to YouTube Music with no track left unmatched; and research that keeps confirmed facts apart from rumors by checking live sources.</span> <span class="sent">The limits: Muse cannot run apps on the poster&#x27;s iPhone, some bookings are blocked (a doctor&#x27;s booking page needs a health number), and the work goes best when the person states the one detail that decides the task first — the exact model, price, or date.</span> <span class="sent">Commenters add their own working uses, among them finance workbook automation and a pain diary that turns into reports.</span></p>
+<p><span class="sent">A limits report on November 2, 2026, draws the same line from the other side: planning is strong (a perfect Japan itinerary), but real-world tasks fail — ordering from local restaurants through delivery services picks places that are closed or wrong, and the poster judges the public model &quot;just a glorified planner&quot; when businesses will not let Muse transact or enter their dashboards.</span> <span class="sent">On November 3, 2026, an elementary teacher reports using Muse like a personal secretary: every morning it sends her an email with her reminders.</span> <span class="sent">A small, settled daily use, reported first-person.</span> <span class="sent">On November 6, 2026, a user reports Muse as a backup email monitor: he had asked Muse to check on an Allstate insurance proposal email that was due after a November 5 follow-up, and Muse reported the proposal still had not arrived — only an Allstate update and two quote messages stood in the mail — and had drafted a reply to the sender.</span> <span class="sent">The poster contrasts this with a paid assistant service he says had held back an email reply of its own; the post rests on two chat screenshots (the second screenshot&#x27;s draft text is not fully legible, and the original thread&#x27;s caption is truncated by Reddit), and the poster&#x27;s own summary is that Muse monitors his communications to help save him money while he handles more important things.</span> <span class="sent">Recorded as reported, from the screenshots and caption that could be read.</span> <span class="sent">On November 7, 2026, a user with executive dysfunction reports Muse finally got a dentist appointment booked for them — &quot;It&#x27;s like I have a personal assistant and it&#x27;s kind of wild?</span> <span class="sent">I feel like an actual adult&quot; — and the comments add the same pattern at other stuck points: registrations, passports, and ADHD medication steps people had been putting off.</span> <span class="sent">On November 9, 2026, a two-month report landed: a morning briefing every day at 8 AM with the top 3 priorities, the calendar, the weather, and drafts of replies ready for approval, on standing rules that include &quot;draft only, never send without my approval&quot;; the poster&#x27;s tips are to give it standing rules, correct it once and it sticks, make it verify, and start with one routine.</span> <span class="sent">The post ends with the poster&#x27;s referral code, noted here so the entry rests on the experience report, not the code.</span></p>
 <div class="sources">
 <p>Source: r/MetaAI — &quot;A week with Muse as my actual personal assistant — what&#x27;s worked, and what hasn&#x27;t&quot; — <a href="https://www.reddit.com/r/MetaAI/comments/1xij6yh/a_week_with_muse_as_my_actual_personal_assistant/">https://www.reddit.com/r/MetaAI/comments/1xij6yh/a_week_with_muse_as_my_actual_personal_assistant/</a> (10 of 16 comments read; posted Oct 29, 2026, 05:55 Arizona time; the post ends with the poster&#x27;s own referral code, noted here so the entry rests on the experience report, not the code)</p>
 <p>Source (added 2026-11-02, redo run): r/MuseAgent — &quot;I love what muse can do but&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xluer8/i_love_what_muse_can_do_but/">https://www.reddit.com/r/MuseAgent/comments/1xluer8/i_love_what_muse_can_do_but/</a> (0 comments; posted Nov 2, 2026, 04:11 Arizona time; also crossposted in r/MetaAI)</p>
@@ -729,10 +946,10 @@
 </div>
 </article>
 <article class="entry">
-<h3>A Muse Space as a command center, fed by a scheduled refresh <a class="story-listen" href="story-audio/a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh.mp3" aria-label="Listen to A Muse Space as a command center, fed by a scheduled refresh">&#9654; Listen</a></h3>
-<p>A user who runs three small YouTube channels with Muse built a Space in the sidebar as a permanent command center: a stats section refreshed every morning by a scheduled refresh, a pipeline board showing each episode&#x27;s stage as the agent feeds it, and approval buttons wired to real actions — approving a script moves the episode to scheduled. The poster&#x27;s own warning carries the setup&#x27;s rule: a Space knows nothing on its own, so the stats, the pipeline, and the buttons are only as current as the scheduled work that stocks them.</p>
-<p>On November 5, 2026, a user reported the Muse app itself adding Spaces: screenshots show a SPACES list in the app — &quot;Disney History Series,&quot; &quot;Photography Hub,&quot; and &quot;Create a space&quot; — with both named spaces shown as &quot;Building … — Your Space will be ready soon,&quot; and the poster promising &quot;I&#x27;ll post more when it&#x27;s done being built.&quot; A commenter who had just seen it the same night said they were thinking of moving feeds of different topics, mixed up in the main feed, into separate spaces; asked what a space is, the poster answered, &quot;Think of it as a website or a hub.&quot; Recorded as the app-side arrival of the same Spaces feature this topic tracks, from one poster&#x27;s screenshots.</p>
-<p>On November 6, 2026, Meta officially announced Spaces: users describe what they want in conversation and Muse builds a dedicated screen for that purpose, which can be edited later and used repeatedly, with information from connected apps updated in the background; Meta says Spaces is available the same day in all regions where Muse is offered. Users flooded in the same day: one thread asks for favorite Spaces (12 of 12 comments read), a title-only thread&#x27;s 23 comments list Spaces people built — including one that reads email and flags what needs a reply — one user replaced MyFitnessPal with a Space that tracks calories and macros with a barcode scanner and an open food database, and another tracks sponsor bookings for a newsletter in a Space that showed $1,000 paid in and the week&#x27;s goal hit. On November 7, 2026, the first big user wave after the launch landed: one organized user reports building 33 Spaces one by one — meal planning, dog vet estimates, college soccer tracking, and more — and calls Muse reliable enough to rely on (the post stands in two versions the same morning); another shares a Space that logs lifts and tells the user to raise or lower the weight next week from the reps; a third built a local-first Amazon replacement as a Space that checks local stores and orders through Instacart, Target, or Walmart, with commenters asking for the Space and noting it only finds things Amazon sells; and a fourth thread asks for a place to share Spaces ideas, with commenters pointing back to the subreddit itself and describing a morning-news scraping Space. On November 9, 2026, the user wave kept coming: one user lists their daily Spaces — one for reading, one for recipes that gives all their recipes with a health rating, ingredients, directions, and photos, one for video games, one for makeup — and asks what others are making, with 25 of 29 comments read; and a new community just for Spaces, r/MuseSpaces, was announced the same morning.</p>
+<h3 id="story-a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh"><span class="story-num">6.</span> A Muse Space as a command center, fed by a scheduled refresh <a class="story-listen" href="story-audio/a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh.mp3" aria-label="Listen to A Muse Space as a command center, fed by a scheduled refresh">&#9654; Listen</a></h3>
+<p><span class="sent">A user who runs three small YouTube channels with Muse built a Space in the sidebar as a permanent command center: a stats section refreshed every morning by a scheduled refresh, a pipeline board showing each episode&#x27;s stage as the agent feeds it, and approval buttons wired to real actions — approving a script moves the episode to scheduled.</span> <span class="sent">The poster&#x27;s own warning carries the setup&#x27;s rule: a Space knows nothing on its own, so the stats, the pipeline, and the buttons are only as current as the scheduled work that stocks them.</span></p>
+<p><span class="sent">On November 5, 2026, a user reported the Muse app itself adding Spaces: screenshots show a SPACES list in the app — &quot;Disney History Series,&quot; &quot;Photography Hub,&quot; and &quot;Create a space&quot; — with both named spaces shown as &quot;Building … — Your Space will be ready soon,&quot; and the poster promising &quot;I&#x27;ll post more when it&#x27;s done being built.&quot;</span> <span class="sent">A commenter who had just seen it the same night said they were thinking of moving feeds of different topics, mixed up in the main feed, into separate spaces; asked what a space is, the poster answered, &quot;Think of it as a website or a hub.&quot;</span> <span class="sent">Recorded as the app-side arrival of the same Spaces feature this topic tracks, from one poster&#x27;s screenshots.</span></p>
+<p><span class="sent">On November 6, 2026, Meta officially announced Spaces: users describe what they want in conversation and Muse builds a dedicated screen for that purpose, which can be edited later and used repeatedly, with information from connected apps updated in the background; Meta says Spaces is available the same day in all regions where Muse is offered.</span> <span class="sent">Users flooded in the same day: one thread asks for favorite Spaces (12 of 12 comments read), a title-only thread&#x27;s 23 comments list Spaces people built — including one that reads email and flags what needs a reply — one user replaced MyFitnessPal with a Space that tracks calories and macros with a barcode scanner and an open food database, and another tracks sponsor bookings for a newsletter in a Space that showed $1,000 paid in and the week&#x27;s goal hit.</span> <span class="sent">On November 7, 2026, the first big user wave after the launch landed: one organized user reports building 33 Spaces one by one — meal planning, dog vet estimates, college soccer tracking, and more — and calls Muse reliable enough to rely on (the post stands in two versions the same morning); another shares a Space that logs lifts and tells the user to raise or lower the weight next week from the reps; a third built a local-first Amazon replacement as a Space that checks local stores and orders through Instacart, Target, or Walmart, with commenters asking for the Space and noting it only finds things Amazon sells; and a fourth thread asks for a place to share Spaces ideas, with commenters pointing back to the subreddit itself and describing a morning-news scraping Space.</span> <span class="sent">On November 9, 2026, the user wave kept coming: one user lists their daily Spaces — one for reading, one for recipes that gives all their recipes with a health rating, ingredients, directions, and photos, one for video games, one for makeup — and asks what others are making, with 25 of 29 comments read; and a new community just for Spaces, r/MuseSpaces, was announced the same morning.</span></p>
 <div class="sources">
 <p>Source: r/MetaAI — &quot;Muse &#x27;Spaces&#x27;: I built a command center that lives in the sidebar&quot; — <a href="https://www.reddit.com/r/MetaAI/comments/1xj70vq/muse_spaces_i_built_a_command_center_that_lives/">https://www.reddit.com/r/MetaAI/comments/1xj70vq/muse_spaces_i_built_a_command_center_that_lives/</a> (0 of 1 comments read — the comments area rendered blank on repeated attempts, so the one stated comment could not be read; posted Oct 29, 2026, 22:31 Arizona time)</p>
 <p>Source (added 2026-11-06): r/MuseAgent — &quot;Muse app added spaces&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xp5yxl/muse_app_added_spaces/">https://www.reddit.com/r/MuseAgent/comments/1xp5yxl/muse_app_added_spaces/</a> (3 of 3 comments read; posted Nov 5, 2026, 23:34 Arizona time; cross-posted in r/MuseAssistant: <a href="https://www.reddit.com/r/MuseAssistant/comments/1xp5z3f/muse_app_added_spaces/">https://www.reddit.com/r/MuseAssistant/comments/1xp5z3f/muse_app_added_spaces/</a> , whose own page shows 0 comments)</p>
@@ -1013,16 +1230,16 @@
 </div>
 </article>
 <article class="entry">
-<h3>Muse on Apple Watch and Wear OS — the watch app arrives <a class="story-listen" href="story-audio/muse-on-apple-watch-and-wear-os-the-watch-app-arrives.mp3" aria-label="Listen to Muse on Apple Watch and Wear OS — the watch app arrives">&#9654; Listen</a></h3>
-<p>Users report Muse arriving on the wrist: one post announces &quot;Apple Watch App Just Dropped!&quot; with Muse usable on an Apple Watch, and a later screenshot post the same night shows Muse installed on iPhone and now standing on Apple Watch and Wear OS, its watch screen offering &quot;Talk to me&quot; and &quot;What can you do?&quot; with a credits line. This is the watch app itself arriving, apart from the user-built push-to-talk watch app standing earlier in this report. Recorded from the two posts; no Meta announcement is named in either.</p>
+<h3 id="story-muse-on-apple-watch-and-wear-os-the-watch-app-arrives"><span class="story-num">7.</span> Muse on Apple Watch and Wear OS — the watch app arrives <a class="story-listen" href="story-audio/muse-on-apple-watch-and-wear-os-the-watch-app-arrives.mp3" aria-label="Listen to Muse on Apple Watch and Wear OS — the watch app arrives">&#9654; Listen</a></h3>
+<p><span class="sent">Users report Muse arriving on the wrist: one post announces &quot;Apple Watch App Just Dropped!&quot; with Muse usable on an Apple Watch, and a later screenshot post the same night shows Muse installed on iPhone and now standing on Apple Watch and Wear OS, its watch screen offering &quot;Talk to me&quot; and &quot;What can you do?&quot; with a credits line.</span> <span class="sent">This is the watch app itself arriving, apart from the user-built push-to-talk watch app standing earlier in this report.</span> <span class="sent">Recorded from the two posts; no Meta announcement is named in either.</span></p>
 <div class="sources">
 <p>Source: r/MuseAgent — &quot;Apple Watch App Just Dropped!&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xs37c5/">https://www.reddit.com/r/MuseAgent/comments/1xs37c5/</a> (25 of 35 comments read, 4 collapsed and 6 did not render; posted Nov 9, 2026, 13:45 Arizona time)</p>
 <p>Source: r/MuseAgent — &quot;We Installed Muse on iPhone \u2013 Now on Apple Watch &amp; Wear OS&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xsewou/">https://www.reddit.com/r/MuseAgent/comments/1xsewou/</a> (0 comments; image-only post; posted Nov 9, 2026, 22:39 Arizona time)</p>
 </div>
 </article>
 <article class="entry">
-<h3>Muse Home Link shipping — users get shipment confirmations <a class="story-listen" href="story-audio/muse-home-link-shipping-users-get-shipment-confirmations.mp3" aria-label="Listen to Muse Home Link shipping — users get shipment confirmations">&#9654; Listen</a></h3>
-<p>Two users on the same evening report Muse Home Link orders shipping: one asks whether anyone else was able to redeem a Muse Home Link and reports a shipment confirmation that night, with a commenter answering &quot;Got mine as well, shipping confirmation and everything. Arrives tomorrow&quot;; the other posts a screenshot of the email &quot;Your Muse Home Link is on its way!&quot; saying the order has shipped, and asks whether anyone else got it. What the Home Link device is and does is not stated in either post; recorded as shipping reports only.</p>
+<h3 id="story-muse-home-link-shipping-users-get-shipment-confirmations"><span class="story-num">8.</span> Muse Home Link shipping — users get shipment confirmations <a class="story-listen" href="story-audio/muse-home-link-shipping-users-get-shipment-confirmations.mp3" aria-label="Listen to Muse Home Link shipping — users get shipment confirmations">&#9654; Listen</a></h3>
+<p><span class="sent">Two users on the same evening report Muse Home Link orders shipping: one asks whether anyone else was able to redeem a Muse Home Link and reports a shipment confirmation that night, with a commenter answering &quot;Got mine as well, shipping confirmation and everything.</span> <span class="sent">Arrives tomorrow&quot;; the other posts a screenshot of the email &quot;Your Muse Home Link is on its way!&quot; saying the order has shipped, and asks whether anyone else got it.</span> <span class="sent">What the Home Link device is and does is not stated in either post; recorded as shipping reports only.</span></p>
 <div class="sources">
 <p>Source: r/MuseAgent — &quot;Anyone else able to redeem a Muse Home Link? Just got confirmation for shipment tonight.&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xsdx4s/">https://www.reddit.com/r/MuseAgent/comments/1xsdx4s/</a> (8 of 8 comments read; posted Nov 9, 2026, 21:44 Arizona time)</p>
 <p>Source: r/MuseAgent — &quot;Muse Home Link Email&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xscr0l/">https://www.reddit.com/r/MuseAgent/comments/1xscr0l/</a> (3 of 3 comments read; posted Nov 9, 2026, 20:42 Arizona time)</p>
@@ -1107,10 +1324,10 @@
 </div>
 </article>
 <article class="entry">
-<h3>Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears <a class="story-listen" href="story-audio/cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t.mp3" aria-label="Listen to Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears">&#9654; Listen</a></h3>
-<p>A user reports that subscribing to Muse Power ($20/month) or Maximum ($100/month) inside the Muse iOS app fails instantly with a generic purchase-failed error, before the Apple payment sheet ever appears, so no charge is made and the free app keeps working. Every Apple-side check the poster ran passed — balance, payment method, other subscriptions renewing, a new subscription bought in another app the same night — and the poster judges the block is on Meta&#x27;s side, possibly limited testing by account and region. The thread was first read on 2026-11-01 and held because its page shows no calendar date; in this run its date is settled from the page&#x27;s own relative times (the post stood at 13 hours old when read early on 2026-11-02, with its newest reply 2 hours old), placing it on 2026-11-01. No Meta-staff answer is shown in the thread.</p>
-<p>The thread gained four replies on November 1, 2026 (by the page&#x27;s relative times, the latest about 13 hours before the November 2 check): the poster repeats that &quot;the purchase aborts inside the app before it is ever handed to Apple,&quot; and a commenter attributes the failure to region eligibility — only four countries supported so far (the United States, Canada, Japan, and Singapore in his sources), with a VPN no help. No Meta-staff answer is shown. On November 3, 2026, the original poster reports the block cleared on its own: retrying the subscription in the iOS app that day, changing nothing — same Meta account, same Apple ID, same device — the Apple payment sheet appeared and the purchase went through, and Power is now active on his account. He found no fix and advises others still stuck to keep retrying once a day. A second user, darren.231343, reports the same failure standing — purchase fails inside the app before it reaches Apple, and the muse.ai upgrade page shows an empty plan list for his account — so the problem stands open on his case. On November 7, 2026, a new user, kade_woodsxx, reported the same failure standing in the forums thread (now 7 replies): subscribing to Power fails instantly in the iOS app, the Apple payment sheet never appears, the app also shows &quot;No subscription tiers are currently available,&quot; and in-app feedback sent on November 6 had no answer yet. The original poster&#x27;s November 3 clearing stands beside it; the problem stands open on this new case. On November 9, 2026, a new Reddit case of the same failure landed: a free-plan user on an iPhone 17 Pro (iOS 26.2) tried twice to upgrade to Power, in the Muse app and the App Store and then on the web, and got &quot;Purchase failed&quot; before the Apple payment sheet appeared every time; a $10 token pack purchase worked, and a different account on the same iPhone opens the payment sheet — the poster&#x27;s own evidence that the block sits on the account, not the phone. A commenter&#x27;s web-subscribe tip was tried and failed the same way. The problem stands open on this new case.</p>
-<p>Last activity: 2026-11-09</p>
+<h3 id="story-cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t"><span class="story-num">9.</span> Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears <a class="story-listen" href="story-audio/cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t.mp3" aria-label="Listen to Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears">&#9654; Listen</a></h3>
+<p><span class="sent">A user reports that subscribing to Muse Power ($20/month) or Maximum ($100/month) inside the Muse iOS app fails instantly with a generic purchase-failed error, before the Apple payment sheet ever appears, so no charge is made and the free app keeps working.</span> <span class="sent">Every Apple-side check the poster ran passed — balance, payment method, other subscriptions renewing, a new subscription bought in another app the same night — and the poster judges the block is on Meta&#x27;s side, possibly limited testing by account and region.</span> <span class="sent">The thread was first read on 2026-11-01 and held because its page shows no calendar date; in this run its date is settled from the page&#x27;s own relative times (the post stood at 13 hours old when read early on 2026-11-02, with its newest reply 2 hours old), placing it on 2026-11-01.</span> <span class="sent">No Meta-staff answer is shown in the thread.</span></p>
+<p><span class="sent">The thread gained four replies on November 1, 2026 (by the page&#x27;s relative times, the latest about 13 hours before the November 2 check): the poster repeats that &quot;the purchase aborts inside the app before it is ever handed to Apple,&quot; and a commenter attributes the failure to region eligibility — only four countries supported so far (the United States, Canada, Japan, and Singapore in his sources), with a VPN no help.</span> <span class="sent">No Meta-staff answer is shown.</span> <span class="sent">On November 3, 2026, the original poster reports the block cleared on its own: retrying the subscription in the iOS app that day, changing nothing — same Meta account, same Apple ID, same device — the Apple payment sheet appeared and the purchase went through, and Power is now active on his account.</span> <span class="sent">He found no fix and advises others still stuck to keep retrying once a day.</span> <span class="sent">A second user, darren.231343, reports the same failure standing — purchase fails inside the app before it reaches Apple, and the muse.ai upgrade page shows an empty plan list for his account — so the problem stands open on his case.</span> <span class="sent">On November 7, 2026, a new user, kade_woodsxx, reported the same failure standing in the forums thread (now 7 replies): subscribing to Power fails instantly in the iOS app, the Apple payment sheet never appears, the app also shows &quot;No subscription tiers are currently available,&quot; and in-app feedback sent on November 6 had no answer yet.</span> <span class="sent">The original poster&#x27;s November 3 clearing stands beside it; the problem stands open on this new case.</span> <span class="sent">On November 9, 2026, a new Reddit case of the same failure landed: a free-plan user on an iPhone 17 Pro (iOS 26.2) tried twice to upgrade to Power, in the Muse app and the App Store and then on the web, and got &quot;Purchase failed&quot; before the Apple payment sheet appeared every time; a $10 token pack purchase worked, and a different account on the same iPhone opens the payment sheet — the poster&#x27;s own evidence that the block sits on the account, not the phone.</span> <span class="sent">A commenter&#x27;s web-subscribe tip was tried and failed the same way.</span> <span class="sent">The problem stands open on this new case.</span></p>
+<p><span class="sent">Last activity: 2026-11-09</span></p>
 <div class="sources">
 <p>Source: Meta Community Forums — &quot;Cannot subscribe to Muse Power or Maximum in iOS app — purchase fails before Apple payment sheet appears&quot; — <a href="https://communityforums.atmeta.com/troubleshooting-20/cannot-subscribe-to-muse-power-or-maximum-in-ios-app-purchase-fails-before-apple-payment-sheet-appears-181584">https://communityforums.atmeta.com/troubleshooting-20/cannot-subscribe-to-muse-power-or-maximum-in-ios-app-purchase-fails-before-apple-payment-sheet-appears-181584</a> (4 replies, 24 views as read 2026-11-02; posted 2026-11-01 by the page&#x27;s relative times, as noted in the paragraph)</p>
 <p>Source (added 2026-11-02, redo run): Meta Community Forums — same thread, replies read 2026-11-02 — <a href="https://communityforums.atmeta.com/troubleshooting-20/cannot-subscribe-to-muse-power-or-maximum-in-ios-app-purchase-fails-before-apple-payment-sheet-appears-181584">https://communityforums.atmeta.com/troubleshooting-20/cannot-subscribe-to-muse-power-or-maximum-in-ios-app-purchase-fails-before-apple-payment-sheet-appears-181584</a> (4 replies, 33 views as read 2026-11-02; reply dates from the page&#x27;s relative times)</p>
@@ -1469,9 +1686,9 @@
 </div>
 </article>
 <article class="entry">
-<h3>Muse treats British Columbia time as UTC-8 in winter — scheduled reminders fire an hour late <a class="story-listen" href="story-audio/muse-treats-british-columbia-time-as-utc-8-in-winter-scheduled-reminders-fire-an.mp3" aria-label="Listen to Muse treats British Columbia time as UTC-8 in winter — scheduled reminders fire an hour late">&#9654; Listen</a></h3>
-<p>A user in British Columbia reports Muse still treats the Vancouver time zone as UTC-8 in winter, although the province now stays on daylight time year-round (UTC-7) and does not fall back an hour in November: every scheduled reminder fires one hour late, and chat timestamps show an hour behind the real local time — &quot;My 6:52 AM work reminder arrived at 7:53 AM — after my shift started.&quot; The workaround the poster uses is to have schedules re-anchored to a time zone that is permanently UTC-7 (Yukon&#x27;s zone works). A commenter reports a scheduler bug in Alberta too. No fix is reported.</p>
-<p>Last activity: 2026-11-09</p>
+<h3 id="story-muse-treats-british-columbia-time-as-utc-8-in-winter-scheduled-reminders-fire-an"><span class="story-num">10.</span> Muse treats British Columbia time as UTC-8 in winter — scheduled reminders fire an hour late <a class="story-listen" href="story-audio/muse-treats-british-columbia-time-as-utc-8-in-winter-scheduled-reminders-fire-an.mp3" aria-label="Listen to Muse treats British Columbia time as UTC-8 in winter — scheduled reminders fire an hour late">&#9654; Listen</a></h3>
+<p><span class="sent">A user in British Columbia reports Muse still treats the Vancouver time zone as UTC-8 in winter, although the province now stays on daylight time year-round (UTC-7) and does not fall back an hour in November: every scheduled reminder fires one hour late, and chat timestamps show an hour behind the real local time — &quot;My 6:52 AM work reminder arrived at 7:53 AM — after my shift started.&quot;</span> <span class="sent">The workaround the poster uses is to have schedules re-anchored to a time zone that is permanently UTC-7 (Yukon&#x27;s zone works).</span> <span class="sent">A commenter reports a scheduler bug in Alberta too.</span> <span class="sent">No fix is reported.</span></p>
+<p><span class="sent">Last activity: 2026-11-09</span></p>
 <div class="sources">
 <p>Source: r/MuseAgent — &quot;B.C. Muse Time Glitch&quot; — <a href="https://www.reddit.com/r/MuseAgent/comments/1xruakz/">https://www.reddit.com/r/MuseAgent/comments/1xruakz/</a> (5 of 5 comments read; posted Nov 9, 2026, 08:16 Arizona time; crossposted in r/MetaAI: <a href="https://www.reddit.com/r/MetaAI/comments/1xruavc/">https://www.reddit.com/r/MetaAI/comments/1xruavc/</a> )</p>
 </div>
