@@ -46,6 +46,15 @@
   .whole-player .wp-btn .sym { display: block; font-size: 1.6rem; line-height: 1.2; }
   .whole-player .wp-btn .word { display: block; font-size: 0.85rem; margin-top: 0.15rem; }
   .whole-player .wp-time { margin: 0.2rem 0 0.4rem; font-variant-numeric: tabular-nums; }
+  .whole-player { text-align: center; margin: 14px auto 0; max-width: 980px; }
+  .whole-player .wp-bar { display: flex; flex-wrap: nowrap; align-items: flex-start; background: #111; border-radius: 60px; padding: 12px 14px; }
+  .whole-player .wp-bar .wp-btn { flex: 1 1 0; width: auto; min-width: 0; min-height: 0; margin: 0; padding: 3px 1px; background: transparent; border: none; border-radius: 16px; color: #fff; cursor: pointer; font-family: Arial, Helvetica, sans-serif; line-height: 1.25; }
+  .whole-player .wp-bar .wp-btn:active { background: #333; }
+  .whole-player .wp-bar .wp-btn .sym { display: block; line-height: 0; }
+  .whole-player .wp-bar .wp-btn .sym svg { width: 32px; height: 32px; }
+  .whole-player .wp-bar .wp-btn .word { display: block; font-size: 11px; font-weight: 400; margin-top: 3px; color: #fff; }
+  .whole-player #now-playing { font-weight: bold; margin: 10px 0 0; }
+  .whole-player .wp-time { margin: 2px 0 8px; font-variant-numeric: tabular-nums; }
 </style>
 </head>
 <body>
@@ -57,15 +66,17 @@
   <p class="summary">In this report: 94 topics and 44 problems from the Muse AI communities. 1 problem solved so far.</p>
   <p class="record-line">The full standing record &mdash; every topic and problem in full, 261 pages (PDF) &mdash; stands here for digging: <a href="report-on-muse-ai-communities-2026-11-10-night.pdf">the full record</a>. This page is the reading edition.</p>
   <div class="listen whole-player">
+    <div class="wp-bar">
+    <button class="wp-btn" id="btn-begin" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="5" y="11" width="5" height="26" fill="#fff"/><polygon points="25,11 10,24 25,37" fill="#fff"/><polygon points="41,11 26,24 41,37" fill="#fff"/></svg></span><span class="word">Start of story or story before</span></button>
+    <button class="wp-btn" id="btn-back" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><polygon points="23,7 9,20 23,33" fill="#fff"/><polygon points="40,7 26,20 40,33" fill="#fff"/><text x="24" y="45" font-size="11" font-weight="bold" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#fff">10</text></svg></span><span class="word">Back 10 seconds</span></button>
+    <button class="wp-btn" id="btn-play" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><polygon points="17,10 38,24 17,38" fill="#fff"/></svg></span><span class="word">Play</span></button>
+    <button class="wp-btn" id="btn-pause" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="15" y="11" width="6.5" height="26" fill="#fff"/><rect x="26.5" y="11" width="6.5" height="26" fill="#fff"/></svg></span><span class="word">Pause</span></button>
+    <button class="wp-btn" id="btn-fwd" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><polygon points="8,7 22,20 8,33" fill="#fff"/><polygon points="25,7 39,20 25,33" fill="#fff"/><text x="24" y="45" font-size="11" font-weight="bold" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#fff">10</text></svg></span><span class="word">Forward 10 seconds</span></button>
+    <button class="wp-btn" id="btn-next" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><polygon points="7,11 22,24 7,37" fill="#fff"/><polygon points="23,11 38,24 23,37" fill="#fff"/><rect x="39" y="11" width="5" height="26" fill="#fff"/></svg></span><span class="word">Next story</span></button>
+    <button class="wp-btn" id="btn-stop" type="button"><span class="sym"><svg viewBox="0 0 48 48" aria-hidden="true" focusable="false"><rect x="12" y="12" width="24" height="24" fill="#fff"/></svg></span><span class="word">Stop</span></button>
+    </div>
     <p id="now-playing">Story 1 of 10 — Muse Spark (free) and Muse Wonder (paid) — which model runs what</p>
     <p class="wp-time" id="time-line">0:00 of 0:00</p>
-    <button class="wp-btn" id="btn-begin" type="button"><span class="sym">&#9198;</span><span class="word">Start of story or story before</span></button>
-    <button class="wp-btn" id="btn-back" type="button"><span class="sym">&#9194;<span style="display:block;font-size:14px;line-height:1.1">10</span></span><span class="word">Back 10 seconds</span></button>
-    <button class="wp-btn" id="btn-play" type="button"><span class="sym">&#9654;</span><span class="word">Play</span></button>
-    <button class="wp-btn" id="btn-pause" type="button"><span class="sym">&#9208;</span><span class="word">Pause</span></button>
-    <button class="wp-btn" id="btn-fwd" type="button"><span class="sym">&#9195;<span style="display:block;font-size:14px;line-height:1.1">10</span></span><span class="word">Forward 10 seconds</span></button>
-    <button class="wp-btn wp-skip" id="btn-next" type="button"><span class="sym">&#9197;</span><span class="word">Next story</span></button>
-    <button class="wp-btn" id="btn-stop" type="button"><span class="sym">&#9209;</span><span class="word">Stop</span></button>
     <audio id="edition-audio" preload="metadata"></audio>
     <p class="wp-alt">Or hear this edition as one file: <a href="podcast/ai-stories-2026-11-09.mp3">the whole report in one recording</a></p>
 <script>
