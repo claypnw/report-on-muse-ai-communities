@@ -8,9 +8,9 @@
     },
     "muse-spark-free-and-muse-wonder-paid-which-model-runs-what": {
       "title": "Muse Spark (free) and Muse Wonder (paid) — which model runs what",
-      "narration_hash": "44ba315381623b58c7bdae3ac2c12a5c708cfc57012b4cab9f9a872a8a46b617",
+      "narration_hash": "0a90393e0e7c94e0b98397bdfce7d3c5c957075e93d33f7185b91b309f468912",
       "filename": "story-audio/muse-spark-free-and-muse-wonder-paid-which-model-runs-what.mp3",
-      "size_bytes": 983077
+      "size_bytes": 1429669
     },
     "sharing-work-while-artifact-publishing-is-paused": {
       "title": "Sharing work while artifact publishing is paused",
@@ -86,9 +86,9 @@
     },
     "ways-people-get-muse-past-websites-that-block-its-browser": {
       "title": "Ways people get Muse past websites that block its browser",
-      "narration_hash": "a6d1ac3ba12629459e8a90f68bef3adbac28cf5cf0c1e213c75a1ac402e94aef",
+      "narration_hash": "668442ab8f70b269e2db895328a32d3b32ae7a874beb958d383764fd2b21b9bb",
       "filename": "story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3",
-      "size_bytes": 605605
+      "size_bytes": 982693
     },
     "controlling-a-personal-computer-through-an-ssh-tunnel-with-a-coding-agent-doing": {
       "title": "Controlling a personal computer through an SSH tunnel, with a coding agent doing the clicking",
@@ -236,9 +236,9 @@
     },
     "muse-going-out-to-more-countries-japan-then-singapore": {
       "title": "Muse going out to more countries — Japan, then Singapore",
-      "narration_hash": "ee6cda6e65839f2218f7962fac37f93ae06a329e1d8051415fae818580772aa5",
+      "narration_hash": "7aedfa0be9fc85f38e3ae93a9eec826b64fb0b24e5d5aedae24a6c50b2613fa6",
       "filename": "story-audio/muse-going-out-to-more-countries-japan-then-singapore.mp3",
-      "size_bytes": 655333
+      "size_bytes": 889765
     },
     "building-rules-for-the-free-muse-spark-small-first-asks-test-before-showing-send": {
       "title": "Building rules for the free Muse Spark — small first asks, test before showing, send the error back",
@@ -260,9 +260,9 @@
     },
     "resetting-muse-can-break-sign-in-and-put-the-account-on-the-waitlist": {
       "title": "Resetting Muse can break sign-in and put the account on the waitlist",
-      "narration_hash": "3ceaeb1579ac9cc1ee91d549847ca1cd39cf5b574bdfb65669345b82f3c34be7",
+      "narration_hash": "7522f2b5fb8a2a9a9b8db6804e10f351c2686a71d5956a5ce9baa292c2b8c5dd",
       "filename": "story-audio/resetting-muse-can-break-sign-in-and-put-the-account-on-the-waitlist.mp3",
-      "size_bytes": 1117477
+      "size_bytes": 1330213
     },
     "one-muse-commanding-other-ais-through-their-web-pages": {
       "title": "One Muse commanding other AIs through their web pages",
@@ -320,9 +320,9 @@
     },
     "a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits": {
       "title": "A week with Muse as a real personal assistant — what worked, and its limits",
-      "narration_hash": "34fe8d0dc6b4776a3f8b5ccb035b69a61e2a4587c3834e3126ea2328a7a49aa1",
+      "narration_hash": "6565dc4293f5c1197e27d69507dd6b589f61ab60be0c88ddae56ca9369641056",
       "filename": "story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3",
-      "size_bytes": 1239397
+      "size_bytes": 1541413
     },
     "muse-as-project-manager-over-coding-agents-on-a-home-mac": {
       "title": "Muse as project manager over coding agents on a home Mac",
@@ -332,9 +332,9 @@
     },
     "a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh": {
       "title": "A Muse Space as a command center, fed by a scheduled refresh",
-      "narration_hash": "c767420da2bef74324c768663a1d428bfdc58764ab689b195653506c05c125cf",
+      "narration_hash": "22a1c2403a315e9b2c64b0bdd51708b52bf9e29e2863e1cb2568147efb1cdd0d",
       "filename": "story-audio/a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh.mp3",
-      "size_bytes": 1377445
+      "size_bytes": 1573285
     },
     "a-glasses-entry-seen-in-the-meta-ai-app-opening-muse": {
       "title": "A \"Glasses\" entry seen in the Meta AI app, opening Muse",
@@ -458,9 +458,9 @@
     },
     "cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t": {
       "title": "Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears",
-      "narration_hash": "68cba6ff93c3b87793faa0d2cec1cd66e04e695e519c9359b86d952dd09c0f17",
+      "narration_hash": "2b7e1eafc4cce66df87114270c0322b34fa321b943dd983ef48b4b440d1fe92b",
       "filename": "story-audio/cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t.mp3",
-      "size_bytes": 1294117
+      "size_bytes": 1599973
     },
     "voice-mode-hangs-up-after-a-short-silence": {
       "title": "Voice mode hangs up after a short silence",
@@ -809,6 +809,24 @@
       "narration_hash": "cdd2f7ded1153c19ff974286a5f5050c0fc051af757a7205cd6f594d36ddebea",
       "filename": "story-audio/a-main-chat-stuck-replying-with-one-fixed-sentence.mp3",
       "size_bytes": 236773
+    },
+    "muse-on-apple-watch-and-wear-os-the-watch-app-arrives": {
+      "title": "Muse on Apple Watch and Wear OS — the watch app arrives",
+      "narration_hash": "7e33b0975c2da902476d641df02e83098a18457c7bc03a1671e8d5df9269c241",
+      "filename": "story-audio/muse-on-apple-watch-and-wear-os-the-watch-app-arrives.mp3",
+      "size_bytes": 268069
+    },
+    "muse-home-link-shipping-users-get-shipment-confirmations": {
+      "title": "Muse Home Link shipping — users get shipment confirmations",
+      "narration_hash": "9a0490218b8283a74134c896a5b7010db6d37c8327048d656e8b638f28b333d7",
+      "filename": "story-audio/muse-home-link-shipping-users-get-shipment-confirmations.mp3",
+      "size_bytes": 271525
+    },
+    "muse-treats-british-columbia-time-as-utc-8-in-winter-scheduled-reminders-fire-an": {
+      "title": "Muse treats British Columbia time as UTC-8 in winter — scheduled reminders fire an hour late",
+      "narration_hash": "b696f4c6f65c226f953a1b82176c61634fd02f0cfbe0800b592d6ab9a8947418",
+      "filename": "story-audio/muse-treats-british-columbia-time-as-utc-8-in-winter-scheduled-reminders-fire-an.mp3",
+      "size_bytes": 362341
     }
   },
   "version": 1
