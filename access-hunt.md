@@ -7,6 +7,11 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-11
+
+- amazon-orders-mcp — PyPI — https://pypi.org/project/amazon-orders-mcp/ — version 2.2.0 uploaded Nov 10, 2026. The road: an unofficial MCP server that gives an AI assistant tools for the user's own Amazon order history, line items, and transactions; it reads through the amazon-orders package, which parses Amazon's consumer-facing website because Amazon offers no official API for this. Data only — the user's own past orders; no product search for shopping, no cart, and no checkout. Vendor-claimed (the package's own description), not tested in this hunt; the description itself warns older versions may break when Amazon changes its site.
+- No other new road found tonight: the night's other hunt results were restatements of standing roads (Walmart's Agent Gateway, Amazon's Selling Partner plugin) or of the Scavio API already recorded on 2026-11-10.
+
 ## 2026-11-10
 
 - Amazon Bypass Skill for Muse — Skill Harbor — https://theskillharbor.com/products/amazon-bypass-skill/ — skill version tested 2026-11-05; page last checked Nov 10, 2026, no change detected. The road: a small local server on the user's own Windows PC drives a real Chromium browser (Playwright), so Amazon's bot blocks do not stop it; it searches Amazon.ca and adds items to the cart using session cookies exported from the user's own browser, and never checks out or pays — the user reviews and pays. Claimed proven by the lister (Skill Harbor says it tested the pinned version live on 2026-11-05); not independently verified in this hunt. Risk named: the cart road runs on the user's exported Amazon session cookies, which act like a session key — the standing report's topic "Do not hand Amazon session cookies to a third-party skill" covers that risk.
