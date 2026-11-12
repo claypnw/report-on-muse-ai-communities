@@ -7,6 +7,12 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-11 (night run)
+
+- amazon-orders-mcp — PyPI — https://pypi.org/project/amazon-orders-mcp/ — version 2.4.0 uploaded Nov 11, 2026. The road: a new version of the unofficial MCP server recorded below (version 2.2.0, Nov 10, 2026) that gives an AI assistant tools for the user's own Amazon order history, line items, and transactions, read through the amazon-orders package, which parses Amazon's consumer-facing website because Amazon offers no official API for this. Data only — the user's own past orders; no product search for shopping, no cart, and no checkout. Vendor-claimed (the package's own description), not tested in this hunt.
+- apiguru-mcp — PyPI — https://pypi.org/project/apiguru-mcp/ — version 1.1.61 uploaded Nov 10, 2026. The road: an MCP server returning live Amazon marketplace data for AI agents — product details, reviews, keyword search, best-sellers, deals, live offers and stock, and seller profiles across 23 country marketplaces — with no API key required; unkeyed callers get a small free probe budget, then pay per call in USDC through an x402 payment challenge. Data only — no cart and no checkout. Vendor-claimed (the package's own description), not tested in this hunt; first recorded tonight.
+- No other new road found tonight: the night's other hunt results were restatements of standing roads (the Amazon Bypass Skill for Muse — its Skill Harbor page was rechecked Nov 11, 2026 with no change detected; Walmart's Agent Gateway; Amazon's Selling Partner plugin) or seller-side data roads already covered (datavessel's Seller Central MCP, facts verified Nov 1, 2026).
+
 ## 2026-11-11
 
 - amazon-orders-mcp — PyPI — https://pypi.org/project/amazon-orders-mcp/ — version 2.2.0 uploaded Nov 10, 2026. The road: an unofficial MCP server that gives an AI assistant tools for the user's own Amazon order history, line items, and transactions; it reads through the amazon-orders package, which parses Amazon's consumer-facing website because Amazon offers no official API for this. Data only — the user's own past orders; no product search for shopping, no cart, and no checkout. Vendor-claimed (the package's own description), not tested in this hunt; the description itself warns older versions may break when Amazon changes its site.
