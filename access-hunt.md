@@ -7,6 +7,11 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-12
+
+- amazon-orders-mcp — PyPI — https://pypi.org/project/amazon-orders-mcp/ — version 3.0.0 uploaded Nov 11, 2026 (23:04 UTC), with version 2.4.1 earlier the same day (18:50 UTC). The road: a new major version of the unofficial MCP server recorded below (version 2.4.0, Nov 11, 2026) that gives an AI assistant tools for the user's own Amazon order history, line items, transactions, tracking, invoices, gift-card and Prime payments; the 3.0.0 description adds remote-client serving over Streamable HTTP with OAuth sign-in and a headless sign-in road, read through the amazon-orders package, which parses Amazon's consumer-facing website because Amazon offers no official API for this. Data only — the user's own past orders; no product search for shopping, no cart, and no checkout. Vendor-claimed (the package's own description, read on PyPI in this run), not tested in this hunt.
+- No other new road found tonight: the night's other hunt results were restatements of standing roads (Amazon's Selling Partner plugin, the Amazon Ads MCP server, datavessel's Seller Central MCP, and community SP-API servers — all seller-side data roads already covered) or of the apiguru-mcp and Scavio roads already recorded.
+
 ## 2026-11-11 (night run)
 
 - amazon-orders-mcp — PyPI — https://pypi.org/project/amazon-orders-mcp/ — version 2.4.0 uploaded Nov 11, 2026. The road: a new version of the unofficial MCP server recorded below (version 2.2.0, Nov 10, 2026) that gives an AI assistant tools for the user's own Amazon order history, line items, and transactions, read through the amazon-orders package, which parses Amazon's consumer-facing website because Amazon offers no official API for this. Data only — the user's own past orders; no product search for shopping, no cart, and no checkout. Vendor-claimed (the package's own description), not tested in this hunt.
