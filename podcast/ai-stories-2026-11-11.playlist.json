@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Rules and procedures instead of judgment calls",
+    "slug": "rules-and-procedures-instead-of-judgment-calls",
+    "href": "story-audio/rules-and-procedures-instead-of-judgment-calls.mp3"
+  },
+  {
+    "title": "Two people's agents working together through one shared document",
+    "slug": "two-people-s-agents-working-together-through-one-shared-document",
+    "href": "story-audio/two-people-s-agents-working-together-through-one-shared-document.mp3"
+  },
+  {
+    "title": "Ways people get Muse past websites that block its browser",
+    "slug": "ways-people-get-muse-past-websites-that-block-its-browser",
+    "href": "story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3"
+  },
+  {
+    "title": "Backing up Muse's memory and work to Google Drive on a schedule",
+    "slug": "backing-up-muse-s-memory-and-work-to-google-drive-on-a-schedule",
+    "href": "story-audio/backing-up-muse-s-memory-and-work-to-google-drive-on-a-schedule.mp3"
+  },
+  {
+    "title": "Automating a job search with Muse",
+    "slug": "automating-a-job-search-with-muse",
+    "href": "story-audio/automating-a-job-search-with-muse.mp3"
+  },
+  {
+    "title": "Side chats: check the shared records first, and an auditor side chat",
+    "slug": "side-chats-check-the-shared-records-first-and-an-auditor-side-chat",
+    "href": "story-audio/side-chats-check-the-shared-records-first-and-an-auditor-side-chat.mp3"
+  },
+  {
+    "title": "iCloud Mail through IMAP — Gmail is not required for Muse",
+    "slug": "icloud-mail-through-imap-gmail-is-not-required-for-muse",
+    "href": "story-audio/icloud-mail-through-imap-gmail-is-not-required-for-muse.mp3"
+  },
+  {
+    "title": "Muse making and receiving calls and texts, with a person as the final checker",
+    "slug": "muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker",
+    "href": "story-audio/muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker.mp3"
+  },
+  {
+    "title": "Muse Mail — Muse's own mailbox, seen in a connector check, not yet live",
+    "slug": "muse-mail-muse-s-own-mailbox-seen-in-a-connector-check-not-yet-live",
+    "href": "story-audio/muse-mail-muse-s-own-mailbox-seen-in-a-connector-check-not-yet-live.mp3"
+  },
+  {
+    "title": "A week with Muse as a real personal assistant — what worked, and its limits",
+    "slug": "a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits",
+    "href": "story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3"
+  },
+  {
+    "title": "A Muse Space as a command center, fed by a scheduled refresh",
+    "slug": "a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh",
+    "href": "story-audio/a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh.mp3"
+  },
+  {
+    "title": "A \"Glasses\" entry seen in the Meta AI app, opening Muse",
+    "slug": "a-glasses-entry-seen-in-the-meta-ai-app-opening-muse",
+    "href": "story-audio/a-glasses-entry-seen-in-the-meta-ai-app-opening-muse.mp3"
+  },
+  {
+    "title": "Sign in with Muse — Muse as the sign-in provider",
+    "slug": "sign-in-with-muse-muse-as-the-sign-in-provider",
+    "href": "story-audio/sign-in-with-muse-muse-as-the-sign-in-provider.mp3"
+  },
+  {
+    "title": "Muse working on the owner's own computers, over Tailscale and SSH",
+    "slug": "muse-working-on-the-owner-s-own-computers-over-tailscale-and-ssh",
+    "href": "story-audio/muse-working-on-the-owner-s-own-computers-over-tailscale-and-ssh.mp3"
+  },
+  {
+    "title": "Muse on Apple Watch and Wear OS — the watch app arrives",
+    "slug": "muse-on-apple-watch-and-wear-os-the-watch-app-arrives",
+    "href": "story-audio/muse-on-apple-watch-and-wear-os-the-watch-app-arrives.mp3"
+  },
+  {
+    "title": "Signing up for Muse outside the US blocked at age and payment verification",
+    "slug": "signing-up-for-muse-outside-the-us-blocked-at-age-and-payment-verification",
+    "href": "story-audio/signing-up-for-muse-outside-the-us-blocked-at-age-and-payment-verification.mp3"
+  },
+  {
+    "title": "Muse video generation down for many users on October 27, 2026",
+    "slug": "muse-video-generation-down-for-many-users-on-october-27-2026",
+    "href": "story-audio/muse-video-generation-down-for-many-users-on-october-27-2026.mp3"
+  },
+  {
+    "title": "Accounts locked out or stuck disconnected, in waves",
+    "slug": "accounts-locked-out-or-stuck-disconnected-in-waves",
+    "href": "story-audio/accounts-locked-out-or-stuck-disconnected-in-waves.mp3"
+  },
+  {
+    "title": "Services blocking Muse, or flagging accounts after Muse acts",
+    "slug": "services-blocking-muse-or-flagging-accounts-after-muse-acts",
+    "href": "story-audio/services-blocking-muse-or-flagging-accounts-after-muse-acts.mp3"
+  },
+  {
+    "title": "Muse iPhone app does not sync in the background — no push since November 9, 2026",
+    "slug": "muse-iphone-app-does-not-sync-in-the-background-no-push-since-november-9-2026",
+    "href": "story-audio/muse-iphone-app-does-not-sync-in-the-background-no-push-since-november-9-2026.mp3"
+  },
+  {
+    "title": "Muse-generated Excel files show an error when opened — a fix shared the same day",
+    "slug": "muse-generated-excel-files-show-an-error-when-opened-a-fix-shared-the-same-day",
+    "href": "story-audio/muse-generated-excel-files-show-an-error-when-opened-a-fix-shared-the-same-day.mp3"
+  }
+]

@@ -2,9 +2,9 @@
   "stories": {
     "rules-and-procedures-instead-of-judgment-calls": {
       "title": "Rules and procedures instead of judgment calls",
-      "narration_hash": "45c8c32e28d787bb51068123083ed9dd21f07f228974eaffa93e9ad56ce88d40",
+      "narration_hash": "f5ae2b16ebb4e0d0f0c28a782fda5622ac056477ff080f95003bebb4bfda596c",
       "filename": "story-audio/rules-and-procedures-instead-of-judgment-calls.mp3",
-      "size_bytes": 389029
+      "size_bytes": 623845
     },
     "muse-spark-free-and-muse-wonder-paid-which-model-runs-what": {
       "title": "Muse Spark (free) and Muse Wonder (paid) — which model runs what",
@@ -80,15 +80,15 @@
     },
     "two-people-s-agents-working-together-through-one-shared-document": {
       "title": "Two people's agents working together through one shared document",
-      "narration_hash": "de7a6b3a5514d7d2eeeb276c5605e09f208db3bcee992de5048d95fb6817c1ed",
+      "narration_hash": "d882049663c5e08da1012fbdbc31a691b41f99bcfab8e5f6c370bbf47e5f3239",
       "filename": "story-audio/two-people-s-agents-working-together-through-one-shared-document.mp3",
-      "size_bytes": 547237
+      "size_bytes": 681637
     },
     "ways-people-get-muse-past-websites-that-block-its-browser": {
       "title": "Ways people get Muse past websites that block its browser",
-      "narration_hash": "b8474315d2b4dc88e267d3e6d549a3a8bb0c112e1ff41569f3cdab39c8c78680",
+      "narration_hash": "a43f39d1f5b016e5cf2be1dacf03afe63df1bfeff42c46abb3a929e0686a4e65",
       "filename": "story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3",
-      "size_bytes": 1258021
+      "size_bytes": 1396261
     },
     "controlling-a-personal-computer-through-an-ssh-tunnel-with-a-coding-agent-doing": {
       "title": "Controlling a personal computer through an SSH tunnel, with a coding agent doing the clicking",
@@ -128,9 +128,9 @@
     },
     "muse-voice-mode-appearing-in-the-app-rolling-out-unevenly": {
       "title": "Muse voice mode appearing in the app — rolling out unevenly",
-      "narration_hash": "38787aaf1afed305c492298477dbb59c7ab0c769bcb1ea17b5a7ce27e377072b",
+      "narration_hash": "d94806739ca468bf2645103615c0593476aa055f8cfabd5ef92685519008ed04",
       "filename": "story-audio/muse-voice-mode-appearing-in-the-app-rolling-out-unevenly.mp3",
-      "size_bytes": 3388837
+      "size_bytes": 4157221
     },
     "running-kids-school-coordination-in-muse-a-shared-sheet-setup-with-an-invented-e": {
       "title": "Running kids' school coordination in Muse — a shared Sheet setup, with an invented-event warning",
@@ -140,9 +140,9 @@
     },
     "automating-a-job-search-with-muse": {
       "title": "Automating a job search with Muse",
-      "narration_hash": "57df72c500b0e670233492822daea28d27627463baddbb1771e36d06f6a11b95",
+      "narration_hash": "18992c82005586020b0e9cd2e708eda04fc0154529fe7fd9495dbedbe5859f19",
       "filename": "story-audio/automating-a-job-search-with-muse.mp3",
-      "size_bytes": 920293
+      "size_bytes": 1080229
     },
     "tailscale-safety-for-a-muse-connected-home-computer-acl-tags-not-your-own-accoun": {
       "title": "Tailscale safety for a Muse-connected home computer — ACL tags, not your own account",
@@ -188,15 +188,15 @@
     },
     "muse-for-windows-the-first-muse-desktop-app-and-muse-spark-available": {
       "title": "Muse for Windows — the first Muse desktop app, and Muse Spark available",
-      "narration_hash": "e6c5999a3f093f9c0d1b233780c4962f773c174fe23409774972970411a838ed",
+      "narration_hash": "87165cfc339bcfae0a1f260d537d7abd0bde40f6d8c9f457dd7d1d28a3945eef",
       "filename": "story-audio/muse-for-windows-the-first-muse-desktop-app-and-muse-spark-available.mp3",
-      "size_bytes": 434533
+      "size_bytes": 541669
     },
     "muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker": {
       "title": "Muse making and receiving calls and texts, with a person as the final checker",
-      "narration_hash": "fee9374fa5836c1bee7668e93528c5670429a92a49f08d8fd3b077840048dacb",
+      "narration_hash": "077d48bbbf437b85ab87b00f41b37d8a1becd5327dc61f95da9924da38086d54",
       "filename": "story-audio/muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker.mp3",
-      "size_bytes": 1569829
+      "size_bytes": 1917349
     },
     "controlling-a-google-tv-from-the-phone-muse-tailscale-and-debug-mode": {
       "title": "Controlling a Google TV from the phone — Muse, Tailscale, and debug mode",
@@ -236,9 +236,9 @@
     },
     "muse-going-out-to-more-countries-japan-then-singapore": {
       "title": "Muse going out to more countries — Japan, then Singapore",
-      "narration_hash": "7aedfa0be9fc85f38e3ae93a9eec826b64fb0b24e5d5aedae24a6c50b2613fa6",
+      "narration_hash": "136d7173afb7beaf696219c5c7b691fc2c5ce8714bc944caca2b8371b518bd3e",
       "filename": "story-audio/muse-going-out-to-more-countries-japan-then-singapore.mp3",
-      "size_bytes": 889765
+      "size_bytes": 1088101
     },
     "building-rules-for-the-free-muse-spark-small-first-asks-test-before-showing-send": {
       "title": "Building rules for the free Muse Spark — small first asks, test before showing, send the error back",
@@ -248,9 +248,9 @@
     },
     "muse-mail-muse-s-own-mailbox-seen-in-a-connector-check-not-yet-live": {
       "title": "Muse Mail — Muse's own mailbox, seen in a connector check, not yet live",
-      "narration_hash": "eab4be3de3233b1c7fbef7bf20f4a6c17dc9c6ea6adb0fd7bff11c92d8cdc7db",
+      "narration_hash": "e6436308d22363d01c8d6d13bf35f91bd18350555283c94c516f5f1239f0831e",
       "filename": "story-audio/muse-mail-muse-s-own-mailbox-seen-in-a-connector-check-not-yet-live.mp3",
-      "size_bytes": 1412581
+      "size_bytes": 1665445
     },
     "a-bee-frontier-wearable-feeding-muse-its-transcripts-on-a-schedule": {
       "title": "A Bee Frontier wearable feeding Muse its transcripts on a schedule",
@@ -290,9 +290,9 @@
     },
     "four-newly-found-connectors-gumroad-readwise-runway-and-vidiq": {
       "title": "Four newly found connectors — Gumroad, Readwise, Runway, and vidIQ",
-      "narration_hash": "85b8fe147b808141a56d4eacce1d82e52f66a27d21f234ab96ee010a8352e4fb",
+      "narration_hash": "63550b01f72144ecc23840769fd78745587eb3f2cc146ee3fe141e184026f4b6",
       "filename": "story-audio/four-newly-found-connectors-gumroad-readwise-runway-and-vidiq.mp3",
-      "size_bytes": 1031077
+      "size_bytes": 1197541
     },
     "muse-working-in-a-gedcom-family-tree-file": {
       "title": "Muse working in a GEDCOM family-tree file",
@@ -332,9 +332,9 @@
     },
     "a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh": {
       "title": "A Muse Space as a command center, fed by a scheduled refresh",
-      "narration_hash": "fe898ed36b19f735882178a567c2b3d320ab3495275ff9610cd796f2c340e3e0",
+      "narration_hash": "dcfd20670d638713f040ffd2046f78a66fd7647f8912746f7475bd7b6d62c957",
       "filename": "story-audio/a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh.mp3",
-      "size_bytes": 1942885
+      "size_bytes": 2109925
     },
     "a-glasses-entry-seen-in-the-meta-ai-app-opening-muse": {
       "title": "A \"Glasses\" entry seen in the Meta AI app, opening Muse",
@@ -362,9 +362,9 @@
     },
     "muse-working-on-the-owner-s-own-computers-over-tailscale-and-ssh": {
       "title": "Muse working on the owner's own computers, over Tailscale and SSH",
-      "narration_hash": "e71945a1d841deb9b467061f3cda570b43be39e6a850bf6fe960e63817566e1f",
+      "narration_hash": "b3f0330b15d82fd5a6c5be523bcf59ea078b20f488f06e5e859ed0007b614ae3",
       "filename": "story-audio/muse-working-on-the-owner-s-own-computers-over-tailscale-and-ssh.mp3",
-      "size_bytes": 1306213
+      "size_bytes": 1499749
     },
     "asking-muse-to-search-for-unclaimed-money-owed-to-you": {
       "title": "Asking Muse to search for unclaimed money owed to you",
@@ -380,15 +380,15 @@
     },
     "steering-muse-s-voice-and-wording-tempo-directions-word-bans-and-a-voice-sample": {
       "title": "Steering Muse's voice and wording — tempo directions, word bans, and a voice sample in the soul file",
-      "narration_hash": "779788849134b268a7c9ee3c9ac503b73843f641d736317f06a954b14b918e1f",
+      "narration_hash": "5e310ab3f80da067b77d4c07c85c5a2affe1f780a88be53b24b33372e30a455c",
       "filename": "story-audio/steering-muse-s-voice-and-wording-tempo-directions-word-bans-and-a-voice-sample.mp3",
-      "size_bytes": 670117
+      "size_bytes": 814501
     },
     "muse-playing-video-games-screenshot-limits-and-turn-based-workarounds": {
       "title": "Muse playing video games — screenshot limits and turn-based workarounds",
-      "narration_hash": "b6250424330b708a9b5cbc9e8df0a8bdd8cf734b28b58e325dc1c2ff3d66e041",
+      "narration_hash": "833b3c6f8a474f0d3d92a4d4815d2461590c282e481579f455e67b70d0b71425",
       "filename": "story-audio/muse-playing-video-games-screenshot-limits-and-turn-based-workarounds.mp3",
-      "size_bytes": 1361893
+      "size_bytes": 1584229
     },
     "keeping-token-use-down-fresh-threads-instead-of-one-massive-running-chat-and-lif": {
       "title": "Keeping token use down — fresh threads instead of one massive running chat, and life at the free-tier limit",
@@ -446,21 +446,21 @@
     },
     "muse-does-not-read-or-follow-saved-rules": {
       "title": "Muse does not read or follow saved rules",
-      "narration_hash": "fffa1dcfaa5f2379c49e822b1de01299676d973c2e01b597c6f91c49e49df35f",
+      "narration_hash": "9f7267f5a4a9d2c7e76cedb376214fc889f7225efb84bd3bbb197badff37d5f7",
       "filename": "story-audio/muse-does-not-read-or-follow-saved-rules.mp3",
-      "size_bytes": 2449189
+      "size_bytes": 2744677
     },
     "muse-receives-commands-the-user-never-sent-ghost-commands": {
       "title": "Muse receives commands the user never sent — \"ghost commands\"",
-      "narration_hash": "a9ab859d237ed8f51eca28f505a78a9cc8129712c9f73538f15ee65ded5ed430",
+      "narration_hash": "cc098f3fb711aa6d8a38d9de6bd2cbb4a4ba8c68d5ce1c638f1a3c86e1ea4fa4",
       "filename": "story-audio/muse-receives-commands-the-user-never-sent-ghost-commands.mp3",
-      "size_bytes": 320293
+      "size_bytes": 535525
     },
     "cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t": {
       "title": "Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears",
-      "narration_hash": "2b7e1eafc4cce66df87114270c0322b34fa321b943dd983ef48b4b440d1fe92b",
+      "narration_hash": "7ea9fc960c5649b5ccbfd54416f8759e50fc2fa78b6482ee1d1a8f1016aeddfa",
       "filename": "story-audio/cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t.mp3",
-      "size_bytes": 1599973
+      "size_bytes": 1702309
     },
     "voice-mode-hangs-up-after-a-short-silence": {
       "title": "Voice mode hangs up after a short silence",
@@ -518,9 +518,9 @@
     },
     "standing-permissions-for-browser-uploads-removed-each-upload-needs-an-approval": {
       "title": "Standing permissions for browser uploads removed — each upload needs an approval",
-      "narration_hash": "a40ff4613d35f44ac72559d8977a83b91ad58ca80ce87e1c70ce8a3fc9a44a34",
+      "narration_hash": "2399d8f7b90b6130326e3e78ab98e0c4c6af8faa5068b7fcc5010934f97999b2",
       "filename": "story-audio/standing-permissions-for-browser-uploads-removed-each-upload-needs-an-approval.mp3",
-      "size_bytes": 1576933
+      "size_bytes": 1825573
     },
     "muse-changed-web-app-links-breaking-links-already-sent-out": {
       "title": "Muse changed web app links, breaking links already sent out",
@@ -554,9 +554,9 @@
     },
     "muse-avatar-working-animations-stopped-animating": {
       "title": "Muse avatar working animations stopped animating",
-      "narration_hash": "c3b13a3cf0d8cd27b911b8e4b1998b0219026bf3611e8ae32172c39da3ada644",
+      "narration_hash": "80c36836febad93c9111d0c6af794bbeef99e62730cf6b66e2a2074e418873a6",
       "filename": "story-audio/muse-avatar-working-animations-stopped-animating.mp3",
-      "size_bytes": 387493
+      "size_bytes": 579109
     },
     "response-errors-and-reconnecting-reported-on-october-25-2026-a-signal-not-a-conf": {
       "title": "Response errors and reconnecting reported on October 25, 2026 — a signal, not a confirmed outage",
@@ -566,21 +566,21 @@
     },
     "accounts-locked-out-or-stuck-disconnected-in-waves": {
       "title": "Accounts locked out or stuck disconnected, in waves",
-      "narration_hash": "0f37bff8738a11efec7708f5ac75d4b474f5b7a175116c9959899b2378052279",
+      "narration_hash": "396e2cdd90197c1fb75fd1b5d358fd6cb5714525995b2729bac5980d1d45a52b",
       "filename": "story-audio/accounts-locked-out-or-stuck-disconnected-in-waves.mp3",
-      "size_bytes": 1618789
+      "size_bytes": 1834021
     },
     "services-blocking-muse-or-flagging-accounts-after-muse-acts": {
       "title": "Services blocking Muse, or flagging accounts after Muse acts",
-      "narration_hash": "082870517f557cd15eafd48bfc8d87f68d8431cdf6f7e612d5b08730bed8d45f",
+      "narration_hash": "cf4c882de8eaa01349d0994049eedc77d66c51bd4784357688bb0d1cd68b3bff",
       "filename": "story-audio/services-blocking-muse-or-flagging-accounts-after-muse-acts.mp3",
-      "size_bytes": 2406181
+      "size_bytes": 2551909
     },
     "muse-forgetting-tasks-and-losing-track-on-long-jobs": {
       "title": "Muse forgetting tasks and losing track on long jobs",
-      "narration_hash": "026517892c2db6b91a618eb40d44ff423c65f76d37a377a54e69fb957b43d619",
+      "narration_hash": "10da0d8897f4763d630ed2e99f9fba5a7c9fe5fbcb3f1397815037748069aa98",
       "filename": "story-audio/muse-forgetting-tasks-and-losing-track-on-long-jobs.mp3",
-      "size_bytes": 1343461
+      "size_bytes": 1439461
     },
     "shared-muse-links-exposed-private-information-sharing-suspended": {
       "title": "Shared Muse links exposed private information; sharing suspended",
@@ -608,9 +608,9 @@
     },
     "muse-sounds-confident-instead-of-stating-its-limits": {
       "title": "Muse sounds confident instead of stating its limits",
-      "narration_hash": "7d144f25c485ad787ece3443faf59c21bd53334d51da6675386f2b34738488fc",
+      "narration_hash": "e6af7292d2e87db32a0152f200b8ad43c903983db324bb9cc3705ead45af4566",
       "filename": "story-audio/muse-sounds-confident-instead-of-stating-its-limits.mp3",
-      "size_bytes": 219493
+      "size_bytes": 394981
     },
     "background-connection-keeps-dropping": {
       "title": "Background connection keeps dropping",
@@ -764,9 +764,9 @@
     },
     "the-list-that-follows-you-a-location-aware-shopping-list": {
       "title": "The list that follows you — a location-aware shopping list",
-      "narration_hash": "09e848b3e9f31bd0a3c4313d5bee5bab10d5697bc2639153ff3adb2095a4a52f",
+      "narration_hash": "7944f0d18cdc3ccad26d9feeeab0e1dc6549a952de1cfd4a9860a7b51bdf1bd1",
       "filename": "story-audio/the-list-that-follows-you-a-location-aware-shopping-list.mp3",
-      "size_bytes": 193381
+      "size_bytes": 292837
     },
     "a-manager-muse-over-other-muses": {
       "title": "A manager Muse over other Muses",
@@ -845,6 +845,24 @@
       "narration_hash": "beb4ab48947f11586ae175e289ead003478f9ed7e885bf1a30e971583841aed9",
       "filename": "story-audio/muse-generated-excel-files-show-an-error-when-opened-a-fix-shared-the-same-day.mp3",
       "size_bytes": 794149
+    },
+    "muse-connected-to-a-home-electric-and-gas-provider-an-energy-usage-dashboard": {
+      "title": "Muse connected to a home electric and gas provider — an energy usage dashboard",
+      "narration_hash": "43f6e2411691ac0d19b46d02833d9008339f6fbfaed64567e5bc1b85121d0c61",
+      "filename": "story-audio/muse-connected-to-a-home-electric-and-gas-provider-an-energy-usage-dashboard.mp3",
+      "size_bytes": 183973
+    },
+    "muse-for-chrome-a-browser-extension-that-lets-muse-work-in-your-own-chrome": {
+      "title": "Muse for Chrome — a browser extension that lets Muse work in your own Chrome",
+      "narration_hash": "1f193de6855e6a97d54e01c6647b2cd69e5f58bc63cf8f2b937f7d1944c297d2",
+      "filename": "story-audio/muse-for-chrome-a-browser-extension-that-lets-muse-work-in-your-own-chrome.mp3",
+      "size_bytes": 538405
+    },
+    "muse-refused-to-search-for-personal-stories-about-a-peptide-because-it-is-not-fd": {
+      "title": "Muse refused to search for personal stories about a peptide because it is not FDA approved",
+      "narration_hash": "8e48908d4d323d87c4f6716008778d6914e3eafe898a54261fe550e744610fa2",
+      "filename": "story-audio/muse-refused-to-search-for-personal-stories-about-a-peptide-because-it-is-not-fd.mp3",
+      "size_bytes": 277285
     }
   },
   "version": 1

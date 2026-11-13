@@ -7,6 +7,11 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-12 (night run)
+
+- No new road found tonight. The night's hunt searches found no new way for an AI agent to shop Amazon or another blocking retailer as a customer: amazon-orders-mcp stands at version 3.0.0 (Nov 11, 2026, recorded below), apiguru-mcp stands as recorded, and the rest was restatements of standing roads (Walmart's Agent Gateway, Amazon's block itself).
+- Noted, not a shopping road: Seller Snap MCP server — press release, Las Vegas, November 12, 2026 — https://www.einnews.com/pr_news/956259917/seller-snap-launches-mcp-server-connecting-its-amazon-repricer-to-chatgpt-and-claude — a read-only MCP server and API connecting a seller's own Seller Snap repricer account (Amazon and Walmart listings, pricing, profit, and order data) to ChatGPT and Claude. Seller-side data access for the seller's own account, not a way for an agent to shop a store as a customer. Vendor-claimed (the release itself), not tested in this hunt.
+
 ## 2026-11-12
 
 - amazon-orders-mcp — PyPI — https://pypi.org/project/amazon-orders-mcp/ — version 3.0.0 uploaded Nov 11, 2026 (23:04 UTC), with version 2.4.1 earlier the same day (18:50 UTC). The road: a new major version of the unofficial MCP server recorded below (version 2.4.0, Nov 11, 2026) that gives an AI assistant tools for the user's own Amazon order history, line items, transactions, tracking, invoices, gift-card and Prime payments; the 3.0.0 description adds remote-client serving over Streamable HTTP with OAuth sign-in and a headless sign-in road, read through the amazon-orders package, which parses Amazon's consumer-facing website because Amazon offers no official API for this. Data only — the user's own past orders; no product search for shopping, no cart, and no checkout. Vendor-claimed (the package's own description, read on PyPI in this run), not tested in this hunt.
