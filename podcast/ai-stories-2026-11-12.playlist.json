@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Rules and procedures instead of judgment calls",
+    "slug": "rules-and-procedures-instead-of-judgment-calls",
+    "href": "story-audio/rules-and-procedures-instead-of-judgment-calls.mp3"
+  },
+  {
+    "title": "Two people's agents working together through one shared document",
+    "slug": "two-people-s-agents-working-together-through-one-shared-document",
+    "href": "story-audio/two-people-s-agents-working-together-through-one-shared-document.mp3"
+  },
+  {
+    "title": "Ways people get Muse past websites that block its browser",
+    "slug": "ways-people-get-muse-past-websites-that-block-its-browser",
+    "href": "story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3"
+  },
+  {
+    "title": "Muse voice mode appearing in the app — rolling out unevenly",
+    "slug": "muse-voice-mode-appearing-in-the-app-rolling-out-unevenly",
+    "href": "story-audio/muse-voice-mode-appearing-in-the-app-rolling-out-unevenly.mp3"
+  },
+  {
+    "title": "Automating a job search with Muse",
+    "slug": "automating-a-job-search-with-muse",
+    "href": "story-audio/automating-a-job-search-with-muse.mp3"
+  },
+  {
+    "title": "Muse for Windows — the first Muse desktop app, and Muse Spark available",
+    "slug": "muse-for-windows-the-first-muse-desktop-app-and-muse-spark-available",
+    "href": "story-audio/muse-for-windows-the-first-muse-desktop-app-and-muse-spark-available.mp3"
+  },
+  {
+    "title": "Muse making and receiving calls and texts, with a person as the final checker",
+    "slug": "muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker",
+    "href": "story-audio/muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker.mp3"
+  },
+  {
+    "title": "Muse going out to more countries — Japan, then Singapore",
+    "slug": "muse-going-out-to-more-countries-japan-then-singapore",
+    "href": "story-audio/muse-going-out-to-more-countries-japan-then-singapore.mp3"
+  },
+  {
+    "title": "Muse Mail — Muse's own mailbox, seen in a connector check, not yet live",
+    "slug": "muse-mail-muse-s-own-mailbox-seen-in-a-connector-check-not-yet-live",
+    "href": "story-audio/muse-mail-muse-s-own-mailbox-seen-in-a-connector-check-not-yet-live.mp3"
+  },
+  {
+    "title": "Four newly found connectors — Gumroad, Readwise, Runway, and vidIQ",
+    "slug": "four-newly-found-connectors-gumroad-readwise-runway-and-vidiq",
+    "href": "story-audio/four-newly-found-connectors-gumroad-readwise-runway-and-vidiq.mp3"
+  },
+  {
+    "title": "A Muse Space as a command center, fed by a scheduled refresh",
+    "slug": "a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh",
+    "href": "story-audio/a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh.mp3"
+  },
+  {
+    "title": "Muse working on the owner's own computers, over Tailscale and SSH",
+    "slug": "muse-working-on-the-owner-s-own-computers-over-tailscale-and-ssh",
+    "href": "story-audio/muse-working-on-the-owner-s-own-computers-over-tailscale-and-ssh.mp3"
+  },
+  {
+    "title": "Steering Muse's voice and wording — tempo directions, word bans, and a voice sample in the soul file",
+    "slug": "steering-muse-s-voice-and-wording-tempo-directions-word-bans-and-a-voice-sample",
+    "href": "story-audio/steering-muse-s-voice-and-wording-tempo-directions-word-bans-and-a-voice-sample.mp3"
+  },
+  {
+    "title": "Muse playing video games — screenshot limits and turn-based workarounds",
+    "slug": "muse-playing-video-games-screenshot-limits-and-turn-based-workarounds",
+    "href": "story-audio/muse-playing-video-games-screenshot-limits-and-turn-based-workarounds.mp3"
+  },
+  {
+    "title": "The list that follows you — a location-aware shopping list",
+    "slug": "the-list-that-follows-you-a-location-aware-shopping-list",
+    "href": "story-audio/the-list-that-follows-you-a-location-aware-shopping-list.mp3"
+  },
+  {
+    "title": "Muse connected to a home electric and gas provider — an energy usage dashboard",
+    "slug": "muse-connected-to-a-home-electric-and-gas-provider-an-energy-usage-dashboard",
+    "href": "story-audio/muse-connected-to-a-home-electric-and-gas-provider-an-energy-usage-dashboard.mp3"
+  },
+  {
+    "title": "Muse for Chrome — a browser extension that lets Muse work in your own Chrome",
+    "slug": "muse-for-chrome-a-browser-extension-that-lets-muse-work-in-your-own-chrome",
+    "href": "story-audio/muse-for-chrome-a-browser-extension-that-lets-muse-work-in-your-own-chrome.mp3"
+  },
+  {
+    "title": "Muse does not read or follow saved rules",
+    "slug": "muse-does-not-read-or-follow-saved-rules",
+    "href": "story-audio/muse-does-not-read-or-follow-saved-rules.mp3"
+  },
+  {
+    "title": "Muse receives commands the user never sent — \"ghost commands\"",
+    "slug": "muse-receives-commands-the-user-never-sent-ghost-commands",
+    "href": "story-audio/muse-receives-commands-the-user-never-sent-ghost-commands.mp3"
+  },
+  {
+    "title": "Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears",
+    "slug": "cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t",
+    "href": "story-audio/cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t.mp3"
+  },
+  {
+    "title": "Standing permissions for browser uploads removed — each upload needs an approval",
+    "slug": "standing-permissions-for-browser-uploads-removed-each-upload-needs-an-approval",
+    "href": "story-audio/standing-permissions-for-browser-uploads-removed-each-upload-needs-an-approval.mp3"
+  },
+  {
+    "title": "Muse avatar working animations stopped animating",
+    "slug": "muse-avatar-working-animations-stopped-animating",
+    "href": "story-audio/muse-avatar-working-animations-stopped-animating.mp3"
+  },
+  {
+    "title": "Accounts locked out or stuck disconnected, in waves",
+    "slug": "accounts-locked-out-or-stuck-disconnected-in-waves",
+    "href": "story-audio/accounts-locked-out-or-stuck-disconnected-in-waves.mp3"
+  },
+  {
+    "title": "Services blocking Muse, or flagging accounts after Muse acts",
+    "slug": "services-blocking-muse-or-flagging-accounts-after-muse-acts",
+    "href": "story-audio/services-blocking-muse-or-flagging-accounts-after-muse-acts.mp3"
+  },
+  {
+    "title": "Muse forgetting tasks and losing track on long jobs",
+    "slug": "muse-forgetting-tasks-and-losing-track-on-long-jobs",
+    "href": "story-audio/muse-forgetting-tasks-and-losing-track-on-long-jobs.mp3"
+  },
+  {
+    "title": "Muse sounds confident instead of stating its limits",
+    "slug": "muse-sounds-confident-instead-of-stating-its-limits",
+    "href": "story-audio/muse-sounds-confident-instead-of-stating-its-limits.mp3"
+  },
+  {
+    "title": "Muse refused to search for personal stories about a peptide because it is not FDA approved",
+    "slug": "muse-refused-to-search-for-personal-stories-about-a-peptide-because-it-is-not-fd",
+    "href": "story-audio/muse-refused-to-search-for-personal-stories-about-a-peptide-because-it-is-not-fd.mp3"
+  }
+]
