@@ -194,9 +194,9 @@
     },
     "muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker": {
       "title": "Muse making and receiving calls and texts, with a person as the final checker",
-      "narration_hash": "b98b43988f2ab510f99c90f7424100129c62ea6723a90f10c59526595f74e042",
+      "narration_hash": "130aeecd937d55ca6f4675415bf410ce2c905bec9a1782f4781e4fd10eb2e880",
       "filename": "story-audio/muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker.mp3",
-      "size_bytes": 2172133
+      "size_bytes": 2489125
     },
     "controlling-a-google-tv-from-the-phone-muse-tailscale-and-debug-mode": {
       "title": "Controlling a Google TV from the phone — Muse, Tailscale, and debug mode",
@@ -320,9 +320,9 @@
     },
     "a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits": {
       "title": "A week with Muse as a real personal assistant — what worked, and its limits",
-      "narration_hash": "e83adecb016a2c1cab9a268b14274a8802327986a042ec63f5d13ffa3d89592f",
+      "narration_hash": "549d78f423f80836ce9878fb81e1616c298b4ad934b5647bad7f065ead33e275",
       "filename": "story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3",
-      "size_bytes": 2159077
+      "size_bytes": 2443237
     },
     "muse-as-project-manager-over-coding-agents-on-a-home-mac": {
       "title": "Muse as project manager over coding agents on a home Mac",
@@ -638,9 +638,9 @@
     },
     "muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days": {
       "title": "Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 13 days",
-      "narration_hash": "580b157cfc11f5d162ae9a94f9302af5a49d994e9710dd645e7e59dee99811fb",
+      "narration_hash": "b455c1a7b716377530bce6b2896cc7c9289b140914e9a271f8877af042876661",
       "filename": "story-audio/muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days.mp3",
-      "size_bytes": 3914149
+      "size_bytes": 3957157
     },
     "bug-bounties-paid-for-muse-flaws-1-2-million-so-far-says-a-november-2-report": {
       "title": "Bug bounties paid for Muse flaws — $1.2 million so far, says a November 2 report",
@@ -830,9 +830,9 @@
     },
     "muse-gadgets-meta-s-open-source-hardware-for-muse": {
       "title": "Muse Gadgets — Meta's open-source hardware for Muse",
-      "narration_hash": "d3537fbdbb51ac27404ac06e426840235bf12c9b178732a919bd946745a57b8a",
+      "narration_hash": "153846a4cec0a20c1cdc55d1378de6507e81b8f90d830ae6d624e3da4ab7eef9",
       "filename": "story-audio/muse-gadgets-meta-s-open-source-hardware-for-muse.mp3",
-      "size_bytes": 603877
+      "size_bytes": 910309
     },
     "muse-iphone-app-does-not-sync-in-the-background-no-push-since-november-9-2026": {
       "title": "Muse iPhone app does not sync in the background — no push since November 9, 2026",
@@ -878,15 +878,21 @@
     },
     "a-public-changelog-wall-asked-for-so-users-can-see-whether-their-feedback-was-ad": {
       "title": "A public changelog wall asked for — so users can see whether their feedback was adopted",
-      "narration_hash": "fa4a1afdf80c5b2727175d3957a7978c5b39452540c2d8a1aba58f692d971b59",
+      "narration_hash": "82780ed38cd88f1019d55dd1aeb26eefe538cc64a287a07b1bce294c9279be32",
       "filename": "story-audio/a-public-changelog-wall-asked-for-so-users-can-see-whether-their-feedback-was-ad.mp3",
-      "size_bytes": 266917
+      "size_bytes": 447397
     },
     "muse-building-profiles-of-people-who-never-used-muse": {
       "title": "Muse building profiles of people who never used Muse",
       "narration_hash": "3bbec5ad01868f46a74ca36b4e1fe6e76ee81af9e18580b6c00283e5d3232651",
       "filename": "story-audio/muse-building-profiles-of-people-who-never-used-muse.mp3",
       "size_bytes": 706213
+    },
+    "running-a-car-rental-business-with-muse-morning-booking-checks-and-whatsapp-conf": {
+      "title": "Running a car-rental business with Muse — morning booking checks and WhatsApp confirmations",
+      "narration_hash": "1eb599a7db91e9e762b85b5bc3108682881e919a610749b906c0346c6fec05d6",
+      "filename": "story-audio/running-a-car-rental-business-with-muse-morning-booking-checks-and-whatsapp-conf.mp3",
+      "size_bytes": 395749
     }
   },
   "version": 1

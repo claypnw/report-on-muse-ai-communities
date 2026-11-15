@@ -7,6 +7,10 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-15
+
+- No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer: apiguru-mcp stands at version 1.1.62 (checked on PyPI in this run, unchanged since Nov 13, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run), and the rest was restatements of standing roads (Amazon's block itself, Walmart's Agent Gateway — all already recorded).
+
 ## 2026-11-14 (night run)
 
 - No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer: apiguru-mcp stands at version 1.1.62 (checked on PyPI in this run, unchanged since Nov 13, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run), and the rest was restatements of standing roads (Amazon's block itself, Walmart's Agent Gateway, BigCommerce's WebMCP — all already recorded).
