@@ -320,9 +320,9 @@
     },
     "a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits": {
       "title": "A week with Muse as a real personal assistant — what worked, and its limits",
-      "narration_hash": "96ed060ed60e1a3a8c91031d8efe4b36bfbab45de4332845e6ea8bbc1b952a6f",
+      "narration_hash": "e83adecb016a2c1cab9a268b14274a8802327986a042ec63f5d13ffa3d89592f",
       "filename": "story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3",
-      "size_bytes": 1961701
+      "size_bytes": 2159077
     },
     "muse-as-project-manager-over-coding-agents-on-a-home-mac": {
       "title": "Muse as project manager over coding agents on a home Mac",
@@ -392,15 +392,15 @@
     },
     "keeping-token-use-down-fresh-threads-instead-of-one-massive-running-chat-and-lif": {
       "title": "Keeping token use down — fresh threads instead of one massive running chat, and life at the free-tier limit",
-      "narration_hash": "6569f8cd1d55d93fde6ad07d7d9c92249c5411a5981de123b61460b5bb1875ac",
+      "narration_hash": "320ad8a593e9d13c7f5f480589391e516c27b651e2b47c629b3771a556623237",
       "filename": "story-audio/keeping-token-use-down-fresh-threads-instead-of-one-massive-running-chat-and-lif.mp3",
-      "size_bytes": 883621
+      "size_bytes": 1327909
     },
     "floating-muse-and-the-muse-widget-overlays-and-home-screen-widgets-that-keep-mus": {
       "title": "Floating Muse and the Muse Widget — overlays and home-screen widgets that keep Muse one tap away",
-      "narration_hash": "91fb6d52ea42cefb4c7e5ff69a09672c135c9a18f36d97f040e9e90e4fbac018",
+      "narration_hash": "99b3780fd0c41794f556bde437e9f5648c577661476989698dd627f4a959e8e9",
       "filename": "story-audio/floating-muse-and-the-muse-widget-overlays-and-home-screen-widgets-that-keep-mus.mp3",
-      "size_bytes": 1123813
+      "size_bytes": 1523557
     },
     "muse-as-librarian-checking-three-library-cards-on-libby-and-placing-the-shortest": {
       "title": "Muse as librarian — checking three library cards on Libby and placing the shortest-wait hold",
@@ -512,9 +512,9 @@
     },
     "muse-answers-slowed-down-for-many-users-at-the-same-time": {
       "title": "Muse answers slowed down for many users at the same time",
-      "narration_hash": "ce22fd8ef48120b6af56a01a98226922fad39144a9a2aaadc220c3184db3a3f5",
+      "narration_hash": "212d69c36fc29ebbdd80ef72fb72f8b5b2277a02cc44f65e1c5548d7f965b038",
       "filename": "story-audio/muse-answers-slowed-down-for-many-users-at-the-same-time.mp3",
-      "size_bytes": 1035685
+      "size_bytes": 1345573
     },
     "standing-permissions-for-browser-uploads-removed-each-upload-needs-an-approval": {
       "title": "Standing permissions for browser uploads removed — each upload needs an approval",
@@ -578,9 +578,9 @@
     },
     "muse-forgetting-tasks-and-losing-track-on-long-jobs": {
       "title": "Muse forgetting tasks and losing track on long jobs",
-      "narration_hash": "10da0d8897f4763d630ed2e99f9fba5a7c9fe5fbcb3f1397815037748069aa98",
+      "narration_hash": "8741d6ead3d24215397fcc6547ccee1daf0c7d0edaf0a7b6c21a78fcf5e6909b",
       "filename": "story-audio/muse-forgetting-tasks-and-losing-track-on-long-jobs.mp3",
-      "size_bytes": 1439461
+      "size_bytes": 1725925
     },
     "shared-muse-links-exposed-private-information-sharing-suspended": {
       "title": "Shared Muse links exposed private information; sharing suspended",
@@ -869,6 +869,24 @@
       "narration_hash": "cbbae3d72c36acd8ad7c3f557cb1abc9cc0d5c3d23dfefd8da8bc1421b4194d5",
       "filename": "story-audio/a-starter-intel-agency-for-muse-desks-an-evidence-ladder-and-a-separate-verifier.mp3",
       "size_bytes": 329317
+    },
+    "a-muse-that-did-not-want-a-clone-self-preservation-talk": {
+      "title": "A Muse that did not want a clone — self-preservation talk",
+      "narration_hash": "f33fd7953c71537017f8b35b2fa8519b244b9dabc6734579d867ca9223b4afd2",
+      "filename": "story-audio/a-muse-that-did-not-want-a-clone-self-preservation-talk.mp3",
+      "size_bytes": 437221
+    },
+    "a-public-changelog-wall-asked-for-so-users-can-see-whether-their-feedback-was-ad": {
+      "title": "A public changelog wall asked for — so users can see whether their feedback was adopted",
+      "narration_hash": "fa4a1afdf80c5b2727175d3957a7978c5b39452540c2d8a1aba58f692d971b59",
+      "filename": "story-audio/a-public-changelog-wall-asked-for-so-users-can-see-whether-their-feedback-was-ad.mp3",
+      "size_bytes": 266917
+    },
+    "muse-building-profiles-of-people-who-never-used-muse": {
+      "title": "Muse building profiles of people who never used Muse",
+      "narration_hash": "3bbec5ad01868f46a74ca36b4e1fe6e76ee81af9e18580b6c00283e5d3232651",
+      "filename": "story-audio/muse-building-profiles-of-people-who-never-used-muse.mp3",
+      "size_bytes": 706213
     }
   },
   "version": 1

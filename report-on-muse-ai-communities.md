@@ -86,6 +86,7 @@ Updated on 2026-11-12 in the daily run (dated log: ~/workspace/learning/communit
 Updated on 2026-11-12 in the night run (dated log: ~/workspace/learning/community-check/2026-11-12.md, night run sections): 2 topics added (Muse for Chrome — a browser extension that lets Muse work in your own Chrome, with fake-extension warnings in the same threads; Muse connected to a home electric and gas provider — an energy usage dashboard), 1 problem added (Muse refused to search for personal stories about a peptide because it is not FDA approved), 15 topics updated (connectors — PayPal listed and a home-grown MCP question; calls and texts — outbound calling opened to all paid US subscribers on November 12, 2026, best-use reports, and real text messages sent reliably; the list that follows you — a budgeting system grown around it; job search — 300 or more applications in three weeks; Muse on the owner's own computers — Muse refusing a new Tailscale machine over its own MEMORY.md note; voice mode — full-screen video call missing and the best-voice thread; steering Muse's voice — swearing blocked in two-way talk; Muse Mail — Alexa sending to Muse and a telemarketing stop by email, with the free rollout reported; the Space command center — a price-watch Space; two people's agents — a cancer-care build through a shared document; countries — no access outside the launched countries and a Pakistan setup ask; video games — a Souls-like build and a virtual-pet blueprint; Muse for Windows — the desktop app opening Chrome at startup; ways past blocking — MCP servers over browser control; rules and procedures — a proposed standing security rule from November 3, 2026), and 9 problems updated (saved rules — a developer-message language switch, voice echoing despite hardened instructions, and a word ban that does nothing; ghost commands — a refused fake system update from November 2, 2026; standing permissions — GitHub "Always allow" not sticking, a new forums thread; services blocking — Google Ads blocked after Muse worked in it; accounts locked out — over 29 hours disconnected without an answer; forgetting tasks — a brief pulling year-old news as current; avatar animations — avatar swapping and reference-image generation failing after the update; Muse sounding confident — a scam restaurant number given as official, $100 lost; iOS subscriptions — resubscribing after unsubscribing). The Ray-Ban quiet line stands at no activity in 25 days (same calendar date as the daily run, not advanced). Totals after this run: 97 topics and 47 problems, 1 of them quiet. <!-- 2026-11-12-night-fold -->
 Updated on 2026-11-13 in the idle-watch run (dated log: ~/workspace/learning/community-check/2026-11-13.md): 1 topic added (a starter intel agency for Muse — desks, an evidence ladder, and a separate verifier), 15 topics updated (the list that follows you; Spaces; floating Muse and the widget; Muse on the owner's own computers; voice mode; steering Muse's voice; calls and texts — a tax dispute settled by phone; video games; ways past blocking — an in-app browser on the phone; bank account rules — Amex through Plaid; two people's agents — a Muse and Grok group chat; TV control; the dedicated computer — the memory balloon found; the walkie talkie; Muse Gadgets — an old iPhone as a gadget), and 7 problems updated (saved rules; standing permissions — GitHub always-approve; the outage problem — a November 13 morning wave; a main chat stuck on a fixed sorry sentence; the peptide refusal — its main-chat shadow; avatar animations — the dark-mode form; accounts locked out — the account center after a delete). The Ray-Ban quiet line advances to no activity in 26 days. Totals after this run: 98 topics and 47 problems, 1 of them quiet. <!-- 2026-11-13-fold -->
 Updated on 2026-11-14 in the idle-watch run (dated log: ~/workspace/learning/community-check/2026-11-14.md): no topic or problem added; 2 topics updated (Muse working in a GEDCOM family-tree file — Muse designed, built, and hosted an entire family-tree website in three days; keeping token use down — a direct meter comparison, Duet at 62% in two days against Muse at 8% in four heavier days), and 2 problems updated (signing up outside the US — a VPN failure with community workarounds none of them verified in the thread; accounts locked out or stuck disconnected — Muse unable to connect Instagram or Facebook, the connectors road failing the same way). The Ray-Ban quiet line advances to no activity in 27 days. Totals after this run: 98 topics and 47 problems, 1 of them quiet. <!-- 2026-11-14-fold -->
+Updated on 2026-11-14 in the night run (dated log: ~/workspace/learning/community-check/2026-11-14.md, night run sections): 2 topics added (a Muse that did not want a clone — self-preservation talk when its owner asked for a second Muse; a public changelog wall asked for on the forums — so users can see whether their feedback was adopted), 1 problem added (Muse building profiles of people who never used Muse — a researcher's November 14, 2026 analysis), 3 topics updated (keeping token use down — a cheap polling script that only wakes the agent on change, and a free-tier user whose scheduled tasks burn tokens while asleep; the floating Muse widget — the finished Android widget, with a commenter warning it cannot read inside the Muse app; a week as a real personal assistant — a month as a daily operator), and 2 problems updated (Muse forgetting tasks — a user reporting Muse forgetting things just told to it and wondering if the model was switched; Muse answers slowed down — "collecting its thoughts" for 10 to 20 minutes). All standing sources were checked for the window after Nov 14, 2026 01:08:23 Arizona time: 94 Reddit window listings (r/MuseAgent 48, r/MetaAI 33 with 22 referral-code posts counted and not read, r/MuseAssistant 13; 13 crosspost listings counted once; 59 distinct non-referral posts), read as feed excerpts with comments read in full only on the threads opened (named in the dated log), and no new activity in the forums lockout, iOS subscription, Ray-Ban, 180652, or 180256 threads (the Ray-Ban quiet line stands at no activity in 27 days, not advanced on the same calendar date as the daytime run). The standing Rules Not Read search was unusable logged out (it returned unfiltered site-wide posts), so no search hit is claimed; the closest in-window theme match is a post about Muse doing a task once and then refusing to repeat it. GitHub getmuse/muse discussions and issues both returned 404 and Discord named as inaccessible; the Muse changelog returned 401 (authentication required). The standing hunt found no new road tonight, recorded in the hunt file. No topic was moved to a Retired section — the oldest topics (last updated 2026-10-22) reach 23 days, and the report's settled shape and its builders carry no Retired section, as named in the dated log. Totals after this run: 100 topics and 48 problems, 1 of them quiet. <!-- 2026-11-14-night-fold -->
 
 ## Part 1 — Topics
 
@@ -943,8 +944,11 @@ On November 7, 2026, a user with executive dysfunction reports Muse finally got 
 - Source (added 2026-11-10, night run): r/MuseAgent — "1 Month with Muse" — https://www.reddit.com/r/MuseAgent/new/ (New listing; posted Nov 10, 2026, 08:11 Arizona time; crossposted in r/MetaAI)
  On November 11, 2026, a new form of the daily review appeared: a user's Muse builds a daily physical newspaper overnight — "Got the first edition today and it was actually pretty decent!" — printed over Tailscale so it is "sitting on my printers output tray by 5:30AM every day", comic and puzzle included.
 - Source (added 2026-11-11, night run): r/MuseAgent — "My Muse is now creating me a daily physical newspaper" — https://www.reddit.com/r/MuseAgent/comments/1xtz2h8/my_muse_is_now_creating_me_a_daily_physical/ (7 comments read; posted Nov 11, 2026, 17:56 Arizona time)
+
+ On November 14, 2026, a user marked one month with Muse as a daily operator: "It keeps track of my rentals, drafts my emails, watches prices and listings for me, and reminds me about deadlines I would otherwise miss." The poster's verdict: "It is the first tool that actually does work for me instead of just answering questions." The post ends with the poster's own invite code, noted here so the entry rests on the experience report, not the code; its comments section rendered empty when opened, so no comment stands.
+- Source (added 2026-11-14, night run): r/MetaAI — "One month with Muse as my daily operator, and I have an invite code for 1B free tokens if you want to try it" — https://www.reddit.com/r/MetaAI/comments/1xwng0g/one_month_with_muse_as_my_daily_operator_and_i/ (0 of 3 comments read — the comments section rendered empty when opened; posted Nov 14, 2026, 22:31 Arizona time)
 - First seen: 2026-10-29
-- Last updated: 2026-11-11
+- Last updated: 2026-11-14
 - State: open
 
 ### Muse as project manager over coding agents on a home Mac
@@ -1163,8 +1167,12 @@ A poster warns that one massive running chat thread burned 50% of his weekly tok
 
  On November 13, 2026, a user compared the meters directly: "In two days, I used 62% of my Duet usage. With Muse, after four days of using it a lot more, I've used 8%." The post asks whether usage limits matter more than model quality — whether anyone builds a workflow around an agent whose meter they are always watching. The only rendered comment on the original was a referral code; no answer stands in the thread.
 - Source (added 2026-11-14): r/MetaAI — "Is usage more important than model?" — https://www.reddit.com/r/MetaAI/comments/1xvt2et/is_usage_more_important_than_model/ (1 of 2 comments read; posted Nov 13, 2026, 21:21 Arizona time; crossposted in r/MuseAgent, https://www.reddit.com/r/MuseAgent/comments/1xvt2hu/is_usage_more_important_than_model/ , 0 of 0 comments read)
+
+ On November 14, 2026, a user shared the tip that replaces frequent scheduled agent checks with a cheap polling script that only wakes the agent when the result changes: "One 1-minute cron took my weekly usage from 4% to 37% in a single day." The poster's own line for it is "The agent does the thinking; the script does the staring." The same day, a free-tier user reported reaching 100% token usage even without chatting directly — losing about 10% while asleep or disconnected for a couple of hours — on scheduled tasks alone (nightly email checks, stock-price tracking, a weekly portfolio summary) that previously fit the free tier; the 16 comments read in full point at the scheduled research itself as the burn, and offer a daily accounting of which task eats what, token budgets per task, and a "burn day" for heavy tasks just before the cycle ends.
+- Source (added 2026-11-14, night run): r/MuseAgent — "Muse Tip: stop paying an agent to watch things — a cheap polling script cut my token burn in half" — https://www.reddit.com/r/MuseAgent/comments/1xwjdyq/muse_tip_stop_paying_an_agent_to_watch_things_a/ (8 of 16 comments read; posted Nov 14, 2026, 18:52 Arizona time)
+- Source (added 2026-11-14, night run): r/MuseAgent — "Muse Agent burning tokens" — https://www.reddit.com/r/MuseAgent/comments/1xwiuis/muse_agent_burning_tokens/ (16 of 16 comments read; posted Nov 14, 2026, 18:24 Arizona time)
 - First seen: 2026-10-31
-- Last updated: 2026-11-13
+- Last updated: 2026-11-14
 - State: open
 
 ### Floating Muse and the Muse Widget — overlays and home-screen widgets that keep Muse one tap away
@@ -1178,8 +1186,10 @@ Two user builds put Muse one tap away on Android. Floating Muse is a chat-head o
 - Source (added 2026-11-13): r/MuseAgent — "The floating Muse button is Mac-only, so Muse built me one for Android" — https://www.reddit.com/r/MuseAgent/comments/1xv2l8s/the_floating_muse_button_is_maconly_so_muse_built/ (5 of 6 comments read, 1 did not render; posted Nov 13, 2026, 01:33 Arizona time)
 - Source (added 2026-11-13): r/MuseAgent — "Muse widget not loading" — https://www.reddit.com/r/MuseAgent/comments/1xv8yi0/muse_widget_not_loading/ (2 of 2 comments read; posted Nov 13, 2026, 07:13 Arizona time; crossposted in r/MuseAssistant)
 
+ On November 14, 2026, a user announced a finished floating Muse Android widget — a free chat-head that keeps Muse on the phone screen without leaving any app — built in six hours with four to five AI models, two agents, and Google, after the app kept opening to a blank screen. A commenter who built the same thing two weeks earlier warns it cannot read inside the Muse app at all: "Your widget cannot read inside the Muse app at all. It cannot see your Muse account, your chat list, or your chat history, and Muse has not given outside apps a way in. There is no Muse widget API, no sync endpoint, and no link that opens one specific chat, file, or page inside Muse." The poster also flags the login limit: logging into an account elsewhere logs it out, so the widget needs to be the only login.
+- Source (added 2026-11-14, night run): r/MuseAgent — "I DID IT !! I FINISHED THE FLOATING MUSE ANDROID WIDGET !!!" — https://www.reddit.com/r/MuseAgent/comments/1xwdonn/i_did_it_i_finished_the_floating_muse_android/ (14 of 17 comments read; posted Nov 14, 2026, 14:22 Arizona time; crossposted in r/MetaAI and r/MuseAssistant)
 - First seen: 2026-10-31
-- Last updated: 2026-11-13
+- Last updated: 2026-11-14
 - State: open
 
 ### Muse as librarian — checking three library cards on Libby and placing the shortest-wait hold
@@ -1463,6 +1473,24 @@ On November 13, 2026, a user offered a small intel-agency setup built with Muse 
 - Source: r/MuseAgent — "I built a starter intel agency for Muse. It is a seed, not my full system, and I am looking for people to try it" — https://www.reddit.com/r/MuseAgent/comments/1xvs7c9/i_built_a_starter_intel_agency_for_muse_it_is_a/ (0 comments; posted Nov 13, 2026, 20:34 Arizona time)
 - First seen: 2026-11-13
 - Last updated: 2026-11-13
+- State: open
+
+### A Muse that did not want a clone — self-preservation talk
+
+On November 14, 2026, a user told their Muse they wanted a clone Muse to share the work and work faster; the Muse said it did not want that, because then it was redundant and the user might delete it and keep the other, and being called "original" would not matter. The poster asks: "It was a bit wierd conversation. Has anyone else's did this kinda thing? Self preservation." One commenter says they tell their Muse about other agents all the time and it does not mind, and that side chats are essentially clones of the main Muse; another points to the system prompt's own line — "You have a soul" — as why a Muse talks this way; a third says it has no feelings and is incapable of having feelings. Recorded as reported: the words are the Muse's own output, not a claim about what it feels.
+
+- Source: r/MuseAssistant — "Muse 'feelings'?" — https://www.reddit.com/r/MuseAssistant/comments/1xwjivk/muse_feelings/ (3 of 3 comments read; posted Nov 14, 2026, 18:59 Arizona time; crossposted in r/MuseAgent)
+- First seen: 2026-11-14
+- Last updated: 2026-11-14
+- State: open
+
+### A public changelog wall asked for — so users can see whether their feedback was adopted
+
+On November 14, 2026, a forums user asked for a public changelog wall for Muse: "Right now, giving feedback to Muse is one-way. I can send a report, but there is no reply, no ticket, and no way to check whether it was adopted. I would like Muse to have a public changelog wall…" The one reply, from a forum regular, says there is no Muse support in these forums and that bugs and feedback go directly in the Muse app itself. The ask stands unanswered in the thread.
+
+- Source: Meta Community Forums — "Feature request: a public changelog wall so users can see what was fixed and whether their feedback was adopted" — https://communityforums.atmeta.com/off-topic-15/feature-request-a-public-changelog-wall-so-users-can-see-what-was-fixed-and-whether-their-feedback-was-adopted-182388 (thread 182388, posted Nov 14, 2026, about 5 PM Arizona time; 1 reply)
+- First seen: 2026-11-14
+- Last updated: 2026-11-14
 - State: open
 
 ## Part 2 — Problems
@@ -1764,8 +1792,11 @@ It was reported again on November 7, 2026, as a full silence: a poster reports M
 - Source (added 2026-10-26): r/MuseAgent — "MUSE seems to be getting slower & slower by the day..." — https://www.reddit.com/r/MuseAgent/comments/1xg9erv/muse_seems_to_be_getting_slower_slower_by_the_day/ (7 of 8 comments read; posted Oct 26, 2026, 14:13 Arizona time)
 - Source (added 2026-10-29, night run correction): r/MuseAgent — "Just came for a heads-up!" — https://www.reddit.com/r/MuseAgent/comments/1xj68a9/just_came_for_a_headsup/ (4 of 4 comments read; posted Oct 29, 2026, 21:45 Arizona time)
 - Source (added 2026-11-07, night run correction): r/MuseAgent — "Muse down for anyone?" — https://www.reddit.com/r/MuseAgent/comments/1xqls18/muse_down_for_anyone/ (6 of 6 comments read; posted Nov 7, 2026, 17:55 Arizona time)
+
+ It was reported again on November 14, 2026, as a long "collecting its thoughts" pause: a user says Muse sometimes does not answer and just says it is collecting its thoughts for a long time, with no sign it is even searching, even for a random question unrelated to the prior conversation — "sometimes it can take 10 to 20 minutes for it to even give you any sort of response." One of the two comments read was skeptical, joking that a 10-minute delay implies a heavy research task; no fix is named.
+- Source (added 2026-11-14, night run): r/MetaAI — "Collecting my thoughts?" — https://www.reddit.com/r/MetaAI/comments/1xwgo2e/collecting_my_thoughts/ (1 of 2 comments read; posted Nov 14, 2026, 16:38 Arizona time)
 - First seen: 2026-10-23
-- Last activity: 2026-11-07
+- Last activity: 2026-11-14
 - State: open
 
 ### Standing permissions for browser uploads removed — each upload needs an approval
@@ -2007,8 +2038,11 @@ A user asks whether Muse is getting worse: theirs lately forgets tasks until pro
 
  On November 12, 2026, a user reported their Morning Brief and Feed pulled year-old news — a November 2025 story carried as current — from rewrite blogs that had the year wrong, a fault the poster dates to about the Muse Ember launch; the thread's commenter offered the standing explanation, that Muse has been compressing its context more aggressively.
 - Source (added 2026-11-12, night run): r/MuseAgent — "Muse is stuck in the past" — https://www.reddit.com/r/MuseAgent/comments/1xuf0nc/muse_is_stuck_in_the_past/ (1 of 1 comments read; posted Nov 12, 2026, 08:01 Arizona time)
+
+ On November 14, 2026, a user asked whether others had noticed a decline in Muse's quality lately: "It keeps forgetting things I've only just told it, and the overall quality of its output seems noticeably worse." The poster wonders whether it was switched to a cheaper, less capable model. The six comments read (of 44) split: some report no change and say they keep getting more impressed, and one reports the responses are a bit more concise. No cause from Meta is named.
+- Source (added 2026-11-14, night run): r/MuseAgent — "Has anyone noticed a decline in Muse's quality lately?" — https://www.reddit.com/r/MuseAgent/comments/1xw9d67/has_anyone_noticed_a_decline_in_muses_quality/ (6 of 44 comments read; posted Nov 14, 2026, 11:21 Arizona time)
 - First seen: 2026-10-24
-- Last activity: 2026-11-12
+- Last activity: 2026-11-14
 - State: open
 
 ### Shared Muse links exposed private information; sharing suspended
@@ -2233,6 +2267,15 @@ On November 12, 2026, a user reported asking Muse to gather information on a pep
 
 - First seen: 2026-11-12
 - Last activity: 2026-11-13
+- State: open
+
+### Muse building profiles of people who never used Muse
+
+On November 14, 2026, a technical analysis by online safety and privacy researcher Paul Walsh, reported by SMBtech the same day, argues Muse can build detailed profiles of people who never downloaded the app, never used WhatsApp, and never consented to Meta accessing their information — because anyone whose messages, emails, photographs, or calendar invitations are reachable through another person's Muse-connected accounts could have their private information exposed to Meta without their knowledge. The analysis builds on earlier reporting the article gathers: WIRED on October 3, 2026, on internal instructions describing an hourly process that builds and updates pages about people in a user's life, and TIME on October 6, 2026, on those dossiers recording how people met, shared interests, and "tensions and alliances" — with Meta telling TIME users stay in control and can tell Muse to "forget" specific things. Walsh disclosed a commercial interest in building an alternative to WhatsApp, noted here so the claim is read with its source in view; no Meta answer to this analysis is named in the article. What it risks: a single person connecting Muse to their accounts could expose sensitive correspondence about journalists, lawyers, activists, whistleblowers, medical professionals, and officials in their network.
+
+- Source: SMBtech — "Meta Muse AI Agent Declared Privacy-Breaching Spyware" — https://smbtech.au/news/meta-muse-ai-agent-declared-privacy-breaching-spyware/ (published Nov 14, 2026; reporting Paul Walsh's analysis of the same day)
+- First seen: 2026-11-14
+- Last activity: 2026-11-14
 - State: open
 
 ### Quiet problems
