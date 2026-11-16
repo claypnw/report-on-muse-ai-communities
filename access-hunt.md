@@ -7,6 +7,12 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-16
+
+- No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window: apiguru-mcp stands at version 1.1.62 (checked on PyPI in this run, released Nov 13, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, released Nov 11, 2026), both unchanged.
+- Noted, not a shopping road: Airbyte — "How to get your Amazon Seller Partner data ready for agentic AI", Pedro Lopez, dated Nov 16, 2026 (no time of day shown, so not confirmed in tonight's window) — https://airbyte.com/data-engineering-resources/amazon-seller-partner-agentic-ai-ready — a seller-side, read-only road: an AI agent reads a seller's own Amazon Seller Partner orders, inventory, and finances through Airbyte's hosted MCP; it cannot change orders or listings and is not a way to shop Amazon as a customer. Vendor-claimed (the article itself), not tested in this hunt.
+- Noted, not a road at all: NexusAi — "Amazon's World Product Graph Could Reshape AI Shopping — Why Product Data Is the New SEO", dated Nov 16, 2026 (no time of day shown) — https://www.nexusai-tech.com/ai-insights/amazon-world-product-graph-product-data-new-seo — an article about Amazon's reported internal product graph; it names no connector or method an agent can use.
+
 ## 2026-11-15 (night run)
 
 - No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window: apiguru-mcp stands at version 1.1.62 (checked on PyPI in this run, unchanged since Nov 13, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026). The window's retailer-access posts were restatements of standing roads (the user's own laptop or mobile browser, and the Muse Chrome extension — all already recorded).
