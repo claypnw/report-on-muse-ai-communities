@@ -7,6 +7,11 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-15 (night run)
+
+- No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window: apiguru-mcp stands at version 1.1.62 (checked on PyPI in this run, unchanged since Nov 13, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026). The window's retailer-access posts were restatements of standing roads (the user's own laptop or mobile browser, and the Muse Chrome extension — all already recorded).
+- Noted, not a shopping road: LeonixAI — r/MuseAgent, Nov 15, 2026 — https://www.reddit.com/r/MuseAgent/comments/1xxedk8/muse_ran_using_inapp_browsers/ — a vendor post claiming Muse now runs inside in-app browsers on real devices and inherits the device's good reputation, passing bot and device checks cloud browsers fail. A general browsing claim, not an Amazon or retailer shopping road, and not a customer checkout road. Vendor-claimed (the post itself), not tested in this hunt.
+
 ## 2026-11-15
 
 - No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer: apiguru-mcp stands at version 1.1.62 (checked on PyPI in this run, unchanged since Nov 13, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run), and the rest was restatements of standing roads (Amazon's block itself, Walmart's Agent Gateway — all already recorded).

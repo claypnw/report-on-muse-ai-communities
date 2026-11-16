@@ -80,15 +80,15 @@
     },
     "two-people-s-agents-working-together-through-one-shared-document": {
       "title": "Two people's agents working together through one shared document",
-      "narration_hash": "a222813d8afc9a257a6a8c12d9e3e8e40e84230e212a19eefa8cecd577afde1c",
+      "narration_hash": "1f32bf8e2b914097d0e907db29a4716d76c2b7fef4bef3d313ec3258f086b142",
       "filename": "story-audio/two-people-s-agents-working-together-through-one-shared-document.mp3",
-      "size_bytes": 906469
+      "size_bytes": 1030693
     },
     "ways-people-get-muse-past-websites-that-block-its-browser": {
       "title": "Ways people get Muse past websites that block its browser",
-      "narration_hash": "5dd7eeeec4308e37df919a0fb60f1868f1759d3af9cc549f64173a2a24ed1955",
+      "narration_hash": "1fc89749cd6e4c8499ce52cb879f72a3244878a25236951877f0286551bb2282",
       "filename": "story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3",
-      "size_bytes": 1689829
+      "size_bytes": 1930213
     },
     "controlling-a-personal-computer-through-an-ssh-tunnel-with-a-coding-agent-doing": {
       "title": "Controlling a personal computer through an SSH tunnel, with a coding agent doing the clicking",
@@ -128,9 +128,9 @@
     },
     "muse-voice-mode-appearing-in-the-app-rolling-out-unevenly": {
       "title": "Muse voice mode appearing in the app — rolling out unevenly",
-      "narration_hash": "3cdd7fe04d537c0ef514875a894c3683e4d5538bd4bff26b4f88719d1ac0ab61",
+      "narration_hash": "3e311b1131d7d8a3459cd7c9db4e731cd4f050820180d866fbc33ea3647a0954",
       "filename": "story-audio/muse-voice-mode-appearing-in-the-app-rolling-out-unevenly.mp3",
-      "size_bytes": 4409701
+      "size_bytes": 3571045
     },
     "running-kids-school-coordination-in-muse-a-shared-sheet-setup-with-an-invented-e": {
       "title": "Running kids' school coordination in Muse — a shared Sheet setup, with an invented-event warning",
@@ -194,9 +194,9 @@
     },
     "muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker": {
       "title": "Muse making and receiving calls and texts, with a person as the final checker",
-      "narration_hash": "130aeecd937d55ca6f4675415bf410ce2c905bec9a1782f4781e4fd10eb2e880",
+      "narration_hash": "35e238ae53607f2d468f6980ab20a13a29c339a5903f4220b1339744162e6ba7",
       "filename": "story-audio/muse-making-and-receiving-calls-and-texts-with-a-person-as-the-final-checker.mp3",
-      "size_bytes": 2489125
+      "size_bytes": 2662309
     },
     "controlling-a-google-tv-from-the-phone-muse-tailscale-and-debug-mode": {
       "title": "Controlling a Google TV from the phone — Muse, Tailscale, and debug mode",
@@ -248,9 +248,9 @@
     },
     "muse-mail-muse-s-own-mailbox-seen-in-a-connector-check-not-yet-live": {
       "title": "Muse Mail — Muse's own mailbox, seen in a connector check, not yet live",
-      "narration_hash": "e6436308d22363d01c8d6d13bf35f91bd18350555283c94c516f5f1239f0831e",
+      "narration_hash": "b15b6ffce0a7535505dfbd57b8964a3b8c71d4e99a6905bf172b7391b7653d4d",
       "filename": "story-audio/muse-mail-muse-s-own-mailbox-seen-in-a-connector-check-not-yet-live.mp3",
-      "size_bytes": 1665445
+      "size_bytes": 1865125
     },
     "a-bee-frontier-wearable-feeding-muse-its-transcripts-on-a-schedule": {
       "title": "A Bee Frontier wearable feeding Muse its transcripts on a schedule",
@@ -290,9 +290,9 @@
     },
     "four-newly-found-connectors-gumroad-readwise-runway-and-vidiq": {
       "title": "Four newly found connectors — Gumroad, Readwise, Runway, and vidIQ",
-      "narration_hash": "63550b01f72144ecc23840769fd78745587eb3f2cc146ee3fe141e184026f4b6",
+      "narration_hash": "ac005573093e620e47e75dde92a31c5ad524b8128fa254d6a1bf6066b0ba0db0",
       "filename": "story-audio/four-newly-found-connectors-gumroad-readwise-runway-and-vidiq.mp3",
-      "size_bytes": 1197541
+      "size_bytes": 1469605
     },
     "muse-working-in-a-gedcom-family-tree-file": {
       "title": "Muse working in a GEDCOM family-tree file",
@@ -320,9 +320,9 @@
     },
     "a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits": {
       "title": "A week with Muse as a real personal assistant — what worked, and its limits",
-      "narration_hash": "549d78f423f80836ce9878fb81e1616c298b4ad934b5647bad7f065ead33e275",
+      "narration_hash": "c2ea51744832701d79ef9d6d261508b11570bc5d448d5ef0da5d72380a95589d",
       "filename": "story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3",
-      "size_bytes": 2443237
+      "size_bytes": 3057253
     },
     "muse-as-project-manager-over-coding-agents-on-a-home-mac": {
       "title": "Muse as project manager over coding agents on a home Mac",
@@ -332,9 +332,9 @@
     },
     "a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh": {
       "title": "A Muse Space as a command center, fed by a scheduled refresh",
-      "narration_hash": "9441982daa733a88770a2a9807de9fee85e6dcae10ca8f9422d4505d40178018",
+      "narration_hash": "d000d032302f36a91beea5054b3c84a3716d89c27318205b334cdec36eca6d23",
       "filename": "story-audio/a-muse-space-as-a-command-center-fed-by-a-scheduled-refresh.mp3",
-      "size_bytes": 2440357
+      "size_bytes": 2651941
     },
     "a-glasses-entry-seen-in-the-meta-ai-app-opening-muse": {
       "title": "A \"Glasses\" entry seen in the Meta AI app, opening Muse",
@@ -380,15 +380,15 @@
     },
     "steering-muse-s-voice-and-wording-tempo-directions-word-bans-and-a-voice-sample": {
       "title": "Steering Muse's voice and wording — tempo directions, word bans, and a voice sample in the soul file",
-      "narration_hash": "6a2e6ad6ef057d689c498ffc4dd4a32edc6e648849ca5fb49d6a4a517c366643",
+      "narration_hash": "98cc46e67a296b6c2ae422fb0281189b96f58b2b521dcd85a90faf6bb07501b1",
       "filename": "story-audio/steering-muse-s-voice-and-wording-tempo-directions-word-bans-and-a-voice-sample.mp3",
-      "size_bytes": 1060453
+      "size_bytes": 1217125
     },
     "muse-playing-video-games-screenshot-limits-and-turn-based-workarounds": {
       "title": "Muse playing video games — screenshot limits and turn-based workarounds",
-      "narration_hash": "e724b8604a78619f618dc7c0c3303d0a11e1396727b88a6ce66b4f6bfeba3bef",
+      "narration_hash": "e4734f48034853c3038a0680b44b28b21054cdb17ae0789b3fe765a9613fb559",
       "filename": "story-audio/muse-playing-video-games-screenshot-limits-and-turn-based-workarounds.mp3",
-      "size_bytes": 1843813
+      "size_bytes": 2811109
     },
     "keeping-token-use-down-fresh-threads-instead-of-one-massive-running-chat-and-lif": {
       "title": "Keeping token use down — fresh threads instead of one massive running chat, and life at the free-tier limit",
@@ -398,9 +398,9 @@
     },
     "floating-muse-and-the-muse-widget-overlays-and-home-screen-widgets-that-keep-mus": {
       "title": "Floating Muse and the Muse Widget — overlays and home-screen widgets that keep Muse one tap away",
-      "narration_hash": "99b3780fd0c41794f556bde437e9f5648c577661476989698dd627f4a959e8e9",
+      "narration_hash": "83e381c0c95c16815d46ce5d3c51efd6a3c7874646d2091062cd380612d70568",
       "filename": "story-audio/floating-muse-and-the-muse-widget-overlays-and-home-screen-widgets-that-keep-mus.mp3",
-      "size_bytes": 1523557
+      "size_bytes": 1705573
     },
     "muse-as-librarian-checking-three-library-cards-on-libby-and-placing-the-shortest": {
       "title": "Muse as librarian — checking three library cards on Libby and placing the shortest-wait hold",
@@ -506,9 +506,9 @@
     },
     "muse-refusing-basic-requests-with-a-try-again-in-1-hour-message": {
       "title": "Muse refusing basic requests with a \"try again in 1 hour\" message",
-      "narration_hash": "f56a75bf38c3f1a7d18bc75f167327812076bf4ea98f3927741661dec85fd041",
+      "narration_hash": "4783e5d3cd67476c42cd6df774f27b7847e0c486e673053640f1a4e36031f8b9",
       "filename": "story-audio/muse-refusing-basic-requests-with-a-try-again-in-1-hour-message.mp3",
-      "size_bytes": 480229
+      "size_bytes": 707941
     },
     "muse-answers-slowed-down-for-many-users-at-the-same-time": {
       "title": "Muse answers slowed down for many users at the same time",
@@ -518,9 +518,9 @@
     },
     "standing-permissions-for-browser-uploads-removed-each-upload-needs-an-approval": {
       "title": "Standing permissions for browser uploads removed — each upload needs an approval",
-      "narration_hash": "c08963384707bbdf5a72aef0f58074b6f3e29c677209f9f0210cff94af2656c7",
+      "narration_hash": "86ee4011a2c3affa6f83e43f5d72ac296b590cee17f2b1b0c32c9bc786216cc7",
       "filename": "story-audio/standing-permissions-for-browser-uploads-removed-each-upload-needs-an-approval.mp3",
-      "size_bytes": 2079973
+      "size_bytes": 2476069
     },
     "muse-changed-web-app-links-breaking-links-already-sent-out": {
       "title": "Muse changed web app links, breaking links already sent out",
@@ -554,9 +554,9 @@
     },
     "muse-avatar-working-animations-stopped-animating": {
       "title": "Muse avatar working animations stopped animating",
-      "narration_hash": "d793497199ad712f0fedb0a301f44171be6d56b0a8e93ac66d42db161eac49e6",
+      "narration_hash": "f11326fd8d3a42097a9d228f8b38aba2635c313c551f9a8bdea3184eead7da79",
       "filename": "story-audio/muse-avatar-working-animations-stopped-animating.mp3",
-      "size_bytes": 756133
+      "size_bytes": 945253
     },
     "response-errors-and-reconnecting-reported-on-october-25-2026-a-signal-not-a-conf": {
       "title": "Response errors and reconnecting reported on October 25, 2026 — a signal, not a confirmed outage",
@@ -572,15 +572,15 @@
     },
     "services-blocking-muse-or-flagging-accounts-after-muse-acts": {
       "title": "Services blocking Muse, or flagging accounts after Muse acts",
-      "narration_hash": "cf4c882de8eaa01349d0994049eedc77d66c51bd4784357688bb0d1cd68b3bff",
+      "narration_hash": "2dbeac4bed01a6208d3ecd46e683120b52abc79378f05c1b44e020aa75401dc0",
       "filename": "story-audio/services-blocking-muse-or-flagging-accounts-after-muse-acts.mp3",
-      "size_bytes": 2551909
+      "size_bytes": 2735461
     },
     "muse-forgetting-tasks-and-losing-track-on-long-jobs": {
       "title": "Muse forgetting tasks and losing track on long jobs",
-      "narration_hash": "8741d6ead3d24215397fcc6547ccee1daf0c7d0edaf0a7b6c21a78fcf5e6909b",
+      "narration_hash": "0b1ed3071f175fb69e6298c26b6927128042edd43dafba498bbb7fe3e207114b",
       "filename": "story-audio/muse-forgetting-tasks-and-losing-track-on-long-jobs.mp3",
-      "size_bytes": 1725925
+      "size_bytes": 1925413
     },
     "shared-muse-links-exposed-private-information-sharing-suspended": {
       "title": "Shared Muse links exposed private information; sharing suspended",
@@ -638,9 +638,9 @@
     },
     "muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days": {
       "title": "Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 13 days",
-      "narration_hash": "b455c1a7b716377530bce6b2896cc7c9289b140914e9a271f8877af042876661",
+      "narration_hash": "af8923e6b3b71adb797eeeb24bef9509257188c4be53c09f030300e563317c56",
       "filename": "story-audio/muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days.mp3",
-      "size_bytes": 3957157
+      "size_bytes": 4229797
     },
     "bug-bounties-paid-for-muse-flaws-1-2-million-so-far-says-a-november-2-report": {
       "title": "Bug bounties paid for Muse flaws — $1.2 million so far, says a November 2 report",
@@ -656,9 +656,9 @@
     },
     "a-50-diy-muse-charm-built-before-meta-ships-the-real-one": {
       "title": "A $50 DIY Muse Charm built before Meta ships the real one",
-      "narration_hash": "fa0c65a32de2ccf7cccf2073d85aad62e2774e07187de83362edf8078e344fa7",
+      "narration_hash": "875ff43aa76ea92de0726edea94e29424078235af77fe2be895d18ccc2f5bd84",
       "filename": "story-audio/a-50-diy-muse-charm-built-before-meta-ships-the-real-one.mp3",
-      "size_bytes": 172837
+      "size_bytes": 395173
     },
     "muse-citing-the-user-as-the-source-for-rules-the-user-never-made": {
       "title": "Muse citing the user as the source for rules the user never made",
@@ -812,9 +812,9 @@
     },
     "muse-on-apple-watch-and-wear-os-the-watch-app-arrives": {
       "title": "Muse on Apple Watch and Wear OS — the watch app arrives",
-      "narration_hash": "bf0abbb21bbe01cf25e9142aa1adfef19dad999e97e2561fcf09a1b691f11f62",
+      "narration_hash": "5875b357f93a9f2ef9c327dcf4f95ebb0400758e68ca476f932de8772da02f83",
       "filename": "story-audio/muse-on-apple-watch-and-wear-os-the-watch-app-arrives.mp3",
-      "size_bytes": 500197
+      "size_bytes": 986149
     },
     "muse-home-link-shipping-users-get-shipment-confirmations": {
       "title": "Muse Home Link shipping — users get shipment confirmations",
@@ -893,6 +893,24 @@
       "narration_hash": "1eb599a7db91e9e762b85b5bc3108682881e919a610749b906c0346c6fec05d6",
       "filename": "story-audio/running-a-car-rental-business-with-muse-morning-booking-checks-and-whatsapp-conf.mp3",
       "size_bytes": 395749
+    },
+    "the-muse-feed-stuck-on-muse-connecting-since-yesterday": {
+      "title": "The Muse feed stuck on \"Muse connecting...\" since yesterday",
+      "narration_hash": "21c761cf57acf90cb5bf2a562084c9ff25054647ded97f1e7973a621e85109d2",
+      "filename": "story-audio/the-muse-feed-stuck-on-muse-connecting-since-yesterday.mp3",
+      "size_bytes": 271717
+    },
+    "cancelling-or-renewing-a-muse-subscription-stalls-on-a-false-you-renewed-your-pl": {
+      "title": "Cancelling or renewing a Muse subscription stalls on a false \"You renewed your plan\" message",
+      "narration_hash": "f3b31356efe29632a31752c09ba5ffe93f107b8800aea5d629265be36a53df67",
+      "filename": "story-audio/cancelling-or-renewing-a-muse-subscription-stalls-on-a-false-you-renewed-your-pl.mp3",
+      "size_bytes": 232933
+    },
+    "the-muse-alarm-shows-ringing-but-makes-no-sound-on-iphone": {
+      "title": "The Muse alarm shows \"ringing\" but makes no sound on iPhone",
+      "narration_hash": "51274668154c52eaa7f8587101eb04879fe6bae203c950fb1444f133def818fc",
+      "filename": "story-audio/the-muse-alarm-shows-ringing-but-makes-no-sound-on-iphone.mp3",
+      "size_bytes": 245413
     }
   },
   "version": 1
