@@ -7,6 +7,12 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-16 (night run)
+
+- Zinc — "Zinc Brings 21 Million Orders and 12 Years of Checkout Infrastructure to AI Agents", press release dated November 16, 2026 (published Nov 16, 2026, 18:46 Arizona time) — https://lifestyle.thedailyhaze.com/story/1008910/zinc-brings-21-million-orders-and-12-years-of-checkout-infrastructure-to-ai-agents/ — the road: Zinc's checkout service gives AI agents search, ordering, tracking, and returns through REST and a hosted MCP server (mcp.zinc.com/mcp), with Amazon and Lowe's listed as daily-verified and Walmart, Best Buy, The Home Depot, and Etsy as active, and no retailer opt-in needed. Vendor-claimed (the release itself), not tested in this hunt.
+- apiguru-mcp — PyPI — https://pypi.org/project/apiguru-mcp/ — three new versions dated November 16, 2026: 1.1.63 (08:28 Arizona time), 1.1.64 (09:39 Arizona time), and 1.1.65 (11:43 Arizona time). The road: new versions of the standing MCP server returning live Amazon marketplace data for AI agents — product details, reviews, keyword search, best-sellers, deals, live offers and stock, and seller profiles across 23 marketplaces. Data only — no cart and no checkout. Vendor-claimed (the package's own record on PyPI, read in this run), not tested in this hunt.
+- amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026).
+
 ## 2026-11-16
 
 - No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window: apiguru-mcp stands at version 1.1.62 (checked on PyPI in this run, released Nov 13, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, released Nov 11, 2026), both unchanged.
