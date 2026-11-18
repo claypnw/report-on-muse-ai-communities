@@ -7,6 +7,11 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-17 (night run)
+
+- No new road found tonight. The night run's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window: apiguru-mcp stands at version 1.1.65 (checked on PyPI in this run, unchanged since Nov 16, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026), and Hacker News searches ("Amazon agent", "agent shopping Amazon") returned nothing usable as a customer road.
+- Noted, not a road — the opposite direction: GeekWire — "'Do not search Amazon': Meta's Muse now shops elsewhere by default", Todd Bishop, November 17, 2026 — https://www.geekwire.com/2026/do-not-search-amazon-metas-muse-now-shops-elsewhere-by-default/ — Muse's own shopping skill now tells it to leave Amazon out unless the user asks for it, steering it to Walmart, Target, Best Buy, Home Depot, and Lowe's instead. No new way into Amazon; Meta stepping back from Amazon by default. The find is folded into the standing report's blocking topic, not counted as a hunt road.
+
 ## 2026-11-17
 
 - No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window: apiguru-mcp stands at version 1.1.65 (checked on PyPI in this run, unchanged since Nov 16, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026), and Hacker News searches for the last 24 hours ("Amazon agent", "agent shopping Amazon") returned nothing usable.

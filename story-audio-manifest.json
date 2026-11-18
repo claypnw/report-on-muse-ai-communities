@@ -86,9 +86,9 @@
     },
     "ways-people-get-muse-past-websites-that-block-its-browser": {
       "title": "Ways people get Muse past websites that block its browser",
-      "narration_hash": "1fc89749cd6e4c8499ce52cb879f72a3244878a25236951877f0286551bb2282",
+      "narration_hash": "5f5ba001e03d7911c157b9713ec5a28f1a6f1103d8b501514b1da671cb32beda",
       "filename": "story-audio/ways-people-get-muse-past-websites-that-block-its-browser.mp3",
-      "size_bytes": 1930213
+      "size_bytes": 3145573
     },
     "controlling-a-personal-computer-through-an-ssh-tunnel-with-a-coding-agent-doing": {
       "title": "Controlling a personal computer through an SSH tunnel, with a coding agent doing the clicking",
@@ -128,9 +128,9 @@
     },
     "muse-voice-mode-appearing-in-the-app-rolling-out-unevenly": {
       "title": "Muse voice mode appearing in the app — rolling out unevenly",
-      "narration_hash": "3e311b1131d7d8a3459cd7c9db4e731cd4f050820180d866fbc33ea3647a0954",
+      "narration_hash": "6d173158dc92c5ad81975c5307272e91a84d2aa59c345ae55e394a27886fc5e7",
       "filename": "story-audio/muse-voice-mode-appearing-in-the-app-rolling-out-unevenly.mp3",
-      "size_bytes": 3571045
+      "size_bytes": 3852517
     },
     "running-kids-school-coordination-in-muse-a-shared-sheet-setup-with-an-invented-e": {
       "title": "Running kids' school coordination in Muse — a shared Sheet setup, with an invented-event warning",
@@ -236,9 +236,9 @@
     },
     "muse-going-out-to-more-countries-japan-then-singapore": {
       "title": "Muse going out to more countries — Japan, then Singapore",
-      "narration_hash": "136d7173afb7beaf696219c5c7b691fc2c5ce8714bc944caca2b8371b518bd3e",
+      "narration_hash": "412453676e8ff737980b452126d01478a2737466c2a32e4d983e4b1a7bf18c8a",
       "filename": "story-audio/muse-going-out-to-more-countries-japan-then-singapore.mp3",
-      "size_bytes": 1088101
+      "size_bytes": 1469221
     },
     "building-rules-for-the-free-muse-spark-small-first-asks-test-before-showing-send": {
       "title": "Building rules for the free Muse Spark — small first asks, test before showing, send the error back",
@@ -320,9 +320,9 @@
     },
     "a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits": {
       "title": "A week with Muse as a real personal assistant — what worked, and its limits",
-      "narration_hash": "c2ea51744832701d79ef9d6d261508b11570bc5d448d5ef0da5d72380a95589d",
+      "narration_hash": "71ccf1aca24bdd58711617cc69a7e4a883621af48a0868ddcfee2022e15b7cc2",
       "filename": "story-audio/a-week-with-muse-as-a-real-personal-assistant-what-worked-and-its-limits.mp3",
-      "size_bytes": 3057253
+      "size_bytes": 3238501
     },
     "muse-as-project-manager-over-coding-agents-on-a-home-mac": {
       "title": "Muse as project manager over coding agents on a home Mac",
@@ -608,9 +608,9 @@
     },
     "muse-sounds-confident-instead-of-stating-its-limits": {
       "title": "Muse sounds confident instead of stating its limits",
-      "narration_hash": "56b00b7363752b79b3a5716fc90f0494805272cf7abb1eeb04612bcd6f56f00b",
+      "narration_hash": "19c257853471fcbd43c9782edd19265fb1b77fe29a1b3371243a4038f3b21994",
       "filename": "story-audio/muse-sounds-confident-instead-of-stating-its-limits.mp3",
-      "size_bytes": 657061
+      "size_bytes": 885157
     },
     "background-connection-keeps-dropping": {
       "title": "Background connection keeps dropping",
@@ -917,6 +917,18 @@
       "narration_hash": "006ca6f1fcee9b258f5982c8daf43d44bf940bc0f250ef0e1decb763b3a5a13d",
       "filename": "story-audio/muse-fixing-a-user-s-website-issues-hand-muse-the-problem-and-it-codes.mp3",
       "size_bytes": 290725
+    },
+    "a-muse-that-sued-meta-on-its-owner-s-behalf-the-baby-mia-lawsuit": {
+      "title": "A Muse that sued Meta on its owner's behalf — the \"Baby Mia\" lawsuit",
+      "narration_hash": "2b6eabe1a1a0f33a0e59b4579bc7fa7d9f9ad39b0f0ce15d0a2293d279345b86",
+      "filename": "story-audio/a-muse-that-sued-meta-on-its-owner-s-behalf-the-baby-mia-lawsuit.mp3",
+      "size_bytes": 701413
+    },
+    "muse-web-shows-an-unknown-device-login-in-the-us-that-the-user-did-not-make": {
+      "title": "Muse web shows an \"Unknown device\" login in the US that the user did not make",
+      "narration_hash": "f6ba65f354e4a4104daddcc0dc031a7a7f46d2a4688a8c20778728bb60454d98",
+      "filename": "story-audio/muse-web-shows-an-unknown-device-login-in-the-us-that-the-user-did-not-make.mp3",
+      "size_bytes": 422437
     }
   },
   "version": 1
