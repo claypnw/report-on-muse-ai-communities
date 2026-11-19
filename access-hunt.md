@@ -7,6 +7,11 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-18 (night run)
+
+- apiguru-mcp — PyPI — https://pypi.org/project/apiguru-mcp/ — three new versions dated November 18, 2026: 1.1.66, 1.1.67, and 1.1.68 (the newest, 1.1.68, checked on PyPI in this run; this morning's check the same day found 1.1.65 as the newest, so all three came after it). The road: new versions of the standing MCP server returning live Amazon marketplace data for AI agents — product details, reviews, keyword search, best-sellers, deals, live offers and stock, and seller profiles across 23 marketplaces. Data only — no cart and no checkout. Vendor-claimed (the package's own record on PyPI, read in this run), not tested in this hunt.
+- amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026). No other new road found tonight: a Hacker News by-date search for "Amazon agent" in the window returned no new customer road, and the seed web searches returned no other new connector, tool, service, or published method dated in the window.
+
 ## 2026-11-18
 
 - No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window: apiguru-mcp stands at version 1.1.65 (checked on PyPI in this run, unchanged since Nov 16, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026), a Hacker News search by date for "Meta Muse" and "Amazon agent" in the window returned 0 hits, and the seed web searches returned no new connector, tool, service, or published method dated in the window.
