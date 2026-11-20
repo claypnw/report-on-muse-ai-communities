@@ -7,6 +7,10 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-20
+
+- No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window (after Nov 19, 2026, 22:55 Arizona time): apiguru-mcp stands at version 1.1.69 (checked on PyPI in this run, unchanged since Nov 19, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026), and the seed web searches returned no new connector, tool, service, or published method dated in the window — the Amazon MCP results in the window were restatements of standing seller-side roads (Amazon's Selling Partner plugin, the Amazon Ads MCP server, and datavessel's Seller Central MCP, all already recorded).
+
 ## 2026-11-19 (night run)
 
 - apiguru-mcp — PyPI — https://pypi.org/project/apiguru-mcp/ — version 1.1.69, uploaded November 19, 2026 (11:47 UTC — 04:47 Arizona time, in tonight's window). The road: a new version of the standing MCP server returning live Amazon marketplace data for AI agents — product details, reviews, keyword search, best-sellers, deals, live offers and stock, and seller profiles across 23 marketplaces. Data only — no cart and no checkout. Vendor-claimed (the package's own record on PyPI, read in this run), not tested in this hunt.

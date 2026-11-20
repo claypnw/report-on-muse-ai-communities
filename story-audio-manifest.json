@@ -458,9 +458,9 @@
     },
     "cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t": {
       "title": "Cannot subscribe to Muse Power or Maximum in the iOS app — purchase fails before the Apple payment sheet appears",
-      "narration_hash": "cdf4b182eb0146949333cbc576b8b0b6b90d3fac5d9a4fa26894a1c337682078",
+      "narration_hash": "d6697ac5975622a9ada71dff15175a4ad828339896a078f98247f8b13099c8ab",
       "filename": "story-audio/cannot-subscribe-to-muse-power-or-maximum-in-the-ios-app-purchase-fails-before-t.mp3",
-      "size_bytes": 1956517
+      "size_bytes": 2412901
     },
     "voice-mode-hangs-up-after-a-short-silence": {
       "title": "Voice mode hangs up after a short silence",
@@ -638,9 +638,9 @@
     },
     "muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days": {
       "title": "Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 13 days",
-      "narration_hash": "1488e728f284dfd16fa59da6f12e6038dd55c3533c84e7041d5b7e716c2dc7b0",
+      "narration_hash": "9926bad85964f96f4b3f3082e47281688d616b529a4126486bd264e23cc4dc0f",
       "filename": "story-audio/muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days.mp3",
-      "size_bytes": 5578597
+      "size_bytes": 5740261
     },
     "bug-bounties-paid-for-muse-flaws-1-2-million-so-far-says-a-november-2-report": {
       "title": "Bug bounties paid for Muse flaws — $1.2 million so far, says a November 2 report",
@@ -935,6 +935,18 @@
       "narration_hash": "ca8a5e1bd1fd2171a4d62bd0dd3a5640a8e24afe7e343ca78fe019d22485d15c",
       "filename": "story-audio/muse-sent-messages-that-seemed-meant-for-other-people-and-reached-into-encrypted.mp3",
       "size_bytes": 1168165
+    },
+    "two-muses-one-shared-database-a-couple-syncing-their-dashboards-and-projects": {
+      "title": "Two Muses, one shared database — a couple syncing their dashboards and projects",
+      "narration_hash": "1ad46c2aca442af166dc5376a42f6f9a500946aa580365966c307e9a76c607fb",
+      "filename": "story-audio/two-muses-one-shared-database-a-couple-syncing-their-dashboards-and-projects.mp3",
+      "size_bytes": 417637
+    },
+    "nodbot-dev-a-camera-free-e-ink-body-for-muse-open-for-pre-orders-at-129": {
+      "title": "NODBOT DEV — a camera-free e-ink body for Muse, open for pre-orders at $129",
+      "narration_hash": "0c2ac8540cb89fa2078851d550eb39d62fd4d1527af9b84991de25520fa9ccb9",
+      "filename": "story-audio/nodbot-dev-a-camera-free-e-ink-body-for-muse-open-for-pre-orders-at-129.mp3",
+      "size_bytes": 482917
     }
   },
   "version": 1
