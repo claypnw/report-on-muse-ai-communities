@@ -7,6 +7,11 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-21
+
+- No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window (after Nov 20, 2026, 23:00 Arizona time): apiguru-mcp stands at version 1.1.69 (checked on PyPI in this run, unchanged since Nov 19, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026), and the corpus searches returned no new connector, tool, service, or published method dated in the window.
+- Noted, dated before tonight's window — not a retail road: The Register — "Amazon's split personality: AWS embraces bot commerce while main site enforces bans", Thomas Claburn, November 20, 2026, 16:41 Arizona time — https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/ — AWS Marketplace lets AI agents buy cloud software through the x402 payment protocol while amazon.com retail still bans agents. Cloud software only; no way to shop Amazon retail as a customer. Announced capability as reported, not tested in this hunt.
+
 ## 2026-11-20 (night run)
 
 - No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window (after Nov 20, 2026, 00:10 Arizona time): apiguru-mcp stands at version 1.1.69 (checked on PyPI in this run, unchanged since Nov 19, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026); the Hacker News by-date search for "Amazon Muse" returned 0 results, the Reddit Amazon search's newest hits stand on Nov 18-19, 2026 (already recorded), and the seed web searches returned no new connector, tool, service, or published method dated in the window. The window's own evidence runs the other way: the Wirecutter's Nov 20, 2026 review names the block as its biggest gripe — Muse "isn't compatible with Amazon (a move that Amazon made intentionally due to security concerns)."
