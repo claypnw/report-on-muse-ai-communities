@@ -7,6 +7,10 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-20 (night run)
+
+- No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window (after Nov 20, 2026, 00:10 Arizona time): apiguru-mcp stands at version 1.1.69 (checked on PyPI in this run, unchanged since Nov 19, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026); the Hacker News by-date search for "Amazon Muse" returned 0 results, the Reddit Amazon search's newest hits stand on Nov 18-19, 2026 (already recorded), and the seed web searches returned no new connector, tool, service, or published method dated in the window. The window's own evidence runs the other way: the Wirecutter's Nov 20, 2026 review names the block as its biggest gripe — Muse "isn't compatible with Amazon (a move that Amazon made intentionally due to security concerns)."
+
 ## 2026-11-20
 
 - No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window (after Nov 19, 2026, 22:55 Arizona time): apiguru-mcp stands at version 1.1.69 (checked on PyPI in this run, unchanged since Nov 19, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026), and the seed web searches returned no new connector, tool, service, or published method dated in the window — the Amazon MCP results in the window were restatements of standing seller-side roads (Amazon's Selling Partner plugin, the Amazon Ads MCP server, and datavessel's Seller Central MCP, all already recorded).
