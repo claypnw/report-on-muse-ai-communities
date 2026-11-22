@@ -7,6 +7,10 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-22
+
+- No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window (after Nov 21, 2026, 23:00 Arizona time): apiguru-mcp stands at version 1.1.69 (checked on PyPI in this run, unchanged since Nov 19, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run, unchanged since Nov 11, 2026); the browser pass's past-hour search for a Muse Amazon agent access connector matched no documents, and its past-24-hour results only confirm the block still stands (Fortune, Nov 21, 2026 — Amazon will not let Muse shop on its platform; Chosun and Storyboard18 restatements, both before tonight's window).
+
 ## 2026-11-21 (night run)
 
 - Official Walmart connector for Muse — announced as coming soon — r/MuseAgent, "Official Walmart connector coming soon — additional 30+ other new connectors added", November 21, 2026, 12:17 Arizona time — https://www.reddit.com/r/MuseAgent/comments/1y251th/official_walmart_connector_coming_soon_additional/ — The road: an official connector that lets Muse search Walmart's US catalog, ask Sparky, build a cart, and place orders the user approves. Official and announced, not yet live for the poster — a proven road named, not yet a working one. No new Amazon road was found tonight: the same thread's commenters say Amazon blocked Muse and "lost the plot"; apiguru-mcp stands at version 1.1.69 (PyPI, unchanged since Nov 19, 2026) and amazon-orders-mcp stands at version 3.0.0 (PyPI, unchanged since Nov 11, 2026), and no other new connector, tool, service, or published method for reaching Amazon or another blocking retailer was dated in the window (after Nov 21, 2026, 01:10 Arizona time).
