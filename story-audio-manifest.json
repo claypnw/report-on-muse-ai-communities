@@ -638,9 +638,9 @@
     },
     "muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days": {
       "title": "Muse voice option missing for Ray-Ban Meta Gen 3 glasses — no activity in 13 days",
-      "narration_hash": "4ed1c93bfaffe3b3e94674e7a99d3349b032c00d690bdb39f5ad0fb655ce6d20",
+      "narration_hash": "aca2c5185a32db7bf98804eeb7e04a8c6ad2e90b0b1fce9d60a64675321b010e",
       "filename": "story-audio/muse-voice-option-missing-for-ray-ban-meta-gen-3-glasses-no-activity-in-13-days.mp3",
-      "size_bytes": 5426917
+      "size_bytes": 5601445
     },
     "bug-bounties-paid-for-muse-flaws-1-2-million-so-far-says-a-november-2-report": {
       "title": "Bug bounties paid for Muse flaws — $1.2 million so far, says a November 2 report",
@@ -1067,6 +1067,12 @@
       "narration_hash": "e8d3a7b8387695d0c33fda16476fb952ddb72684e45ea6a579951bbcd9053b31",
       "filename": "story-audio/no-way-to-unlink-only-instagram-from-muse-connectors-join-through-accounts-cente.mp3",
       "size_bytes": 343717
+    },
+    "automating-video-editing-with-muse-s-vm-and-kinocut-a-60-second-short-assembled": {
+      "title": "Automating video editing with Muse's VM and Kinocut — a 60-second short assembled start to finish",
+      "narration_hash": "a5aaaccd6594dae30ff69f6c17ea3262bdd2099414f3a5c617151c647f34e9bd",
+      "filename": "story-audio/automating-video-editing-with-muse-s-vm-and-kinocut-a-60-second-short-assembled.mp3",
+      "size_bytes": 552037
     }
   },
   "version": 1
