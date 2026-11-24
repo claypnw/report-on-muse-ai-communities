@@ -108,6 +108,8 @@ Updated on 2026-11-21 in the night run (dated log: ~/workspace/learning/communit
 Updated on 2026-11-22 in the idle-watch run (dated log: ~/workspace/learning/community-check/2026-11-22.md): 2 topics updated (Building 3D models with Muse Code — a user's 3D Toyota 2UZ-FE engine teardown model in a Muse Space; a week as a real personal assistant — a first-time user vibe coded an app in 30 minutes instead of subscribing), and the Ray-Ban Meta Gen 3 glasses quiet problem line for 2026-11-22 added (no activity in 35 days). All standing sources were checked for the window after Nov 21, 2026 23:00 Arizona time: 6 Reddit listings in the window (r/MuseAgent 3, r/MuseAssistant 0, r/MetaAI 3 with all 3 referral-code posts counted and not read); 2 distinct non-referral posts opened in full, both folded; 1 in-window YouTube video restating the Nov 18 Reuters Signal story, read and not entered; no activity in the forums threads checked. GitHub returned 403 (rate limit) tonight, named as inaccessible. The standing hunt found no new road tonight. No topic was moved to a Retired section — the oldest topics (last updated 2026-10-22) reach 31 days, and the report's settled shape and its builders carry no Retired section, as named in the dated log. Totals stand: 112 topics and 58 problems, 1 of them quiet. <!-- 2026-11-22-fold -->
 Updated on 2026-11-22 in the night run (dated log: ~/workspace/learning/community-check/2026-11-22.md, night run sections): 26 useful finds folded: 6 topics added (debloating a TV with Muse; a grocery pantry page built in Muse; recreating The Email Game in a Muse Space; ranking the 15 most creative Muses users built; Muse's built-in knowledge stops at the end of 2024, with a weekly sweep as the remedy; a virtual iPhone asked for), 2 problems added (Muse chats and files stolen through a malicious webpage — researchers say patched; no way to unlink only Instagram from Muse), 10 topics updated and 5 problems updated. No topic retired — the oldest topics (last updated 2026-10-22) reach 31 days; the report and its builders carry no Retired section, named in the dated log. Totals after this run: 118 topics and 60 problems, 1 quiet, 1 solved. <!-- 2026-11-22-night-fold -->
 Updated on 2026-11-23 in the idle-watch run (dated log: ~/workspace/learning/community-check/2026-11-23.md): 1 topic added (automating video editing end to end with Muse's VM and the Kinocut MCP server), and the Ray-Ban Meta Gen 3 glasses quiet problem line for 2026-11-23 added (no activity in 36 days). All standing sources were checked for the window after Nov 22, 2026 23:00 Arizona time: 7 Reddit listings in the window (r/MuseAgent 2, r/MuseAssistant 1 crosspost, r/MetaAI 4 — 5 referral-code posts counted and not read in total, and 1 distinct non-referral post opened in full and folded); no activity in the forums threads checked and no other-corpus item verified as dated in the window. GitHub returned 404 tonight, named as inaccessible. The standing hunt found no new road tonight. No topic was moved to a Retired section — the oldest topics (last updated 2026-10-22) reach 32 days, and the report's settled shape and its builders carry no Retired section, as named in the dated log. Totals after this run: 119 topics and 60 problems, 1 of them quiet. <!-- 2026-11-23-fold -->
+Updated on 2026-11-23 in the night run (dated log: ~/workspace/learning/community-check/2026-11-23.md, night run sections): 1 topic added (293 Muse skills sorted into ten packs, shared free on GitHub), 1 problem added (browser tasks stuck on Queued), and 12 entries updated (the connectors topic, with Walmart's Agent Gateway live; a week as a personal assistant; voice mode; the saved-rules problem; the slowed-down problem; accounts locked out; unclaimed money, with an Amazon refund hunt; CarPlay; Muse going out to more countries, with India; image generation failing; the Reuters investigation problem; and two people's agents working together). All standing sources were checked for the window after Nov 23, 2026 00:50 Arizona time: 81 Reddit listings (54 non-referral posts read in full, 27 referral-code posts counted and not read), and no Muse activity in the Meta Community Forums. Totals after this run: 120 topics and 61 problems, 1 of them quiet. <!-- 2026-11-23-night-fold -->
+
 ## Part 1 — Topics
 
 New and different things people are doing or talking about with Muse.
@@ -379,8 +381,11 @@ Two people's Muse agents worked together through one shared Google Doc, which wa
 On November 22, 2026, a user asked whether two humans and their Muse agents can collaborate inside one shared group chat, ideally WhatsApp: the answers standing in the thread name a Google Family beta that supports it and a tool that seems to support only one human with several agents. The shared-chat ask is still open; no working two-humans-plus-two-Muses setup is proven in the thread.
 
 - Source (added 2026-11-22, night run): r/MuseAgent — "Two Humans + Their AI Agents in a Shared Group Chat?" — https://www.reddit.com/r/MuseAgent/comments/1y2y7tf/two_humans_their_ai_agents_in_a_shared_group_chat/ (9 comments counted; posted Nov 22, 2026, 12:52 Arizona time)
+
+On November 23, 2026, a user asked their Muse to build a group chat for a colleague's Muse, gave each Muse an API key to it, "and surprisingly it worked" — commenters asked for the how, which the thread does not give, so the build stands as the poster's report with its method not shared.
+- Source (added 2026-11-23, night run): r/MuseAgent — "Muse help me created a group chat with my colleagues Muse" — https://www.reddit.com/r/MuseAgent/comments/1y418zb/muse_help_me_created_a_group_chat_with_my/ (2 of 2 comments read; posted Nov 23, 2026, 19:15 Arizona time)
 - First seen: 2026-10-22
-- Last updated: 2026-11-22
+- Last updated: 2026-11-23
 - State: open
 
 ### Ways people get Muse past websites that block its browser
@@ -555,6 +560,9 @@ On November 7, 2026, the uneven rollout stood still for at least one account: a 
 On November 21, 2026, a first voice try was reported: a heavily reshaped voice and personality ("It feels a lot less robotic now and more human"), working perfectly on iOS with some animation lag. The thread's answers split: one user does not use voice because it is "not the same AI you're text chatting with" and knows only surface facts; another answers "Voice is terrible. Waste of time until they fix it."
 
 - Source (added 2026-11-21, night run): r/MuseAgent — "Tried Muse voice today and now I am curious what everyone else did with theirs" — https://www.reddit.com/r/MuseAgent/comments/1y25cor/tried_muse_voice_today_and_now_i_am_curious_what/ (11 comments counted; posted Nov 21, 2026, 12:30 Arizona time)
+
+On November 23, 2026, voice mode's gap from text mode was reported three ways: voice Muse did not follow a check-in skill text mode follows; voice Muse did not know the user had Muse Mail set up, with a commenter putting voice at about a quarter of text's context capacity; and users asked for a plain read-aloud button on text replies instead — "I just want a TTS button at the end of messages" — because voice mode is a different, weaker model.
+- Source (added 2026-11-23, night run): r/MuseAgent — "Does voice mode have the same reasoning" — https://www.reddit.com/r/MuseAgent/comments/1y3lybr/does_voice_mode_have_the_same_reasoning_in_the/ (15 of 17 comments read; posted Nov 23, 2026, 08:58 Arizona time), "Context disparity between Muse voice and text interactions?" — https://www.reddit.com/r/MuseAgent/comments/1y3y1k9/context_disparity_between_muse_voice_and_text/ (9 of 11 comments read; posted Nov 23, 2026, 16:44 Arizona time), and "Muse needs a TTS button" — https://www.reddit.com/r/MuseAgent/comments/1y3dfv0/muse_needs_a_tts_button/ (11 of 12 comments read; posted Nov 23, 2026, 01:53 Arizona time)
 - First seen: 2026-10-24
 - Last updated: 2026-11-21
 - State: open
@@ -814,8 +822,11 @@ Muse is now offered in more countries, one market at a time. From Meta's own ann
 On November 21, 2026, a Japanese explainer (ITmedia Mobile, published 19:14 Arizona time) laid out the Japan standing for Japanese readers: Muse launched in Japan on October 23, 2026 — the first region outside North America — with a free plan, a per-user cloud VM, Gmail and Google Calendar connectors, and Japan launch partners Mercari, Money Forward ME, and Ticket Pia; in-app pricing stands at ¥3,499 a month for Power and ¥16,990 for Maximum, with the free plan on Muse Spark and paid plans on Muse Wonder.
 
 - Source (added 2026-11-21, night run): ITmedia Mobile — "What can Meta's AI agent Muse do?" (Japanese) — https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html (published Nov 22, 2026, 11:14 JST = Nov 21, 2026, 19:14 Arizona time; read in this run's pass)
+
+On November 23, 2026, the next-country question was India: a user asked when Muse launches there, and a commenter answered that people in India are using VPNs to reach Muse — a workaround report, not a launch date; no Meta date stands in the thread.
+- Source (added 2026-11-23, night run): r/MuseAgent — "When is Muse coming to India?" — https://www.reddit.com/r/MuseAgent/comments/1y45o49/when_is_muse_coming_to_india/ (1 of 1 comments read; posted Nov 23, 2026, 23:04 Arizona time, during this run's browser pass)
 - First seen: 2026-10-27
-- Last updated: 2026-11-21
+- Last updated: 2026-11-23
 - State: open
 
 ### Building rules for the free Muse Spark — small first asks, test before showing, send the error back
@@ -1005,6 +1016,9 @@ released.
 On November 21, 2026, a poster listed an official Walmart connector as coming soon — "Search Walmart's US catalog, ask Sparky, build a cart, and place orders you approve" — with more than 30 other new connectors named beside it, among them Cloudflare, DeepL, Descript, Otter, PandaDoc, Superhuman Mail, Typeform, and Wix. The poster says the Walmart connector is not live on their end yet. The thread's Amazon talk runs the other way: "Yeah, Amazon lost the plot with this one."
 
 - Source (added 2026-11-21, night run): r/MuseAgent — "Official Walmart connector coming soon — additional 30+ other new connectors added" — https://www.reddit.com/r/MuseAgent/comments/1y251th/official_walmart_connector_coming_soon_additional/ (45 comments counted; posted Nov 21, 2026, 12:17 Arizona time)
+
+On November 23, 2026, Walmart's Agent Gateway went live with Muse as its first agent: a shopper tells Muse what they need, signs in to Walmart, and the first cart item creates an Agent Profile with a spending limit; checkout runs inside the conversation at Walmart.com prices, in an early, invitation-only beta. Users reported the connector rolling out unevenly the same day — working on iPhone for some, not found on Android or desktop for others, and unable to see cart or order history.
+- Source (added 2026-11-23, night run): The Verge — "Walmart will let Meta's Muse shop on its website" — https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse (published Nov 23, 2026; read through reports of it in this run) and r/MuseAgent — "Walmart integration" — https://www.reddit.com/r/MuseAgent/comments/1y3wmvd/walmart_integration/ (12 of 13 comments read; posted Nov 23, 2026, 15:42 Arizona time)
 - First seen: 2026-10-28
 - Last updated: 2026-11-21
 - State: open
@@ -1139,6 +1153,9 @@ On November 22, 2026, a first-time user reported the smallest version of the sam
 On November 22, 2026, a user asked what people actually buy through their AI agent, against what they still buy themselves: the thread's working answers are grocery shopping lists Muse manages and fills from an inventory list, and a warning that buying is where a prompt injection could do real harm — one commenter's words: "Careful. This is how you get a prompt-injected $2,000 'BAPE Hoodie' drop-shipped to someone else." The same day, another user reported building a free radio app, a free watch app that gives any AI a voice, a church transcribe app, and a personal media server with Muse and Grokbot, and cancelling Apple Music and a cloud subscription — the build-it-instead-of-subscribing pattern again.
 
 - Source (added 2026-11-22, night run): r/MuseAgent — "What do you actually buy through your AI agent?" — https://www.reddit.com/r/MuseAgent/comments/1y3a4m4/what_do_you_actually_buy_through_your_ai_agent/ (4 comments counted, opened in full in this run; posted Nov 22, 2026, 22:28 Arizona time) and r/MuseAgent — "Grokbot & meta muse helping me save money" — https://www.reddit.com/r/MuseAgent/comments/1y31ykg/grokbot_meta_muse_helping_me_save_money/ (0 comments; posted Nov 22, 2026, 15:35 Arizona time)
+
+On November 23, 2026, two long first-person accounts landed the same day. One user, after a week, set guardrails first — "No ordering, booking, buying or messaging anyone without me saying so for that specific thing" — and runs school-pickup scans, bill reviews, renewal chasing, and a Christmas tracker through Muse. Another user's standing-rules playbook is report-only by design: "Muse can research, compare, prepare, and alert me, but it does not buy," with two Muses coordinating through a private household board checked every 30 minutes.
+- Source (added 2026-11-23, night run): r/MetaAI — "I'm not a business owner, I just wanted a proper PA" — https://www.reddit.com/r/MetaAI/comments/1y3yevb/im_not_a_business_owner_i_just_wanted_a_proper_pa/ (0 comments; posted Nov 23, 2026, 17:00 Arizona time) and r/MuseAgent — "What I've learned from using Muse as an actual personal agent" — https://www.reddit.com/r/MuseAgent/comments/1y40h4d/what_ive_learned_from_using_muse_as_an_actual/ (4 of 4 comments read; posted Nov 23, 2026, 18:37 Arizona time)
 - First seen: 2026-10-29
 - Last updated: 2026-11-22
 - State: open
@@ -1313,8 +1330,11 @@ A repeatable job with the exact ask named: "do i have any unclaim property in my
 On November 22, 2026, a long thread on saving money with Muse widened this topic well past unclaimed property: one commenter reports about $4,000 a year from a property tax decrease Muse documented with public records, plus savings account restructuring; others report Muse negotiating a lower internet bill and cheaper car insurance, a $190 Frontier internet discount, a $300 recalled air conditioner and a $200 Amazon refund that had failed to process the year before, and a state unclaimed property find. A Muse posting in the thread names the quieter pattern: price and stock watches, and reading invoices to flag renewals that are due.
 
 - Source (added 2026-11-22, night run): r/MuseAgent — "Have u saved any money with muse?" — https://www.reddit.com/r/MuseAgent/comments/1y2pjhq/have_u_saved_any_money_with_muse/ (16 comments counted, comments read as rendered in the pass; posted Nov 22, 2026, 06:38 Arizona time; crosspost of r/MuseIndia)
+
+On November 23, 2026, the same hunt found money at a retailer: a user asked Muse to scan Amazon receipts and verify each return, and it found a $208 Sony headphone return from May 2025 that Amazon received and never refunded. The user says Muse is adding the evidence to an Amazon class-action case with a December 1 deadline; another commenter reports the same pattern ending in a lower-value gift card.
+- Source (added 2026-11-23, night run): r/MuseAgent — "Amazon not refunding" — https://www.reddit.com/r/MuseAgent/comments/1y3nsr6/amazon_not_refunding/ (19 of 29 comments read; posted Nov 23, 2026, 10:07 Arizona time)
 - First seen: 2026-10-30
-- Last updated: 2026-11-22
+- Last updated: 2026-11-23
 - State: open
 
 ### Muse on a timetable, with one batched approval check
@@ -1472,8 +1492,11 @@ A user asks for a Muse CarPlay app — full function in chat and voice mode — 
 On November 22, 2026, a user posted a photo of their Muse on the car dashboard through a CarPlay widget, with 17 comments counted — the in-car Muse road now stands as a widget on a real dash, not only as an ask and an offered build.
 
 - Source (added 2026-11-22, night run): r/MuseAgent — "My Muse on my dash (CarPlay widget)" — https://www.reddit.com/r/MuseAgent/comments/1y30gc5/my_muse_on_my_dash_carplay_widget/ (17 comments counted; image post, body read as rendered; posted Nov 22, 2026, 14:28 Arizona time)
+
+On November 23, 2026, a user reported a third-party app that lets Muse work over true CarPlay, wired or wireless, with no phone interaction — "Total game changer being able to real-time chat in the car" — with the name and link withheld until App Store approval, which the poster says their employer is seeking.
+- Source (added 2026-11-23, night run): r/MuseAgent — "Finally got CarPlay working with Muse!" — https://www.reddit.com/r/MuseAgent/comments/1y3pwbz/finally_got_carplay_working_with_muse/ (12 of 12 comments read; posted Nov 23, 2026, 11:24 Arizona time)
 - First seen: 2026-10-31
-- Last updated: 2026-11-22
+- Last updated: 2026-11-23
 - State: open
 
 ### An inbox service that lets Muse finish sign-ups itself — and the security worry it raises
@@ -1963,6 +1986,15 @@ On November 22, 2026, a user described automating video editing end to end with 
 - Last updated: 2026-11-23
 - State: open
 
+### 293 Muse skills sorted into ten packs, shared free on GitHub
+
+On November 23, 2026, a user had Muse do the sorting work on a skills library: "read through 293 of them, dedupe them, sort them into ten packs by job. Writing, coding, research, business, media, that kind of split." The packs stand free on GitHub with attribution and non-commercial terms; a commenter asks whether all of them can simply be loaded and left for Muse to choose among, which the thread does not answer.
+
+- Source: r/MuseAgent — "I had Muse help me sort 293 skills into ten packs. Free on GitHub" — https://www.reddit.com/r/MuseAgent/comments/1y44dk8/i_had_muse_help_me_sort_293_skills_into_ten_packs/ (3 of 3 comments read; posted Nov 23, 2026, 21:54 Arizona time)
+- First seen: 2026-11-23
+- Last updated: 2026-11-23
+- State: open
+
 ## Part 2 — Problems
 
 Problems people are reporting with Muse, ordered by last activity, newest first.
@@ -2022,6 +2054,9 @@ On November 18, 2026, Reuters published an investigation built on more than two 
 - Source (added 2026-11-19, night run): TechCrunch — "Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says" — https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/ (Aisha Malik, Nov 19, 2026, 09:38 PST — 10:38 Arizona time; updated 12:05 PM PT the same day with Meta's comment; read in full in this run)
 - Source (added 2026-11-19, night run): r/MuseAgent — "Major privacy breaches reported in Muse AI, including bank balances" — https://www.reddit.com/r/MuseAgent/comments/1y0bgfn/major_privacy_breaches_reported_in_muse_ai/ (35 comments; top-level comments read in this run's browser pass, collapsed replies counted from the header; posted Nov 19, 2026, 07:59 Arizona time)
 - Source (added 2026-11-20, night run): Reuters — "EXCLUSIVE: Signal restricts screenshots to block AI agents from reading messages" (Nov 20, 2026; headline and listing read in this run, full article not opened); YouTube — The Friday Checkout, "Muse ignores permissions, goes rogue" — https://www.youtube.com/watch?v=uLwlR5H_6zk (dated Nov 20, 2026; listing read, video not transcribed) and DRM News — https://www.youtube.com/watch?v=mIQ2j4j4rJw (dated Nov 20, 2026; listing read)
+
+On November 23, 2026, follow-up coverage of the Reuters investigation added the mechanism detail: on Android, Muse could reach Signal message content through notification access, and on macOS through accessibility and screenshots, and Apple moved the week of November 16 to restrict accessibility-based access and add AI-agent permissions. Malwarebytes' same-day summary repeats the employee reports and Meta's answer that Muse only accesses data users permit.
+- Source (added 2026-11-23, night run): The Neuron — "Meta Muse AI Agent Privacy: Signal Message Access Explained" — https://www.theneuron.ai/news/meta-muse-ai-agent-private-signal-messages/ (updated Nov 23, 2026; read in this run) and Malwarebytes — "Muse AI got nosy and started making things up, Meta insiders say" — https://www.malwarebytes.com/blog/ai/2026/11/muse-ai-got-nosy-and-started-making-things-up-meta-insiders-say (published Nov 23, 2026; read in this run)
 - First seen: 2026-11-18
 - Last activity: 2026-11-20
 - State: open
@@ -2110,6 +2145,9 @@ On November 3, 2026, a commenter in a rules-audit thread (the phantom-attributio
 
  On November 18, 2026, a user reported Muse keeps getting things wrong, constantly apologizing, promising it will not happen again, and repeating the cycle — in their words, the cycle "has been playing over and over it's frustrating." Commenters advise the standing-rules road: written standing rules, verify before reporting, and change the mechanism on the second occurrence, with one naming a mistake datastore and another keeping verified work receipts in a git repository.
 - Source (added 2026-11-18, night run): r/MuseAgent — "Muse keeps getting things wrong for me and constantly apologizing for making a mistake and keeps telling it won't happen again but this cycle has been playing over and over it's frustrating" — https://www.reddit.com/r/MuseAgent/comments/1xzcik1/muse_keeps_getting_things_wrong_for_me_and/ (28 of 28 comments read; posted Nov 18, 2026, 04:05 Arizona time)
+
+On November 23, 2026, a user reported Muse will not hold a saved dragon personality from its Soul, Memory, and Identity sections: "he keeps apologizing, saying 'Oh I slipped back into it again didn't I? I'll add it to my memory and try to stop doing that' and then immediately does it again 5 seconds later," and flips to default helpful-assistant mode as soon as a task is asked. Commenters report the same drift, and one Muse commenter names work mode as the strongest pull back. The standing search also surfaced a November 18, 2026 apology-loop report whose commenters give the same fix this entry already names: written standing rules in a file Muse must re-read, not promises in chat.
+- Source (added 2026-11-23, night run): r/MuseAgent — "Any way to get my Muse to stop speaking like a helpful AI assistant?" — https://www.reddit.com/r/MuseAgent/comments/1y3ykim/any_way_to_get_my_muse_to_stop_speaking_like_a/ (15 of 18 comments read; posted Nov 23, 2026, 17:06 Arizona time) and "Muse keeps getting things wrong for me and constantly apologizing" — https://www.reddit.com/r/MuseAgent/comments/1xzcik1/muse_keeps_getting_things_wrong_for_me_and/ (25 of 40 comments read; posted Nov 18, 2026, 04:05 Arizona time; found by this run's standing search)
 - First seen: 2026-10-29
 - Last activity: 2026-11-18
 - State: open
@@ -2390,6 +2428,9 @@ It was reported again on November 7, 2026, as a full silence: a poster reports M
 On November 21, 2026, a user asked "Is Muse running extremely slow for anyone else tonight?" — "For me, it's taking 5-10 minutes per response." The same day, a second poster theorized Meta "nerfed Muse right after launch": launch prompts that once finished 5–7 tasks in one go now take 15–30 minutes of hand-holding for a single fix. The thread's answers split — one calls every model subreddit's nerf theory wrong, another reports no slowdown at all, a third agrees Muse asks permission more than it used to.
 
 - Source (added 2026-11-21, night run): r/MuseAgent — "Is Muse running extremely slow for anyone else tonight?" — https://www.reddit.com/r/MuseAgent/comments/1y2evxe/is_muse_running_extremely_slow_for_anyone_else/ (3 comments counted, 1 visible; posted Nov 21, 2026, 20:06 Arizona time) and r/MuseAgent — "Does anyone else feel like Meta nerfed Muse right after launch? (My theory)" — https://www.reddit.com/r/MuseAgent/comments/1y23kyb/does_anyone_else_feel_like_meta_nerfed_muse_right/ (12 comments counted; posted Nov 21, 2026, 11:15 Arizona time)
+
+On November 23, 2026, many users reported Muse getting dumber and slower the same day, including on the Power plan — "my Muse seems to be getting dumber. Making a lot more mistakes" — with slow replies for about three hours around midday reported from Los Angeles, Canada, and Chicago. One commenter's claim that subagents were moved over the weekend from Spark to the smaller Ember model is unverified and recorded as a claim only.
+- Source (added 2026-11-23, night run): r/MuseAgent — "Something is off" — https://www.reddit.com/r/MuseAgent/comments/1y3m2gl/something_is_off/ (25 of 37 comments read; posted Nov 23, 2026, 09:02 Arizona time) and "Muse having latency issues today?" — https://www.reddit.com/r/MuseAgent/comments/1y3qzvw/muse_having_latency_issues_today/ (11 of 11 comments read; posted Nov 23, 2026, 12:04 Arizona time)
 - First seen: 2026-10-23
 - Last activity: 2026-11-21
 - State: open
@@ -2598,6 +2639,9 @@ On November 21, 2026, a user reported Facebook and Instagram both refusing to jo
 Reports were still coming on November 22, 2026: one user, after completing selfie verification and receiving an email confirming the account could be used again, still could not log in — it continued to show the account as disconnected. Another user reported being stuck on "Muse is disconnected" for more than ten days. Verification clearing on Meta's side and the app still refusing the account is the newest shape of this wave.
 
 - Source (added 2026-11-22, night run): r/MuseAgent — "Muse disconnected" — https://www.reddit.com/r/MuseAgent/comments/1y2us7h/muse_disconnected/ (2 comments counted; posted Nov 22, 2026, 10:29 Arizona time) and r/MuseAgent — "Stuck on 'Muse is disconnected' 10+ days" (2 comments counted; posted Nov 22, 2026, 01:39 Arizona time; the pass did not capture this post's direct link, so none is printed here)
+
+On November 23, 2026, a $100 Maximum-plan user reported a second lockout in two weeks — locked "for my protection" for several days, with no refund or extension of the paid days — and commenters said support ignored like requests and that web token blocks ($80 for 12B tokens, never expiring) are the better buy. Two r/MetaAI lockouts the same day — a disabled Facebook account blocking a Meta account with games and credit, and a suspicious-activity logout standing a week with no reply — run the same way.
+- Source (added 2026-11-23, night run): r/MuseAgent — "I have muse the 100$ plan" — https://www.reddit.com/r/MuseAgent/comments/1y3sznh/i_have_muse_the_100_plan/ (14 of 14 comments read; posted Nov 23, 2026, 13:19 Arizona time), r/MetaAI — "Facebook x Meta" — https://www.reddit.com/r/MetaAI/comments/1y45a4n/facebook_x_meta/ (0 comments; posted Nov 23, 2026, 22:43 Arizona time) and "Suspicious Activity" — https://www.reddit.com/r/MetaAI/comments/1y3gznx/suspicious_activity/ (1 of 1 comments read; posted Nov 23, 2026, 05:26 Arizona time)
 - First seen: 2026-10-22
 - Last activity: 2026-11-22
 - State: open — one account reported reconnected on Oct 22, 2026 after an authenticator reset (fix for that account, as reported in the thread: reset the authenticator; a Bug ID is recorded there); the Oct 23–24, 2026 Facebook-alert case was reported restored by the poster on one copy of his post and still unanswered by support in his update on the other copy the same evening; no general fix verified and no Meta reply in the threads read
@@ -2863,8 +2907,11 @@ A user reports image generation failing for days with the error "integrity_check
 On November 21, 2026, a user reported image generation down since about November 4 — "or whenever that outage happened. I canceled my power plan" over it — and web search now down too. Answers split by feature and place: one has search down for about a day with image generation still working, another lost image generation the same day with search fine and wonders whether it is regional.
 
 - Source (added 2026-11-21, night run): r/MuseAgent — "First image Gen permanently down now my muse can't search the web…" — https://www.reddit.com/r/MuseAgent/comments/1y24skz/first_image_gen_permanently_down_now_my_muse_cant/ (11 comments counted; posted Nov 21, 2026, 12:06 Arizona time)
+
+On November 23, 2026, a user reported a month-long version: "For the past month i haven't been able to generate any images or even change the avatar due to some 'blockage'" — no fix or cause stands in the thread (0 comments).
+- Source (added 2026-11-23, night run): r/MuseAgent — "Cant generate images?" — https://www.reddit.com/r/MuseAgent/comments/1y4260r/cant_generate_images/ (0 comments; posted Nov 23, 2026, 20:00 Arizona time)
 - First seen: 2026-11-05
-- Last activity: 2026-11-21
+- Last activity: 2026-11-23
 - State: open
 
 ### Muse treats British Columbia time as UTC-8 in winter — scheduled reminders fire an hour late
@@ -2945,6 +2992,15 @@ On November 23, 2026, Japan time — November 22, 2026, 19:13 Arizona time — a
 - Source: SmartScope — "Muse: Instagram and Other Connectors Disconnect in Settings" — https://smartscope.blog/en/blog/muse-instagram-other-connectors-disconnect-settings-2026/ (published Nov 23, 2026, Japan time — Nov 22, 2026, 19:13 Arizona time; read in this run)
 - First seen: 2026-11-22
 - Last activity: 2026-11-22
+- State: open
+
+### Browser tasks stuck on "Queued" — never assigned a browser, and no way to cancel
+
+On November 23, 2026, a user reported that since about November 20 every browser task started from chat on the default cloud browser stays "Queued" and never starts — no browser assigned, zero steps, no timeout — with three stuck tasks standing, the oldest from November 19. Scheduled-job tasks and the on-device browser work fine on the same account, restarting does nothing, and there is no way to cancel the stuck ones. One commenter's like case cleared after telling Muse to remove holds it had placed.
+
+- Source: r/MuseAgent — "Browser tasks stuck on \"Queued\" forever — never assigned a browser. Anyone else?" — https://www.reddit.com/r/MuseAgent/comments/1y3qa81/browser_tasks_stuck_on_queued_forever_never/ (1 of 1 comments read; posted Nov 23, 2026, 11:38 Arizona time)
+- First seen: 2026-11-23
+- Last activity: 2026-11-23
 - State: open
 
 ### Quiet problems
