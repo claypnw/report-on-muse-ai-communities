@@ -7,6 +7,10 @@ title, link, date, and one plain line on what the road is and whether it is
 proven or only claimed. The hunt's finds are not folded into the report's
 topics.
 
+## 2026-11-24
+
+- No new road found tonight. The night's hunt checks found no new way for an AI agent to shop Amazon or another blocking retailer as a customer dated in the window (after Nov 23, 2026, 23:00 Arizona time): apiguru-mcp stands at version 1.1.69 (checked on PyPI in this run; unchanged since Nov 19, 2026) and amazon-orders-mcp stands at version 3.0.0 (checked on PyPI in this run; unchanged since Nov 11, 2026), and the corpus searches returned no new connector, tool, service, or published method dated in the window.
+
 ## 2026-11-23 (night run)
 
 - Walmart Agent Gateway live with Muse — The Verge, November 23, 2026 — https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse — The road: Walmart's MCP Agent Gateway is now live with Muse as its first agent; a shopper signs in, the first cart item creates an Agent Profile with a spending limit, and checkout runs inside the conversation. Proven as launched (reported by The Verge and Walmart's own page, with users connecting the same day), in an early invitation-only beta. Walmart is a retailer whose site previously blocked Muse's browser with human checks, so this is a new approved road into it. No new Amazon road found tonight: apiguru-mcp stands at version 1.1.69 (PyPI read in this run, unchanged since Nov 19, 2026) and amazon-orders-mcp stands at version 3.0.0 (unchanged since Nov 11, 2026), and no new Amazon connector, tool, service, or published method was dated in the window (after Nov 23, 2026, 00:50 Arizona time).
